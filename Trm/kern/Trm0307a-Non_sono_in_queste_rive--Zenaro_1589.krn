@@ -1,0 +1,283 @@
+!!!COM: Zenaro, Giulio
+!!!CDT: <1588->1590
+!!!OTL: Non sono in queste rive
+!!!PTL: Il primo libro de madrigali a tre voci
+!!!PPP: Venice
+!!!PPR: Vincenzi
+!!!PDT: 1589
+!!!RISM: Z0160
+!!!SCT: Trm0307a
+!!!SCA: Trm0307a
+!!!AGN: Madrigal
+!!!rime: 307
+!!!voices: 3
+!!incipit: 3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Canto	*
+*I'B	*	*I'T	*	*I'C	*
+*clefGv2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M4/2	*	*M4/2	*	*M4/2	*
+=1-	=1-	=1-	=1-	=1-	=1-
+1g	Non	1b	Non	1dd	Non
+2c	so-	2cc	so-	2ee	so-
+2d	-no in	2a	-no in	2ff#X	-no in
+=2	=2	=2	=2	=2	=2
+2e	que-	1.g	que-	2gg	que-
+2c	-ste	.	.	2ee	-ste
+1d	ri-	.	.	4.dd	ri-
+.	.	.	.	16ccLL	.
+.	.	.	.	16bJJ	.
+.	.	2f	-ste	4a	.
+.	.	.	.	4b	.
+=3	=3	=3	=3	=3	=3
+1A	.	4e	ri-	4cc#X	.
+.	.	4d	.	2dd	.
+.	.	4.e	.	.	.
+.	.	.	.	8ccniL	.
+.	.	16dLL	.	8bJ	.
+.	.	16eJJ	.	.	.
+1d	-ve	4f#X	.	4a	.
+.	.	2g	.	4b	.
+.	.	.	.	2a	.
+.	.	4f#X	.	.	.
+=4	=4	=4	=4	=4	=4
+2r	.	2g	-ve	2g	-ve
+4r	.	4r	.	4r	.
+4.g	Fio-	4.b	Fio-	4.gg	Fio-
+8g	-ri	8b	-ri	8gg	-ri
+4d	co-	4a	co-	4ff	co-
+4a	-s&igrave;	4cc	-s&igrave;	4ee	-s&igrave;
+4f	ver-	4a	ver-	[4dd	ver-
+=5	=5	=5	=5	=5	=5
+2e	-mi-	4.g	-mi-	4dd]	.
+.	.	.	.	4cc#X	-mi-
+.	.	16fLL	.	.	.
+.	.	16gJJ	.	.	.
+4d	-gli,	4a	.	2dd	-gli,
+4.g	Fio-	2b	.	.	.
+.	.	.	.	2r	.
+8g	-ri	.	.	.	.
+4f#X	co-	4a	.	.	.
+4g	-s&igrave;	2b	-gli,	4r	.
+4G	co-	.	.	[4dd	<Fio-
+=6	=6	=6	=6	=6	=6
+4B	-si	4r	.	8ddL]	.
+.	.	.	.	8ddJ	-ri
+4c	ver-	4.g	<Fio-	4cc	co-
+2d	-mi-	.	.	4b	-s&igrave;
+.	.	8g	-ri	.	.
+.	.	4f	co-	4a	ver-
+1A	-gli	4e	-s&igrave;	4cc#X	-mi-
+.	.	4f	ver-	2dd	.
+.	.	2e	-mi-	.	.
+.	.	.	.	4cc#X	.
+=7	=7	=7	=7	=7	=7
+2r	.	2d	-gli>	1dd	-gli>
+2B	Co-	2g	Co-	.	.
+4d	-me	4f#X	-me	2r	.
+4c#X	le	4a	le	.	.
+2e	la-	2g#X	la-	2b	Co-
+=8	=8	=8	=8	=8	=8
+4A	-bra,	4a	-bra	4cc	-me
+4e	le	2gni	de	4b	le
+2d	la-	.	.	2dd	la-
+.	.	4f	la	.	.
+4A	-bra	4.e	don-	4cc#X	-bra
+4.c	de	.	.	2ee	de
+.	.	8f	.	.	.
+.	.	4g	.	.	.
+8B	.	.	.	.	.
+[4A	.	4a	-na	[4cc#X	la
+=9	=9	=9	=9	=9	=9
+4A]	.	4e	mi-	4cc#]	.
+4d	la	2f#X	.	2dd	don-
+4B	don-	.	.	.	.
+4G	-na	2g	.	4b	-na
+2d	mi-	.	.	2a	mi-
+.	.	4f#X	.	.	.
+2G	-a,	2g	-a,	2b	-a,
+=10	=10	=10	=10	=10	=10
+2g	N&eacute; 'l	2r	.	2r	.
+1e	suon	2b	N&eacute; 'l-	2gg	N&eacute; 'l
+.	.	2cc	-suon	2ee	suon
+2f	de	2a	de	2dd	de
+=11	=11	=11	=11	=11	=11
+2e	l'au-	2g	l'au-	2.ee	l'au-
+2c	-re e-	2.cc	.	.	.
+.	.	.	.	8ddL	.
+.	.	.	.	8ccJ	.
+2.g	-sti-	.	.	2dd	.
+.	.	8bL	.	.	.
+.	.	8aJ	.	.	.
+.	.	[2b	.	[2dd	-re e-
+4f	.	.	.	.	.
+=12	=12	=12	=12	=12	=12
+!!!ONB: Add ligature between next two ntoes in Basso part.
+1e	.	4b]	.	2dd]	.
+.	.	4a	.	.	.
+.	.	2.g	.	4cc#X	-sti-
+.	.	.	.	8bL	.
+.	.	.	.	8cc#iJ	.
+1d	.	.	.	4.dd	.
+.	.	4g	.	.	.
+.	.	.	.	8ccni	.
+.	.	2f#X	-sti-	2a	.
+=13	=13	=13	=13	=13	=13
+1G	-ve	2g	-ve	1b	-ve
+.	.	4r	.	.	.
+.	.	4d	Tra	.	.
+4r	.	4.g	fon-	2r	.
+4G	Tra	.	.	.	.
+.	.	8f	.	.	.
+4.c	fon-	[2e	.	4r	.
+.	.	.	.	4g	Tra
+8B	.	.	.	.	.
+=14	=14	=14	=14	=14	=14
+1A	.	4e]	.	4cc	fon-
+.	.	4d	.	4b	.
+.	.	2c#X	.	2a	.
+2G	-ti e	2d	-ti	2b	-ti
+2c	ro-	4r	.	4r	.
+.	.	4a	e	4cc	e
+=15	=15	=15	=15	=15	=15
+1d	-se	4f#X	ro-	2b	ro-
+.	.	2g	.	.	.
+.	.	.	.	2a	-se
+.	.	4f#X	.	.	.
+4r	.	4.g	-se	4r	.
+4c	e	.	.	4ee	e
+.	.	16fniLL	.	.	.
+.	.	16gJJ	.	.	.
+[2A	gi-	4a	.	4cc#X	gi-
+.	.	4fni	e	[4dd	.
+=16	=16	=16	=16	=16	=16
+2A]	.	2e	gi-	4dd]	.
+.	.	.	.	4cc#X	.
+2d	-gli	2d	-gli	2dd	-gli
+1G	Fa	2.d	Fa	2.b	Fa
+.	.	4e	.	8aL	.
+.	.	.	.	8gJ	.
+=17	=17	=17	=17	=17	=17
+1d	del	4f	.	2a	.
+.	.	4g	.	.	.
+.	.	4a	.	1ff	del
+.	.	4f	.	.	.
+1c	suo	2g	.	.	.
+.	.	[2cc	-del	[2ee	suo
+=18	=18	=18	=18	=18	=18
+1g	can-	2cc]	.	2ee]	.
+.	.	2b	suo	2dd	can-
+4d	-to	2a	can-	4ff	-to
+4e	pi&ugrave;	.	.	4ee	pi&ugrave;
+2f	dol-	4a	-to	2cc	dol-
+.	.	4a	pi&ugrave;	.	.
+=19	=19	=19	=19	=19	=19
+2B-	-ce ar-	2b-	dol-	2dd	-ce ar-
+2c	-mo-	2a	-ce ar-	2.cc	-mo-
+1d	-ni-	2f#X	-mo-	.	.
+.	.	.	.	8bL	.
+.	.	.	.	8aJ	.
+.	.	[2g	-ni-	2b	.
+=20	=20	=20	=20	=20	=20
+1d	-a.	4g]	.	1a	-ni-
+.	.	4f#X	.	.	.
+.	.	4f#i	.	.	.
+.	.	8eL	.	.	.
+.	.	8f#iJ	.	.	.
+4r	.	4g	-a.	4g	-a.
+4.g	Can-	4.b	Can-	4.gg	Can-
+8e	-to	8cc	-to	8gg	-to
+4f	che	4a	che	4ff	che
+=21	=21	=21	=21	=21	=21
+4.c	m'ar-	4.cc	m'ar-	4.ee	m'ar-
+8d	.	16bLL	.	16ddLL	.
+.	.	16aJJ	.	16ccniJJ	.
+8eL	.	4g	.	8bL	.
+8cJ	.	.	.	8ccniJ	.
+4f	.	2a	-d'e	2dd	.
+2e	-d'e	.	.	.	.
+.	.	2g	pia-	4cc#X	-d'e
+2d	pia-	.	.	2dd	pia-
+.	.	4f#X	.	.	.
+=22	=22	=22	=22	=22	=22
+2G	-ci,	2g	-ci,	2b	-ci,
+2g	<Can-	4r	.	4r	.
+.	.	4.b	<Can-	4.gg	<Can-
+4e	-to	.	.	.	.
+.	.	8cc	-to	8gg	-to
+4f	che	4a	che	4ff	che
+4.c	m'ar-	[2g	m'ar-	4.ee	m'ar-
+8d	.	.	.	16ddLL	.
+.	.	.	.	16ccniJJ	.
+=23	=23	=23	=23	=23	=23
+4e	.	4g]	.	8bL	.
+.	.	.	.	8ccniJ	.
+4d	-d'e	4f	-d'e	4.dd	.
+2A	pia-	2e	pia-	.	.
+.	.	.	.	8cc#X	-d'e
+.	.	.	.	4cc#i	pia-
+4d	-ci,>	2f#X	-ci,>	1dd	-ci,>
+8dL	T'in-	.	.	.	.
+8eJ	-te-	.	.	.	.
+4.f	-rom-	4r	.	.	.
+.	.	8dL	T'in-	.	.
+8e	-pa-	8eJ	-te-	.	.
+=24	=24	=24	=24	=24	=24
+2d	-no	4.f	-rom-	4r	.
+.	.	.	.	8aL	T'in-
+.	.	8d	-pa-	8bJ	-te-
+2A	so-	4e	-no	4.cc	-rom-
+.	.	2a	so-	.	.
+.	.	.	.	8cc	-pa-
+2e	-lo	.	.	4b	-no
+.	.	4g	-lo i	2ee	so-
+4r	.	8ccL	no-	.	.
+.	.	8b	.	.	.
+4A	i	8a	.	[4cc	-lo i
+.	.	8gJ	.	.	.
+=25	=25	=25	=25	=25	=25
+8fL	no-	2a	.	4cc]	.
+8e	.	.	.	.	.
+8d	.	.	.	4.ff	no-
+8cJ	.	.	.	.	.
+2d	.	4a	-stri,	.	.
+.	.	.	.	8eeL	.
+.	.	4f	i	8dd	.
+.	.	.	.	8ccJ	.
+4G	-stri,	4.b-	no-	4.dd	.
+4G	i	.	.	.	.
+.	.	16aLL	.	16ccLL	.
+.	.	16gJJ	.	16bJJ	.
+4.d	no-	4.f	.	2a	.
+16cLL	.	8g	.	.	.
+16BJJ	.	.	.	.	.
+=26	=26	=26	=26	=26	=26
+2A	.	4a	.	4cc#X	-stri
+.	.	4f	-stri	2dd	ba-
+2A	-stri	4.e	ba-	.	.
+.	.	.	.	8ccniL	.
+.	.	16dLL	.	8bJ	.
+.	.	16eJJ	.	.	.
+1d	ba-	4f#X	.	4a	.
+.	.	2g	.	4g	.
+.	.	.	.	2a	.
+.	.	4f#X	.	.	.
+=27	=27	=27	=27	=27	=27
+0Gl;	-ci.	0gl;	-ci.	0bl;	-ci.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i = editorial accidental
+!!!ENC: Emiliano Ricciardi
+!!!END: 2013///
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2016/03/28/
+!!!YEC: Copyright 2016 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML and edited on 2015/11/25/ by Craig Sapp
+!!muse2ps: i2I150l2550t240v105,105,112z21c100
+!!muse2ps: T^@{OTL} (<i>Rime</i> @{rime})^
+!!muse2ps: u^@{COM}, <i>@{PTL}</i> (@{PPP}: @{PPR}, @{PDT})^
+!!muse2ps: C^ ^

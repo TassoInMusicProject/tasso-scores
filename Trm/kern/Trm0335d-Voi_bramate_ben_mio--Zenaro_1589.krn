@@ -1,0 +1,284 @@
+!!!COM: Zenaro, Giulio
+!!!CDT: <1588->1590
+!!!OTL: Voi bramate ben mio
+!!!PDT: 1589
+!!!rime: 335
+!!!PTL: Il primo libro de madrigali a tre voci
+!!!PPP: Venice
+!!!PPR: Vincenzi
+!!!PDT: 1589
+!!!AGN: Madrigal
+!!!SCT: Trm0335d
+!!!SCA: Trm0335d
+!!!voices: 3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Basso	*	*I"Tenore	*	*I"Canto	*
+*I'B	*	*I'T	*	*I'C	*
+*clefGv2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M4/2	*	*M4/2	*	*M4/2	*
+!!incipit: 2
+=1-	=1-	=1-	=1-	=1-	=1-
+1g	Voi	2r	.	2r	.
+.	.	2.b-	Voi	1dd	Voi
+4d	bra-	.	.	.	.
+2f	-ma-	8aL	.	.	.
+.	.	8gJ	.	.	.
+.	.	2a	.	4cc	bra-
+[4d	-te,	.	.	[4ff	-ma-
+=2	=2	=2	=2	=2	=2
+4d]	.	4b-	bra-	8ffL]	.
+.	.	.	.	8eeJ	.
+4f	ben	2a	-ma-	2dd	.
+2e	mi-	.	.	.	.
+.	.	4g	-te,	2cc	-te,
+1d	.	4f#X	ben	.	.
+.	.	2g	mi-	4b-	ben
+.	.	.	.	2a	mi-
+.	.	4f#X	.	.	.
+=3	=3	=3	=3	=3	=3
+2G	-o,	2g	-o,	4bn	-o,
+.	.	.	.	2dd	<Voi
+4F	Voi	1a	<Voi	.	.
+4.f	bra-	.	.	2cc	bra-
+8e	.	.	.	.	.
+2d	-ma	.	.	2ff	-ma-
+.	.	4f	bra-	.	.
+[4c	te,	[4e	-ma-	[4gg	-te,
+=4	=4	=4	=4	=4	=4
+4c]	.	8eL]	.	4gg]	.
+.	.	8fJ	-te,	.	.
+4B-	ben	4g	ben	4dd	ben
+2A	mi-	2a	mi-	2cc#X	mi-
+4d	-o,	4a	-o,>	2dd	-o,>
+8dL	Che	8fL	Che	.	.
+8eJ	m'uc-	8gJ	m'uc-	.	.
+4f	-ci-	4a	-ci-	4r	.
+[4d	-da il	[4f	-da il	8ddL	Che-
+.	.	.	.	8eeJ	-m'uc-
+=5	=5	=5	=5	=5	=5
+4d]	.	4f]	.	4ff	-ci-
+4.e-	do-	4g	do-	2b-	-da il
+.	.	4.g	-lo-	.	.
+8d	.	.	.	.	.
+4c	.	.	.	4ee-	do-
+.	.	8a	.	.	.
+2g	-lo-	2b-	.	2dd	-lo-
+2f#X	-re,	2a	-re,	2dd	-re,
+=6	=6	=6	=6	=6	=6
+4r	.	4r	.	4r	.
+4g	Pe-	4b-	Pe-	4dd	Pe-
+2d	-r&ograve;	2a	-r&ograve;	4ff	-r&ograve;
+.	.	.	.	4f	cres-
+4r	.	2r	.	4.g	-se-
+4e-	cres-	.	.	.	.
+.	.	.	.	8a	-te
+4.d	-se-	4r	.	4b-	pe-
+.	.	4f	cres-	4a	-na,
+8c	-te	.	.	.	.
+=7	=7	=7	=7	=7	=7
+4B-	pe-	4g	-se-	4r	.
+4A	-na,	4a	-te	4cc	cres-
+4r	.	4.d	pe-	8ffL	-se-
+.	.	.	.	8eeJ	-te
+4B-	cres-	.	.	2dd	pe-
+.	.	8e	.	.	.
+4.A	-se-	4f	.	.	.
+.	.	4e	-na,	4cc#X	-na,
+8G	.	.	.	.	.
+4F#X	.	4a	cres-	4r	.
+4G	-te	8b-L	-se-	4dd	<cres-
+.	.	8aJ	-te	.	.
+=8	=8	=8	=8	=8	=8
+2.c	pe-	2.g	pe-	4.ee	-se-
+.	.	.	.	8ff	-te-
+.	.	.	.	4gg	-pe-
+4B-	-na,	4b-	-na> a	4dd	-na> a
+2r	.	8aL	que-	8ccL	que-
+.	.	8gJ	-sto	8b-J	-sto
+.	.	4f#X	co-	4a	co-
+4r	.	4g	-re:	4g	-re:
+[4G	Ma	[4g	Ma	4b-	Ma
+=9	=9	=9	=9	=9	=9
+4G]	.	4g]	.	4ee-	pur,
+2B-	pur,	2fni	pur,	4.dd	men-
+.	.	.	.	8dd	-tre
+4e-	men-	4g	men-	4gg	mi
+4d	-te	4a	-tre	4ff#X	do-
+4g	mi	4b-	mi	4gg	-glio
+4f#X	do-	4a	do-	4r	.
+4g	-glio	4b-	-glio	4dd	Sen-
+=10	=10	=10	=10	=10	=10
+4r	.	4r	.	1dd	-t'un
+4G	Sen-	2b-	Sen-	.	.
+2B-	-t'un	.	.	.	.
+.	.	4g	-t'un	.	.
+4.F	pia-	2a	pia-	1cc	pia-
+8G	.	.	.	.	.
+2A	.	2f	-cer	.	.
+=11	=11	=11	=11	=11	=11
+4.G	-cer	4g	s&igrave;	2b-	-cer
+.	.	4.d	no-	.	.
+8A	.	.	.	.	.
+8B-L	.	.	.	2ff	s&igrave;
+8cJ	.	8eL	.	.	.
+2d	.	8f	.	.	.
+.	.	8gJ	.	.	.
+.	.	4.a	.	1ee	no-
+4c#X	s&igrave;	.	.	.	.
+.	.	8bn	.	.	.
+4.e	no-	[2cc	.	.	.
+8f#X	.	.	.	.	.
+=12	=12	=12	=12	=12	=12
+2g	.	4cc]	.	2dd	-vo
+.	.	4b-i	-vo	.	.
+4d	-vo	2r	.	4r	.
+2e-	Del	.	.	2g	Del
+.	.	2r	.	.	.
+4c	pia-	.	.	4a	pia-
+2G	-cer,	2g	Del	4.b-	-cer
+.	.	.	.	8b-	che
+=13	=13	=13	=13	=13	=13
+4A	Del	4e	pia-	4ccni	por-
+4B-	pia-	4d	-cer	2dd	.
+2A	-cer	4f	che	.	.
+.	.	4e	vi	4cc#X	.
+4d	che	4f#X	por-	2dd	-ge
+4Bn	vi	2g	.	.	.
+4c	por-	.	.	2r	.
+4d	.	4f#X	.	.	.
+=14	=14	=14	=14	=14	=14
+2G	-ge	4g	-ge	4r	.
+.	.	4b-	il	4gg	il
+4r	.	4a	mio	4ff	mio
+4c	il	4g	cor-	4ee-	cor-
+4B-	mio	4b-	-do-	4dd	-do-
+4f	cor-	8aL	-glio,	4cc	-glio,
+.	.	8aJ	il	.	.
+4e	-do-	4cc	mio	2r	.
+4d	-glio,	4b-	cor-	.	.
+=15	=15	=15	=15	=15	=15
+4r	.	4a	-do-	4r	.
+2G	Oh a-	4g	-glio,	2b-	Oh a-
+.	.	4r	.	.	.
+2B-	-ma-	2f	Oh a-	2dd	-ma-
+4A	-ra	2a	-ma-	4cc	-ra
+2d	vo-	.	.	2ff	vo-
+.	.	4bn	-ra	.	.
+=16	=16	=16	=16	=16	=16
+2.c	-glia, e	2cc	vo-	2.ee	-glia,
+.	.	4g	-glia, e	.	.
+4.G	qua-	2b-i	qua-	8ddL	.
+.	.	.	.	8ccJ	.
+.	.	.	.	1dd	.
+8AL	-si a-	.	.	.	.
+8B-	-vien	4f	-si a-	.	.
+8AJ	ch'al-	.	.	.	.
+2G	-l'ho-	8b-L	-vien	.	.
+.	.	8aJ	ch'al-	.	.
+.	.	4g	-l'ho-	.	.
+=17	=17	=17	=17	=17	=17
+4d	-ra	4f	-ra	4r	.
+4G	Per	4b-	Per	4dd	Per
+2d	do-	4a	do-	2ff	do-
+.	.	4f	-glia	.	.
+2c#X	-glia	2a	no,	2ee	-glia
+2d	no,	[2f	ma	4a	no,
+.	.	.	.	4a	ma
+=18	=18	=18	=18	=18	=18
+2B-	ma	2f]	.	4.dd	per
+.	.	.	.	8dd	di-
+4.F	per	4.a	per	4.cc	-let-
+8B-	di-	8f	di-	8dd	-t'io
+4G	-let-	4g	-let-	4b-	mo-
+4d	-t'io	4f	-t'io	4a	-ra,
+4c#X	mo-	4e	mo-	2r	.
+4d	-ra,	4d	-ra,	.	.
+=19	=19	=19	=19	=19	=19
+4r	.	4r	.	4r	.
+2G	Oh a-	2b-	Oh a-	2dd	Oh a-
+2d	-ma-	2a	-ma-	2ff	-ma-
+4B-	-ra	4b-	-ra	4dd	-ra
+2e-	vo-	4.g	vo	[2gg	vo-
+.	.	8a	.	.	.
+=20	=20	=20	=20	=20	=20
+2d	-glia,	4b-	.	4gg]	.
+.	.	4a	glia,	4ff#X	-glia,
+4r	.	4r	.	4r	.
+4g	e	4b-	e	4gg	e
+4.d	qua-	2.a	qua-	2ffni	qua-
+8e	-si a-	.	.	.	.
+8fL	-vien	.	.	4cc	-si a-
+8eJ	ch'al-	.	.	.	.
+4d	-l'ho-	4f	-si a-	[4dd	-vien
+=21	=21	=21	=21	=21	=21
+4G	-ra	8b-L	-vien	8ddL]	.
+.	.	8aJ	ch'al-	8ccJ	ch'al-
+4G	Per	4g	-l'ho-	4b-	-l'ho-
+1d	do-	2f	-ra	4a	-ra
+.	.	.	.	4dd	Per
+.	.	4r	.	2ff	do-
+.	.	4d	Per	.	.
+2c#X	-glia	2a	do-	2ee	-glia
+=22	=22	=22	=22	=22	=22
+4d	no,	2f	-glia	2a	no,
+4d	ma	.	.	.	.
+4.B-	per	4d	no,	4r	.
+.	.	4b-	ma	4dd	ma
+8B-	di-	.	.	.	.
+4F	-let-	4.a	per	4.cc	per
+4F	-t'io	.	.	.	.
+.	.	8a	di-	8cc	di-
+4B-	mo-	4f	-let-	4dd	-let-
+4G	-ra,	4g	-t'io	4b-	-t'io
+=23	=23	=23	=23	=23	=23
+4r	.	4f#X	mo-	4a	mo-
+4G	ma	4g	-ra,	4g	-ra,
+4.d	per	4r	.	2r	.
+.	.	4a	Ma	.	.
+8c	di-	.	.	.	.
+4B-	-let-	4.g	per	4r	.
+4e-	-to	.	.	4gg	ma
+.	.	8a	di-	.	.
+2d	mo-	4b-	-let-	4.ff	per
+.	.	4a	-t'io	.	.
+.	.	.	.	8ff	di-
+=24	=24	=24	=24	=24	=24
+4G	-ra,	4b-	mo-	4dd	-let-
+4c	Per	4g	-ra,	4ee-	-t'io
+2Bn	do-	4r	.	2dd	mo-
+.	.	4g	Per	.	.
+2c	-glia	2e	do-	4g	-ra,
+.	.	.	.	4a	Per
+4G	no,	4d	-glia	4b-	do-
+4d	ma	4f	no,	4a	-glia
+=25	=25	=25	=25	=25	=25
+4.B-i	per	4r	.	4.dd	no,
+.	.	4f	ma	.	.
+8B-i	di-	.	.	8dd	ma
+4F	-let-	4a	per	4.cc	per
+4G	-t'io	4d	di-	.	.
+.	.	.	.	8b-	di-
+1d	mo-	4f#X	-let-	4a	-let-
+.	.	2g	-t'io	4b-	-t'io
+.	.	.	.	2a	mo-
+.	.	4f#X	mo-	.	.
+=26	=26	=26	=26	=26	=26
+0G;l	-ra.	0g;l	-ra.	0bn;l	-ra.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!ENC: Emiliano Ricciardi
+!!!END: 2013///
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2016/01/08/
+!!!YEC: Copyright 2016 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML and edited on 2015/12/28/ by Craig Sapp
+!!muse2ps: i2I150l2550t240v105,105,112z21c180
+!!muse2ps: T^@{OTL} (<i>Rime</i> @{rime})^
+!!muse2ps: u^@{COM}, <i>@{PTL}</i> (@{PPP}: @{PPR}, @{PDT})^
+!!muse2ps: C^ ^
