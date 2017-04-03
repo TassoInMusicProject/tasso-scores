@@ -45,9 +45,9 @@
 4F	Voi	1a	<Voi	.	.
 4.f	bra-	.	.	2cc	bra-
 8e	.	.	.	.	.
-2d	-ma	.	.	2ff	-ma-
+2d	-ma-	.	.	2ff	-ma-
 .	.	4f	bra-	.	.
-[4c	te,	[4e	-ma-	[4gg	-te,
+[4c	-te,	[4e	-ma-	[4gg	-te,
 =4	=4	=4	=4	=4	=4
 4c]	.	8eL]	.	4gg]	.
 .	.	8fJ	-te,	.	.
@@ -57,8 +57,8 @@
 8dL	Che	8fL	Che	.	.
 8eJ	m'uc-	8gJ	m'uc-	.	.
 4f	-ci-	4a	-ci-	4r	.
-[4d	-da il	[4f	-da il	8ddL	Che-
-.	.	.	.	8eeJ	-m'uc-
+[4d	-da il	[4f	-da il	8ddL	Che
+.	.	.	.	8eeJ	m'uc-
 =5	=5	=5	=5	=5	=5
 4d]	.	4f]	.	4ff	-ci-
 4.e-	do-	4g	do-	2b-	-da il
@@ -94,8 +94,8 @@
 .	.	8aJ	-te	.	.
 =8	=8	=8	=8	=8	=8
 2.c	pe-	2.g	pe-	4.ee	-se-
-.	.	.	.	8ff	-te-
-.	.	.	.	4gg	-pe-
+.	.	.	.	8ff	-te
+.	.	.	.	4gg	pe-
 4B-	-na,	4b-	-na> a	4dd	-na> a
 2r	.	8aL	que-	8ccL	que-
 .	.	8gJ	-sto	8b-J	-sto
@@ -107,7 +107,7 @@
 2B-	pur,	2fni	pur,	4.dd	men-
 .	.	.	.	8dd	-tre
 4e-	men-	4g	men-	4gg	mi
-4d	-te	4a	-tre	4ff#X	do-
+4d	-tre	4a	-tre	4ff#X	do-
 4g	mi	4b-	mi	4gg	-glio
 4f#X	do-	4a	do-	4r	.
 4g	-glio	4b-	-glio	4dd	Sen-
@@ -142,8 +142,8 @@
 2G	-cer,	2g	Del	4.b-	-cer
 .	.	.	.	8b-	che
 =13	=13	=13	=13	=13	=13
-4A	Del	4e	pia-	4ccni	por-
-4B-	pia-	4d	-cer	2dd	.
+4A	Del	4e	pia-	4ccni	vi
+4B-	pia-	4d	-cer	2dd	por-
 2A	-cer	4f	che	.	.
 .	.	4e	vi	4cc#X	.
 4d	che	4f#X	por-	2dd	-ge
@@ -202,11 +202,11 @@
 2G	Oh a-	2b-	Oh a-	2dd	Oh a-
 2d	-ma-	2a	-ma-	2ff	-ma-
 4B-	-ra	4b-	-ra	4dd	-ra
-2e-	vo-	4.g	vo	[2gg	vo-
+2e-	vo-	4.g	vo-	[2gg	vo-
 .	.	8a	.	.	.
 =20	=20	=20	=20	=20	=20
 2d	-glia,	4b-	.	4gg]	.
-.	.	4a	glia,	4ff#X	-glia,
+.	.	4a	-glia,	4ff#X	-glia,
 4r	.	4r	.	4r	.
 4g	e	4b-	e	4gg	e
 4.d	qua-	2.a	qua-	2ffni	qua-
@@ -241,7 +241,7 @@
 .	.	4a	Ma	.	.
 8c	di-	.	.	.	.
 4B-	-let-	4.g	per	4r	.
-4e-	-to	.	.	4gg	ma
+4e-	-t'io	.	.	4gg	ma
 .	.	8a	di-	.	.
 2d	mo-	4b-	-let-	4.ff	per
 .	.	4a	-t'io	.	.
