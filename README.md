@@ -1,8 +1,8 @@
 # Tasso in Music Project Digital Scores #
 
 This repository contains digital music scores in the Humdrum data
-format from the [Tasso in Music Project](http://tmp.tassomusic.org) (TMP).
-The primary web interface for these scores is http://tmp.tassomusic.org
+format from the [Tasso in Music Project](http://www.tassomusic.org) (TMP).
+The primary web interface for these scores is http://www.tassomusic.org
 which allows online searching and browsing, conversions into other
 data formats, such as MIDI and graphical notation, as well as
 interfaces to some online analysis tools.  These scores are a
@@ -119,11 +119,11 @@ of the downloaded repository:
     </tr>
 <tr><td><tt>make&nbsp;web-pdf</tt></td>
     <td>  Download PDF files for graphical music scores for each piece from the
-	  <a href=http://josquin.stanford.edu>TMP website</a>.
+	  <a href=http://www.tassomusic.org>TMP website</a>.
     </tr>
 <tr><td><tt>make&nbsp;web-pdf-notext</tt></td>
     <td>  Download PDF files for graphical music scores for each piece from the
-	  <a href=http://josquin.stanford.edu>TMP website</a> with lyrics removed
+	  <a href=http://www.tassomusic.org>TMP website</a> with lyrics removed
 	  from all parts.
     </tr>
 <tr><td><tt>make&nbsp;web-reduced</tt></td>
@@ -160,14 +160,14 @@ of the downloaded repository:
 
 ### TMP website ###
 
-The website http://josquin.stanford.edu is a high-level interface
+The website http://www.tassomusic.org is a high-level interface
 to these scores, but also includes lower-level access to the data,
 data conversions, and analytic tools using URL parameters in the
 web address.  On the TMP website, each score has a "work info" page
 generated with this format:
 
 ```
-http://tmp.tassomusic.org/work?id=Trm0047m
+http://www.tassomusic.org/work?id=Trm0047m
 ```
 
 Where ```Trm0047m``` is the TMP catalog for the 13th musical setting
