@@ -225,11 +225,11 @@
 1D	-te-	.	.	1d	-te-	1a	-te-
 .	.	2F#i	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25
-0GG;l	-se.	0G;l	-se.	0d;l	-se.	0b;l	-se.
+0GGl	-se.	0Gl	-se.	0dl	-se.	0bl	-se.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation
-!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2012///
 !!!EED: Emiliano Ricciardi

@@ -444,15 +444,15 @@
 .	.	8BL	.	.	.	4dd	vo-	.	.
 .	.	8AJ	.	.	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38
-1G	ra-	4B	.	4f]	.	4dd	-stri	0g;l	-i.
+1G	ra-	4B	.	4f]	.	4dd	-stri	0gl	-i.
 .	.	4c	-stri	4e	-stri	2cc	ra-	.	.
 .	.	2d	ra-	2d	ra-	.	.	.	.
 .	.	.	.	.	.	4b	.	.	.
-1C;l	-i.	1c;l	-i.	1e;l	-i.	1cc;l	-i.	.	.
+1Cl	-i.	1cl	-i.	1el	-i.	1ccl	-i.	.	.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation
-!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2013///
 !!!EED: Emiliano Ricciardi

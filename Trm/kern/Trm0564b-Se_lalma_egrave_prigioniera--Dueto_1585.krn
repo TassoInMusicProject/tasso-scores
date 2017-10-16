@@ -379,11 +379,11 @@
 4d	mo-	.	.
 2d	-ri-	.	.
 =50	=50	=50	=50
-0d;l	-re.	0bn;l	-re.
+0dl	-re.	0bnl	-re.
 ==	==	==	==
 *-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation
-!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
 !!!ENC:	Emiliano Ricciardi
 !!!END:	2012///
 !!!EED:	Emiliano Ricciardi

@@ -251,11 +251,11 @@
 4D	le	4d	le	4f	le	4a	le
 2AA	ren-	2c#X	ren-	2e	ren-	2a	ren-
 =34	=34	=34	=34	=34	=34	=34	=34
-0D;l	-da.	0d;l	-da.	0f#X;l	-da.	0a;l	-da.
+0Dl	-da.	0dl	-da.	0f#Xl	-da.	0al	-da.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation
-!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2013///
 !!!EED: Emiliano Ricciardi

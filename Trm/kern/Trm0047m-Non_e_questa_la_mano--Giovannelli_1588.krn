@@ -269,8 +269,8 @@
 4g	ch'io	4b	ch'io	4dd	ch'io
 4a	ne	4a	ne	4cc	ne
 2e	pren-	2g#X	pren-	2b	pren-
-4e	-da,	4g#i	-da,	4b	-da,-
-4a	A-	4a	A-	4cc	-A-
+4e	-da,	4g#i	-da,	4b	-da,
+4a	A-	4a	A-	4cc	A-
 4g	-mor,	4b	-mor,	4dd	-mor,
 4e	qual-	4cc	qual-	4ee	qual-
 =26	=26	=26	=26	=26	=26
@@ -354,15 +354,15 @@
 .	.	2f#X	.	2a	.
 =34	=34	=34	=34	=34	=34
 !!LO:MD:P=C0&colon;p20
-0Gl;	-da.	0gl;	-da.>	0bl;	-da.>
+0Gl	-da.	0gl	-da.>	0bl	-da.>
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!RDF**kern: i=editorial accidental
-!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END: 2013///
 !!!EED: Emiliano Ricciardi
-!!!EEV: 2017/02/08/
+!!!EEV: 2017/10/16/
 !!!YEC: Copyright 2013 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML and edited on 2014/11/15/ by Craig Sapp
 !!muse2ps: i2I150l2550t240v105,105,112z21c160

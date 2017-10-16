@@ -373,58 +373,6 @@ notearray:
 
 
 
-##############################
-#
-# make genres -- Download scores organized by genres from the
-#      kernScores website.
-#
-
-genres: Zma Zmo Zso
-
-# 
-# Download files from kernScores related to masses (excluding fragments):
-#
-
-zma: Zma
-Zma:
-	mkdir -p Zma/kern; (cd Zma/kern; humsplit h://jrp/Zma)
-
-# 
-# Download files from kernScores related to motets:
-#
-
-zmo: Zmo
-Zmo:
-	mkdir -p Zmo/kern; (cd Zmo/kern; humsplit h://jrp/Zmo)
-
-# 
-# Download files from kernScores related to songs:
-#
-
-zso: Zso
-Zso:
-	mkdir -p Zso/kern; (cd Zso/kern; humsplit h://jrp/Zso)
-
-# 
-# Download securely attributed works of Josquin:
-#
-
-joa: Joa
-Joa:
-	mkdir -p Joa/kern; (cd Joa/kern; humsplit h://jrp/Joa)
-
-# 
-# Download not securely attributed works of Josquin:
-#
-
-job: Job
-Job:
-	mkdir -p Job/kern; (cd Job/kern; humsplit h://jrp/Job)
-
-joab: Joa Job
-Joab: Joa Job
-
-
 ############################################################################
 ##
 ## standard Humdrum Toolkit related make commands:

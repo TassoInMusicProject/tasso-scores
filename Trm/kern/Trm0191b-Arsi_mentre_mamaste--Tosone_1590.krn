@@ -323,11 +323,11 @@
 .	.	4c	-stro	4e	-stro	2a	no-
 .	.	2B	no-	2e	no-	.	.
 .	.	.	.	.	.	4g#X	.
-1A;l	-me.	1c#X;l	-me.	1e;l	-me.	1a;l	-me.
+1Al	-me.	1c#Xl	-me.	1el	-me.	1al	-me.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation
-!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2012///
 !!!EED: Emiliano Ricciardi

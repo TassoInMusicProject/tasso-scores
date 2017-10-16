@@ -456,11 +456,11 @@
 .	.	2d	.	2g	-fet-	.	.
 .	.	.	.	.	.	4b	.
 =49	=49	=49	=49	=49	=49	=49	=49
-0C;l	-to.	0c;l	-to.	0g;l	-to.	0cc;l	-to.
+0Cl	-to.	0cl	-to.	0gl	-to.	0ccl	-to.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation
-!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2012///
 !!!EED: Emiliano Ricciardi

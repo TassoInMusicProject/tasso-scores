@@ -317,11 +317,11 @@
 .	.	4f#X	.	.	.
 =29	=29	=29	=29	=29	=29
 !!LO:MD:P=C0&colon;p20
-0Gl;	-le.	0gl;	-le.	0gl;	-le.
+0Gl	-le.	0gl	-le.	0gl	-le.
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation
-!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2013///
 !!!EED: Emiliano Ricciardi

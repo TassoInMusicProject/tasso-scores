@@ -276,11 +276,11 @@
 .	.	.	.	2a	.
 .	.	4f#X	.	.	.
 =25	=25	=25	=25	=25	=25
-0G;l	-no?"	0g;l	-no?"	0bn;l	-no?"
+0Gl	-no?"	0gl	-no?"	0bnl	-no?"
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation
-!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2013///
 !!!EED: Emiliano Ricciardi

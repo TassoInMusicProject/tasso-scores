@@ -197,11 +197,11 @@
 4A	li
 =33	=33
 1A	ren-
-1A;l	-da.
+1Al	-da.
 ==	==
 *-	*-
-!!!RDF**kern: l=long note in original notation
-!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2013///
 !!!EED: Emiliano Ricciardi

@@ -374,7 +374,7 @@
 .	.	2F#i	-o,	.	.	2a	-rir	4dd	-de
 .	.	.	.	.	.	.	.	4a	mo-
 =48	=48	=48	=48	=48	=48	=48	=48	=48	=48
-0D]	.	2A	mo-	[0d;l	-o.&	2f#X	de-	2a	-rir
+0D]	.	2A	mo-	[0dl	-o.&	2f#X	de-	2a	-rir
 .	.	4B-	-rir	.	.	2.g	-si-	2g	de-
 .	.	4B-	de-	.	.	.	.	.	.
 .	.	1A	-si-	.	.	.	.	1a	-si-
@@ -382,11 +382,11 @@
 .	.	.	.	.	.	8eJ	.	.	.
 .	.	.	.	.	.	2f#X	.	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49
-0GG;l	-o.	0G;l	-o.	0d]	.	0g;l	-o.	0bn;l	-o.
+0GGl	-o.	0Gl	-o.	0d]	.	0gl	-o.	0bnl	-o.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: l=long note in original notation
-!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2013///
 !!!EED: Emiliano Ricciardi
