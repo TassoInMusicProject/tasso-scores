@@ -130,7 +130,7 @@
 .	.	.	.	4cc#X	.
 2d	-di	4.f#X	.	2dd	-di
 .	.	16eLL	.	.	.
-.	.	16f#XiJJ	.	.	.
+.	.	16f#iJJ	.	.	.
 4r	.	2g	-di	4r	.
 4e	E	.	.	4g	E
 =13	=13	=13	=13	=13	=13
@@ -236,7 +236,7 @@
 .	.	8e	.	.	.
 1r	.	8fL	.	.	.
 .	.	8gJ	.	.	.
-.	.	4.a	.	8cc#XiL	.
+.	.	4.a	.	8cc#iL	.
 .	.	.	.	8bJ	.
 .	.	.	.	4cc#X	.
 .	.	8gL	.	.	.
@@ -320,7 +320,7 @@
 0Gl	-le.	0gl	-le.	0gl	-le.
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!RDF**kern: l = terminal long
+!!!RDF**kern: xl = terminal long
 !!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2013///

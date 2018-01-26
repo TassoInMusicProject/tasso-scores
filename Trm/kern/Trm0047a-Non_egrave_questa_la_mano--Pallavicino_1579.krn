@@ -11,7 +11,6 @@
 !!!SCT: Trm0047a
 !!!SCA: Trm0047a
 !!!voices: 4
-!!incipit: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -254,7 +253,7 @@
 0Dl	-da.	0dl	-da.	0f#Xl	-da.	0al	-da.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: l = terminal long
+!!!RDF**kern: xl = terminal long
 !!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2013///

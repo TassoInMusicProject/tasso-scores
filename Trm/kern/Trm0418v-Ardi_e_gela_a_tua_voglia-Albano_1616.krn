@@ -1,0 +1,174 @@
+!!!COM: Albano, Marcello
+!!!CDT: 1580-1616
+!!!PTL: Il primo libro di canzoni e madrigaletti a tre et a quattro voci
+!!!PPP: Naples
+!!!PPR: Carlino
+!!!PDT: 1616
+!!!RISM: 
+!!!rime: 418
+!!!OTL: Ardi e gela a tua voglia
+!!!AGN: Madrigal
+!!!SCT: Trm0418v
+!!!SCA: Trm0418v
+!!!voices: 3
+!!!ONB: Basso not extant
+**kern	**kern	**text	**kern	**text
+*	*part2	*part2	*part1	*part1
+*	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Alto	*	*I"Canto Primo	*
+*I'B	*I'A	*	*I'C	*
+*	*clefG2	*	*clefG2	*
+*	*k[]	*	*k[]	*
+*	*M4/2	*	*M4/2	*
+=1-	=1-	=1-	=1-	=1-
+!LO:TX:b:t=[Basso not extant]	!	!	!	!
+0ryy	2a	Ar-	2r	.
+.	2g	-di e	2ee	Ar-
+.	4f	ge-	2dd	-di e
+.	8eL	-l’a	.	.
+.	8dJ	tua	.	.
+.	8eL	vo-	4cc	ge-
+.	16fL	.	.	.
+.	16gJJ	.	.	.
+.	[4a	.	8bL	-l’a
+.	.	.	8aJ	tua
+=2	=2	=2	=2	=2
+0ryy	4a]	.	2b	vo-
+.	4g#X	.	.	.
+.	2a	-glia,	4a	-glia,
+.	.	.	2cc	⟨Ar-
+.	2e	⟨Ar-	.	.
+.	.	.	4b	-di e
+.	2d	-di e	2dd	ge-
+=3	=3	=3	=3	=3
+0ryy	4c	ge-	4g	-l’a
+.	8BL	-l’a	4cc	tua
+.	8AJ	tua	.	.
+.	2B	vo-	2b	vo-
+.	2A	-glia,⟩	2e	-glia,⟩
+.	2e	per	2cc	per-
+=4	=4	=4	=4	=4
+0ryy	8eL	fi-	8g#XL	-fi-
+.	8e	-do ed	8g#X	-do ed
+.	8B	im-	8g#X	im-
+.	8eJ	-pu-	8aJ	-pu-
+.	4e	-di-	2f#X	-di-
+.	4d#X	.	.	.
+.	2e	-co,	2g#X	-co,
+.	2r	.	2a	ho-
+=5	=5	=5	=5	=5
+0ryy	4d	ho-	2b	-r’a-
+.	2e	-r’a-	.	.
+.	.	.	2cc	-man-
+.	4f	-man-	.	.
+.	2d	-t’hor	2b	-t’hor
+.	4e	ne-	2cc	ne-
+.	[4f	-mi-	.	.
+=6	=6	=6	=6	=6
+0ryy	4f]	.	2dd	-mi-
+.	8eL	.	.	.
+.	8dJ	.	.	.
+.	2e	.	2g	-co:
+.	4f	-co:	2a	ché
+.	4f	ché	.	.
+.	4.e	d’in-	4.g	d’in-
+.	8f	-co-	8a	-co-
+=7	=7	=7	=7	=7
+0ryy	4d	-stan-	4f	-stan-
+.	4d	-t’in-	4g	-t’in-
+.	4d	-ge-	2e	-ge-
+.	4c#X	.	.	.
+.	2d	-gno	2d	-gno
+.	4a	po-	4r	.
+.	8gL	-co	4ee	po-
+.	8fJ	l’a-	.	.
+=8	=8	=8	=8	=8
+0ryy	4g	-mor	8ddL	-co
+.	.	.	8ccJ	l’a-
+.	4d	io	4dd	-mor
+.	2f	sti-	4a	io
+.	.	.	2cc	sti-
+.	2e	-mo,	.	.
+.	.	.	4b	-mo,
+.	4e	⟨po-	4cc	⟨po-
+.	8eL	-co	8bL	-co
+.	8fJ	l’a-	8aJ	l’a-
+=9	=9	=9	=9	=9
+0ryy	4d	-mor	4b	-mor
+.	4e	io	4g	io
+.	4e	sti-	2a	sti-
+.	4d	.	.	.
+.	4e	-mo⟩	4g#X	-mo⟩
+.	4e	e	4cc	e
+.	4g	men	4b	men
+.	4c	lo	4a	lo
+=10	=10	=10	=10	=10
+0ryy	2c	sde-	4g	sde-
+.	.	.	8fL	.
+.	.	.	8eJ	.
+.	2B	.	2d	.
+.	4c	-gno	2e	-gno;
+.	4g	e	.	.
+.	4.e	s’el	4r	.
+.	.	.	4cc	e
+.	8f	tuo a-	.	.
+=11	=11	=11	=11	=11
+0ryy	4.d	-mor	4.b	s’el
+.	8c	fu	8cc	tuo a-
+.	4f	va-	4a	-mor
+.	8eL	.	4dd	fu
+.	8dJ	.	.	.
+.	2e	.	4dd	va-
+.	.	.	4cc#X	.
+.	2d	-no,	2dd	-no,
+=12	=12	=12	=12	=12
+0ryy	4r	.	4ee	van
+.	4a	van	8ccL	fia
+.	.	.	8bJ	lo
+.	8fL	fia	8aL	sde-
+.	8e	la	8e	-gno
+.	8d	sde-	8f	del
+.	8BJ	-gno	8gJ	tuo
+.	8dL	del	2a	cor
+.	8eJ	tuo	.	.
+.	2f	cor	.	.
+.	.	.	8aL	in-
+.	.	.	8g	.
+.	4f	in-	8a	.
+.	.	.	8fJ	.
+=13	=13	=13	=13	=13
+0ryy	4f	-sa-	2g	-so
+.	4e	.	.	.
+.	8fL	-no,	2a	no,
+.	8c	van	.	.
+.	8d	fia	.	.
+.	8eJ	lo	.	.
+.	8fL	sde-	8r	.
+.	8d	-gno	8fL	van
+.	8f	del	8a	fia
+.	8gJ	tuo	8bJ	lo
+.	2a	cor,	8ccL	sde-
+.	.	.	8a	-gno
+.	.	.	8cc	del
+.	.	.	8ddJ	tuo
+=14	=14	=14	=14	=14
+0ryy	4r	.	2ee	cor
+.	8eL	del	.	.
+.	8f#XJ	tuo	.	.
+.	4g	cor	4r	.
+.	4a	in	4b	in-
+.	4g#X	sa-	1b	-sa-
+.	2a	.	.	.
+.	4g#	.	.	.
+=15	=15	=15	=15	=15
+0ryy	0al	-no.	0al	-no.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!RDF**kern: xl = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!ENC: Emiliano Ricciardi
+!!!END: 2016/02/13/
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2017/11/18/
+!!!YEC: Copyright 2017 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML and edited on 2017/11/18/ by Craig Sapp
