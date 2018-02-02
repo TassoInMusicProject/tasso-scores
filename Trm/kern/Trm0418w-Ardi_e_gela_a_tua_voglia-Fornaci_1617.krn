@@ -14,13 +14,13 @@
 **kern	**kern	**text
 *part2	*part1	*part1
 *staff2	*staff1	*staff1
-*I"Basso continuo	*	*"[Canto]
-*I'BC	*	*I'C
+*I"[Basso Continuo]	*I"[Canto]	*
+*I'[BC]	*I'[C]	*
 *clefF4	*clefG2	*
 *k[]	*k[]	*
 *M4/2	*M4/2	*
 =1-	=1-	=1-
-!!LO:TX:a:t=Amor disprezzato. Riposta.
+!!LO:TX:a:t=Voce sola[.] Amor disprezzato. Risposta.
 2G	4.dd	Ar-
 .	8b	-di e
 4E	4cc	ge-
@@ -35,18 +35,18 @@
 [1AA	1cc#X	-do,
 =3	=3	=3
 2AA]	4r	.
-.	2ee	⟨per-
+.	2ee	<Per-
 [2E	.	.
 .	4b	-fi-
-2E]	2b	-do⟩
+2E]	2b	-do>
 2D	[2dd	ed
 =4	=4	=4
 2.G	2dd]	.
-.	[2g	im-
+.	([2g	im-
 4F	.	.
-2E	2g#X	.
+2E	2g#X)	.
 2AA	16aKL	-pu-
-.	8g	.
+.	8gni	.
 .	16aJk	.
 .	16bKL	.
 .	8cc	.
@@ -54,7 +54,7 @@
 =5	=5	=5
 [1E	1b	-di-
 2E]	4b	-co,
-.	8bL	or
+.	8bL	Or
 .	8ccJ	a-
 2D	4dd	-man-
 .	8ccL	-te or
@@ -78,24 +78,24 @@
 =7	=7	=7
 1.D	2f#X	.
 .	2.g	.
-.	8f#L	.
+.	8f#iL	.
 .	8eJ	.
 2BBn	2f#X	.
 =8	=8	=8
 1E	2g#X	-co,
-.	4.g#X	or
+.	4.g#X	Or
 .	8a	a-
 1D	4b	-man-
 .	8aL	-te or
-.	8gJ	ne-
+.	8gniJ	ne-
 .	2a	-mi-
 =9	=9	=9
 1GG	1g	-co:
 =10:|!|:	=10:|!|:	=10:|!|:
 *omet(3/2)	*omet(3/2)	*
 *M3/1	*M3/1	*
-!LO:TX:a:t=3/2	!	!
-1G	1g	Che
+!!LO:TX:a:t=3/2
+1G	1g	Ché
 1F	1a	d’in-
 1D	1b	-con-
 =11	=11	=11
@@ -106,7 +106,7 @@
 2.E	2b	-ge-
 .	2b	-gno
 4D	.	.
-2C	4cc	po-
+2C	4cc	Po-
 .	8bL	-co
 .	8aJ	l’a-
 4G	8bL	-mor
@@ -127,9 +127,9 @@
 .	4a	lo
 2D	2a	sde-
 =15	=15	=15
-1GG	1g	-gno;
+1GG	1g	-gno:
 2FF#X	4r	.
-.	2a	e
+.	2a	E
 2AA	.	.
 .	8eL	se
 .	8eJ	l’a-
@@ -140,17 +140,17 @@
 1AA	1a	-no,
 =17	=17	=17
 2D	2r	.
-2BB	2g	van
+2BB	2g	Van
 1C	2.e	fia
 .	4f	lo
 =18	=18	=18
-2F	[2f	sde-
-[2D	2.f#X	.
+2F	([2f	sde-
+[2D	2.f#X)	.
 2D]	.	.
 .	4g	-gno
-2G	[2g	del
+2G	([2g	del
 =19	=19	=19
-1E	2.g#X	.
+1E	2.g#X)	.
 .	4a	tuo
 1AA	4.a	cor
 .	8b	.
@@ -161,17 +161,17 @@
 .	2b	-sa-
 2C#X	2a	-no,
 2D	4r	.
-.	4a	van
+.	4a	Van
 =21	=21	=21
 1GG	2.b	fia
 .	4cc	lo
-2C	[2cc	sde-
-[2AA	[2cc#X	.
+2C	((([2cc	sde-
+[2AA	[2cc#X)))	.
 =22	=22	=22
 2AA]	4cc#X]	.
 .	4dd	-gno
-2D	[2dd	del-
-1BB	2.dd#X	.
+2D	([2dd	del-
+1BB	2.dd#X)	.
 .	4ee	-tuo
 =23	=23	=23
 2.E	2.ee	cor
@@ -180,7 +180,7 @@
 =24	=24	=24
 2C	2cc	-no,
 2BB	4r	.
-.	2dd	van
+.	2dd	Van
 2D	.	.
 .	8.ccL	fia
 .	16bJk	lo
@@ -196,7 +196,7 @@
 .	4a	in-
 .	2a	-sa-
 =26	=26	=26
-0GGl	0gl	-no.
+0GG;l	0g;l	-no.
 ==	==	==
 *-	*-	*-
 !!!RDF**kern: xl = terminal long
