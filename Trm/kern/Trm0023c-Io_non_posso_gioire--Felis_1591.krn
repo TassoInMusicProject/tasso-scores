@@ -52,7 +52,7 @@
 .	.	8dL	-ge	8aL	-ge	8ddL	-ge	8ffL	-ge
 .	.	8cJ	da	8ccJ	da	8eeJ	da	8ggJ	da
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-0r	.	2.f	voi	4cc	voi	4ff	voi	4aa	voi
+0r	.	2.f	voi	4cc	voi,	4ff	voi,	4aa	voi,
 .	.	.	.	4cc	che	4ff	che	4aa	che
 .	.	.	.	8ccL	se-	8ffL	se-	8aaL	se-
 .	.	.	.	8b-	-te il	8gg	-te il	8gg	-te il
@@ -67,8 +67,8 @@
 .	.	.	.	.	.	8ddJ	.	8ffJ	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 2r	.	2c	-re;	2r	.	2ee	-re;	2gg	-re;
-1d	Ma'l	2r	.	1a	Ma'l	2r	.	1ff#X	Ma'l
-.	.	1r	.	.	.	2dd	Ma'l	.	.
+1d	Ma 'l	2r	.	1a	Ma 'l	2r	.	1ff#X	Ma 'l
+.	.	1r	.	.	.	2dd	Ma 'l	.	.
 4.c	mio	.	.	4.cc	mio	4.ee	mio	4.gg	mio
 8d	pen-	.	.	8a	pen-	8dd	pen-	8ffni	pen-
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
@@ -141,7 +141,7 @@
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 0r	.	0r	.	2g	-co	2bn	-co	4dd	-co
 .	.	.	.	.	.	.	.	4dd	de'
-.	.	.	.	4g	de'	4b-	de'	4ee	bei
+.	.	.	.	4g	de'	4bni	de'	4ee	bei
 .	.	.	.	4a	bei	4cc	bei	2ff	vo-
 .	.	.	.	4b-	vo-	4dd	vo-	.	.
 .	.	.	.	4g	-stri	2dd	-stri	4gg	-stri
@@ -149,16 +149,16 @@
 .	.	.	.	.	.	4cc#X	lu-	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 2r	.	2r	.	2d	-mi	1dd	-mi;	2dd	-mi;
-4r	.	2d	E'l	2r	.	.	.	2r	.
-2d	E'l	.	.	.	.	.	.	.	.
-.	.	2e	lan-	2.a	E'l	1r	.	1r	.
+4r	.	2d	E 'l	2r	.	.	.	2r	.
+2d	E 'l	.	.	.	.	.	.	.	.
+.	.	2e	lan-	2.a	E 'l	1r	.	1r	.
 4c#X	lan-	.	.	.	.	.	.	.	.
 2d	-guir	[2f	-guir	.	.	.	.	.	.
 .	.	.	.	4bn	lan-	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-4A	sí	2f]	.	2cc	-guir	0r	.	0r	.
+4A	sì	2f]	.	2cc	-guir	0r	.	0r	.
 4B-	me	.	.	.	.	.	.	.	.
-4.c	pia-	4.e	sí	4g	sí	.	.	.	.
+4.c	pia-	4.e	sì	4g	sì	.	.	.	.
 .	.	.	.	4a	me	.	.	.	.
 16B-LL	.	16dLL	.	.	.	.	.	.	.
 16AJJ	.	16cJJ	.	.	.	.	.	.	.
@@ -169,16 +169,16 @@
 2d	.	.	.	2a	-ce,	.	.	.	.
 .	.	4f#i	pia-	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-2G	-ce,	4g	-ce,	0r	.	2g	E'l	2r	.
-.	.	2g	<E'l	.	.	.	.	.	.
-2r	.	.	.	.	.	2a	lan-	2.dd	E'l
+2G	-ce,	4g	-ce,	0r	.	2g	E 'l	2r	.
+.	.	2g	<E 'l	.	.	.	.	.	.
+2r	.	.	.	.	.	2a	lan-	2.dd	E 'l
 .	.	4f#X	lan-	.	.	.	.	.	.
 1r	.	2g	-guir	.	.	1b-	-guir	.	.
 .	.	.	.	.	.	.	.	4ee	lan-
-.	.	4d	sí	.	.	.	.	2ff	-guir
+.	.	4d	sì	.	.	.	.	2ff	-guir
 .	.	4e	.	.	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-0r	.	4.fn	me	0r	.	8aL	sí	4cc	sí
+0r	.	4.fni	me	0r	.	8aL	sì	4cc	sì
 .	.	.	.	.	.	8g	.	.	.
 .	.	.	.	.	.	8a	.	4dd	me
 .	.	16eLL	.	.	.	8b-J	.	.	.
@@ -247,7 +247,7 @@
 .	.	2A	-ti-	.	.	.	.	2a	.
 .	.	.	.	4f#X	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-0Gl	-re.	0Gl	-re.	0gl	-re.	0ddl	-re.	0bnl	-re.
+0G;l	-re.	0G;l	-re.	0g;l	-re.	0dd;l	-re.	0bn;l	-re.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: xl = terminal long
