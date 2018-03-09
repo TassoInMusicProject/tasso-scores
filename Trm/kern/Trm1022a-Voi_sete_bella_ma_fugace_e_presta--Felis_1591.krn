@@ -21,7 +21,8 @@
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!LO:TX:i:t=<Prima parte>	!	!	!	!	!	!	!	!	!
+!!!OMD: Prima parte
+!!!section: Prima parte
 0r	.	0r	.	1r	.	2r	.	2dd	Voi
 .	.	.	.	.	.	4r	.	4cc	se-
 .	.	.	.	.	.	4g	Voi	4b-	-te
@@ -282,7 +283,8 @@
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 0GGl	-o.	0Gl	-o.	0dl	-o.	0gl	-o.	0bnl	-o.
 =24||	=24||	=24||	=24||	=24||	=24||	=24||	=24||	=24	=24||
-!LO:TX:i:t=<Seconda parte>	!	!	!	!	!	!	!	!	!
+!!!OMD: Seconda parte
+!!!section: Seconda parte
 0r	.	1r	.	4r	.	1r	.	2d	Voi
 .	.	.	.	4d	Voi	.	.	.	.
 .	.	.	.	4c#X	se-	.	.	4e	se-
@@ -555,7 +557,8 @@
 .	.	.	.	.	.	.	.	2f#Xi	.
 1GGl	-co.	1Gl	-co.	1dl	-co.	1bnl	-co.	1gl	-co.
 =50||	=50||	=50||	=50||	=50||	=50||	=50||	=50||	=50||	=50||
-!LO:TX:i:t=<Terza parte>	!	!	!	!	!	!	!	!	!
+!!!OMD: Terza parte
+!!!section: Terza parte
 0r	.	2r	.	2d	Voi	0r	.	4r	.
 .	.	.	.	.	.	.	.	4a	Voi
 .	.	4r	.	4.c	se-	.	.	8eL	se-
@@ -780,7 +783,8 @@
 =71	=71	=71	=71	=71	=71	=71	=71	=71	=71
 0GGl	-cio.	0Gl	-cio.	0gl	-cio.	0bnl	-cio.	0ddl	-cio.
 =72||	=72||	=72||	=72||	=72||	=72||	=72||	=72||	=72||	=72||
-!LO:TX:i:t=Quarta parte	!	!	!	!	!	!	!	!	!
+!!!OMD: Quarta parte
+!!!section: Quarta parte
 0r	.	0r	.	1B-	Voi	1dd	Voi	2r	.
 .	.	.	.	.	.	.	.	2d	Voi
 .	.	.	.	2A	se-	2cc	se-	4e	se-
