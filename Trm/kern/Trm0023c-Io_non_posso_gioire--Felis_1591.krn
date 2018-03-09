@@ -247,10 +247,10 @@
 .	.	2A	-ti-	.	.	.	.	2a	.
 .	.	.	.	4f#X	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-0G;l	-re.	0G;l	-re.	0g;l	-re.	0dd;l	-re.	0bn;l	-re.
+0Gl	-re.	0Gl	-re.	0gl	-re.	0ddl	-re.	0bnl	-re.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: xl = terminal long
+!!!RDF**kern: l = terminal long
 !!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2016/02/13/
