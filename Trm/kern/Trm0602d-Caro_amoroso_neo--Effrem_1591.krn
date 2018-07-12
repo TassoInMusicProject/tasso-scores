@@ -22,7 +22,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!!LO:TX:i:a:t=Prima parte
+!!LO:TX:a:B:t=Prima parte
 0r	.	0r	.	0r	.	1r	.	2dd	Ca-
 .	.	.	.	.	.	.	.	4dd	-ro a-
 .	.	.	.	.	.	.	.	4b	-mo-
@@ -259,9 +259,9 @@
 .	.	.	.	2e	.	2a	le-	.	.
 .	.	.	.	.	.	.	.	4cc#X	le-
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30
-0D	-i!	0d	-i!	0f#X	-i!	0a	-i!	0dd	-i!
-=31||	=31||	=31||	=31||	=31||	=31||	=31||	=31||	=31||	=31||
-!!LO:TX:i:a:t=Seconda parte
+0Dl	-i!	0dl	-i!	0f#Xl	-i!	0al	-i!	0ddl	-i!
+==31	==31	==31	==31	==31	==31	==31	==31	==31	==31
+!!LO:TX:a:B:t=Seconda parte
 0r	.	1r	.	0r	.	1r	.	1dd	For-
 .	.	2r	.	.	.	4r	.	2b	-se
 .	.	.	.	.	.	4g	del	.	.
@@ -510,8 +510,8 @@
 0Gl	-de?	0dl	-de?	0Gl	-de?	0gl	-de?	0bl	-de?
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: l = terminal long
 !!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END: 2017/11//
 !!!EED: Emiliano Ricciardi
