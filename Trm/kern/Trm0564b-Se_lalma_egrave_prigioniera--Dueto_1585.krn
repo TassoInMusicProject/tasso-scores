@@ -24,8 +24,7 @@
 *omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*
 =1-	=1-	=1-	=1-
-!!!OMD: [Prima parte]
-!!section: Prima parte
+!!LO:TX:i:a:t=Prima parte
 0r	.	1g	Se
 .	.	2f	l'al-
 .	.	2f	-ma &egrave;
@@ -190,8 +189,7 @@
 *k[b-]	*	*k[b-]	*
 *omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*
-!!!OMD: Seconda parte
-!!section: Seconda parte
+!!LO:TX:i:a:t=Seconda parte
 1f	Ma	1dd	Ma
 2f	qual	2cc	qual
 [2d	de-	[2b-	de-

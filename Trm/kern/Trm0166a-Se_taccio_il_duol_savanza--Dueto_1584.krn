@@ -25,8 +25,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
-!!!OMD: Prima parte
-!!section: Prima parte
+!!LO:TX:i:a:t=Prima parte
 0r	.	2c	Se	2cc	Se	2ee	Se
 .	.	2f	tac-	2cc	tac-	2.ff	tac-
 .	.	2c	-cio,	2cc	-cio,	.	.
@@ -267,8 +266,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
-!!!OMD: Seconda parte
-!!section: Seconda parte
+!!LO:TX:i:a:t=Seconda parte
 2G	Ma	2d	Ma	0r	.	2b	Ma
 4c	pur	4e	pur	.	.	4cc	pur
 4.F	pren-	4.f	pren-	.	.	4.cc	pren-
