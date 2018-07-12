@@ -1,0 +1,179 @@
+!!!COM: Costanzo, Alessandro di
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a quattro voci
+!!!PPP: Naples
+!!!PPR: Sottile
+!!!PDT: 1604
+!!!RISM: 1616-13
+!!!rime: 284
+!!!OTL:	Questa vostra pietade (i.e., Questa vostra pietate, Rime 284)
+!!!AGN: Madrigal
+!!!SCT: Trm0284l
+!!!SCA: Trm0284l
+!!!voices:
+**kern	**text
+*I"Basso	*
+*I'B	*
+*clefF4	*
+*k[]	*
+*M4/2	*
+=1	=1
+2.A	Que-
+4C#X	-sta
+4C#X	vo-
+8C#XL	-stra
+8DJ	pie-
+2E	-ta-
+=2	=2
+8EL	-de
+8E	Non
+8E	re-
+8F#XJ	-fri-
+2.G	-ge-
+4G	-rio al
+4.F#X	co-
+8G	.
+=3	=3
+1A	.
+1E	-re,
+=4	=4
+8r	.
+8E	Non
+8EL	re-
+8FJ	-fri-
+2G	-ge-
+8DL	-rio,
+8D	Non
+8D	re-
+8EJ	-fri-
+4.F#X	-ge-
+8G	-rio al
+=5	=5
+0A	co-
+=6	=6
+2D	-re
+4r	.
+4G	Ma
+4E	dà
+4.D	for-
+8D	-z'al-
+4BB-X	-l'ar-
+=7	=7
+4AA	-do-
+4AA	-re,
+4r	.
+4A	<Ma
+4F	dà
+4.E	for-
+8E	-z'al-
+4C	-l'ar-
+=8	=8
+2BB	-do-
+2E	-re;>
+2r	.
+[2C	Dun-
+=9	=9
+4C]	.
+4C	-que
+2.E	d'es-
+4E	-ser
+2E	pie-
+=10	=10
+2AA	-to-
+2A	-sa ho-
+2.c	-mai
+4E	ces-
+=11	=11
+2G	-sa-
+2G	-te
+4r	.
+4.E	In
+8G	co-
+4E	-sì
+=12	=12
+2.A	stra-
+4G	-na
+2F	gui-
+2F	-sa,
+=13	=13
+8r	.
+8E	Che
+8DL	ne
+8CJ	sia
+1BB	l'A-
+2FF#X	-m'an-
+=14	=14
+1AA	-ci-
+2D	-sa,
+4r	.
+4D	Poi
+=15	=15
+4.E	ch'el-
+8BB	-la
+4C	vi
+4E	de-
+2C	-si-
+2GG	-a
+=16	=16
+2r	.
+2E	O in
+2A	e-
+[2A	-stre-
+=17	=17
+4A]	.
+4A	-mo
+2G	cru-
+2F#X	-del
+4r	.
+4G	o in
+=18	=18
+2E	tut-
+2BB	-to
+1D	pi-
+=19	=19
+1GG	-a,
+4r	.
+4G	Poi
+4.A	ch'el-
+8E	-la
+=20	=20
+4F	vi
+4A	de-
+2F	-si-
+1C	-a,
+=21	=21
+2r	.
+2AA	O in
+2D	e-
+[2D	-stre-
+=22	=22
+4D]	.
+4D	-mo
+2C	cru-
+1BB	-del
+=23	=23
+2r	.
+2E	o in
+2C	tut-
+2GG#X	-to
+=24	=24
+1BB	pi-
+1E	-a,
+=25	=25
+1A	o in
+2F	tut-
+2C#X	-to
+=26	=26
+1E	pi-
+[1AAl	-a.
+=27	=27
+0AA]	.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2017/11
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/07/09
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/07/09 and edited by Craig Stuart Sapp

@@ -5,7 +5,7 @@
 !!!OTL-rime: O fuggitiva e timidetta fiera
 !!!PTL: Il primo libro de madrigali a tre voci
 !!!PPP: Venice
-!!!PPR: Gardano
+!!!PPR: Vincenzi & Amadino
 !!!PDT: 1589
 !!!RISM: Z0160
 !!!AGN: Madrigal
@@ -344,7 +344,7 @@
 0Gl	-da.	0gl	-da.	0bnil	-da.
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!RDF**kern: xl = terminal long
+!!!RDF**kern: l = terminal long
 !!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2012///
@@ -352,7 +352,3 @@
 !!!EEV: 2017/02/13/
 !!!YEC: Copyright 2013 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML and edited on 2013/08/19/ by Craig Sapp
-!!muse2ps: i2I150l2550t240v105,105,112z21c160
-!!muse2ps: T^@{OTL} (i.e., @{OTL-rime}, <i>Rime</i> @{rime})^
-!!muse2ps: u^@{COM}, <i>@{PTL}</i> (@{PPP}: @{PPR}, @{PDT})^
-!!muse2ps: C^ ^

@@ -385,7 +385,7 @@
 0GGl	-o.	0Gl	-o.	0d]	.	0gl	-o.	0bnl	-o.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: xl = terminal long
+!!!RDF**kern: l = terminal long
 !!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2013///
@@ -393,7 +393,3 @@
 !!!EEV: 2013/08/19/
 !!!YEC: Copyright 2013 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML and edited on 2013/08/19/ by Craig Sapp
-!!muse2ps: i2I150l2500t300v95,95,95,95,120Q16c65z21
-!!muse2ps: T^@{OTL} (<i>Rime</i> @{rime})^
-!!muse2ps: u^@{COM}, <i>@{PTL}</i> (@{PPP}: @{PPR}, @{PDT})^
-!!muse2ps: C^ ^

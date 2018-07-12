@@ -1,0 +1,170 @@
+!!!COM: Costanzo, Alessandro di
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a quattro voci
+!!!PPP: Naples
+!!!PPR: Sottile
+!!!PDT: 1616
+!!!RISM: 1616-13
+!!!rime: 333
+!!!OTL:	Gelo ha Madonna il seno
+!!!AGN: Madrigal
+!!!SCT: Trm0333l
+!!!SCA: Trm0333l
+!!!voices:
+**kern	**text
+*I"Basso	*
+*I'B	*
+*clefF4	*
+*k[]	*
+*M4/2	*
+=1	=1
+1G	Ge-
+2B	-lo ha
+2E	Ma-
+=2	=2
+2G	-don-
+2BB	-na il
+1D	se-
+=3	=3
+2D	-no
+4r	.
+4G	e
+8AL	fiam-
+8G	.
+8F	.
+8EJ	.
+4D	.
+4D	-ma il
+=4	=4
+4E	vol-
+8DL	.
+8CJ	.
+2G	.
+1C	-to;
+=5	=5
+2r	.
+4B-X	Io
+4B-i	son
+2.B-i	ghiac-
+8AL	-cio
+8GJ	di
+=6	=6
+2A	fo-
+4A	-re
+4D	E 'l
+4.F	fo-
+8C	-c'ho
+4G	den-
+4D	-tr'ac-
+=7	=7
+2E	-col-
+2AA	-to,
+4r	.
+4AA	<E 'l
+4.C	fo-
+8GG	-c'ho
+=8	=8
+4D	den-
+4BB-X	-tr'ac-
+2AA	-col-
+1D	-to.>
+=9	=9
+1r	.
+2r	.
+2G	Que-
+=10	=10
+4E	-st'a-
+2F	-vien
+8EL	per-
+8EJ	-ch'A-
+1D	-mo-
+=11	=11
+2C	-re
+2r	.
+8r	.
+8A	Ne
+8AL	la
+8AJ	sua
+4G	fron-
+4G	-te al-
+=12	=12
+8FL	-ber-
+8E	-ga e
+8F	nel
+8GJ	mio
+2A	pet-
+2D	-to,
+8r	.
+8AA	e
+8CL	nel
+8DJ	mio
+=13	=13
+2E	pet-
+8DL	-to,
+8D	<e
+8F	nel
+8GJ	mio
+2A	pet-
+2D	-to,>
+=14	=14
+4r	.
+4C	Né
+4E	mai
+2BB	can-
+8DL	-gia
+8AAJ	ri-
+2C	-cet-
+=15	=15
+2FF	-to,
+4r	.
+4C	<Né
+4E	mai
+2BB	can-
+8DL	-gia
+8AAJ	ri-
+=16	=16
+2C	-cet-
+2F	-to>
+2r	.
+[2c	Sì
+=17	=17
+4c]	.
+4A	ch'io
+2.G	l'hab-
+4G	-bia
+2F#X	ne
+=18	=18
+2G	gl'oc-
+2E	-chi el-
+2C#X	-la
+2F#X	nel
+=19	=19
+1A	co-
+2D	-re,
+[2F	<Sì
+=20	=20
+!LO:TX:t=Alessandro Di Costanzo, “Gelo ha Madonna il seno,” 1604 (Trm0333l; Nov 2017)	!
+4F]	.
+4D	ch'io
+2.C	l'hab-
+4C	-bia
+2BB	ne-
+=21	=21
+2C	-gl'oc-
+2AA	-chi el-
+2FF#X	-la
+2BB	nel
+=22	=22
+1D	co-
+[1GGl	-re.>
+=23	=23
+0GG]	.
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/07/09
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/07/09 and edited by Craig Stuart Sapp

@@ -273,10 +273,11 @@
 .	.	2d	-ven-	.	.	2dd	-ven-
 .	.	.	.	4b	-ven-	.	.
 =24	=24	=24	=24	=24	=24	=24	=24
-0C;l	-to.>	0c;l	-to.	0cc;l	-to.	0ee;l	-to.
+0Cl	-to.>	0cl	-to.	0ccl	-to.	0eel	-to.
 !!LO:LB:i:g=z
 =25||	=25||	=25||	=25||	=25||	=25||	=25||	=25||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+*oclefC4	*	*oclefC3	*	*oclefG2	*	*oclefG2	*
 *clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
@@ -499,7 +500,7 @@
 0Fl	-no.	0Fl	-no.	0al	-no.>	0ccl	-no.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: xl = terminal long
+!!!RDF**kern: l = terminal long
 !!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2012///
@@ -507,7 +508,3 @@
 !!!EEV: 2017/02/08/
 !!!YEC: Copyright 2013 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML and edited on 2013/08/18/ by Craig Sapp
-!!muse2ps: i2I150l2300t400v110,110,110,120c65z21
-!!muse2ps: T^@{OTL} (<i>Rime</i> @{rime})^
-!!muse2ps: u^@{COM}, <i>@{PTL}</i> (@{PPP}: @{PPR}, @{PDT})^
-!!muse2ps: C^ ^

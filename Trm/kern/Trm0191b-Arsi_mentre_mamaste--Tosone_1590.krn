@@ -12,7 +12,6 @@
 !!!SCT: Trm0191b
 !!!SCA: Trm0191b
 !!!voices: 4
-!!incipit: 2
 !!!OMD: [Prima parte]
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -91,11 +90,12 @@
 .	.	.	.	.	.	2b	pet-
 .	.	4G#X	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9
-0A;l	-to.	0A;l	-to.	0e;l	-to.	0cc#X;l	-to.
+0Al	-to.	0Al	-to.	0el	-to.	0cc#Xl	-to.
 !!LO:LB:i:g=z
 =10||	=10||	=10||	=10||	=10||	=10||	=10||	=10||
 !!!OMD: [Seconda parte]
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+*oclefC4	*	*oclefC3	*	*oclefC2	*	*oclefG2	*
 *clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
@@ -326,7 +326,7 @@
 1Al	-me.	1c#Xl	-me.	1el	-me.	1al	-me.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: xl = terminal long
+!!!RDF**kern: l = terminal long
 !!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2012///
@@ -334,7 +334,3 @@
 !!!EEV: 2017/02/08/
 !!!YEC: Copyright 2013 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML and edited on 2013/08/18/ by Craig Sapp
-!!muse2ps: i2I150l2300t400v110,110,110,120Q16c65z21
-!!muse2ps: T^@{OTL} (i.e., @{OTL-rime}, <i>Rime</i> @{rime})^
-!!muse2ps: u^@{COM}, <i>@{PTL}</i> (@{PPP}: @{PPR}, @{PDT})^
-!!muse2ps: C^ ^

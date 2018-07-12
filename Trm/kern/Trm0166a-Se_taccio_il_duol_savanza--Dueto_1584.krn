@@ -258,10 +258,11 @@
 .	.	.	.	4b	mar-	4dd	mar-
 .	.	.	.	2a	-ti-	2dd	-ti-
 =25	=25	=25	=25	=25	=25	=25	=25
-0G;l	-ra.>	0d;l	-ra.>	0b;l	-ra.	0dd;l	-ra.
+0Gl	-ra.>	0dl	-ra.>	0bl	-ra.	0ddl	-ra.
 !!LO:LB:i:g=z
 =26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
+*oclefC4	*	*oclefC3	*	*oclefG2	*	*oclefG2	*
 *clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
@@ -467,7 +468,3 @@
 !!!EEV: 2013/08/18/
 !!!YEC: Copyright 2013 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML and edited on 2013/08/18/ by Craig Sapp
-!!muse2ps: i2I150l2300t400v110,110,110,120Q16c65z21
-!!muse2ps: T^@{OTL} (<i>Rime</i> @{rime})^
-!!muse2ps: u^@{COM}, <i>@{PTL}</i> (@{PPP}: @{PPR}, @{PDT})^
-!!muse2ps: C^ ^

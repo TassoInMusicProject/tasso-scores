@@ -1,23 +1,25 @@
-Fornaci, Giacomo
+!!!COM: Fornaci, Giacomo
 !!!CDT: <1616->1622
 !!!PTL: Amorosi respiri
 !!!PPP: Venice
-!!!PPR: Vincenti
+!!!PPR: G. Vincenzi
 !!!PDT: 1617
 !!!RISM: F1522
 !!!rime: 418
 !!!OTL: Ardi e gela a tua voglia
 !!!AGN: Madrigal
-!!!SCT: Trm0418w
-!!!SCA: Trm0418w
+!!!SCT: Trm0418ze
+!!!SCA: Trm0418ze
 !!!voices: 2
 **kern	**kern	**text
 *part2	*part1	*part1
 *staff2	*staff1	*staff1
 *I"[Basso Continuo]	*I"[Canto]	*
-*I'[BC]	*I'[C]	*
+*I'BC	*I'C	*
+*oclefF4	*oclefC1	*
 *clefF4	*clefG2	*
 *k[]	*k[]	*
+*omet(C)	*omet(C)	*
 *M4/2	*M4/2	*
 =1-	=1-	=1-
 !!LO:TX:a:t=Voce sola[.] Amor disprezzato. Risposta.
@@ -196,10 +198,10 @@ Fornaci, Giacomo
 .	4a	in-
 .	2a	-sa-
 =26	=26	=26
-0GG;l	0g;l	-no.
+0GGl	0gl	-no.
 ==	==	==
 *-	*-	*-
-!!!RDF**kern: xl = terminal long
+!!!RDF**kern: l = terminal long
 !!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2016/02/13/

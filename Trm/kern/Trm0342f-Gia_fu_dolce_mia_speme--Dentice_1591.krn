@@ -1,0 +1,288 @@
+!!!COM: Dentice, Scipione
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a cinque voci
+!!!PPP: Naples
+!!!PPR: Cancer
+!!!PDT: 1591
+!!!RISM: D1660
+!!!rime: 342
+!!!OTL:	Già fu dolce mia speme
+!!!AGN: Madrigal
+!!!SCT: Trm0342f
+!!!SCA: Trm0342f
+!!!voices:
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Alto	*	*I"Canto	*
+*I'B	*	*I'A	*	*I'C	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1
+0r	.	2r	.	2a	Già
+.	.	2a	Già	1cc	fu
+.	.	1f	fu	.	.
+.	.	.	.	2dd	mia
+=2	=2	=2	=2	=2	=2
+0r	.	2e	mia	2.cc	dol-
+.	.	2.f	dol-	.	.
+.	.	.	.	4b	-ce
+.	.	.	.	1a	spe-
+.	.	4g	-ce	.	.
+.	.	[2a	spe-	.	.
+=3	=3	=3	=3	=3	=3
+1r	.	2a]	.	1b	-me
+.	.	2g#X	.	.	.
+2r	.	1a	-me	1r	.
+2A	As-	.	.	.	.
+=4	=4	=4	=4	=4	=4
+2c	-sai	2r	.	0r	.
+2.A	de-	2a	As-	.	.
+.	.	2cc	-sai	.	.
+4G	-bo-	.	.	.	.
+2F	-le e	[2a	de-	.	.
+=5	=5	=5	=5	=5	=5
+1B-X	len-	4a]	.	0r	.
+.	.	4g	-bo-	.	.
+.	.	2f	-le e	.	.
+1A	-ta,	2f	len-	.	.
+.	.	2e	-ta,	.	.
+=6	=6	=6	=6	=6	=6
+1r	.	0r	.	0r	.
+4r	.	.	.	.	.
+4C	Hor	.	.	.	.
+4E	cre-	.	.	.	.
+4F	-sce	.	.	.	.
+=7	=7	=7	=7	=7	=7
+1G	sì	1r	.	1r	.
+4r	.	2e	Hor	4r	.
+2c	ch'el-	.	.	4cc	Hor
+.	.	4g	cre-	4ee	cre-
+8BL	-la	4a	-sce	4ff#X	-sce
+8AJ	pia-	.	.	.	.
+=8	=8	=8	=8	=8	=8
+4G	-cer	4b	sì	1gg	sì
+4E	di-	2cc	ch'el-	.	.
+2G	-ven-	.	.	.	.
+.	.	8bL	-la	.	.
+.	.	8aJ	pia-	.	.
+2c	-ta,	4g	-cer	4r	.
+.	.	4e	di-	2ee	ch'el-
+2r	.	2a	-ven-	.	.
+.	.	.	.	8ddL	-la
+.	.	.	.	8ccJ	pia-
+=9	=9	=9	=9	=9	=9
+4r	.	4g	-ta,	4b	-cer
+2A	<ch'el-	4c	Hor	4cc	di-
+.	.	4e	cre-	2a	-ven-
+8GL	-la	4f	-sce	.	.
+8FJ	pia-	.	.	.	.
+4E	-cer	4g	sì	2ee	-ta,
+4C	di-	2a	ch'el-	.	.
+2D	-ven-	.	.	2r	.
+.	.	8gL	-la	.	.
+.	.	8fJ	pia-	.	.
+=10	=10	=10	=10	=10	=10
+1C	-ta,>	4e	-cer	1r	.
+.	.	4a	di-	.	.
+.	.	2g	-ven-	.	.
+4r	.	2a	-ta,	4r	.
+4F	Hor	.	.	4a	Hor
+4A	cre-	2r	.	4cc	cre-
+4B	-sce	.	.	4dd	-sce
+=11	=11	=11	=11	=11	=11
+2c	sì	4r	.	4ee	sì
+.	.	4e	Hor	2gg	ch'el-
+2r	.	4g	cre-	.	.
+.	.	4a	-sce	8ffL	-la
+.	.	.	.	8eeJ	pia-
+4r	.	4b	sì	4dd	-cer
+2A	ch'el-	2cc	ch'el-	4a	di-
+.	.	.	.	4.cc	-ven-
+8GL	-la	8bL	-la	.	.
+8FJ	pia-	8aJ	pia-	8dd	.
+=12	=12	=12	=12	=12	=12
+2E	-cer	4b	-cer	0ee	.
+.	.	4g	di-	.	.
+2C	di-	2.a	-ven-	.	.
+1E	-ven-	.	.	.	.
+.	.	8g#XL	.	.	.
+.	.	8f#iJ	.	.	.
+.	.	2g#i	.	.	.
+=13	=13	=13	=13	=13	=13
+2AA	-ta.	2a	-ta.	2ee	-ta.
+4A	Ma,	4a	Ma,	4cc#X	Ma,
+4G	per-	4b	per-	4dd	per-
+2c	-ch'io	2cc	-ch'io	4ee	-ch'io
+.	.	.	.	2gg	spe-
+4A	spe-	4cc	spe-	.	.
+4d	-r'in-	4a	-r'in-	4ff	-r'in-
+=14	=14	=14	=14	=14	=14
+2A	-sie-	2a	-sie-	2ee	-sie-
+2A	-me	4a	-me	2ee	-me
+.	.	4cc	E 'n	.	.
+4r	.	4a	siem	4r	.
+4D	E 'n	2dd	hab-	4ff	E 'n
+2G	siem	.	.	4dd	siem
+.	.	4b	-bia	[4gg	hab-
+=15	=15	=15	=15	=15	=15
+2E	hab-	2g	di-	4gg]	.
+.	.	.	.	2cc	-bia
+4F	-bia	4.a	-let-	.	.
+4D	di-	.	.	4dd	di-
+.	.	8b	.	.	.
+1C	-let-	2cc	.	1ee	-let-
+.	.	[2g	-to,	.	.
+=16	=16	=16	=16	=16	=16
+1G	-to,	2g]	.	1dd	-to,
+.	.	4r	.	.	.
+.	.	4g	Mai	.	.
+1r	.	4.g	non	1r	.
+.	.	8f	a-	.	.
+.	.	4e	-dem-	.	.
+.	.	4a	-pie a-	.	.
+=17	=17	=17	=17	=17	=17
+0r	.	1g	-mor,	2r	.
+.	.	.	.	4r	.
+.	.	.	.	4cc	Mai
+.	.	4r	.	4.cc	non
+.	.	4a	<Mai	.	.
+.	.	.	.	8b	a-
+.	.	4.a	non	4a	-dem-
+.	.	.	.	4dd	-pie a-
+.	.	8b	a-	.	.
+=18	=18	=18	=18	=18	=18
+0r	.	4cc	-dem-	2.cc	-mor
+.	.	4g	-pie a-	.	.
+.	.	4a	-mor>	.	.
+.	.	4.cc	o-	4.ff	o-
+.	.	8cc	-gni	8ff	-gni
+.	.	4dd	mio af-	4ff	mio af-
+.	.	2b	-fet-	2ee	-fet-
+=19	=19	=19	=19	=19	=19
+2r	.	2cc#X	-to,	2ee	-to,
+4r	.	2r	.	4r	.
+4A	Mai	.	.	4cc	Mai
+4.A	non	1r	.	4.cc	non
+8B	a-	.	.	8dd	a-
+4c	-dem-	.	.	4ee	-dem-
+4G	-pie a-	.	.	4b	-pie a-
+=20	=20	=20	=20	=20	=20
+2A	-mor	4r	.	2cc	-mor
+.	.	4a	Mai	.	.
+2r	.	4.a	non	2r	.
+.	.	8g	a-	.	.
+1r	.	4f	-dem-	1r	.
+.	.	4b-X	-pie a-	.	.
+.	.	[2a	-mor	.	.
+=21	=21	=21	=21	=21	=21
+4r	.	4a]	.	1r	.
+4.B-X	o-	4.b-X	o-	.	.
+8B-i	-gni	8b-i	-gni	.	.
+4G	mio af-	4b-i	mio af-	.	.
+2A	-fet-	2a	-fet-	2r	.
+4D	-to,	4a	-to,	4r	.
+[4F	<o-	[4a	o-	[4ff	o-
+=22	=22	=22	=22	=22	=22
+4F]	.	4a]	.	4ff]	.
+4F	-gni	4cc	-gni	4ff	-gni
+2G	mio af-	1b	mio af-	2dd	mio af-
+1E	-fet-	.	.	1ee	-fet-
+.	.	[2g	-fet-	.	.
+=23	=23	=23	=23	=23	=23
+1D	-to;>	2g]	.	2a	-to;
+.	.	2f#X	-to;	4r	.
+.	.	.	.	4a	E
+1r	.	4r	.	4.dd	sem-
+.	.	4a	E	.	.
+.	.	.	.	8dd	-pre il
+.	.	4.b	sem-	4dd	mio
+.	.	.	.	4ee	pia-
+.	.	8b	-pre il	.	.
+=24	=24	=24	=24	=24	=24
+1r	.	4b	mio	1dd	-ce-
+.	.	4cc	pia-	.	.
+.	.	2b	-ce-	.	.
+4r	.	2cc	-re	2ee	-re
+4C	E	.	.	.	.
+4.c	sem-	2r	.	2r	.
+8c	-pre il	.	.	.	.
+=25	=25	=25	=25	=25	=25
+4c	mio	0r	.	2r	.
+4B	pia-	.	.	.	.
+2c	-ce-	.	.	1cc	Tem-
+2F	-re	.	.	.	.
+2D	Tem-	.	.	[2ff	-pran-
+=26	=26	=26	=26	=26	=26
+2G	-pran-	2g	Tem-	2ff]	.
+2C	-do	1a	-pran-	2ee	-do
+[1D	va,	.	.	[1dd	va,
+.	.	2g	-do	.	.
+=27	=27	=27	=27	=27	=27
+1D]	.	1f#X	va,	1dd]	.
+1r	.	4r	.	4r	.
+.	.	2b	E	4dd	E
+.	.	.	.	2ee	sem-
+.	.	[4cc	sem-	.	.
+=28	=28	=28	=28	=28	=28
+0r	.	4cc]	.	4a	-pre il
+.	.	4g	-pre il	2cc	mio
+.	.	2.a	mio	.	.
+.	.	.	.	4dd	pia-
+.	.	.	.	4.cc	-ce-
+.	.	4g	pia-	.	.
+.	.	.	.	8b	.
+.	.	2f#X	-ce-	2a	.
+=29	=29	=29	=29	=29	=29
+4r	.	2g	-re	2g	-re,
+2c	E	.	.	.	.
+.	.	2r	.	2r	.
+2d	sem-	.	.	.	.
+.	.	1r	.	1r	.
+4A	-pre il	.	.	.	.
+[2B-X	mio	.	.	.	.
+=30	=30	=30	=30	=30	=30
+4B-]	.	2r	.	0r	.
+4F	pia-	.	.	.	.
+2G	-ce-	1g	Tem-	.	.
+2C	-re	.	.	.	.
+2r	.	[2cc	-pran-	.	.
+=31	=31	=31	=31	=31	=31
+2D	Tem-	2cc]	.	1r	.
+1d	-pran-	2b	-do	.	.
+.	.	1a	va,	4r	.
+.	.	.	.	4ee	per-
+2c#X	-do	.	.	4ee	-ch'io
+.	.	.	.	4ee	mag-
+=32	=32	=32	=32	=32	=32
+2d	va,	4r	.	2ff#X	-gior,
+.	.	4a	per-	.	.
+2r	.	4a	-ch'io	4r	.
+.	.	4a	mag-	4dd	per-
+4r	.	2.b	-gior	4dd	-ch'io
+4G	per-	.	.	4dd	mag-
+4G	-ch'io	.	.	[2gg	-gior
+4G	mag-	[4g	lo	.	.
+=33	=33	=33	=33	=33	=33
+2E	-gior	4g]	.	2gg]	.
+.	.	4.cc	spe-	.	.
+2A	lo	.	.	2ee	lo
+.	.	8b	.	.	.
+.	.	2a	.	.	.
+1E	spe-	.	.	1ee	spe-
+.	.	8g#XL	.	.	.
+.	.	8f#iJ	.	.	.
+.	.	2g#i	.	.	.
+=34	=34	=34	=34	=34	=34
+0AAl	-re.	0al	-re.	0eel	-re.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2017/11
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/07/09
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/07/09 and edited by Craig Stuart Sapp

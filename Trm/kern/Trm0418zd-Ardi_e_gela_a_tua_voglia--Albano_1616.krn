@@ -4,12 +4,12 @@
 !!!PPP: Naples
 !!!PPR: Carlino
 !!!PDT: 1616
-!!!RISM: 
+!!!RISM: A0600
 !!!rime: 418
 !!!OTL: Ardi e gela a tua voglia
 !!!AGN: Madrigal
-!!!SCT: Trm0418v
-!!!SCA: Trm0418v
+!!!SCT: Trm0418zd
+!!!SCA: Trm0418zd
 !!!voices: 3
 !!!ONB: Basso not extant
 **kern	**text	**kern	**text
@@ -17,8 +17,10 @@
 *staff2	*staff2	*staff1	*staff1
 *I"Alto	*	*I"Canto Primo	*
 *I'A	*	*I'C	*
+*oclefC2	*	*oclefC1	*
 *clefG2	*	*clefG2	*
 *k[]	*	*k[]	*
+*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*
 !!LO:TX:a:t=Madrigale a tre. [Basso not extant]
 !	!	!	!
@@ -161,10 +163,10 @@
 2a	.	.	.
 4g#X	.	.	.
 =15	=15	=15	=15
-0a;l	-no.	0a;l	-no.
+0al	-no.	0al	-no.
 ==	==	==	==
 *-	*-	*-	*-
-!!!RDF**kern: xl = terminal long
+!!!RDF**kern: l = terminal long
 !!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2016/02/13/

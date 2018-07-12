@@ -17,8 +17,10 @@
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Sesto	*	*I"Canto	*
 *I'B	*	*I'Q	*	*I'T	*	*I'A	*	*I'S	*	*I'C	*
+*oclefF3	*	*oclefC3	*	*oclefC3	*	*oclefC2	*	*oclefG2	*	*oclefG2	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
 0r	.	0r	.	0r	.	2g	Men-	2dd	Men-	1r	.
@@ -34,7 +36,7 @@
 4B-	-tre	.	.	4d	-tre	4b-	-tre	.	.	2f	-ri,
 4A	mia	.	.	4c	mia	4f	mia	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-2G	stel-	2d	Men-	2B-	stel-	2g	sel-	1r	.	0r	.
+2G	stel-	2d	Men-	2B-	stel-	2g	stel-	1r	.	0r	.
 2F#X	-la	4d	-tre	2A	-la	2a	-la	.	.	.	.
 .	.	4c	mia	.	.	.	.	.	.	.	.
 2G	mi-	2B-	stel-	2G	mi-	1d	mi-	2dd	Men-	.	.
@@ -56,7 +58,7 @@
 4F	mia	.	.	.	.	2d	mi-	4a	ce-	.	.
 2E-X	stel-	2G	Men-	2r	.	.	.	2g	-le-	1r	.
 .	.	.	.	.	.	4c	.	.	.	.	.
-2D	-la	4A	-tre	4r	.	2d	-ri	2fn	-sti	.	.
+2D	-la	4A	-tre	4r	.	2d	-ri	2f	-sti	.	.
 .	.	4F	mia	4A	Men-	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 2C	mi-	4G	stel-	4c	-tre	2r	.	2e-X	gi-	1r	.
@@ -87,44 +89,44 @@
 2D	Il	2d	gi-	4f	-sti	2a	Il	2dd	Il	2ff	gi-
 .	.	.	.	[4a	gi-	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-2A	ciel'	1A	-ri,	4a]	.	2a	ciel'	2cc#X	ciel'	1ee	-ri,
+2A	cie-	1A	-ri,	4a]	.	2a	cie-	2cc#X	cie-	1ee	-ri,
 .	.	.	.	8gL	.	.	.	.	.	.	.
 .	.	.	.	8fJ	.	.	.	.	.	.	.
-2c#X	es-	.	.	2e	.	2.a	es-	2ee	es-	.	.
+2c#X	-l'es-	.	.	2e	.	2.a	-l'es-	2ee	-l'es-	.	.
 2d	-ser	2r	.	1d	-ri,	.	.	4ff	-ser	1r	.
 .	.	.	.	.	.	4a	-ser	4ff	vor-	.	.
 2G	vor-	2d	Il	.	.	2b-	vor-	[2dd	-re-	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-1A	-re-	2f	ciel'	1r	.	1a	-re-	4dd]	.	0r	.
+1A	-re-	2f	cie-	1r	.	1a	-re-	4dd]	.	0r	.
 .	.	.	.	.	.	.	.	8cc#iL	.	.	.
 .	.	.	.	.	.	.	.	8bniJ	.	.	.
-.	.	2e	es-	.	.	.	.	2cc#	.	.	.
+.	.	2e	-l'es-	.	.	.	.	2cc#i	.	.	.
 1D	-i,	4f	-ser	2r	.	[1a	-i;	2dd	-i,	.	.
 .	.	4d	vor-	.	.	.	.	.	.	.	.
 .	.	2f	-re-	2d	Il	.	.	4r	.	.	.
 .	.	.	.	.	.	.	.	4dd	Il	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-1r	.	2e	-i,	2c#X	ciel'	1a]	.	2ee	ciel'	2r	.
-.	.	4r	.	2d	es-	.	.	2ff	es-	2dd	Il
+1r	.	2e	-i,	2c#X	cie-	1a]	.	2ee	cie-	2r	.
+.	.	4r	.	2d	-l'es-	.	.	2ff	-l'es-	2dd	Il
 .	.	4d	<Il	.	.	.	.	.	.	.	.
-2r	.	2a	ciel'	2A	-ser	1r	.	4ee	-ser	2cc#X	ciel'
+2r	.	2a	cie-	2A	-ser	1r	.	4ee	-ser	2cc#X	cie-
 .	.	.	.	.	.	.	.	4dd	vor-	.	.
-2A	Il	[2a	es-	2a	vor-	.	.	2cc#X	-re-	2ee	es-
+2A	Il	[2a	-l'es-	2a	vor-	.	.	2cc#X	-re-	2ee	-l'es-
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-4d	ciel'	4a]	.	4.f	-re-	1r	.	1dd	-i;	4ff	-ser
-4D	es-	4a	-ser	.	.	.	.	.	.	4ff	vor-
+4d	cie-	4a]	.	4.f	-re-	1r	.	1dd	-i;	4ff	-ser
+4D	-l'es-	4a	-ser	.	.	.	.	.	.	4ff	vor-
 .	.	.	.	8g	.	.	.	.	.	.	.
 4F	-ser	2f	vor-	2a	.	.	.	.	.	2.dd	-re-
 4G	vor-	.	.	.	.	.	.	.	.	.	.
 1A	-re-	1e	-re-	[1a	-i;	2r	.	1r	.	.	.
 .	.	.	.	.	.	.	.	.	.	8cc#iL	.
 .	.	.	.	.	.	.	.	.	.	8bniJ	.
-.	.	.	.	.	.	2e	Per-	.	.	2cc#	.
+.	.	.	.	.	.	2e	Per-	.	.	2cc#i	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 0D	-i;	2f	-i;>	1a]	.	4a	-ché	2r	.	1dd	-i;
 .	.	.	.	.	.	4d	tu	.	.	.	.
 .	.	4r	.	.	.	4f	ri-	2a	Per-	.	.
-.	.	4d	Per-	.	.	4g	-vil-	.	.	.	.
+.	.	4d	Per-	.	.	4g	-vol-	.	.	.	.
 .	.	4f	-ché	2r	.	2.a	-ges-	4dd	-ché	1r	.
 .	.	4f	tu	.	.	.	.	4a	tu	.	.
 .	.	4f	ri-	2A	Per-	.	.	4dd	ri-	.	.
@@ -152,7 +154,7 @@
 .	.	.	.	4e	-vol-	4e	Per-	.	.	4cc#i	-so
 2D	-si	.	.	4f	-ges-	4a	-ché	.	.	2dd	ne'
 .	.	.	.	4f	-si	4d	tu	.	.	.	.
-2d	Fis-	.	.	2f	fis-	4f	ri-	2a	-i,	2dd	lu-
+2d	Fis-	.	.	2f	Fis-	4f	ri-	2a	-i,	2dd	lu-
 .	.	.	.	.	.	4g	-vol-	.	.	.	.
 4A	-so	.	.	2e	-so	4a	-ges-	4r	.	2ccni	-mi
 4A	ne'	.	.	.	.	4a	-si	4ee	Per-	.	.
@@ -172,7 +174,7 @@
 .	.	.	.	.	.	4a	-mi	2dd	lu-	.	.
 .	.	1A	mie-	.	.	1a	mie-	.	.	.	.
 .	.	.	.	4e	-mi	.	.	4cc#X	-mi	.	.
-.	.	.	.	2e	mie-	.	.	2cc#	mie-	.	.
+.	.	.	.	2e	mie-	.	.	2cc#i	mie-	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
 4r	.	4d	-i	2f	-i	4a	-i	2dd	-i	4r	.
 2D	Le	2f	Le	.	.	2a	Le	.	.	2dd	Le
@@ -198,7 +200,7 @@
 .	.	.	.	4d	tue	4f	tue	[4dd	Le	[4ff	Le
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 2F	tue	2A	tue	2a	dol-	2f	dol-	4dd]	.	4ff]	.
-.	.	.	.	.	.	.	.	4cc	tue	4ff	tue
+.	.	.	.	.	.	.	.	4ccni	tue	4ff	tue
 2G	dol-	2d	dol-	4g	-ci	4b-	-ci	2b-	dol-	2dd	dol-
 .	.	.	.	4g	fa-	4g	fa-	.	.	.	.
 2F	-ci	4.A	-ci	2c	-vil-	2.cc	-vil-	4a	-ci	2ff	-ci
@@ -210,7 +212,7 @@
 1D	-vil-	2d	-vil-	1r	.	1a	.	4g]	.	1dd	-vil-
 .	.	.	.	.	.	.	.	8f#iL	.	.	.
 .	.	.	.	.	.	.	.	8eJ	.	.	.
-.	.	2d	-le,	.	.	.	.	2f#	.	.	.
+.	.	2d	-le,	.	.	.	.	2f#i	.	.	.
 1G	-le,	1r	.	2d	Io	1bn	-le,	1g	-le,	1dd	-le,
 .	.	.	.	4d	va-	.	.	.	.	.	.
 .	.	.	.	4d	-gheg-	.	.	.	.	.	.
@@ -326,7 +328,7 @@
 0Gl	-le.	0dl	-le.	0Gl	-le.	0gl	-le.	0bnl	-i.	0ddl	-le
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!RDF**kern: xl = terminal long
+!!!RDF**kern: l = terminal long
 !!!RDF**kern: i = editorial accidental
 !!!ENC: Emiliano Ricciardi
 !!!END: 2017/09/11/

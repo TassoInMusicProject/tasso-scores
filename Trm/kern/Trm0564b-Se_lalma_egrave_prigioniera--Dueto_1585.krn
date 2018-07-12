@@ -182,7 +182,7 @@
 1d	.	.	.
 2c#X	.	.	.
 =24	=24	=24	=24
-0d;l	-da.	0a;]	.
+0dl	-da.	0a]	.
 !!LO:LB:i:g=z
 =25||	=25||	=25||	=25||
 *>B	*>B	*>B	*>B
@@ -382,7 +382,7 @@
 0dl	-re.	0bnl	-re.
 ==	==	==	==
 *-	*-	*-	*-
-!!!RDF**kern: xl = terminal long
+!!!RDF**kern: l = terminal long
 !!!RDF**kern: i = editorial accidental
 !!!ENC:	Emiliano Ricciardi
 !!!END:	2012///
@@ -390,7 +390,3 @@
 !!!EEV:	2017/02/08/
 !!!YEC:	Copyright 2013 Emiliano Ricciardi, All Rights Reserved
 !!!ONB:	Translated from MusicXML and edited on 2013/08/19/ by Craig Sapp
-!!muse2ps: i2I150l2500t300v115,150c170z21
-!!muse2ps: T^@{OTL} (<i>Rime</i> @{rime})^
-!!muse2ps: u^@{COM}, <i>@{PTL}</i> (@{PPP}: @{PPR}, @{PDT})^
-!!muse2ps: C^ ^

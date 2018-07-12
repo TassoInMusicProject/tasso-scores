@@ -1,9 +1,9 @@
 !!!COM: Giovannelli, Ruggiero
 !!!CDT: ~1560-1625/01/07
 !!!OTL: Non &egrave; questa la mano
-!!!PTL: Fiori musicali di diversi auttori a tre voci. Libro secondo
+!!!PTL: Fiori musicali, libro secondo
 !!!PPP: Venice
-!!!PPR: Vincenzi
+!!!PPR: Vincenzi & Amadino
 !!!PDT: 1588
 !!!AGN: Madrigal
 !!!SCT: Trm0047m
@@ -358,14 +358,10 @@
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!RDF**kern: i = editorial accidental
-!!!RDF**kern: xl = terminal long
+!!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END: 2013///
 !!!EED: Emiliano Ricciardi
 !!!EEV: 2017/10/16/
 !!!YEC: Copyright 2013 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML and edited on 2014/11/15/ by Craig Sapp
-!!muse2ps: i2I150l2550t240v105,105,112z21c160
-!!muse2ps: T^@{OTL} (<i>Rime</i> @{rime})^
-!!muse2ps: u^@{COM}, <i>@{PTL}</i> (@{PPP}: @{PPR}, @{PDT})^
-!!muse2ps: C^ ^
