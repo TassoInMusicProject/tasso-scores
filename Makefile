@@ -110,6 +110,11 @@ endif
 ##
 
 
+index:
+	bin/makehmdindex > index.hmd
+
+
+
 ##############################
 #
 # make update -- Download any changes in the Github repositories for
