@@ -1,0 +1,288 @@
+!!!COM: Marotta, Erasmo
+!!!CDT:
+!!!PTL: Aminta musicale di Erasmo Marotta. Il primo libro de madrigali a cinque voci, con un dialogo a otto
+!!!PPP: Venice
+!!!PPR: Gardano
+!!!PDT: 1600
+!!!RISM: M0714
+!!!OTL:	Bello e dolce morir fu certo allora
+!!!act: III
+!!!scene: 2
+!!!verse: 1430
+!!!AGN: 
+!!!SCT: Tam3021430a
+!!!SCA: Tam3021430a
+!!!voices:
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Quinto	*	*I"Canto	*
+*I'B	*	*I'Q	*	*I'C	*
+*clefF4	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1
+1A	Bel-	1c#X	Bel-	2r	.
+.	.	.	.	1a	Bel-
+2A	-lo e	2c#X	-lo e	.	.
+[2D	dol-	2d	dol-	2a	-lo e
+=2	=2	=2	=2	=2	=2
+4D	.	2A	-ce	2a	dol-
+4D	-ce	.	.	.	.
+2D	mo-	2f	mo-	4a	-ce
+.	.	.	.	4b	mo-
+2C	-rir	2e	-rir	2cc	-rir
+2BB	fu	2d	fu	2dd	fu
+=3	=3	=3	=3	=3	=3
+2C	cer-	2e	cer-	2cc	cer-
+2D	-to al-	2d	-to al-	1b	-to al-
+1E	-lo-	1c	-lo-	.	.
+.	.	.	.	[2a	-lo-
+=4	=4	=4	=4	=4	=4
+2.E	-ra	2.B	-ra	2a	.
+.	.	.	.	4g#X	-ra
+4E	Che uc-	4B	Che uc-	4g#X	Che uc-
+4E	-ci-	4B	-ci-	4g#X	-ci-
+4A	-de-	4c	-de-	4a	-de-
+[2G	-re io	[2d	-re io	[2b	-re io
+=5	=5	=5	=5	=5	=5
+2G	.	2d	.	2b	.
+2GG	mi	2B	mi	2b	mi
+1AA	vol-	1A	vol-	1cc	vol-
+=6	=6	=6	=6	=6	=6
+2.E	-si.	2.G#X	-si.	2.b	-si.
+4E	Tu	4G#X	Tu	4b	Tu
+4AA	mi	4A	mi	4cc	mi
+4GG	ne-	4B	ne-	4dd	ne-
+2C	-ga-	2c	-ga-	2ee	-ga-
+=7	=7	=7	=7	=7	=7
+1C	-sti,	2c	-sti,	1ee	-sti,
+.	.	2C	e'l	.	.
+1r	.	2D	ciel	2r	.
+.	.	2E	a	4r	.
+.	.	.	.	4ee	e'l
+=8	=8	=8	=8	=8	=8
+1r	.	2A	cui	4cc	ciel
+.	.	.	.	4ee	a
+.	.	2D	pa-	4dd	cui
+.	.	.	.	4cc	pa-
+2r	.	1E	-re-	1b	-re-
+2E	Ch'io	.	.	.	.
+=9	=9	=9	=9	=9	=9
+4c	pre-	1A	-a	1a	-a
+4B	-cor-	.	.	.	.
+4A	-res-	.	.	.	.
+4G	-si	.	.	.	.
+4.F	col	4r	.	1r	.
+.	.	4A	ch'io	.	.
+8E	mo-	.	.	.	.
+[2D	-ri	4d	pre-	.	.
+.	.	4e	-cor-	.	.
+=10	=10	=10	=10	=10	=10
+2D	.	4f	-res-	1r	.
+.	.	4d	-si	.	.
+2C	la	4e	col	.	.
+.	.	4c	mo-	.	.
+1G	no-	4d	-rir	2r	.
+.	.	4d	la	.	.
+.	.	2d	no-	4r	.
+.	.	.	.	4b	Ch'io
+=11	=11	=11	=11	=11	=11
+1C	-ia,	2c	-ia,	4ee	pre-
+.	.	.	.	4dd	-cor-
+.	.	2r	.	4cc	-res-
+.	.	.	.	4b	-si
+1r	.	1r	.	4a	col
+.	.	.	.	4b	mo-
+.	.	.	.	4cc	-rir
+.	.	.	.	4a	la
+=12	=12	=12	=12	=12	=12
+2r	.	2r	.	4b	no-
+.	.	.	.	2cc	.
+2G	<Ch'io	4r	.	.	.
+.	.	4d	<Ch'io	4b	.
+4A	pre-	4c	pre-	1cc	-ia,
+4G	-cor-	4B	-cor-	.	.
+4F	-res-	4A	-res-	.	.
+4E	-si	4G	-si	.	.
+=13	=13	=13	=13	=13	=13
+4D	col	2.F#X	col	2r	.
+4C	mo-	.	.	.	.
+1BB	-rir	.	.	1dd	col
+.	.	4F#X	mo-	.	.
+.	.	2G#X	-rir	.	.
+2AA	la	[2A	la	2cc	mo-
+=14	=14	=14	=14	=14	=14
+2E	no-	2A	.	4b	-rir
+.	.	.	.	4b	la
+4E	-ia,>	2G#X	no-	2b	no-
+4E	Ch'ap-	.	.	.	.
+4C#X	-pre-	2A	-ia,>	1a	-ia
+4.D	-sta-	.	.	.	.
+.	.	4A	Ch'ap-	.	.
+8D	-ta	.	.	.	.
+4C#X	m'a-	4A	-pre-	.	.
+=15	=15	=15	=15	=15	=15
+1D	-vea,	2B-X	-sta-	2r	.
+.	.	4A	-ta	2dd	Ch'ap-
+.	.	4A	m'a-	.	.
+2r	.	2G	-vea,	4b	-pre-
+.	.	.	.	4.cc	-sta-
+2G	Ch'ap-	2r	.	.	.
+.	.	.	.	8cc	-ta
+.	.	.	.	4b	m'a-
+=16	=16	=16	=16	=16	=16
+4C	-pre-	2r	.	2cc	-vea,
+4.c	-sta-	.	.	.	.
+.	.	4d	Ch'ap-	2r	.
+8c	-ta	.	.	.	.
+4B	m'a-	4d	-pre-	.	.
+2c	-vea,	2e	-sta-	1r	.
+2G	<Ch'ap-	4d	-ta	.	.
+.	.	4d	m'a-	.	.
+=17	=17	=17	=17	=17	=17
+2E	-pre-	4c	-vea,	4r	.
+.	.	4c	<Ch'ap-	4g	Ch'ap-
+2.F	-sta-	4A	-pre-	4a	-pre-
+.	.	2c	-sta-	2a	-sta-
+4F	-ta	4c	-ta	4a	-ta
+2G	m'a-	2B	m'a-	2g	m'a-
+=18	=18	=18	=18	=18	=18
+1C	-vea.>	1c	-vea.>	1.g	-vea.
+1C	Hor	1r	.	.	.
+.	.	.	.	4a	Hor
+.	.	.	.	4b	che
+=19	=19	=19	=19	=19	=19
+2C	che	0r	.	2cc	fat-
+2D	fat-	.	.	4b	-to ha
+.	.	.	.	4a	l'e-
+2E	-to ha	.	.	2g#X	-stre-
+2E	l'e-	.	.	4g#X	-mo
+.	.	.	.	[4cc	De
+=20	=20	=20	=20	=20	=20
+1E	-stre-	1r	.	8ccL	.
+.	.	.	.	8ccJ	la
+.	.	.	.	2b	sua
+.	.	.	.	2a	cru-
+2E	-mo	2r	.	.	.
+.	.	.	.	4g#X	-del-
+4r	.	2c	Hor	2a	-ta-
+[4c	De	.	.	.	.
+=21	=21	=21	=21	=21	=21
+8cL	.	4c	che	2g#X	-de,
+8cJ	la	.	.	.	.
+2B	sua	4d	fat-	.	.
+.	.	4e	-t'a	2r	.
+2A	cru-	4e	l'e-	.	.
+.	.	2e	-stre-	1r	.
+4G#X	-del-	.	.	.	.
+2A	-ta-	4e	-mo	.	.
+.	.	[4e	De	.	.
+=22	=22	=22	=22	=22	=22
+1E	-de,	8eL	.	0r	.
+.	.	8eJ	la	.	.
+.	.	4d	sua	.	.
+.	.	2c	cru-	.	.
+1r	.	2B	-del	.	.
+.	.	[2A	ta-	.	.
+=23	=23	=23	=23	=23	=23
+4E	Ben	2A	.	1r	.
+8EL	sof-	.	.	.	.
+8EJ	-fri-	.	.	.	.
+4E	-rà	4.G#X	.	.	.
+4E	ch'io	.	.	.	.
+.	.	8F#X	.	.	.
+2E	mo-	2G#X	.	4ee	Ben
+.	.	.	.	8eeL	sof-
+.	.	.	.	8eeJ	-fri-
+[2AA	-ia,	2A	-de,	4ee	-rà
+.	.	.	.	4ee	ch'io
+=24	=24	=24	=24	=24	=24
+2AA	.	0r	.	2ee	mo-
+2r	.	.	.	2e	-ia,
+1r	.	.	.	4e	ch'io
+.	.	.	.	2a	mo-
+.	.	.	.	4g#X	-ia,
+=25	=25	=25	=25	=25	=25
+2E	E	4B	E	0r	.
+.	.	2c	tu	.	.
+2F	tu	.	.	.	.
+.	.	2A	sof-	.	.
+2D	sof-	.	.	.	.
+.	.	4B	-frir	.	.
+4E	-frir	4G#X	lo	.	.
+4AA	lo	[4A	de-	.	.
+=26	=26	=26	=26	=26	=26
+2E	de-	4A	.	1r	.
+.	.	4G#X	.	.	.
+2AA	-i,	2A	-i,	.	.
+4A	Ben	2r	.	4cc	Ben
+8AL	sof-	.	.	8ccL	sof-
+8AJ	-fri-	.	.	8ccJ	-fri-
+4A	-rà	[2e	Ben	4cc	-rà
+4A	ch'io	.	.	4cc	ch'io
+=27	=27	=27	=27	=27	=27
+2A	mo-	4e	.	2cc	mo-
+.	.	8eL	sof-	.	.
+.	.	8eJ	-fri-	.	.
+2E	-ia,	4e	-rà	2b	-ia,
+.	.	4e	ch'io	.	.
+1r	.	2e	mo-	4b	E
+.	.	.	.	2cc	tu
+.	.	[2A	-ia,	.	.
+.	.	.	.	[4a	sof-
+=28	=28	=28	=28	=28	=28
+1r	.	2A	.	4a	.
+.	.	.	.	4.b	-frir
+.	.	2r	.	.	.
+.	.	.	.	8g	lo
+.	.	.	.	2cc	de-
+2r	.	2r	.	.	.
+.	.	.	.	4b	.
+4c	Ben	4e	<Ben	2cc	-i,
+8cL	sof-	8eL	sof-	.	.
+8cJ	-fri-	8eJ]	-fri-	.	.
+=29	=29	=29	=29	=29	=29
+4c	-rà	4e	-rà	2r	.
+4c	ch'io	4e	ch'io	.	.
+2c	mo-	1e	mo-	4ee	Ben
+.	.	.	.	8eeL	sof-
+.	.	.	.	8eeJ	-fri-
+4C	-ia,	.	.	4ee	-rà
+4C	ch'io	.	.	4ee	ch'io
+[2E	mo-	[2B	-ia,>	[2ee	mo-
+=30	=30	=30	=30	=30	=30
+2E	.	2B	.	2ee	.
+2E	-ia,	2r	.	2b	-ia,
+1r	.	4r	.	4r	.
+.	.	4A	ch'io	4cc	ch'io
+.	.	[2E	mo-	[2b	mo-
+=31	=31	=31	=31	=31	=31
+1r	.	2E	.	2b	.
+.	.	2E	-ia,	2b	-ia,
+1E	E	1r	.	1r	.
+=32	=32	=32	=32	=32	=32
+2.F	tu	2r	.	2r	.
+.	.	2A	E	2a	E
+4E	sof-	.	.	.	.
+1D	-frir	2.f	tu	2.dd	tu
+.	.	4e	sof-	4cc	sof-
+=33	=33	=33	=33	=33	=33
+1D	lo	1.d	-frir	2b	-frir
+.	.	.	.	2a	lo
+[1E	de-	.	.	2g#X	de-
+.	.	2c	lo	[2a	.
+=34	=34	=34	=34	=34	=34
+1E	.	1B	de-	2a	.
+.	.	.	.	2g#X	.
+1AAl	-i.	1c#Xl	-i.	1al	-i.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2018/06/16
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/07/13
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/07/13 and edited by Craig Stuart Sapp

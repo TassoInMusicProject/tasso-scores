@@ -1,0 +1,208 @@
+!!!COM: Marotta, Erasmo
+!!!CDT:
+!!!PTL: Aminta musicale di Erasmo Marotta. Il primo libro de madrigali a cinque voci, con un dialogo a otto
+!!!PPP: Venice
+!!!PPR: Gardano
+!!!PDT: 1600
+!!!RISM: M0714
+!!!OTL:	Ma la mia bella Silvia disse, "Taci
+!!!act: I
+!!!scene: 2
+!!!verse: 452
+!!!AGN: 
+!!!SCT: Tam1020452a
+!!!SCA: Tam1020452a
+!!!voices:
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Quinto	*	*I"Canto	*
+*I'B	*	*I'Q	*	*I'C	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1
+0r	.	4r	.	0r	.
+.	.	4g	Ma	.	.
+.	.	4a	la	.	.
+.	.	4b	mia	.	.
+.	.	4cc	bel-	.	.
+.	.	4a	-la	.	.
+.	.	4b	Sil-	.	.
+.	.	4cc	-via	.	.
+=2	=2	=2	=2	=2	=2
+1r	.	2a	dis-	2r	.
+.	.	2g	-se,	4dd	"Ta-
+.	.	.	.	4b	-ci,
+2G	Ma	2r	.	2dd	Ta-
+4F	la	4r	.	2dd	-ci,
+4G	mia	4dd	"Non	.	.
+=3	=3	=3	=3	=3	=3
+4E	bel-	4ee	ti	1r	.
+4F#X	-la	4dd	la-	.	.
+4G	Sil-	4b	-gnar,	.	.
+4E	-via	4ee	<Non	.	.
+2F#X	dis-	4dd	ti	4r	.
+.	.	4dd	la-	4dd	Non
+2G	-se,	2b	-gnar,>	4ee	ti
+.	.	.	.	4dd	la-
+=4	=4	=4	=4	=4	=4
+2r	.	4dd	Ta-	2b	-gnar"
+.	.	4b	-ci,	.	.
+4d	"Ta-	1dd	Ta-	4r	.
+4B	-ci,	.	.	4gg	Ma
+2d	Ta-	.	.	2ff#X	la
+2G	-ci,"	2dd	-ci,"	2gg	mia
+=5	=5	=5	=5	=5	=5
+1r	.	1r	.	4ee	bel-
+.	.	.	.	4ff	-la
+.	.	.	.	4gg	Sil-
+.	.	.	.	4ee	-via
+2D	Ma	4r	.	2ff#X	dis-
+.	.	4dd	Ma	.	.
+4E	la	4cc	la	2gg	-se,
+4F	mia	4dd	mia	.	.
+=6	=6	=6	=6	=6	=6
+4G	bel-	4b	bel-	1r	.
+4E	-la	4cc	-la	.	.
+4F#X	Sil-	4dd	Sil-	.	.
+4G	-via	4b	-via	.	.
+2C	dis-	2cc	dis-	4gg	"Ta-
+.	.	.	.	4ee	-ci,
+2C	-se,	4g	-se,	2gg	Ta-
+.	.	[4gg	"Ta-	.	.
+=7	=7	=7	=7	=7	=7
+2c	"Ta-	4gg	.	2ee	-ci,
+.	.	4ee	-ci,	.	.
+2c	-ci,	2gg	Ta-	4r	.
+.	.	.	.	4gg	Non
+2r	.	1ee	-ci,	4aa	ti
+.	.	.	.	4gg	la-
+4r	.	.	.	4ee	-gnar,
+4c	Non	.	.	4ee	Non
+=8	=8	=8	=8	=8	=8
+4d	ti	2r	.	4ff	ti
+4c	la-	.	.	4ee	la-
+4A	-gnar,	4r	.	4cc	-gnar,
+4B	Non	4dd	Non	4dd	<Non
+4c	ti	4ee	ti	4cc	ti
+4d	la-	4dd	la-	4a	la-
+2G	-gnar,	[2b	-gnar,	2g	-gnar,>
+=9	=9	=9	=9	=9	=9
+1G	Fil-	2b	.	1r	.
+.	.	4dd	Ta-	.	.
+.	.	4b	-ci,	.	.
+1G	-li,	2dd	Ta-	2r	.
+.	.	[2g	-ci,	4r	.
+.	.	.	.	4dd	Non
+=10	=10	=10	=10	=10	=10
+4r	.	2g	.	4ee	ti
+4G	Non	.	.	4dd	la-
+4A	ti	2r	.	4cc	-gnar,
+4G	la-	.	.	4gg	<Non
+4E	-gnar,	4r	.	4gg	ti
+4G	Non	4b	Non	4dd	la-
+4E	ti	4cc	ti	2ee	-gnar,>
+4C	la-	4cc	la-	.	.
+=11	=11	=11	=11	=11	=11
+1G	-gnar,	2b	-gnar,	2dd	Fil-
+.	.	1g	Fil-	1cc	.
+2G	Fil-	.	.	.	.
+2G	-li,	4g	-li,	4b	-li,
+.	.	4b	per-	4dd	per-
+=12	=12	=12	=12	=12	=12
+0r	.	2cc	-ch'i-	2ee	-ch'i-
+.	.	4a	-o	4cc	-o
+.	.	4.b-X	Con	4.dd	Con
+.	.	8b-X	pa-	8dd	pa-
+.	.	4b-X	-ro-	4dd	-ro-
+.	.	4b-X	-le	4dd	-le
+.	.	4a	d'in-	4dd	d'in-
+=13	=13	=13	=13	=13	=13
+0r	.	2.a	-can-	2.cc#X	-can-
+.	.	4a	-ti	4cc#X	-ti
+.	.	4a	le-	4dd	le-
+.	.	4a	-ve-	4ee	-ve-
+.	.	2a	-rot-	2dd	-rot-
+=14	=14	=14	=14	=14	=14
+1r	.	[0a	-ti	1cc#X	-ti
+[1A	Il	.	.	[1cc#X	Il
+=15	=15	=15	=15	=15	=15
+2A	.	0a	.	2cc#X	.
+2A	do-	.	.	2cc#X	do-
+1A	-lor,	.	.	1cc#X	-lor,
+=16	=16	=16	=16	=16	=16
+2r	.	0r	.	0r	.
+1c	<Il	.	.	.	.
+2c	do-	.	.	.	.
+=17	=17	=17	=17	=17	=17
+1c	-lor>	0r	.	0r	.
+2r	.	.	.	.	.
+4c	de	.	.	.	.
+4c	la	.	.	.	.
+=18	=18	=18	=18	=18	=18
+4.B	pic-	0r	.	0r	.
+8B	-cio-	.	.	.	.
+4c	-la	.	.	.	.
+4c	fe-	.	.	.	.
+1d	-ri-	.	.	.	.
+=19	=19	=19	=19	=19	=19
+1c	-ta.	1r	.	2r	.
+.	.	.	.	4ee	Il
+.	.	.	.	4ee	do-
+1r	.	2r	.	1ee	-lor,
+.	.	4cc	Il	.	.
+.	.	4cc	do-	.	.
+=20	=20	=20	=20	=20	=20
+0r	.	1cc	-lor	2r	.
+.	.	.	.	4ee	de
+.	.	.	.	4ee	la
+.	.	2r	.	4.dd	pic-
+.	.	.	.	8dd	-cio-
+.	.	4cc	de	[2ee	-la
+.	.	4cc	la	.	.
+=21	=21	=21	=21	=21	=21
+0r	.	4.b	pic-	4ee	.
+.	.	.	.	4ee	fe-
+.	.	8b	-cio-	.	.
+.	.	2.cc#X	-la	1ff	-ri-
+.	.	4cc#X	fe-	.	.
+.	.	[2dd	-ri-	4ee	.
+.	.	.	.	4dd	.
+=22	=22	=22	=22	=22	=22
+2r	.	4dd	.	1ee	.
+.	.	8cc#XL	.	.	.
+.	.	8bJ	.	.	.
+4A	Il	2cc#X	.	.	.
+4A	do-	.	.	.	.
+2F#X	-lor	1dd	-ta	2dd	-ta,
+4G	de	.	.	4b	Il
+4G	la	.	.	4b	do-
+=23	=23	=23	=23	=23	=23
+4.E	pic-	2r	.	2b	-lor
+8E	-cio-	.	.	.	.
+4E	-la	4b	de	4ee	de
+4E	fe-	4b	la	4ee	la
+[1A	-ri-	4.cc	pic-	4.ee	pic-
+.	.	8cc	-cio-	8ee	-cio-
+.	.	2a]	-la	4ee	-la
+.	.	.	.	4dd	fe-
+=24	=24	=24	=24	=24	=24
+1A	.	4a	.	1cc	-ri-
+.	.	4a	fe-	.	.
+.	.	[2a	-ri-	.	.
+[1El	-ta."	2a	.	[1bl	-ta."
+.	.	4g#X	.	.	.
+.	.	4f#X	.	.	.
+=25	=25	=25	=25	=25	=25
+0E]	.	00g#Xl	-ta."	0b]	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2018/04/26
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/07/13
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/07/13 and edited by Craig Stuart Sapp

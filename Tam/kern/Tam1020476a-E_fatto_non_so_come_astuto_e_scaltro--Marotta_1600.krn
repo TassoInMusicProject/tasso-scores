@@ -1,0 +1,363 @@
+!!!COM: Marotta, Erasmo
+!!!CDT:
+!!!PTL: Aminta musicale di Erasmo Marotta. Il primo libro de madrigali a cinque voci, con un dialogo a otto
+!!!PPP: Venice
+!!!PPR: Gardano
+!!!PDT: 1600
+!!!RISM: M0714
+!!!OTL:	E fatto, non so come, astuto e scaltro
+!!!act: I
+!!!scene: 2
+!!!verse: 476
+!!!AGN: 
+!!!SCT: Tam1020476a
+!!!SCA: Tam1020476a
+!!!voices:
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Quinto	*	*I"Canto	*
+*I'B	*	*I'Q	*	*I'C	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1
+1r	.	2dd	E	0r	.
+.	.	4ee	fat-	.	.
+.	.	4ee	-to,	.	.
+2G	E	4dd	non	.	.
+.	.	4b	so	.	.
+4A	fat-	4cc	co-	.	.
+4A	-to,	4a	-me, a-	.	.
+=2	=2	=2	=2	=2	=2
+4G	non	4b	-stu-	1r	.
+4E	so	4g	-to e	.	.
+4F	co-	2a	scal-	.	.
+4D	-me, a-	.	.	.	.
+4E	-stu-	2g	-tro,	2r	.
+4C	-to e	.	.	.	.
+2D	scal-	2r	.	2dd	E
+=3	=3	=3	=3	=3	=3
+2A	-tro,	2r	.	4ee	fat-
+.	.	.	.	4ee	-to,
+2r	.	4r	.	4dd	non
+.	.	4gg	E	4b	so
+2r	.	4ee	fat-	4cc	co-
+.	.	4cc	-to,	4a	-me, a-
+4r	.	4gg	non	4b	-stu-
+4c	<E	4gg	so	4g	-to e
+=4	=4	=4	=4	=4	=4
+4A	fat-	2ff	co-	2.cc	scal-
+4F	-to,	.	.	.	.
+4c	non	2cc	-me	.	.
+4c	so	.	.	4g	-tro,
+4F	co-	1r	.	4r	.
+4G	-me, a-	.	.	2g	a-
+4E	-stu-	.	.	.	.
+4F	-to e	.	.	[4a	-stu-
+=5	=5	=5	=5	=5	=5
+2D	scal-	0r	.	4a	.
+.	.	.	.	4b	-to e
+4C	-tro,>	.	.	4cc	scal-
+4C	Più	.	.	8ccL	-tro
+.	.	.	.	8ccJ	Più
+4G	de	.	.	4b	de
+4A	l'u-	.	.	4a	l'u-
+2E	-sa-	.	.	2g#X	-sa-
+=6	=6	=6	=6	=6	=6
+1E	-to	2r	.	2g#X	-to
+.	.	4r	.	4r	.
+.	.	2g#X	(Guar-	2b	(Guar-
+1r	.	.	.	.	.
+.	.	4g#X	-da	4b	-da
+.	.	4a	quan-	4cc	quan-
+.	.	4b	-to a-	4dd	-to a-
+=7	=7	=7	=7	=7	=7
+0r	.	4cc	-mo-	4ee	-mo-
+.	.	4cc	-r' a-	4ee	-r' a-
+.	.	4a	-guz-	4ff	-guz-
+.	.	4cc	-za	4ee	-za
+.	.	4cc	l'in-	4ff	l'in-
+.	.	4dd	-tel-	4dd	-tel-
+.	.	2ee	-let-	2cc	-let-
+=8	=8	=8	=8	=8	=8
+2r	.	0ff	-to)	1cc	-to)
+4F	Mi	.	.	.	.
+4F	so-	.	.	.	.
+2F	-ven-	.	.	1r	.
+2F	-ne	.	.	.	.
+=9	=9	=9	=9	=9	=9
+4r	.	1r	.	4ff	mi
+4f	d'u-	.	.	4ff	so-
+4d	-n'in-	.	.	2ff	-ven-
+4.B-X	-gan-	.	.	.	.
+.	.	2r	.	1ff	-ne
+8B-X	-no	.	.	.	.
+4B-X	gen-	.	.	.	.
+2F	-ti-	4f	mi	.	.
+.	.	4f	so-	.	.
+=10	=10	=10	=10	=10	=10
+1B-X	-le,	2f	-ven-	4r	.
+.	.	.	.	4ff	D'u-
+.	.	4f	-ne	4dd	-n'in-
+.	.	4ff	D'u-	4.b-X	-gan-
+1r	.	4dd	-n'in-	.	.
+.	.	.	.	8b-X	-no
+.	.	4.dd	-gan-	4b-X	gen-
+.	.	.	.	2ff	-ti-
+.	.	8dd	-no	.	.
+.	.	4b-X	gen-	.	.
+=11	=11	=11	=11	=11	=11
+0r	.	2a	-ti-	2cc	-le,
+.	.	4a	-le,	2r	.
+.	.	2dd	mi	.	.
+.	.	.	.	2r	.
+.	.	4dd	so-	.	.
+.	.	2ff	-ven-	4cc	mi
+.	.	.	.	4cc	so-
+=12	=12	=12	=12	=12	=12
+2r	.	1.ee	-ne,	2cc	-ven-
+4c	Mi	.	.	2cc	-ne
+4c	so-	.	.	.	.
+2c	-ven-	.	.	4r	.
+.	.	.	.	4gg	D'u-
+2c	-ne	4ee	mi	4ee	-n'in-
+.	.	4ee	so-	[4cc	-gan-
+=13	=13	=13	=13	=13	=13
+4r	.	2ee	-ven-	8ccL	.
+.	.	.	.	8ccJ	-no
+4g	d'u-	.	.	4cc	gen-
+4e	-n'in-	4ee	-ne	2g	-ti-
+4.c	-gan-	4gg	D'u-	.	.
+.	.	4ee	-n'in-	4cc	-le,
+8c	-no	.	.	.	.
+4d	gen-	4.dd	-gan-	4a	gen-
+2A	-ti-	.	.	4a	-ti-
+.	.	8dd	-no	.	.
+.	.	4cc#X	gen-	4a	-le,
+=14	=14	=14	=14	=14	=14
+0A	-le,	2ff	-ti-	0r	.
+.	.	2.ee	.	.	.
+.	.	2dd	.	.	.
+.	.	4cc#X	.	.	.
+=15	=15	=15	=15	=15	=15
+2r	.	1dd	-le,	1r	.
+2.d	co'l	.	.	.	.
+.	.	1r	.	2.dd	co'l
+4d	qua-	.	.	.	.
+2G	-l'i-	.	.	.	.
+.	.	.	.	4dd	qua-
+=16	=16	=16	=16	=16	=16
+2D	-o	4r	.	1ff	-l'i-
+.	.	2dd	co'l	.	.
+2D	Re-	.	.	.	.
+.	.	4dd	qua-	.	.
+4A	-car	2cc	-l'i-	2ee	-o
+4B	po-	.	.	.	.
+[2c	-tes-	[2cc	-o	2ee	Re-
+=17	=17	=17	=17	=17	=17
+4c	.	4cc	.	4ee	-car
+4B	-si a	4g	Re-	4dd	po-
+4A	fi-	4a	-car	4cc	-tes-
+4G	-ne il	4b	po-	4b	-si a
+2F	mio	4cc	-tes-	2a	fi-
+.	.	4cc	-si a	.	.
+2D	ta-	4dd	fi-	2ff	-ne il
+.	.	4cc	-ne il	.	.
+=18	=18	=18	=18	=18	=18
+2.E	-len-	4b	mio	4ee	mio
+.	.	4g	ta-	4ee	ta-
+.	.	1cc	-len-	2.gg	-len-
+4F	.	.	.	.	.
+1G	.	.	.	.	.
+.	.	.	.	8ffL	.
+.	.	.	.	8eeJ	.
+.	.	2b	.	2dd	.
+=19	=19	=19	=19	=19	=19
+1C	-to:	1cc	-to:	1ee	-to:
+1r	.	2.ee	Che	2.b	Che
+.	.	4dd#X	fin-	4b	fin-
+=20	=20	=20	=20	=20	=20
+0r	.	2dd#X	-gen-	2b	-gen-
+.	.	4ee	-do	4b	-do
+.	.	4ee	ch'u-	4b	ch'u-
+.	.	2.ffnX	-n'a-	2.b	-n'a-
+.	.	4ffnX	-pe ha-	4b	-pe ha-
+=21	=21	=21	=21	=21	=21
+0r	.	4ffnX	-ves-	4b	-ves-
+.	.	4ee	-se	4b	-se
+.	.	2ee	mor-	2cc	mor-
+.	.	1ee	-so	1b	-so
+=22	=22	=22	=22	=22	=22
+0r	.	4r	.	4r	.
+.	.	2gg	Il	2ee	Il
+.	.	4ff	mio	4dd	mio
+.	.	2ee	lab-	2cc	lab-
+.	.	4dd	-bro	4b	-bro
+.	.	4cc	di	4a	di
+=23	=23	=23	=23	=23	=23
+0r	.	2b	sot-	2g#X	sot-
+.	.	2b	-to,	2g#X	-to,
+.	.	1r	.	4r	.
+.	.	.	.	4b	in-
+.	.	.	.	4cc	-co-
+.	.	.	.	4dd	-min-
+=24	=24	=24	=24	=24	=24
+4r	.	4r	.	4ee	-cia-
+4G	in-	4b	in-	4ee	-i A
+4A	-co-	4cc	-co-	4ee	la-
+4B	-min-	4dd	-min-	4dd	-men-
+4c	-cia-	4ee	-cia-	2.cc	-tar-
+4c	-i A	4ee	-i A	.	.
+4c	la-	4ee	la-	.	.
+4d	-men-	4dd	-men-	[4b	-mi
+=25	=25	=25	=25	=25	=25
+0e	-tar-	2cc	-tar-	4b	.
+.	.	.	.	2a	di
+.	.	2.b	-mi	.	.
+.	.	.	.	4g#X	co-
+.	.	.	.	2cc	-tal
+.	.	2a	di	.	.
+.	.	.	.	[2b	ma-
+.	.	4g#X	co-	.	.
+=26	=26	=26	=26	=26	=26
+1E	-mi,	4cc	-tal	4b	.
+.	.	4cc	ma-	2a	-nie-
+.	.	2b	-nie-	.	.
+.	.	.	.	4g#X	.
+2r	.	1a	-ra,	1a	-ra,
+2A	In-	.	.	.	.
+=27	=27	=27	=27	=27	=27
+4B	-co-	0r	.	0r	.
+4c#X	-min-	.	.	.	.
+4d	-cia-	.	.	.	.
+4d	-i A	.	.	.	.
+4d	la-	.	.	.	.
+4c#X	-men-	.	.	.	.
+2f	-tar-	.	.	.	.
+=28	=28	=28	=28	=28	=28
+2.e	-mi>	0r	.	0r	.
+2d	di	.	.	.	.
+4c#X	co-	.	.	.	.
+4d	-tal	.	.	.	.
+4B	ma-	.	.	.	.
+=29	=29	=29	=29	=29	=29
+1A	-nie-	1r	.	1r	.
+1G	-ra,	2r	.	2r	.
+.	.	2g	Che	2b	Che
+=30	=30	=30	=30	=30	=30
+2r	.	4.g	quel-	4.b	quel-
+.	.	8a	-la	8cc	-la
+4r	.	8bL	me-	8ddL	me-
+.	.	8gJ	-di-	8bJ	-di-
+4c	Che	2cc	-ci-	2ee	-ci-
+4.c	quel-	.	.	.	.
+.	.	4g	-na	4cc	-na
+8d	-la	.	.	.	.
+8eL	me-	4r	.	4r	.
+8cJ	-di-	.	.	.	.
+4f	-ci-	8aL	che	8ccL	che
+.	.	8bJ	la	8ddJ	la
+=31	=31	=31	=31	=31	=31
+2c	-na,	4cc	lin-	4ee	lin-
+.	.	8ccL	-gua	8eeL	-gua
+.	.	8ddJ	Non	8ffJ	Non
+2r	.	4ee	ri-	4gg	ri-
+.	.	4cc	-chie-	2ee	-chie-
+4r	.	1cc	-de-	.	.
+8FL	che	.	.	2ff	-de-
+8GJ	la	.	.	.	.
+4A	lin-	.	.	.	.
+8AL	-gua	.	.	4cc	-va,
+8BJ	non	.	.	.	.
+=32	=32	=32	=32	=32	=32
+4c	ri-	2cc	-va,	1r	.
+4c	-chie-	.	.	.	.
+2c	-de-	4r	.	.	.
+.	.	8ccL	che	.	.
+.	.	8ddJ	la	.	.
+1c	-va,	4ee	lin-	2r	.
+.	.	8eeL	-gua	.	.
+.	.	8ffJ	Non	.	.
+.	.	4gg	ri-	2cc	Che
+.	.	4gg	-chie-	.	.
+=33	=33	=33	=33	=33	=33
+4r	.	2ee	-de-	4.cc	quel-
+4A	Che	.	.	.	.
+.	.	.	.	8dd	-la
+4.A	quel-	2cc	-va,	8eeL	me-
+.	.	.	.	8ccJ	-di-
+.	.	.	.	4ff	-ci-
+8B	-la	.	.	.	.
+8cL	me-	4r	.	4ee	-na
+8AJ	-di-	.	.	.	.
+2d	-ci-	4a	Che	2dd	che
+.	.	4.a	quel-	.	.
+4D	-na	.	.	4dd	la
+.	.	8b	-la	.	.
+=34	=34	=34	=34	=34	=34
+4r	.	8ccL	me-	2ff	lin-
+.	.	8aJ	-di-	.	.
+8DL	che	4dd	-ci-	.	.
+8EJ	la	.	.	.	.
+4F	lin-	4cc	-na	4ff	-gua
+8FL	-gua	4.cc	che	4ff	Non
+8GJ	non	.	.	.	.
+4A	ri-	.	.	4ee	ri-
+.	.	8dd	la	.	.
+4A	-chie-	4ee	lin-	4ee	-chie-
+2A	-de-	4a	-gua	4.cc	-de-
+.	.	4a	Non	.	.
+.	.	.	.	16bL]	.
+.	.	.	.	16aJ]	.
+=35	=35	=35	=35	=35	=35
+1G	-va	4dd	ri-	8bL	.
+.	.	.	.	8gJ	.
+.	.	4ee	-chie-	2cc	.
+.	.	2dd	-de-	.	.
+.	.	.	.	4b	.
+4r	.	2cc	-va	[1cc	-va
+4c	il	.	.	.	.
+4A	vol-	2r	.	.	.
+4E	-to	.	.	.	.
+=36	=36	=36	=36	=36	=36
+4F	ri-	2r	.	0cc	.
+4F	-chie-	.	.	.	.
+2C	-de-	4r	.	.	.
+.	.	4cc	il	.	.
+4F	-va,	4a	vol-	.	.
+4c	<il	4e	-to	.	.
+4A	vol-	4f	ri-	.	.
+4F	-to	4f	-chie-	.	.
+=37	=37	=37	=37	=37	=37
+4c	ri-	4e	-de-	4r	.
+4c	-chie-	4e	-va	4ee	il
+4F	-de-	2r	.	4ff	vol-
+4C	-va,>	.	.	4gg	-to
+4r	.	2cc	il	4aa	ri-
+4E	il	.	.	4gg	-chie-
+4F	vol-	[2cc	vol-	2ff	-de-
+4G	-to	.	.	.	.
+=38	=38	=38	=38	=38	=38
+2A	ri-	4cc	.	4ee	-va,
+.	.	4dd	-to	4a	il
+2A	-chie-	4ee	ri-	4cc	vol-
+.	.	4cc	-chie-	4ee	-to
+2.B	-de-	1dd	-de-	2dd	ri-
+.	.	.	.	2dd	-chie-
+4c	.	.	.	.	.
+=39	=39	=39	=39	=39	=39
+1d	.	0a	.	0dd	-de-
+1D	.	.	.	.	.
+=40	=40	=40	=40	=40	=40
+0Gl	-va.	0bl	-va.	0ddl	-va.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2018/05/17
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/07/13
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/07/13 and edited by Craig Stuart Sapp
