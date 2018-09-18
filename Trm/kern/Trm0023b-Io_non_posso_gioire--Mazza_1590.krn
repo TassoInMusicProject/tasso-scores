@@ -1,0 +1,247 @@
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a sei voci
+!!!PPP: Venice
+!!!PPR: Angelo Gardano
+!!!PDT: 1590
+!!!RISM: M1503
+!!!rime: 23
+!!!AGN: Madrigal
+!!!SCT: Trm0023b
+!!!SCA: Trm0023b
+!!!voices: 6
+!!!COM: Mazza, Francesco
+!!!OTL: Io non posso gioire 
+**kern	**text	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Quinto	*	*I"Tenore	*
+*clefGv2	*	*clefGv2	*
+*k[b-]	*	*k[b-]	*
+*M4/2	*	*M4/2	*
+=1	=1	=1	=1
+4r	.	2d	Io
+4f	Io	.	.
+4e	non	4A	non
+4.d	pos-	4.B-y	pos-
+8d	-so	8B-y	-so
+4c	gio-	4F	gio-
+4c	-i-	4c	-i-
+4d	-re,	8B-yL	.
+.	.	8cJ	.
+=2	=2	=2	=2
+1r	.	1d	.
+2r	.	2c	-re,
+4r	.	4r	.
+4a	Io	4f	Io
+=3	=3	=3	=3
+4g	non	4c	non
+4.f	pos-	4.d	pos-
+8f	-so	8d	-so
+4e	gio-	4A	gio-
+8dL	-i-	8B-yL	-i-
+8e	.	8c	.
+8f	.	8d	.
+8gJ	.	8eJ	.
+2a	.	4f	.
+.	.	4c	-re,
+=4	=4	=4	=4
+4g	-re,	4r	.
+4f	Io	4d	Io
+4f	non	4d	non
+4e	pos-	4.A	pos-
+4f	-so	.	.
+.	.	8B-y	.
+4c	gio-	4c	.
+[2f	-i-	4c	-so
+.	.	4A	gio-
+=5	=5	=5	=5
+4f]	.	4d	-i-
+4e	.	2c	.
+2d	.	.	.
+.	.	4BnX	.
+2e	-re	1c	-re
+4r	.	.	.
+4g	Lun-	.	.
+=6	=6	=6	=6
+4e	-ge	4g	Lun-
+4g	da	4e	-ge
+4c	voi,	4g	da
+4c	che	2c	voi,
+4.c	se-	.	.
+.	.	4e	Lun-
+8d	-te il	.	.
+4e	mio	4e	-ge
+4c	de-	4e	da
+=7	=7	=7	=7
+2c	-si-	2.f	voi,
+2A	-re;	.	.
+.	.	4a	che
+1r	.	4.a	se-
+.	.	8g	-te il
+.	.	4f	mio
+.	.	4f	de-
+=8	=8	=8	=8
+1r	.	2e	-si-
+.	.	2d	-re;
+2r	.	1r	.
+2B-y	Ma'l	.	.
+=9	=9	=9	=9
+2c	mio	0r	.
+2d	pen-	.	.
+4f	-sier	.	.
+4f	fal-	.	.
+2d	-la-	.	.
+=10	=10	=10	=10
+2f	-ce,	2r	.
+2a	Ma'l	2F	Ma'l
+2.g	mio	2.c	mio
+4g	pen-	4G	pen-
+=11	=11	=11	=11
+4g	-sier	4c	-sier
+4f	fal-	4d	fal-
+2f	-la-	2B-y	-la-
+4e	-ce	1c	-ce
+2c	Pas-	.	.
+4e	-sa	.	.
+=12	=12	=12	=12
+2g	mon-	4r	.
+.	.	4c	Pas-
+4c	-ti,	4e	-sa
+4c	cam-	4g	mon-
+1g	-pa-	4e	-ti,
+.	.	4c	cam-
+.	.	4.e	-pa-
+.	.	8f	.
+=13	=13	=13	=13
+4e	-gne,	2g	.
+4e	Pas-	.	.
+4f	-sa	2a	-gne,
+4f	mon-	.	.
+4e	-ti	1r	.
+4e	cam-	.	.
+2a	-pa-	.	.
+=14	=14	=14	=14
+2g	-gne,	4r	.
+.	.	4c	Pas-
+4.c	ma-	4e	-sa
+.	.	4g	mon-
+8d	.	.	.
+8eL	.	4e	-ti,
+8fJ	.	.	.
+2g	.	4c	cam-
+.	.	[2g	-pa-
+4G	-r'e	.	.
+=15	=15	=15	=15
+4B-y	fiu-	2g]	.
+4c	.	.	.
+1d	.	2G	-gne,
+.	.	4G	ma-
+.	.	4A	.
+2d	-mi;	4B-y	.
+.	.	4c	.
+=16	=16	=16	=16
+0r	.	2d	.
+.	.	1G	-r'e
+.	.	[2c	fiu-
+=17	=17	=17	=17
+1r	.	4c]	.
+.	.	4B-y	.
+.	.	4A	.
+.	.	4d	-mi;
+4r	.	4r	.
+4g	E	4G	E
+4g	m'av-	4G	m'av-
+4g	-vi-	4c	-vi-
+=18	=18	=18	=18
+4a	-ci-	4A	-ci-
+4a	-na e	4d	-na e
+2g	sfa-	2d	sfa-
+4f#X	-ce	4d	-ce
+4f#i	Al-	4d	Al
+4f#i	-dol-	4d	dol-
+4g	-ce	4G	-ce
+=19	=19	=19	=19
+4.g	fo-	4.G	fo-
+8g	-co	8G	-co
+4g	de'	4c	de'
+4a	bei	4c	bei
+2.fnXi	vo-	2B-y	vo-
+.	.	2B-y	-stri
+4e	-stri	.	.
+=20	=20	=20	=20
+1d	lu-	1A	lu-
+1d	-mi;	1G	-mi;
+=21	=21	=21	=21
+2r	.	2.B-y	E'l
+2.d	E'l	.	.
+.	.	4c	.
+.	.	[1d	.
+4e	.	.	.
+[2f	.	.	.
+=22	=22	=22	=22
+2f]	.	2d]	.
+2e	lan-	2A	lan-
+1e	-guir	1A	-guir
+=23	=23	=23	=23
+4.e	sì	4.A	sì
+8d	mi	8F#X	mi
+2d	pia-	2G	pia-
+2d	-ce,	2D	-ce,
+2r	.	2r	.
+=24	=24	=24	=24
+1r	.	1r	.
+4r	.	2d	Ch'in-
+4d	Ch'in-	.	.
+4e	-fi-	4A	-fi-
+4f	-ni-	4d	-ni-
+=25	=25	=25	=25
+4e	-to	4c	-to
+4c	di-	4A	di-
+4d	-let-	2G	-let-
+4g	-to ho	.	.
+4c	nel	1A	-to,
+4d	mar-	.	.
+2e	-ti-	.	.
+=26	=26	=26	=26
+2d	-re,	4r	.
+.	.	4d	<Ch'in-
+2r	.	4c#X	-fi-
+.	.	4.d	-ni-
+1r	.	.	.
+.	.	8cnXi	-to
+.	.	4B-y	di-
+.	.	4A	-let-
+.	.	4D	-to,>
+=27	=27	=27	=27
+4r	.	2G	Ch'in-
+4d	Ch'in	.	.
+4d	fi-	4A	-fi-
+4.d	-ni-	4B-y	-ni-
+.	.	4c	-to
+8d	-to	.	.
+4g	di-	4c	di-
+4f	-let-	2d	-let-
+4d	-to	.	.
+=28	=28	=28	=28
+1r	.	2d	-to ho
+.	.	1c	nel
+2r	.	.	.
+4r	.	2B-y	mar-
+4c	ho	.	.
+=29	=29	=29	=29
+2A	nel	1A	-ti-
+2d	mar-	.	.
+1d	-ti-	[1Gl	-re.
+=30	=30	=30	=30
+0dl	-re.	0G]	.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/09/18
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/18

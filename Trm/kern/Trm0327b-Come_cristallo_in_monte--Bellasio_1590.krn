@@ -1,0 +1,278 @@
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a sei voci
+!!!PPP: Venice
+!!!PPR: Angelo Gardano
+!!!PDT: 1590
+!!!RISM: B1715
+!!!rime: 327
+!!!AGN: Madrigal
+!!!SCT: Trm0327b
+!!!SCA: Trm0327b
+!!!voices: 6
+!!!COM: Bellasio, Paolo
+!!!OTL: Come cristallo in monte 
+**kern	**text
+*I"Alto	*
+*I'A	*
+*clefGv2	*
+*k[]	*
+*M2/1	*
+=1	=1
+0r	.
+=2	=2
+2r	.
+2A	Co-
+4A	-me
+4A	cri-
+2c#X	-stal-
+=3	=3
+2d	-lo in
+1e	mon-
+2e	-te
+=4	=4
+2r	.
+2A	L'or-
+2.e	-go-
+4d	-glio in
+=5	=5
+4c	voi
+4A	s'in-
+2B	-du-
+2E	-ra,
+2r	.
+=6	=6
+2B	L'or-
+2.e	-go-
+4d	-glio in
+4.d	voi
+8c	.
+=7	=7
+4B	.
+4B	s'in-
+2.A	-du-
+4G#X	.
+2A	-ra,
+=8	=8
+1r	.
+2A	Co-
+4A	-me
+4A	cri-
+=9	=9
+2.e	-stal-
+4f	-lo in
+1e	mon-
+=10	=10
+2d	-te
+2r	.
+2r	.
+4r	.
+4B	L'or-
+=11	=11
+2.e	-go-
+4e	-glio in
+4c	voi
+4d	s'in-
+2e	-du-
+=12	=12
+2d	-ra,
+2r	.
+2r	.
+2e	Don-
+=13	=13
+4c	-na
+4.f	bel-
+8f	-la e
+4e	cru-
+2e	-del,
+2r	.
+=14	=14
+1r	.
+1e	Don-
+=15	=15
+1c	-na
+4r	.
+2e	bel-
+[4d	-la e
+=16	=16
+4d]	.
+4c	cru-
+4B	-del,
+4c	bel-
+4B	-la e
+4A	cru-
+4G	-del
+4d	ol-
+=17	=17
+4B	-tra
+4e	mi-
+2e	-su-
+4e	-ra,
+4g	ol-
+4g	-tra
+4f	mi-
+=18	=18
+1e	-su-
+1e	-ra.
+=19	=19
+4r	.
+4e	In
+4.c	me
+8d	.
+4e	.
+4A	l'a-
+4f	-mor
+4d	af-
+=20	=20
+2g	-fi-
+2g	-na,
+2d	Co-
+2e	-m'hor
+=21	=21
+4d	lu-
+2e	-cen-
+4f#X	-te in-
+2g	-fiam-
+2g	-ma,
+=22	=22
+1.e	E
+2e	se
+=23	=23
+1d	ge-
+2d	-la il
+2c#X	cor
+=24	=24
+1d#X	vo-
+2e	-stro
+2e	il
+=25	=25
+4e	mio
+4c	s'in-
+2B	-fiam-
+2c#X	-ma,
+2dnXi	il
+=26	=26
+1.d	mio
+2d	s'in-
+=27	=27
+2c#X	-fiam-
+2d	-ma,
+[1g	E
+=28	=28
+2g]	.
+2e	se
+1d	ge-
+=29	=29
+2d	-la il
+2c#X	cor
+1d#X	vo-
+=30	=30
+2e	-stro
+2e	il
+4e	mio
+4cnXi	s'in-
+2B	-fiam-
+=31	=31
+2c#X	-ma,
+2d	il
+[1d	mio
+=32	=32
+2d]	.
+2d	s'in-
+2c#X	-fiam-
+2d	-ma.
+=33	=33
+2d	Né
+4d	quell'al-
+4d	-gen-
+2.e	-te
+4e	bri-
+=34	=34
+1f	-na
+[1e	Strug-
+=35	=35
+2e]	.
+2.d	-go
+4d	pe-
+2c#X	-rò,
+=36	=36
+4d	ma
+4d	nel-
+4d	-l'i-
+4d	-stes-
+2e	-so
+4e	lo-
+[4f	.
+=37	=37
+8fL]	.
+8eJ	.
+8eL	.
+16dL	.
+16cJJ	.
+2d	.
+2e	-co
+[2g	Man-
+=38	=38
+4g]	.
+4g	-te-
+2g	-rìa
+2g	fe-
+2e	-de e-
+=39	=39
+2.e	-ter-
+4e	-n'al
+2d	ge-
+2c	-lo il
+=40	=40
+1B	fo-
+2c	-co,
+2e	al
+=41	=41
+4f	ge-
+4e	-lo il
+8AL	fo-
+8B	.
+8c	.
+8dJ	.
+4.e	.
+8d	.
+4c	.
+4A	-co,
+=42	=42
+2r	.
+2B	al
+4A	ge-
+4A	-lo il
+2B	fo-
+=43	=43
+2c	-co,
+4r	.
+4B	al
+4c#i	ge-
+4d	-lo il
+2c#X	fo-
+=44	=44
+2d	-co,
+4r	.
+4e	al
+2f	ge-
+2e	-lo,
+=45	=45
+4r	.
+4f	al
+2e	ge-
+4e	-lo il
+4.e	fo-
+8d	.
+4B	.
+=46	=46
+0c#Xl	-co.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/09/18
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/18

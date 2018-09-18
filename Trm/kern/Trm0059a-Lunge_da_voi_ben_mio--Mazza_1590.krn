@@ -1,0 +1,178 @@
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a sei voci
+!!!PPP: Venice
+!!!PPR: Angelo Gardano
+!!!PDT: 1590
+!!!RISM: M1503
+!!!rime: 59
+!!!AGN: Madrigal
+!!!SCT: Trm0059a
+!!!SCA: Trm0059a
+!!!voices: 6
+!!!COM: Mazza, Francesco
+!!!OTL: Lunge da voi ben mio 
+**kern	**text	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Quinto	*	*I"Tenore	*
+*clefF4	*	*clefGv2	*
+*k[]	*	*k[]	*
+*M4/2	*	*M4/2	*
+=1	=1	=1	=1
+0r	.	1E	Lun-
+.	.	2G#X	-ge
+.	.	2A	da
+=2	=2	=2	=2
+0r	.	4B	voi,
+.	.	4c	ben
+.	.	2B	mi-
+.	.	4A	-o,
+.	.	4c	Lun-
+.	.	4c	-ge
+.	.	4c	da
+=3	=3	=3	=3
+1r	.	4d	voi,
+.	.	4e	ben
+.	.	4.c	mi-
+.	.	8d	.
+2r	.	2e	.
+2E	Non	2e	-o,
+=4	=4	=4	=4
+2C#X	ho	2E	Non
+2.D	vi-	2.F	ho
+4D	-ta	4D	vi-
+2BB	né	4D	-ta
+.	.	4D	né
+=5	=5	=5	=5
+2AA	co-	2.E	co-
+2.A	-r'e	.	.
+.	.	4E	-r'e
+.	.	4F#X	non
+2G	non	4G	so-
+.	.	2A	-n'i-
+4F#X	so-	.	.
+=6	=6	=6	=6
+2G	-n'i-	4G	-o,
+.	.	4B	e
+2GG	-o.	4B	non
+.	.	4d	so-
+1r	.	1d	-n'i-
+=7	=7	=7	=7
+1r	.	1d	-o.
+2G	Non	4r	.
+.	.	4G	Non
+[2A	so-	[2c	so-
+=8	=8	=8	=8
+4A]	.	4c]	.
+4F	-n'ahi-	4A	-n'ahi-
+2.E	-mè,	2B	-mè,
+.	.	2c	non
+4F	non	.	.
+2D	so-	2d	so-
+=9	=9	=9	=9
+2C	-no	4G	-no
+.	.	4c	Quel
+2r	.	4A	ch'al-
+.	.	4A	-tra
+1r	.	4G	vol-
+.	.	4F#X	-ta
+.	.	2G	fui,
+=10	=10	=10	=10
+1G	ma u-	1B	ma u-
+1E	-n'om-	2c	-n'om-
+.	.	2G	-bra
+=11	=11	=11	=11
+2E	-bra	2.A	me-
+1E	me-	.	.
+.	.	4B	.
+.	.	2c	.
+2E	-sta,	2B	-sta,
+=12	=12	=12	=12
+0r	.	2r	.
+.	.	2B	Un
+.	.	2B	la-
+.	.	2A	-gri-
+=13	=13	=13	=13
+0r	.	2E	-me-
+.	.	2E	-vol
+.	.	1G#X	suo-
+=14	=14	=14	=14
+0r	.	1G#i	-no,
+.	.	1r	.
+=15	=15	=15	=15
+0r	.	0r	.
+=16	=16	=16	=16
+4r	.	0r	.
+4A	e	.	.
+4A	ciò	.	.
+4A	mi	.	.
+2G	re-	.	.
+2C	-sta	.	.
+=17	=17	=17	=17
+4F	So-	1r	.
+8FL	-lo	.	.
+8EJ	per	.	.
+4D	vo-	.	.
+4D	-stro	.	.
+1E	do-	2r	.
+.	.	2E	Ma
+=18	=18	=18	=18
+1AA	-no:	2.A	re-
+.	.	4B	.
+1r	.	2c	.
+.	.	2B	-sta il
+=19	=19	=19	=19
+1r	.	2c	ma-
+.	.	4B	.
+.	.	4A	.
+2r	.	2c	.
+2E	Ma	2B	-le,
+=20	=20	=20	=20
+2.F	re-	0r	.
+4G	.	.	.
+1A	.	.	.
+=21	=21	=21	=21
+1G	-sta il	2r	.
+.	.	2G	<Ma
+2.F	ma-	2.A	re-
+4E	.	4G	.
+=22	=22	=22	=22
+1D	.	2A	.
+.	.	2B	-sta il
+1C	-le	1c	ma-
+=23	=23	=23	=23
+0r	.	1G	-le>
+.	.	1r	.
+=24	=24	=24	=24
+2r	.	1r	.
+2D	on-	.	.
+2.AA	-de	2r	.
+.	.	2E	on-
+4AA	mo-	.	.
+=25	=25	=25	=25
+2.A	-rir	2E	-de
+.	.	2E	mo-
+8GL	.	.	.
+8FJ	.	.	.
+[1E	.	2.e	-rir
+.	.	4d	.
+=26	=26	=26	=26
+2E]	.	4c	.
+.	.	4B	.
+2E	de-	2.A	.
+1E	-si-	.	.
+.	.	4B	de-
+.	.	2c	-si-
+=27	=27	=27	=27
+0El	-o.	0Bl	-o.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/09/18
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/18

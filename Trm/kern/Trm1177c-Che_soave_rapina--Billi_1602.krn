@@ -1,0 +1,257 @@
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: Amadino
+!!!PDT: 1602
+!!!RISM: B2645
+!!!rime: 1177
+!!!AGN: Madrigal
+!!!SCT: Trm1177c
+!!!SCA: Trm1177c
+!!!voices: 5
+!!!COM: Billi, Lucio
+!!!OTL: Che soave rapina 
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Alto	*
+*clefF4	*	*clefGv2	*	*clefGv2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1
+0r	.	0r	.	2r	.
+.	.	.	.	4g	Che
+.	.	.	.	4g	so-
+.	.	.	.	8dL	-a-
+.	.	.	.	8c	.
+.	.	.	.	8d	.
+.	.	.	.	8eJ	.
+.	.	.	.	2f	.
+=2	=2	=2	=2	=2	=2
+0r	.	0r	.	4f	-ve
+.	.	.	.	4e	ra-
+.	.	.	.	2d	-pi-
+.	.	.	.	4G	-na
+.	.	.	.	4g	Fu
+.	.	.	.	4.g	quel-
+.	.	.	.	8g	-la
+=3	=3	=3	=3	=3	=3
+0r	.	0r	.	4a	del
+.	.	.	.	4g	mio
+.	.	.	.	2f#X	co-
+.	.	.	.	1g	-re,
+=4	=4	=4	=4	=4	=4
+0r	.	0r	.	2r	.
+.	.	.	.	4d	Che
+.	.	.	.	4d	so-
+.	.	.	.	8gL	-a-
+.	.	.	.	8fnXi	.
+.	.	.	.	8g	.
+.	.	.	.	8aJ	.
+.	.	.	.	2b-y	.
+=5	=5	=5	=5	=5	=5
+0r	.	0r	.	4.cc	-ve
+.	.	.	.	8g	ra-
+.	.	.	.	2dd	-pi-
+.	.	.	.	4g	-na
+.	.	.	.	4g	Fu
+.	.	.	.	4.g	quel-
+.	.	.	.	8g	-la
+=6	=6	=6	=6	=6	=6
+0r	.	0r	.	4a	del
+.	.	.	.	4g	mio
+.	.	.	.	2f#X	co-
+.	.	.	.	4g	-re,
+.	.	.	.	4G	Fu
+.	.	.	.	4.c	quel-
+.	.	.	.	8c	-la
+=7	=7	=7	=7	=7	=7
+1r	.	1r	.	4c	del
+.	.	.	.	4G	mio
+.	.	.	.	2d	co-
+1G	A	1d	A	2G	-re
+.	.	.	.	4r	.
+.	.	.	.	4g	A
+=8	=8	=8	=8	=8	=8
+2F#X	l'ar-	2d	l'ar-	2a	l'ar-
+2G	-mo-	2B-y	-mo-	2g	-mo-
+4D	-nia	2A	-nia	2f	-nia
+4FnXi	di-	.	.	.	.
+8BB-yL	-vi-	2d	di-	2f	di-
+8C	.	.	.	.	.
+8D	.	.	.	.	.
+8EJ	.	.	.	.	.
+=9	=9	=9	=9	=9	=9
+1F	.	1c	-vi-	1f	-vi-
+4BB-y	-na,	4d	-na,	1f	-na,
+2B-y	Men-	2d	Men-	.	.
+8AL	-tre	8cL	-tre	.	.
+8GJ	scio-	8B-yJ	scio-	.	.
+=10	=10	=10	=10	=10	=10
+2F	-gliea,	4A	-gliea,	0r	.
+.	.	2a	<Men-	.	.
+2r	.	.	.	.	.
+.	.	8gL	-tre	.	.
+.	.	8fJ	scio-	.	.
+4r	.	2e	-gliea>	.	.
+2c	Men-	.	.	.	.
+.	.	2r	.	.	.
+8B-yL	-tre	.	.	.	.
+8AJ	scio-	.	.	.	.
+=11	=11	=11	=11	=11	=11
+2G	-gliea	2r	.	2r	.
+2G	sì	2d	sì	2g	sì
+4.C	va-	4.c	va-	4.g	va-
+8C	-ghi	8c	-ghi	8g	-ghi
+4F	spir-	4A	spir-	4f	spir-
+4C	-ti A-	4G	-ti A-	4g	-ti A-
+=12	=12	=12	=12	=12	=12
+1D	-mo-	1d	-mo-	4f#X	-mo-
+.	.	.	.	2g	.
+.	.	.	.	4f#X	.
+1G	-re!	2d	-re!	1g	-re!
+.	.	2g	On-	.	.
+=13	=13	=13	=13	=13	=13
+1r	.	4g	-de	0r	.
+.	.	4g	fra	.	.
+.	.	4f	me	.	.
+.	.	4e	di-	.	.
+2r	.	1d	-cea	.	.
+2G	On-	.	.	.	.
+=14	=14	=14	=14	=14	=14
+4G	-de	0r	.	1r	.
+4G	fra	.	.	.	.
+4F	me	.	.	.	.
+4E-X	di-	.	.	.	.
+2D	-cea,	.	.	2r	.
+2d	On-	.	.	2a	On-
+=15	=15	=15	=15	=15	=15
+4d	-de	2r	.	4a	-de
+4d	fra	.	.	4a	fra
+4c	me	4r	.	4a	me
+4B-y	di-	4d	da	4b-y	di-
+2.A	-cea	2.e	me,	2cc	-cea
+.	.	.	.	2a	da
+4B-y	da	4d	da	.	.
+=16	=16	=16	=16	=16	=16
+4c	me	4e	me	4g	me
+4F	di-	4c	di-	4a	di-
+2c	-vi-	2c	-vi-	2g	-vi-
+4F	-so:	4c	-so:	4a	-so:
+4F	Se	4c	Se	4a	Se
+4G	que-	4B-y	que-	4b-y	que-
+4A	-st'è il	4c	-st'è il	4a	-st'è il
+=17	=17	=17	=17	=17	=17
+4B-y	Pa-	4f	Pa-	4d	Pa-
+4G	-ra-	4g	-ra-	4b-y	-ra-
+2A	-di-	2e	-di-	2a	-di-
+2D	-so,	4f	-so,	2a	-so,
+.	.	4f	Se	.	.
+2r	.	4d	que-	2r	.
+.	.	4e	-st'è il	.	.
+=18	=18	=18	=18	=18	=18
+1r	.	4f	Pa-	1r	.
+.	.	4g	-ra-	.	.
+.	.	2a	-di-	.	.
+4r	.	4d	-so,	4r	.
+4G	Se	4d	<Se	4b-y	Se
+4F	que-	4f	que-	4a	que-
+4D	-st'è il	4F	-st'è il	4a	-st'è il
+=19	=19	=19	=19	=19	=19
+4E-X	Pa-	4G	Pa-	4g	Pa-
+4C	-ra-	4G	-ra-	4g	-ra-
+2D	-di-	2d	-di-	2f#X	-di-
+2G	-so,	1d	-so,	4g	-so,
+.	.	.	.	8fnXiL	.
+.	.	.	.	8eJ	.
+2G	Più	.	.	2d	.
+=20	=20	=20	=20	=20	=20
+0A	dol-	0r	.	2r	.
+.	.	.	.	2a	Più
+.	.	.	.	1a	dol-
+=21	=21	=21	=21	=21	=21
+2D	-ci	4r	.	1a	-ci
+.	.	8dL	che	.	.
+.	.	8dJ	fra	.	.
+2r	.	4d	l'ac-	.	.
+.	.	16ALL	-que e	.	.
+.	.	16AJ	fra	.	.
+.	.	8B-yJ	l'a-	.	.
+2r	.	2c	-re-	4r	.
+.	.	.	.	8gL	che
+.	.	.	.	8gJ	fra
+4r	.	2G	-ne,	4g	l'ac-
+8GL	che	.	.	16dLL	-que e
+.	.	.	.	16dJ	fra
+8GJ	fra	.	.	8eJ	l'a-
+=22	=22	=22	=22	=22	=22
+4G	l'ac-	2r	.	2f	-re-
+16DLL	-que e	.	.	.	.
+16DJ	fra	.	.	.	.
+8EJ	l'a-	.	.	.	.
+2F	-re-	4r	.	4c	-ne,
+.	.	8cL	che	8ccL	<che
+.	.	8cJ	fra	8ccJ	fra
+2C	-ne,	4e	l'ac-	4cc	l'ac-
+.	.	16eLL	-que e	16gLL	-que e
+.	.	16eJ	fra	16gJ	fra
+.	.	8fJ	l'a-	8aJ	l'a-
+2r	.	2g	-re-	2b-y	-re-
+=23	=23	=23	=23	=23	=23
+4r	.	2e	-ne	1g	-ne>
+8cL	<che	.	.	.	.
+8cJ	fra	.	.	.	.
+4c	l'ac-	2g	In	.	.
+16GLL	-que e	.	.	.	.
+16GJ	fra	.	.	.	.
+8AJ	l'a-	.	.	.	.
+2B-y	-re-	8dL	ciel,	4r	.
+.	.	8e	.	.	.
+.	.	8f	.	4f	In
+.	.	8gJ	.	.	.
+2F	-ne>	2a	.	8fL	ciel
+.	.	.	.	8g	.
+.	.	.	.	8a	.
+.	.	.	.	8b-yJ	.
+=24	=24	=24	=24	=24	=24
+1r	.	1r	.	4.cc	.
+.	.	.	.	8a	son
+.	.	.	.	4.b-y	le
+.	.	.	.	8g	Si-
+4r	.	4r	.	2a	-re-
+4F	In	4A	In	.	.
+8FL	ciel	8AL	ciel	2a	-ne,
+8G	.	8B-y	.	.	.
+8A	.	8c	.	.	.
+8B-yJ	.	8dJ	.	.	.
+=25	=25	=25	=25	=25	=25
+4.c	.	4.e	.	1r	.
+8A	son	8f	son	.	.
+4.B-y	le	4.d	le	.	.
+8G	Si-	8d	Si-	.	.
+2A	-re-	2c#X	-re-	2r	.
+4D	-ne,	4d	-ne,	4r	.
+4G	In	4B-y	In	4b-y	In
+=26	=26	=26	=26	=26	=26
+4.F	ciel	4.cnXi	ciel	4.a	ciel
+8D	son	8d	son	8a	son
+4.E-X	le	4B-y	le	4.g	le
+.	.	2c	Si-	.	.
+8C	Si-	.	.	8cc	Si-
+1D	-re-	.	.	4a	-re-
+.	.	4B-y	-re-	4g	.
+.	.	4A	.	2a	.
+.	.	4d	.	.	.
+=27	=27	=27	=27	=27	=27
+0Gl	-ne!	0dl	-ne!	0gl	-ne!
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/09/18
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/18

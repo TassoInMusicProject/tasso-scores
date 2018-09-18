@@ -1,0 +1,188 @@
+!!!CDT:
+!!!PTL: Il secondo libro de madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: Heirs of G. Scotto
+!!!PDT: 1599
+!!!RISM: 1599-16
+!!!rime: 333
+!!!AGN: Madrigal
+!!!SCT: Trm0333k
+!!!SCA: Trm0333k
+!!!voices: 5
+!!!COM: Nanino, Giovanni Bernardino
+!!!OTL:	Gelo ha Madonn'il seno (i.e., "Gelo ha Madonna il seno," Rime 333)
+**kern	**text
+*I"Tenore	*
+*I'T	*
+*clefGv2	*
+*k[]	*
+*M4/2	*
+=1	=1
+0r	.
+=2	=2
+0r	.
+=3	=3
+2d	Ge-
+4d	-lo ha
+4G	Ma-
+4A	-don-
+4B	-n'il
+2c	se-
+=4	=4
+4B	-no e
+2B	fiam-
+4c	-m'il
+2d	vol-
+2G	-to;
+=5	=5
+0r	.
+=6	=6
+2g	Io
+2a	son
+1g	ghiac-
+=7	=7
+2c	-cio
+2d	di
+2.e	fuo-
+4d	.
+=8	=8
+2c#X	.
+4d	-re
+4G	E'l
+4d	fo-
+4d	-co ho
+8eL	den-
+8d	.
+8e	.
+8fJ	.
+=9	=9
+2g	.
+2f	-tro ac-
+1a	-col-
+=10	=10
+2a	-to,
+4r	.
+4A	E'l
+4c#X	fo-
+4c#i	-co ho
+[2d	den-
+=11	=11
+2d]	.
+2G	-tro ac-
+4.B	-col-
+16ALL	.
+16GJJ	.
+2A	.
+=12	=12
+2B	-to.
+1c	Que-
+2d	-sto a-
+=13	=13
+2.G	-vien
+4B	per-
+2c	-ch'A-
+2d	-mo-
+=14	=14
+2c	-re
+2r	.
+4r	.
+4g	Ne
+4.g	la
+8f	sua
+=15	=15
+4e	fron-
+4c	-te al-
+2d	-ber-
+4c	-ga,
+4g	Ne
+4.g	la
+8f	sua
+=16	=16
+4e	fron-
+4c	-te al-
+4d	-ber-
+4B	-ga e
+4d	nel
+4d	mio
+2c#X	pet-
+=17	=17
+2d	-to,
+4r	.
+4d	Né
+4d	can-
+2G	-gia
+[4c	mai
+=18	=18
+4c]	.
+2d	ri-
+8gL	-cet-
+8fJ	.
+8eL	.
+8d	.
+8c	.
+8BJ	.
+2c	.
+=19	=19
+2d	-to
+4c	Sì
+4c	ch'io
+4.d	l'hab-
+8c	-bia
+4B	ne
+4c	gli oc-
+=20	=20
+4A	-chi el-
+8aL	-la
+8gJ	.
+8fL	.
+8eJ	.
+2d	.
+4g	nel
+2a	co-
+=21	=21
+2g	-re,
+2r	.
+4r	.
+4g	Sì
+4g	ch'io
+[4a	l'hab-
+=22	=22
+8aL]	.
+8gJ	-bia
+4f#X	ne
+2g	gli oc-
+2G	-chi,
+2r	.
+=23	=23
+0r	.
+=24	=24
+2r	.
+2B	Sì
+4B	ch'io
+4.c	l'hab-
+8B	-bia
+4A	ne
+=25	=25
+2.B	gli oc-
+4G	-chi
+2r	.
+2B	el-
+=26	=26
+2c	-la
+2c	nel
+4B	co-
+8AL	.
+8GJ	.
+2A	.
+=27	=27
+0Gl	-re.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/09/18
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/18

@@ -1,0 +1,224 @@
+!!!COM: Gesualdo, Carlo
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a cinque voci
+!!!PPP: Ferrara
+!!!PPR: Baldini
+!!!PDT: 1594
+!!!RISM: G1721
+!!!rime: 166
+!!!OTL: Se taccio, il duol s’avanza 
+!!!AGN: Madrigal
+!!!SCT: Trm0166g
+!!!SCA: Trm0166g
+!!!voices: 5
+**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
+*I'B	*	*I'Q	*	*I'T	*	*I'A	*	*I'C	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+1r	.	1A	Se	1r	.	0r	.	1r	.
+2r	.	1c	tac-	[1A	Se	.	.	[1f	Se
+2AA	Se	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1C	tac-	1c	-cio,	2A]	.	1r	.	2f]	.
+.	.	.	.	1G	tac-	.	.	1e	tac-
+1C	-cio,	1r	.	.	.	2r	.	.	.
+.	.	.	.	2G	-cio,	4c	il	2e	-cio,
+.	.	.	.	.	.	4e	duol	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4r	.	2r	.	4r	.	4e	s’a-	4r	.
+4D	il	.	.	4B	il	2f	-van-	4dd	il
+4E	duol	4r	.	4G	duol	.	.	4b	duol
+4E	s’a-	4e	il	4G	s’a-	2e	.	2cc	s’a-
+2F	-van-	4c	duol	2A	-van-	.	.	.	.
+.	.	4d	s’a-	.	.	4d	.	2a	-van-
+2E	-za;	2c	-van-	2e	-za;	4e	-za;	.	.
+.	.	.	.	.	.	4e	Se	4g	-za;
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4r	.	4B	-za;	1r	.	1g	par-	4r	.
+4E	Se	2e	Se	.	.	.	.	2cc	Se
+2G	par-	.	.	.	.	.	.	.	.
+.	.	2d	par-	.	.	.	.	2b	par-
+2G	-lo,	.	.	4B	ac-	2g	-lo,	.	.
+.	.	4d	-lo,	4d	-cre-	.	.	4b	-lo,
+2r	.	4r	.	4d	-sco	4r	.	2r	.
+.	.	4c	ac-	[4e	l’i-	4g	ac-	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4r	.	4A	-cre-	4e]	.	4f	-cre-	4r	.
+4D	ac-	4A	-sco	4d	-ra,	2f	-sco	4dd	ac-
+4E	-cre-	2G	l’i-	4r	.	.	.	4b	-cre-
+4E	-sco	.	.	4e	ac-	2e	l’i-	2cc	-sco
+2F	l’i-	2A	-ra,	4c	-cre-	.	.	.	.
+.	.	.	.	4d	-sco	4d	.	2a	l’i-
+2E	-ra,	2r	.	2B	l'i-	2e	-ra,	.	.
+.	.	.	.	.	.	.	.	4g#X	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2r	.	2r	.	2A	-ra,	2r	.	2a	-ra,
+4D	Don-	4A	Don-	2r	.	4f#X	Don-	4dd	Don-
+4C	-na	4c	-na	.	.	4g	-na	4ee	-na
+2G	bel-	2B	bel-	1r	.	2g	bel-	2dd	bel-
+4A	-l’e	4A	-l’e	.	.	4e	-l’e	4cc#X	-l’e
+4F	cru-	4A	cru-	.	.	4a	cru-	4dd	cru-
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4.D	-del,	4.d	-del,	0r	.	4.f#X	-del,	4.b	-del,
+8BB	che	8d	che	.	.	8g	che	8b	che
+4E	mi	8BL	mi	.	.	4g	mi	4g	mi
+.	.	8BJ	mar-	.	.	.	.	.	.
+4E	mar-	2c	-ti-	.	.	4e	mar-	4g	mar-
+2G	-ti-	.	.	.	.	2d	-ti-	2g	-ti-
+.	.	4B	.	.	.	.	.	.	.
+2C	-ra,	2c	-ra,	.	.	2e	-ra,	2g	-ra,
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2r	.	2r	.	2r	.	2r	.	2r	.
+4AA	Don-	4c#X	Don-	4A	Don-	4e	Don-	4a	Don-
+4GG	-na	4d	-na	4D	-na	4g	-na	4b	-na
+2D	bel-	2A	bel-	2F#X	bel-	2d	bel-	2a	bel-
+4E	-l’e	4e	-l’e	4G	-l’e	4B	-l’e	4g	-l’e
+4C	cru-	4A	cru-	4E	cru-	4e	cru-	4a	cru-
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2AA	-del,	2A	-del,	2A	-del,	2c#X	-del,	2f#X	-del,
+2FF#X	che	2A	che	2D	che	2d	che	2.a	che
+2BB	mi	2.B	mi	2D	mi	2d	mi	.	.
+.	.	.	.	.	.	.	.	4g	mi
+2BB	mar-	.	.	4D	mar-	4d	mar-	2g	mar-
+.	.	4B	mar-	[4d	-ti-	[4g	-ti-	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+1D	-ti-	4A	-ti-	4d]	.	4g]	.	1a	-ti-
+.	.	4D	.	8cL	.	8f#XL	.	.	.
+.	.	.	.	8BJ	.	8eJ	.	.	.
+.	.	2d	.	2A	.	2f#X	.	.	.
+2GG	-ra.	2d	-ra.	2G	-ra.	2g	-ra.	2b	-ra.
+2r	.	4r	.	2r	.	4r	.	4r	.
+.	.	4e	Ma	.	.	4g#X	Ma	4b	Ma
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2r	.	2e	pur	4r	.	2g#X	pur	2b	pur
+.	.	.	.	4.e	pren-	.	.	.	.
+4r	.	4.c	pren-	.	.	2r	.	4r	.
+.	.	.	.	8c	-do	.	.	.	.
+4.A	pren-	.	.	4e	spe-	.	.	4.cc	pren-
+.	.	8A	-do	.	.	.	.	.	.
+.	.	2c	spe-	2f	-ran-	4r	.	.	.
+8F	-do	.	.	.	.	.	.	8a	-do
+4A	spe-	.	.	.	.	4.f	pren-	4cc	spe-
+2B-X	-ran-	4f	-ran-	2d	-za,	.	.	2dd	-ran-
+.	.	.	.	.	.	8d	-do	.	.
+.	.	8eL	.	.	.	4f	spe-	.	.
+.	.	8dJ	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2A	-za,	2f	.	4r	.	2a	-ran-	2cc	-za,
+.	.	.	.	4c	Ma	.	.	.	.
+4r	.	4e	-za,	4c	pur	4g	-za,	2r	.
+4C	Ma	4c	Ma	4.G	pren-	4e	Ma	.	.
+4C	pur	2e	pur	.	.	4c	pur	2r	.
+.	.	.	.	8E	-do	.	.	.	.
+4.E	pren-	.	.	4G	spe-	4.g	pren-	.	.
+.	.	4r	.	2c	-ran-	.	.	4r	.
+8C	-do	.	.	.	.	8e	-do	.	.
+4E	spe-	[4c	pren-	.	.	4g	spe-	[4g	pren-
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2F	-ran-	8cL]	.	2A	-za	2a	-ran-	8gL]	.
+.	.	8AJ	-do	.	.	.	.	8fJ	-do
+.	.	4c	spe-	.	.	.	.	4a	spe-
+2E	-za	2e	-ran-	2r	.	2g	-za	2cc	-ran-
+1r	.	4d	-za	4r	.	4r	.	2b	-za
+.	.	4B	Che	4G	Che	4B	Che	.	.
+.	.	4d	l’hu-	4B	l’hu-	4G	l’hu-	2r	.
+.	.	4c	-mil-	4A	-mil-	4A	-mil-	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2r	.	4B	-tà	8GL	-tà	4B	-tà	2r	.
+.	.	.	.	8EJ	vi	.	.	.	.
+.	.	4A	vi	2A	pie-	4c	vi	.	.
+4r	.	2B	pie-	.	.	2d	pie-	4r	.
+4BB	Che	.	.	4G#X	.	.	.	4b	Che
+4AA	l’hu-	4E	-ghi,	4A	-ghi,	4c	-ghi,	4cc	l’hu-
+4BB	-mil-	4G	Che	4d	Che	4d	Che	4b	-mil-
+[2C	-tà	4E	l’hu-	4e	l’hu-	4c	l’hu-	4.a	-tà
+.	.	4F	-mil-	4d	-mil-	4d	-mil-	.	.
+.	.	.	.	.	.	.	.	8b	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4C]	.	8GL	-tà	4.c	-tà	4.e	-tà	4cc	.
+.	.	8EJ	vi	.	.	.	.	.	.
+4C	vi	2G	pie-	.	.	.	.	4g	vi
+.	.	.	.	8C	vi	8e	vi	.	.
+2AA	pie-	.	.	2C	pie-	2c	pie-	2a	pie-
+.	.	4F#X	.	.	.	.	.	.	.
+2GG	-ghi,	2G	-ghi,	2D	-ghi,	4B	-ghi,	2d	-ghi,
+.	.	.	.	.	.	4B	Ché	.	.
+2r	.	4r	.	2r	.	4d	nel	2r	.
+.	.	4A	Ché	.	.	4e	si-	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+4r	.	4B	nel	4r	.	4d	-len-	1r	.
+4A	Ché	4c	si-	4A	Ché	4c	-tio an-	.	.
+4G	nel	4B	-len-	4B	nel	2d	-cor	.	.
+4F#X	si-	4A	-tio an-	4c	si-	.	.	.	.
+4G#X	-len-	2e	-cor	4B	-len-	2r	.	4r	.
+4A	-tio an-	.	.	4A	-tio an-	.	.	4cc	Ché
+4GnXi	-cor	2r	.	4d	-cor	4r	.	4b	nel
+4FnXi	son	.	.	4D	son	4a	son	4a	si-
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+4E	vo-	4r	.	4.G	vo-	4g	vo-	4b	-len-
+4C	-c’e	4G	son	.	.	4e	-c’e	4cc	-tio an-
+.	.	.	.	8E	-c’e	.	.	.	.
+2GG	prie-	4.d	vo-	8DL	prie-	4g	prie-	4.b	-cor
+.	.	.	.	16EL	.	.	.	.	.
+.	.	.	.	16FJJ	.	.	.	.	.
+.	.	.	.	4G	.	8dL	-ghi,	.	.
+.	.	8B	-c’e	.	.	8dJ	son	8dd	son
+4AA	-ghi,	4A	prie-	4E	-ghi,	4.a	vo-	4cc	vo-
+4D	son	8AL	-ghi,	4D	son	.	.	4f	-c’e
+.	.	8AJ	son	.	.	8f	-c’e	.	.
+4C	vo-	4.c	vo-	4.A	vo-	4.e	prie-	[2a	prie-
+4FF	-c’e	.	.	.	.	.	.	.	.
+.	.	8A	-c’e	8F	-c’e	[8d	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2AA	prie-	2A	prie-	2E	prie-	8dL]	.	2a]	.
+.	.	.	.	.	.	16c#iL	.	.	.
+.	.	.	.	.	.	16BJJ	.	.	.
+.	.	.	.	.	.	4c#X	.	.	.
+2D	-ghi,	4A	-ghi,	2F#X	-ghi,	2d	-ghi,	2a	-ghi,
+.	.	4A	Ché	.	.	.	.	.	.
+2r	.	4B	nel	4r	.	2r	.	1r	.
+.	.	4c	si-	4A	Ché	.	.	.	.
+4r	.	4B	-len-	4G	nel	4r	.	.	.
+4F	Ché	4A	-tio an-	4FnXi	si-	4d	Ché	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+4E	nel	2.B	-cor	4G	-len-	4e	nel	4r	.
+4D	si-	.	.	4A	-tio an-	4f	si-	4dd	Ché
+4E	-len-	.	.	4G	-cor,	4e	-len-	4b	nel
+4F	-tio an-	4d	son	4A	Ché	4A	-tio an-	4a	si-
+2.E	-cor	4B	vo-	4G	nel	2.e	-cor	4b	-len-
+.	.	4G	-c’e	4E	si-	.	.	4cc	-tio an-
+.	.	2B	prie-	[2G	-len-	.	.	2b	-cor
+4E	son	.	.	.	.	4g	son	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2C	vo-	4c	-ghi,	4G]	.	2.e	vo-	2r	.
+.	.	4A	an-	4A	-tio an-	.	.	.	.
+2BB	-c’e	4B	-cor	4F#X	-cor,	.	.	4r	.
+.	.	4d	son	4F#i	an-	4d	-c’e	4b	son
+[1E	prie-	2.B	vo-	2G	-cor	[1e	prie-	2g	vo-
+.	.	.	.	2c	son	.	.	4e	-c’e
+.	.	4A	-c’e	.	.	.	.	[4a	prie-
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+1E]	.	1B	prie-	4B	vo-	1e]	.	4a]	.
+.	.	.	.	4E	-c’e	.	.	8g#iL	.
+.	.	.	.	.	.	.	.	8f#XJ	.
+.	.	.	.	2e	prie-	.	.	2g#i	.
+[1AAl	-ghi.	[1Al	-ghi.	[1c#Xl	-ghi.	[1el	-ghi.	[1al	-ghi.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+0AA]	.	0A]	.	0c#]	.	0e]	.	0a]	.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!YEM:	Carlo Gesualdo, “Se taccio, il duol s’avanza,” 1594 (Trm0166g; August 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2016 Emiliano Ricciardi
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/09/18
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/18

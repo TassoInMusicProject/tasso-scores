@@ -1,0 +1,211 @@
+!!!COM: Fornaci, Giacomo
+!!!CDT: <1616->1622
+!!!PTL: Amorosi respiri
+!!!PPP: Venice
+!!!PPR: Giacomo Vincenti
+!!!PDT: 1617
+!!!RISM: F1522
+!!!rime: 418
+!!!OTL: Ardi e gela a tua voglia
+!!!AGN: Madrigal
+!!!SCT: Trm0418w
+!!!SCA: Trm0418w
+!!!voices: 1+bc
+**kern	**kern	**text
+*part2	*part1	*part1
+*staff2	*staff1	*staff1
+*I"[Basso Continuo]	*I"[Canto]	*
+*I'BC	*I'C	*
+*oclefF4	*oclefC1	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*omet(C)	*omet(C)	*
+*M4/2	*M4/2	*
+=1	=1	=1
+!!LO:TX:a:t=Voce sola[.] Amor disprezzato. Risposta.
+2G	4.dd	Ar-
+.	8b	-di e
+4E	4cc	ge-
+4F#X	8aL	-la a
+.	8aJ	tua
+2G	2b	vo-
+2GG	2b	-glia,
+=2	=2	=2
+1AA	4r	.
+.	2cc#X	Per-
+.	4cc#X	-fi-
+[1AA	1cc#X	-do,
+=3	=3	=3
+2AA]	4r	.
+.	2ee	<Per-
+[2E	.	.
+.	4b	-fi-
+2E]	2b	-do>
+2D	[2dd	ed
+=4	=4	=4
+2.G	2dd]	.
+.	([2g	im-
+4F	.	.
+2E	2g#X)	.
+2AA	16aKL	-pu-
+.	8gni	.
+.	16aJk	.
+.	16bKL	.
+.	8cc	.
+.	16bJk	.
+=5	=5	=5
+[1E	1b	-di-
+2E]	4b	-co,
+.	8bL	Or
+.	8ccJ	a-
+2D	4dd	-man-
+.	8ccL	-te or
+.	8bJ	ne-
+=6	=6	=6
+2D	8.aL	-mi-
+.	16bk	.
+.	8.a	.
+.	16bJk	.
+[2C	8.ccL	.
+.	16ddk	.
+.	8.cc	.
+.	16ddJk	.
+2C]	4ee	.
+.	8.eL	.
+.	16fJk	.
+2C	8.eL	.
+.	16fk	.
+.	8g	.
+.	8aJ	.
+=7	=7	=7
+1.D	2f#X	.
+.	2.g	.
+.	8f#iL	.
+.	8eJ	.
+2BBn	2f#X	.
+=8	=8	=8
+1E	2g#X	-co,
+.	4.g#X	Or
+.	8a	a-
+1D	4b	-man-
+.	8aL	-te or
+.	8gniJ	ne-
+.	2a	-mi-
+=9	=9	=9
+1GG	1g	-co;
+=10:|!|:	=10:|!|:	=10:|!|:
+*omet(3/2)	*omet(3/2)	*
+*M3/1	*M3/1	*
+!!LO:TX:a:t=3/2
+1G	1g	Ché
+1F	1a	d’in-
+1D	1b	-con-
+=11	=11	=11
+0C	0cc	-stan-
+1F	1a	-te in-
+=12	=12	=12
+*M4/2	*M4/2	*
+2.E	2b	-ge-
+.	2b	-gno
+4D	.	.
+2C	4cc	Po-
+.	8bL	-co
+.	8aJ	l’a-
+4G	8bL	-mor
+.	8ccJ	io
+4D	4a	sti-
+=13	=13	=13
+2G	4g	-mo
+.	2dd	e
+4F#X	.	.
+2A	2cc#X	men
+4D	4dd	lo
+2E	2b	sde-
+=14	=14	=14
+2.E	4b	-gno,
+.	2g#X	e
+4D	2a	men
+2C#X	.	.
+.	4a	lo
+2D	2a	sde-
+=15	=15	=15
+1GG	1g	-gno:
+2FF#X	4r	.
+.	2a	E
+2AA	.	.
+.	8eL	se
+.	8eJ	l’a-
+=16	=16	=16
+4.D	4.f#X	-mor
+8C	8g	fu
+2BB	2g#X	va-
+1AA	1a	-no,
+=17	=17	=17
+2D	2r	.
+2BB	2g	Van
+1C	2.e	fia
+.	4f	lo
+=18	=18	=18
+2F	([2f	sde-
+[2D	2.f#X)	.
+2D]	.	.
+.	4g	-gno
+2G	([2g	del
+=19	=19	=19
+1E	2.g#X)	.
+.	4a	tuo
+1AA	4.a	cor
+.	8b	.
+.	[2cc	.
+=20	=20	=20
+1E	4cc]	.
+.	4b	in-
+.	2b	-sa-
+2C#X	2a	-no,
+2D	4r	.
+.	4a	Van
+=21	=21	=21
+1GG	2.b	fia
+.	4cc	lo
+2C	((([2cc	sde-
+[2AA	[2cc#X)))	.
+=22	=22	=22
+2AA]	4cc#X]	.
+.	4dd	-gno
+2D	([2dd	del-
+1BB	2.dd#X)	.
+.	4ee	-tuo
+=23	=23	=23
+2.E	2.ee	cor
+4F	4dd	in-
+1G	1dd	-sa-
+=24	=24	=24
+2C	2cc	-no,
+2BB	4r	.
+.	2dd	Van
+2D	.	.
+.	8.ccL	fia
+.	16bJk	lo
+2E	[2b	sde-
+=25	=25	=25
+2F#X	8.bL]	.
+.	16ak	-gno
+.	8.a	del
+.	16gJk	tuo
+4G	2.g	cor
+4BB	.	.
+1D	.	.
+.	4a	in-
+.	2a	-sa-
+=26	=26	=26
+0GGl	0gl	-no.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2016/02/13
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2017/11/18
+!!!YEC: Copyright 2017 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2017/11/18 and edited by Craig Stuart Sapp

@@ -1,0 +1,281 @@
+!!!COM: Gesualdo, Carlo
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a cinque voci
+!!!PPP: Ferrara
+!!!PPR: Baldini
+!!!PDT: 1594
+!!!RISM: G1721
+!!!rime: 333
+!!!OTL: Gelo ha Madonna il seno 
+!!!AGN: Madrigal
+!!!SCT: Trm0333i
+!!!SCA: Trm0333i
+!!!voices: 5
+**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso pdf 89	*	*I"Quinto pdf 115	*	*I"Tenore pdf 63	*	*I"Alto pdf 37	*	*I"Canto pdf 11 Molino 15	*
+*I'B	*	*I'Q	*	*I'T	*	*I'A	*	*I'C	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+2r	.	2r	.	0r	.	2e-X	Ge-	2g	Ge-
+2G	Ge-	2B-y	Ge-	.	.	4e-i	-l’ha	4g	-l’ha
+.	.	.	.	.	.	4e-i	ma-	4g	ma-
+4G	-l’ha	4B-y	-l’ha	.	.	2.d	-don-	2.b-y	-don-
+4G	ma-	4B-y	ma-	.	.	.	.	.	.
+4B-y	-don-	4G	-don-	.	.	.	.	.	.
+4E-X	-n’il	4G	-n’il	.	.	4g	-n’il	4cc	-n’il
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2D	se-	2d	se-	2r	.	2f#X	se-	2.a	se-
+2D	-no	2d	-no	4r	.	2f#i	-no,	.	.
+.	.	.	.	4A	e	.	.	4a	-no e
+4r	.	4r	.	8dL	fiam-	1r	.	8b-yL	fiam-
+.	.	.	.	8e	.	.	.	8cc	.
+4D	e	4A	e	8f	.	.	.	8dd	.
+.	.	.	.	8eJ	.	.	.	8ccJ	.
+8GL	fiam-	8B-yL	fiam-	8dL	.	.	.	8b-yL	.
+8A	.	8c	.	8c	.	.	.	8a	.
+8B-y	.	8d	.	8B-y	.	.	.	8g	.
+8AJ	.	8cJ	.	8cJ	.	.	.	8fJ	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8GL	.	8B-yL	.	4d	.	0r	.	2.g	.
+8F	.	8A	.	.	.	.	.	.	.
+8E	.	8G	.	4d	-m’il	.	.	.	.
+8DJ	.	8FJ	.	.	.	.	.	.	.
+4E-X	.	4G	.	8cL	vol-	.	.	.	.
+.	.	.	.	8B-yJ	.	.	.	.	.
+4D	-m’il	4d	-m’il	2B-y	.	.	.	4f	-m'il
+2F	vol-	2c	vol-	.	.	.	.	2f	vol-
+.	.	.	.	4A	.	.	.	.	.
+2BB-y	-to,	2d	-to,	2B-y	-to,	.	.	2f	-to,
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+2r	.	2r	.	2B-y	Ge-	2d	Ge-	2r	.
+2D	Ge-	2F	Ge-	4B-y	-l’ha	4d	-l’ha	2f	Ge-
+.	.	.	.	4B-y	ma-	4d	ma-	.	.
+4D	-l’ha	4F	-l’ha	2.A	-don-	2.f	-don-	4f	-l’ha
+4D	ma-	4F	ma-	.	.	.	.	4f	ma-
+4F	-don-	4D	-don-	.	.	.	.	4a	-don-
+4BB-y	-n’il	4D	-n’il	4d	-n’il	4g	-n’il	4d	-n’il
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2AA	se-	2.E	se-	2c#X	se-	2.e	se-	2a	se-
+2AA	-no	.	.	2c#i	-no	.	.	2a	-no,
+.	.	4E	-no e	.	.	4e	-no e	.	.
+4r	.	8AL	fiam-	4r	.	8fL	fiam-	1r	.
+.	.	8B-y	.	.	.	8g	.	.	.
+4AA	e	8c	.	4E	e	8a	.	.	.
+.	.	8B-yJ	.	.	.	8gJ	.	.	.
+8DL	fiam-	8AL	.	8FL	fiam-	8fL	.	.	.
+8E	.	8G	.	8G	.	8e	.	.	.
+8F	.	8F	.	8A	.	8d	.	.	.
+8EJ	.	8GJ	.	8GJ	.	8c#XJ	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8DL	.	4A	.	8FL	.	2.d	.	1r	.
+8C	.	.	.	8E	.	.	.	.	.
+8BB-y	.	4A	-m’il	8D	.	.	.	.	.
+8AAJ	.	.	.	8CJ	.	.	.	.	.
+4BB-y	.	8GL	vol-	4D	.	.	.	.	.
+.	.	8FJ	.	.	.	.	.	.	.
+4AA	-m’il	2F	.	4A	-m’il	4c	-m’il	.	.
+2C	vol-	.	.	2G	vol-	2c	vol-	4r	.
+.	.	4E	.	.	.	.	.	2cc	Io
+2FF	-to;	2F	-to;	2A	-to;	2c	-to;	.	.
+.	.	.	.	.	.	.	.	4f	son
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+0r	.	0r	.	4d	Io	4f	Io	2.a	ghiac-
+.	.	.	.	4A	son	4c	son	.	.
+.	.	.	.	2.B-y	ghiac-	2.d	ghiac-	.	.
+.	.	.	.	.	.	.	.	8gL	-cio
+.	.	.	.	.	.	.	.	8fJ	di
+.	.	.	.	.	.	.	.	2g	fo-
+.	.	.	.	8cL	-cio	8eL	-cio	.	.
+.	.	.	.	8dJ	di	8fJ	di	.	.
+.	.	.	.	4c	fo-	4e	fo-	8gL	-re
+.	.	.	.	.	.	.	.	8gJ	E ’l
+.	.	.	.	8cL	-re	8eL	-re	4cc	fo-
+.	.	.	.	8cJ	E ’l	8eJ	E ’l	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+0r	.	1r	.	4f	fo-	4a	fo-	4a	-c’ho
+.	.	.	.	4e	-c’ho	4g	-c’ho	2cc	den-
+.	.	.	.	2.f	den-	2a	den-	.	.
+.	.	.	.	.	.	.	.	4f	-tr’ac-
+.	.	2r	.	.	.	4d	-tr’ac-	2a	-col-
+.	.	.	.	4c	-tr’ac-	2g	-col-	.	.
+.	.	4r	.	2d	-col-	.	.	2a	-to,
+.	.	[4d	Io	.	.	4f#X	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2r	.	4d]	.	2G	-to,	2g	-to,	4r	.
+.	.	4G	son	.	.	.	.	2b-y	Io
+4r	.	2B-y	ghiac-	4G	Io	2r	.	.	.
+2D	Io	.	.	4D	son	.	.	4f	son
+.	.	2A	-cio,	2.F	ghiac-	4f	Io	2.a	ghiac-
+4AA	son	.	.	.	.	4c	son	.	.
+[2BB-y	ghiac-	4r	.	.	.	[2d	ghiac-	.	.
+.	.	4d	Io	8EL	-cio	.	.	8gL	-cio
+.	.	.	.	8DJ	di	.	.	8fJ	di
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4BB-]	.	4G	son	2E	fo-	4d]	.	8eL	fo-
+.	.	.	.	.	.	.	.	8fJ	.
+8AAL	-cio	2c	ghiac-	.	.	8cL	-cio	2g	.
+8GGJ	di	.	.	.	.	8B-yJ	di	.	.
+2AA	fo-	.	.	2C	-re	8AL	fo-	.	.
+.	.	.	.	.	.	8B-yJ	.	.	.
+.	.	8B-yL	-cio	.	.	2c	.	4f#X	.
+.	.	8AJ	di	.	.	.	.	.	.
+2GG	-re	4d	fo-	4r	.	.	.	1g	-re
+.	.	8dL	-re	4G	E ’l	4BnX	.	.	.
+.	.	8dJ	E ’l	.	.	.	.	.	.
+4r	.	2e	fo-	2c	fo-	2c	-re	.	.
+4C	E ’l	.	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+4F	fo-	4c	-c’ho	4A	-c’ho	4r	.	4r	.
+4E	-c’ho	2e	den-	2c	den-	4g	E ’l	4g	E ’l
+2.F	den-	.	.	.	.	4a	fo-	4cc	fo-
+.	.	4d	-tr’ac-	4F	-tr’ac-	4f	-c’ho	4a	-c’ho
+.	.	4.c	-col-	1A	-col-	4f	den-	4cc	den-
+4C	-tr’ac-	.	.	.	.	4g	-tr’ac-	4ee-X	-tr’ac-
+.	.	8B-y	.	.	.	.	.	.	.
+2D	-col-	2A	.	.	.	2f#X	-col-	2dd	-col-
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2GG	-to,	2d	-to,	2BnX	-to,	2g	-to.	2dd	-to.
+2r	.	4G	Que-	4d	Que-	4g	Que-	4b-y	Que-
+.	.	4B-y	-st’av-	4d	-st’av-	4f	-st’av-	4b-y	-st’av-
+2r	.	2E-X	-vien	2e-X	-vien	2g	-vien	2b-y	-vien
+4D	per-	4F	per-	4d	per-	4f	per-	4b-y	per-
+4F	-ch’A-	4F	-ch’A-	4c	-ch’A-	4a	-ch’A-	4cc	-ch’A-
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2BB-y	-mo-	2B-y	-mo-	2f	-mo-	2b-y	-mo-	2dd	-mo-
+2F	-re	2c	-re	2f	-re	2a	-re	2cc	-re
+2r	.	1r	.	4c	Ne	2r	.	1r	.
+.	.	.	.	8AL	la	.	.	.	.
+.	.	.	.	8dJ	sua	.	.	.	.
+4F	Ne	.	.	4c	fron-	4a	Ne	.	.
+8DL	la	.	.	4B-y	-t’al-	8fL	la	.	.
+8GJ	sua	.	.	.	.	8b-yJ	sua	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+4F	fron-	1r	.	2c	-ber-	4a	fron-	2r	.
+4E	-t’al-	.	.	.	.	4g	-t’al-	.	.
+4.F	-ber-	.	.	2A	-ga	4a	-ber-	4cc	Ne
+.	.	.	.	.	.	4f	-ga,	8aL	la
+8G	.	.	.	.	.	.	.	8ddJ	sua
+4A	.	2r	.	1r	.	4f	Ne	4cc	fron-
+4G	-ga	.	.	.	.	8dL	la	4b-y	-t’al-
+.	.	.	.	.	.	8gJ	sua	.	.
+4r	.	4A	Ne	.	.	4f	fron-	2cc	-ber-
+4C	e	8GL	la	.	.	4e	-t’al-	.	.
+.	.	8cJ	sua	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4D	nel	4B-y	fron-	4r	.	8fL	-ber-	2f	-ga
+.	.	.	.	.	.	8g	.	.	.
+4F	mio	4A	-t’al-	4c	e	8a	.	.	.
+.	.	.	.	.	.	8gJ	.	.	.
+2D	pet-	2B-y	-ber-	4d	nel	4f	.	4r	.
+.	.	.	.	4f	mio	8eL	.	4d	e
+.	.	.	.	.	.	8dJ	.	.	.
+2C	-to,	2G	-ga	2e	pet-	4g	.	4e	nel
+.	.	.	.	.	.	4c	-ga e	4g	mio
+2r	.	4r	.	2d	-to,	4d	nel	2f	pet-
+.	.	4B-y	e	.	.	4f	mio	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+0r	.	4d	nel	1r	.	8B-yL	pet-	4f	-to,
+.	.	.	.	.	.	8c	.	.	.
+.	.	4f	mio	.	.	8d	.	4f	e
+.	.	.	.	.	.	8eJ	.	.	.
+.	.	2d	pet-	.	.	8fL	.	4a	nel
+.	.	.	.	.	.	8dJ	.	.	.
+.	.	.	.	.	.	2f	.	4b-y	mio
+.	.	2c	-to,	2r	.	.	.	2g	pet-
+.	.	.	.	.	.	4e	.	.	.
+.	.	4r	.	4r	.	4f	-to,	4f	-to,
+.	.	4d	Né	4B-y	Né	4f	Né	4b-y	Né
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+0r	.	4d	mai	4B-y	mai	4f	mai	4b-y	mai
+.	.	4.d	can-	4.B-y	can-	4.f	can-	4.b-y	can-
+.	.	8c	-gia	8A	-gia	8f	-gia	8cc	-gia
+.	.	4c	ri-	4c	ri-	4e	ri-	4g	ri-
+.	.	2BnX	-cet-	2G	-cet-	2d	-cet-	2g	-cet-
+.	.	2Bni	-to,	2G	-to,	2d	-to,	2g	-to
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+4r	.	4r	.	4r	.	4r	.	0r	.
+4E-X	Né	4B-i	Né	4e-X	Né	4g	Né	.	.
+4E-i	mai	4B-y	mai	4e-i	mai	4g	mai	.	.
+4.E-i	can-	4.B-y	can-	4.e-i	can-	4.g	can-	.	.
+8D	-gia	8f	-gia	8B-y	-gia	8b-y	-gia	.	.
+4F	ri-	4f	ri-	4c	ri-	4a	ri-	.	.
+2C	-cet-	2e	-cet-	2c	-cet-	2g	-cet-	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2C	-to,	2e	-to,	2c	-to,	2g	-to	2r	.
+2r	.	4e	Sì	2r	.	4g	Sì	4cc	Sì
+.	.	4d	ch’io	.	.	4f	ch’io	4b-y	ch’io
+1r	.	2c	l’hab-	1r	.	2e-X	l’hab-	2a	l’hab-
+.	.	4B-y	-bia	.	.	4d	-bia	4g	-bia
+.	.	4A	ne-	.	.	4c	ne-	4f#X	ne-
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2r	.	2G	-gl’oc-	4r	.	2B-y	-gl’oc-	2g	-gl’oc-
+.	.	.	.	2d	el-	.	.	.	.
+2.D	el-	2.d	-chi, el-	.	.	2f	-chi, el-	2.b-y	-chi, el-
+.	.	.	.	8eL	-la	.	.	.	.
+.	.	.	.	8fJ	nel	.	.	.	.
+.	.	.	.	2B-y	co-	8gL	-la	.	.
+.	.	.	.	.	.	8aJ	nel	.	.
+8CL	-la	8eL	-la	.	.	2b-y	co-	8ccL	-la
+8BB-yJ	nel	8fJ	nel	.	.	.	.	8ddJ	nel
+2F	co-	2f	co-	2c	-re,	.	.	2cc	co-
+.	.	.	.	.	.	4a	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+1BB-y	-re,	1f	-re,	0r	.	2b-y	-re,	2dd	-re,
+.	.	.	.	.	.	4f	Sì	4dd	Sì
+.	.	.	.	.	.	4e	ch’io	4cc	ch’io
+1r	.	2r	.	.	.	2d	l’hab-	2b-y	l’hab-
+.	.	4e	Sì	.	.	4c	-bia	4a	-bia
+.	.	4d	ch’io	.	.	4B-y	ne-	4g	ne-
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+0r	.	4c	l’hab-	2r	.	2A	-gl’oc-	2.cc	-gl’oc-
+.	.	8dL	-bia	.	.	.	.	.	.
+.	.	8eJ	ne-	.	.	.	.	.	.
+.	.	2f	-gl’oc-	4r	.	2A	-chi,	.	.
+.	.	.	.	2c	el-	.	.	2a	-chi, el-
+.	.	2.F	-chi, el-	.	.	4r	.	.	.
+.	.	.	.	8B-yL	-la	2f	el-	8b-yL	-la
+.	.	.	.	8AJ	nel	.	.	8ccJ	nel
+.	.	.	.	[2d	co-	.	.	[2a	co-
+.	.	8EL	-la	.	.	8gL	-la	.	.
+.	.	8DJ	nel	.	.	8aJ	nel	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+2r	.	1A	co-	4d]	.	2e	co-	2a]	.
+.	.	.	.	8c#XL	.	.	.	.	.
+.	.	.	.	8BnXiJ	.	.	.	.	.
+4A	Sì	.	.	2c#X	.	2e	-re,	2a	-re,
+4G	ch’io	.	.	.	.	.	.	.	.
+4F	l’hab-	[1Dl	-re.	[1dl	-re.	2r	.	4a	Sì
+8GL	-bia	.	.	.	.	.	.	4g	ch’io
+8AJ	ne-	.	.	.	.	.	.	.	.
+2B-y	-gl’oc-	.	.	.	.	[2f	el-	4f	l’hab-
+.	.	.	.	.	.	.	.	8gL	-bia
+.	.	.	.	.	.	.	.	8aJ	ne-
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2.BB-y	-chi, el-	0D_	.	0d_	.	4f]	.	4b-y	-gl’oc-
+.	.	.	.	.	.	8eL	-la	2b-y	-chi, el-
+.	.	.	.	.	.	8dJ	nel	.	.
+.	.	.	.	.	.	2.g	co-	.	.
+8AAL	-la	.	.	.	.	.	.	8ccL	-la
+8GGJ	nel	.	.	.	.	.	.	8ddJ	nel
+1D	co-	.	.	.	.	.	.	1a	co-
+.	.	.	.	.	.	8f#XL	.	.	.
+.	.	.	.	.	.	8eJ	.	.	.
+.	.	.	.	.	.	2f#X	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+0GGl	-re.	0D]	.	0d]	.	0gl	-re.	0bnXl	-re.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!YEM:	Carlo Gesualdo, “Gelo ha Madonna il seno,” 1594 (Trm0333i; August 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2016 Emiliano Ricciardi
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/09/18
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/18
