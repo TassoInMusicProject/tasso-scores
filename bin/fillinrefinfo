@@ -1,0 +1,222 @@
+#!/usr/bin/perl
+# vim: ts=3
+
+use strict;
+use Getopt::Long;
+
+my $indexfile = "../tasso-website/data/indexes/rime-settings.aton";
+
+my $writeQ = 0;
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'w|overwrite' => \$writeQ
+);
+
+
+open (IFILE, $indexfile) or die "Cannot read $indexfile\n";
+my @icontent = <IFILE>;
+close IFILE;
+
+my %startline;
+
+for (my $i=0; $i<@icontent; $i++) {
+	my $line = $icontent[$i];
+	chomp $line;
+	if ($line =~ /^\@CATALOGNUM\s*:\s*([^\s]+)/) {
+		$startline{$1} = $i;
+		next;
+	}
+}
+
+my @files = @ARGV;
+
+foreach my $file (@files) {
+	if ($file !~ /(T[a-z][a-z]\d+[a-z])-/) {
+		print STDERR "Problem with bad file name: $file\n";
+		next;
+	}
+	my $catalog = $1;
+	my $entryline = $startline{$catalog};
+	if ($entryline =~ /^\s*$/) {
+		print STDERR "Catalog number missing from index for file: $file\n";
+		next;
+	}
+	processFile($file, $catalog, $entryline);
+}
+
+
+
+##############################
+##
+## processFile --
+##
+
+sub processFile {
+	my ($file, $catalog, $entryline) = @_;
+	my %params = getParameters($entryline);
+
+	#print "$file\t$catalog\t$entryline\n";
+	#my @keys = sort keys %params;
+	#foreach my $key (@keys) {
+	#	print "\t$key:\t$params{$key}\n";
+	#}
+
+	open(FILE, "$file") or die "Cannot read $file\n";
+	my @contents = <FILE>;
+	close FILE;
+	my $changedQ = 0;
+
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		chomp $line;
+		if ($line !~ /^\!\!\!([^\s]+)\s*:\s*(.*)\s*$/) {
+			next;
+		}
+		my $key = $1;
+		my $value = $2;
+		if ($key eq "OTL") {
+			# Remove (Rime ###) from title:
+			if ($value =~ /\s*(.*)\s*\(Rime\s+\d+\)\s*$/) {
+				my $xvalue = $1;
+				$line = "!!!OTL: $xvalue\n";
+				$contents[$i] = $line;
+				$changedQ = 1;
+				next;
+			}
+		} elsif ($key eq "rime") {
+			if ($catalog =~ /Trm0*(\d+)/) {
+				my $xvalue = $1;
+				next if $xvalue =~ /^\s*$/;
+				next if $xvalue eq $value;
+				$line = "!!!rime: $xvalue\n";
+				$contents[$i] = $line;
+				$changedQ = 1;
+				next;
+			}
+		}
+		my $newvalue = getValue($key, %params);
+		if ($newvalue eq $value) {
+			# nothing new to do
+			next;
+		}
+		if ($newvalue =~ /^\s*$/) {
+			next;
+		}
+		$line = "!!!$key: $newvalue\n";
+		$contents[$i] = $line;
+		$changedQ = 1;
+	}
+
+	if ($writeQ) {
+		if ($changedQ) {
+			print STDERR "Updating file $file\n";
+			open (FILE, ">$file") or die "Cannot write to $file\n";
+			print FILE @contents;
+			close FILE;
+		} else {
+			#print STDERR "Nothing to update in $file\n";
+		}
+	} else {
+		print "!! =====================\n";
+		print @contents;
+		print "!! =====================\n";
+	}
+
+
+}
+
+
+
+##############################
+##
+## getValue -- Map index file paramter to humdrum file parameter
+##
+## Index to Humdrum parameter mappings:
+##
+## COMDATES      --> CDT          (composer birth/death dates)
+## COMPOSER      --> COM          (composer name)
+## PRINCEPSTITLE --> PTL          ([short] title of publication first printed in)
+## NORMLOC       --> PPP          (location of first publisher)
+## NORMPUB       --> PPR          (name of first publisher)
+## PRINCEPSYEAR  --> PDT          (year of first publication)
+## PRINCEPSRISM  --> RISM         (RISM number of first publication)
+##               --> rime         (rime number of poem used in musical setting)
+##               --> AGN          (genre of music)
+## CATALOGNUM    --> SCT          (Tasso catalog number)
+## CATALOGNUM    --> SCA          (Tasso catalog number)
+## OVOICES       --> voices       (numer of original voices)
+##
+
+sub getValue {
+	my ($hkey, %params) = @_;
+	my $ikey = $hkey;
+	if ($params{$ikey} !~ /^\s*$/) {
+		return $params{$ikey};
+	}
+	$ikey = "COMDATES"      if $hkey eq "CDT";
+	$ikey = "COMPOSER"      if $hkey eq "COM";
+	$ikey = "PRINCEPSTITLE" if $hkey eq "PTL";
+	$ikey = "NORMLOC"       if $hkey eq "PPP";
+	$ikey = "NORMPUB"       if $hkey eq "PPR";
+	$ikey = "PRINCEPSYEAR"  if $hkey eq "PDT";
+	$ikey = "PRINCEPSRISM"  if $hkey eq "RISM";
+	$ikey = "CATALOGNUM"    if $hkey eq "SCT";
+	$ikey = "CATALOGNUM"    if $hkey eq "SCA";
+	$ikey = "OVOICES"       if $hkey eq "voices";
+
+	return $params{$ikey};
+}
+
+
+
+
+##############################
+##
+## getParameters --
+##
+
+sub getParameters {
+	my ($entryline) = @_;
+	my %output;
+	my $lastp = "";
+	my $param = "";
+	my $value = "";
+	my $ccount = 0;
+	for (my $i = $entryline; $i<@icontent; $i++) {
+		my $line = $icontent[$i];
+		chomp $line;
+		if ($line =~ /^\@\@END\s*:\s*SETTING/) {
+			last;
+		}
+		if ($line =~ /^\s*$/) {
+			# blank line
+			next;
+		}
+		if ($line =~ /^@\s+$/) {
+			# comment line
+			next;
+		}
+		if ($line =~ /^@([^\s]+)\s*:\s*(.*)\s*$/) {
+			# parameter line
+			$param = $1;
+			$value = $2;
+			$output{$param} = $value;
+			$lastp = $param;
+			if ($param eq "CATALOGNUM") {
+				$ccount++;
+				if ($ccount > 1) {
+					my $ip1 = $i+1;
+					die "Too many catalog numbers starting at line $ip1: $line\n";
+				}
+			}
+			next;
+		} else {
+			# value continuation
+			$output{$lastp} .= " $line";
+		}
+	}
+	return %output;
+}
+
+
+

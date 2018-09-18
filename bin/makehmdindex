@@ -7,8 +7,13 @@ print <<"EOT";
 **file	**sort	**available	**pdf	**description
 EOT
 
-my @files = glob("Trm/kern/*.krn");
-@files = sort @files;
+my @trmfiles = glob("Trm/kern/*.krn"); # rime
+my @tamfiles = glob("Tam/kern/*.krn"); # aminta
+@trmfiles = sort @trmfiles;
+@tamfiles = sort @tamfiles;
+
+my @files = @trmfiles;
+push(@files, @tamfiles);
 
 foreach my $file (@files) {
 	next if $file !~ /(.*)\/([^\/]+)\.krn/;
@@ -28,7 +33,13 @@ foreach my $file (@files) {
 	chomp $year;
 	$year =~ s/.*PDT:\s*//;
 	$year =~ s/\s+$//;
-	print "$file\t$catalog\tY\t.\t$catalog <link>$title";
+	print "$file\t";
+	if ($catalog =~ /^Tam/) {
+		print "U$catalog";
+	} else {
+		print $catalog
+	}
+	print "\tY\t.\t$catalog <link>$title";
 	if ($composer) {
 		print "($composer";
 		if ($year) {

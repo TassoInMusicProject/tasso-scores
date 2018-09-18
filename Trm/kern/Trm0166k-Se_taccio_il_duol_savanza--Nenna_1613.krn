@@ -4,13 +4,13 @@
 !!!PPP: Naples
 !!!PPR: Gargano
 !!!PDT: 1613
-!!!RISM: N398
+!!!RISM: N0398
 !!!rime: 166
 !!!OTL:	Se taccio, il duol s’avanza
 !!!AGN:	Madrigal
 !!!SCT: Trm0166k
 !!!SCA: Trm0166k
-!!!voices: 4
+!!!voices: 4+bc
 **kern	**fb	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part5	*	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1

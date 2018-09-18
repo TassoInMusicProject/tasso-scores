@@ -1,12 +1,12 @@
 !!!COM: Effrem, Muzio
-!!!CDT: 
+!!!CDT:
 !!!PTL: Il sesto libro de madrigali a cinque voci
 !!!PPP: Venice
-!!!PPR: Scotto
+!!!PPR: Heirs of G. Scotto
 !!!PDT: 1591
 !!!RISM: 1591-18
 !!!rime: 602
-!!!OTL:	Caro amoroso neo
+!!!OTL: Caro amoroso neo 
 !!!AGN: Madrigal
 !!!SCT: Trm0602d
 !!!SCA: Trm0602d
@@ -16,13 +16,11 @@
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
 *I'B	*	*I'Q	*	*I'T	*	*I'A	*	*I'C	*
-*oclefF3	*	*oclefC3	*	*oclefC3	*	*oclefC2	*	*oclefG2	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
-*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!!LO:TX:a:B:t=Prima parte
+!LO:TX:t=Prima parte	!	!	!	!	!	!	!	!	!
 0r	.	0r	.	0r	.	1r	.	2dd	Ca-
 .	.	.	.	.	.	.	.	4dd	-ro a-
 .	.	.	.	.	.	.	.	4b	-mo-
@@ -52,7 +50,7 @@
 .	.	.	.	4e	-mo-	4g	-mo-	4gg	-so
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 1r	.	2d	<Ca-	4f#X	-ro-	4a	-ro-	2dd	Ne-
-.	.	.	.	4f#	-so	4a	-so	.	.
+.	.	.	.	4f#i	-so	4a	-so	.	.
 .	.	4B	-ro a-	2g	Ne-	2d	Ne-	2dd	-o,>
 .	.	4c#X	-mo-	.	.	.	.	.	.
 2G	Ca-	4d	-ro-	4g	-o,	4B	-o,>	4r	.
@@ -83,7 +81,7 @@
 .	.	2a	-gro	2A	tuo	4r	.	.	.
 .	.	.	.	.	.	4cc	Co 'l	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-1r	.	2gni	tuo,	4r	.	2b	ne-	4r	.
+1r	.	2gnXi	tuo,	4r	.	2b	ne-	4r	.
 .	.	.	.	4B	fra 'l	.	.	4gg	Co 'l
 .	.	4r	.	2d	suo	2a	-gro	2ff	ne-
 .	.	2d	<Co 'l	.	.	.	.	.	.
@@ -112,7 +110,7 @@
 4F#X	suo	2d	-col-	2r	.	4a	-dor	4dd	-to,
 4G	can-	.	.	.	.	4b	ac-	4gg	Co 'l
 4A	-dor	2a	-to,	4r	.	4cc	-col-	4ee	ne-
-4Fni	ac-	.	.	4A	fra 'l	4a	-to,>	4dd	.
+4FnXi	ac-	.	.	4A	fra 'l	4a	-to,>	4dd	.
 2E	-col-	4r	.	2c#X	suo	2r	.	2ee	-gro,
 .	.	2g	Co 'l	.	.	.	.	.	.
 2D	-to,	.	.	2d	can-	2a	Co 'l	2r	.
@@ -234,7 +232,7 @@
 .	.	4d	-tie in	4B-X	-tie in	4g	-tie in	4gg	-tie in
 .	.	2c#X	le-	2A	le-	2a	le-	2ee	le-
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
-2r	.	2c#Xi	-i,	2A	-i,	2a	-i,	2ee	-i,
+2r	.	2c#i	-i,	2A	-i,	2a	-i,	2ee	-i,
 4r	.	4r	.	4r	.	4r	.	4r	.
 4D	Poi	4f	Poi	4d	Poi	4a	Poi	4dd	Poi
 4G	ren-	4g	ren-	4d	ren-	4b	ren-	4dd	ren-
@@ -259,9 +257,9 @@
 .	.	.	.	2e	.	2a	le-	.	.
 .	.	.	.	.	.	.	.	4cc#X	le-
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30
-0Dl	-i!	0dl	-i!	0f#Xl	-i!	0al	-i!	0ddl	-i!
+0D	-i!	0d	-i!	0f#X	-i!	0a	-i!	0dd	-i!
 ==31	==31	==31	==31	==31	==31	==31	==31	==31	==31
-!!LO:TX:a:B:t=Seconda parte
+!LO:TX:t=Seconda parte	!	!	!	!	!	!	!	!	!
 0r	.	1r	.	0r	.	1r	.	1dd	For-
 .	.	2r	.	.	.	4r	.	2b	-se
 .	.	.	.	.	.	4g	del	.	.
@@ -351,9 +349,9 @@
 .	.	4a	-le,	4d	-le,	4f	-no	4ff	-no
 .	.	4.g	mac-	4.B-X	<mac-	4b-X	mac-	4.dd	mac-
 .	.	.	.	.	.	8aL	-chie	.	.
-.	.	8g	-chie	8cni	-chie	8aJ	sì	8ee	-chie
+.	.	8g	-chie	8cnXi	-chie	8aJ	sì	8ee	-chie
 .	.	4f	sì	4d	sì	8ccL	bel-	4ff	sì
-.	.	.	.	.	.	16bniL	.	.	.
+.	.	.	.	.	.	16bnXiL	.	.	.
 .	.	.	.	.	.	16aJJ	.	.	.
 .	.	2e	bel-	2c	bel-	4g	.	4gg	bel-
 .	.	.	.	.	.	4a	-le,	4cc	-le,
@@ -402,15 +400,15 @@
 .	.	4.a	.	4c	In	4cc	le	.	.
 .	.	.	.	4d	sua	2b	men-	.	.
 .	.	8g#XL	.	.	.	.	.	.	.
-.	.	8g#	.	4e	bel-	.	.	.	.
+.	.	8g#i	.	4e	bel-	.	.	.	.
 .	.	16f#XL	.	.	.	.	.	.	.
 .	.	16g#XJJ	.	.	.	.	.	.	.
 4r	.	4a	.	8fL	-tà	2a	-de,	2r	.
 .	.	.	.	8gJ	le	.	.	.	.
-4d	In	4fni	-de, In	4.a	men-	.	.	.	.
+4d	In	4fnXi	-de, In	4.a	men-	.	.	.	.
 4c	sua	4e	sua	.	.	2r	.	4r	.
 .	.	.	.	8g#XL	.	.	.	.	.
-4B	bel-	4d	bel-	8g#	.	.	.	4dd	In
+4B	bel-	4d	bel-	8g#i	.	.	.	4dd	In
 .	.	.	.	16f#XL	.	.	.	.	.
 .	.	.	.	16g#XJJ	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47	=47	=47
@@ -510,11 +508,13 @@
 0Gl	-de?	0dl	-de?	0Gl	-de?	0gl	-de?	0bl	-de?
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!YEM:	Mutio Effrem, "Caro amoroso neo" 1591 (Trm0602d; Nov 2017) Tasso in Music Project (http://www.tassomusic.org) Copyright 2016 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
-!!!END: 2017/11
+!!!END:
 !!!EED: Emiliano Ricciardi
-!!!EEV: 2018/03/04
+!!!EEV: 2018/09/18
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2018/03/04 and edited by Craig Stuart Sapp
+!!!ONB: Translated from MusicXML on 2018/09/18
