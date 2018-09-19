@@ -163,6 +163,7 @@ sub getValue {
 	$ikey = "CATALOGNUM"    if $hkey eq "SCT";
 	$ikey = "CATALOGNUM"    if $hkey eq "SCA";
 	$ikey = "OVOICES"       if $hkey eq "voices";
+	$ikey = "TIMPEDITOR"    if $hkey eq "EED";
 
 	return $params{$ikey};
 }
