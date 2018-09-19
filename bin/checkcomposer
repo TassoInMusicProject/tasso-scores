@@ -1,0 +1,48 @@
+#!/usr/bin/perl
+# vim: ts=3
+# Description: This script checks that the filename are correctly formatted:
+#      catalognumber-title--composer_year.krn
+# Just checking composer and year.  The composer is the last name of the
+# composer, removing spaces and making initial letter of each part of last
+# name capitalized.  Year is the year of (first) publication of A/I print.
+
+use strict;
+
+
+my @files = @ARGV;
+
+foreach my $file (@files) {
+	if ($file !~ /--([A-Za-z]+)_(\d\d\d\d).krn/) {
+		print "Error: filename is not standard: $file\n";
+		next;
+	}
+	my $composer = $1;
+	my $year = $2;
+	my $com = `grep "^...COM[^:]*:" $file | head -n 1`;
+	chomp $com;
+	if ($com !~ /COM[^:]*:\s*(.*)\s*$/) {
+		print "Problem finding composer: $com\n";
+	}
+	$com = $1;
+	my $xcom =~ s/\s+//g;
+	if ($xcom =~ /$composer/i) {
+		print "Cannot find composer name $com in filename $file\n";
+		next;
+	}
+	my $pdt = `grep "^...PDT[^:]*:" $file | head -n 1`;
+	chomp $pdt;
+	if ($pdt !~ /PDT[^:]*:\s*(\d\d\d\d)\s*$/) {
+		print "Problem finding year: $pdt\n";
+		next;
+	}
+	$pdt = $1;
+	if ($pdt != $year) {
+		print "Cannot find year $pdt in filename $file\n";
+		print "\tFilename: $file\n";
+		print "\tFilename year: $year\n";
+		print "\tReference year: $pdt\n";
+		next;
+	}
+}
+
+
