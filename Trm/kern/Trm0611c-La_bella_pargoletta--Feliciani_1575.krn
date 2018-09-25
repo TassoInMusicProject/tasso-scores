@@ -357,7 +357,7 @@
 0Gl	-stri.	0Gl	-stri.	0dl	-stri.	0gl	-stri.	0bnXl	-stri.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
 !!!YEM:	Feliciani, Andrea "La bella pargoletta" 1575 (Trm 0611c; 25 Aug 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

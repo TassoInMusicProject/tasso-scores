@@ -508,7 +508,7 @@
 0Gl	-de?	0dl	-de?	0Gl	-de?	0gl	-de?	0bl	-de?
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
 !!!YEM:	Mutio Effrem, "Caro amoroso neo" 1591 (Trm0602d; Nov 2017) Tasso in Music Project (http://www.tassomusic.org) Copyright 2016 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

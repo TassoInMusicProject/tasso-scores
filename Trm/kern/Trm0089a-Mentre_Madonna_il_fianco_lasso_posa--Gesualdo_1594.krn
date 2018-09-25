@@ -544,7 +544,7 @@
 0Gl	-glie?	0dl	-glie?	0gl	-glie?	0bl	-glie?	0ddl	-glie?
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
 !!!YEM:	Carlo Gesualdo, “Mentre Madonna s’appoggiò pensosa,” 1594 (Trm0089a; August 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2016 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
