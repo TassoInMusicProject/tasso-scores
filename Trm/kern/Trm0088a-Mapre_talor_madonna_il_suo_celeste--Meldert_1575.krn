@@ -473,6 +473,7 @@
 0Gl	-glie?	0Gl	-glie?	0dl	-glie?	0gl	-glie?	0bl	-glie?
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

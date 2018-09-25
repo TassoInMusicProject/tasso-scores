@@ -220,6 +220,7 @@
 0Gl	-za.	0gl	-za.	0bnl	-za.
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

@@ -458,6 +458,7 @@
 0Cl	-to.	0cl	-to.	0gl	-to.	0ccl	-to.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)(s4)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

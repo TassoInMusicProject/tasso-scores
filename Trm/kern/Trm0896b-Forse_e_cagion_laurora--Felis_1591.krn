@@ -300,6 +300,7 @@
 0Gl	-sa!	0Gl	-sa!	0gl	-sa!	0bl	-sa!	0ddl	-sa!
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
