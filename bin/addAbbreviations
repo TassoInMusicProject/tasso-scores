@@ -1,0 +1,74 @@
+#!/usr/bin/perl
+#  Add abbreviations to score (if no abbreviations):
+# vim: ts=3
+#  61 Alto					=> A
+#  81 Basso					=> B
+#   1 Basso Continuo		=> Bc
+#  83 Canto					=> C
+#   1 Canto Primo			=> C1
+#  77 Quinto				=> V
+#   2 Sesto					=> VI
+#  95 Tenore				=> T
+#   1 [Basso Continuo]	=> Bc
+#   1 [Canto]				=> C
+#
+
+use strict;
+
+my @files = sort @ARGV;
+
+
+foreach my $file (@files) {
+	processFile($file);
+}
+
+
+##############################
+##
+## processFile --
+##
+
+sub processFile {
+	my ($file) = @_;
+	open (FILE, $file) or die "Cannot read $file\n";
+	my @contents = <FILE>;
+	close FILE;
+
+	my $nameline = -1;
+	my $abbrline = -1;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		next if $line =~ /^\s*$/;
+		next if $line =~ /^!/;
+		last if $line !~ /^\*/;
+		$nameline = $i if $line =~ /\*I"/;
+		$abbrline = $i if $line =~ /\*I'/;
+	}
+
+	return if $abbrline >= 0;
+	return if $nameline < 0;
+
+	print "Adding abbreviations to file $file\n";
+
+	my $nl = $contents[$nameline];
+	my $al = $nl;
+	$al =~ s/"/'/g;
+	$al =~ s/[[]//g;
+	$al =~ s/[]]//g;
+	$al =~ s/Alto/A/gi;
+	$al =~ s/Basso/B/gi;
+	$al =~ s/ Continuo/c/gi;
+	$al =~ s/Canto/C/gi;
+	$al =~ s/ Primo/1/gi;
+	$al =~ s/Quinto/V/gi;
+	$al =~ s/Sesto/VI/gi;
+	$al =~ s/Tenore/T/gi;
+	$contents[$nameline] .= $al;
+
+	open (FILE, ">$file");
+	print FILE @contents;
+	close FILE;
+}
+
+
+
