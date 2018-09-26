@@ -15,7 +15,7 @@
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
-*I'B	*	*I'Q	*	*I'T	*	*I'A	*	*I'C	*
+*I'B	*	*I'V	*	*I'T	*	*I'A	*	*I'C	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
@@ -321,7 +321,7 @@
 0GG]	.	0D]	.	0G]	.	0B]	.	0g]	.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
 !!!YEM:	Carlo Gesualdo, “Se così dolce è ‘l duolo,” 1594 (Trm0495a; August 2018) Tasso in Music Project (http://www.tassomusic.org)s Copyright 2016 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

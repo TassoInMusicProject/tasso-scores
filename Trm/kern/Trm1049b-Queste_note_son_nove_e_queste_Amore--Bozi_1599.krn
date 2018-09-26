@@ -15,6 +15,7 @@
 *part2	*part2	*part1	*part1
 *staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Canto	*
+*I'B	*	*I'C	*
 *clefF4	*	*clefG2	*
 *k[]	*	*k[]	*
 *M4/2	*	*M4/2	*
@@ -177,7 +178,7 @@
 0Dl	-za.	0al	-za.
 ==	==	==	==
 *-	*-	*-	*-
-!!!system-decoration: [(s1,s2)]
+!!!system-decoration: [(s1)(s2)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

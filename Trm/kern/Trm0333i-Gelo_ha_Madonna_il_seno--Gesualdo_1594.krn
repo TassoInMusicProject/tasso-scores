@@ -14,8 +14,8 @@
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
-*I"Basso pdf 89	*	*I"Quinto pdf 115	*	*I"Tenore pdf 63	*	*I"Alto pdf 37	*	*I"Canto pdf 11 Molino 15	*
-*I'B	*	*I'Q	*	*I'T	*	*I'A	*	*I'C	*
+*I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
+*I'B	*	*I'V	*	*I'T	*	*I'A	*	*I'C	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
@@ -269,7 +269,7 @@
 0GGl	-re.	0D]	.	0d]	.	0gl	-re.	0bnXl	-re.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
 !!!YEM:	Carlo Gesualdo, “Gelo ha Madonna il seno,” 1594 (Trm0333i; August 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2016 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

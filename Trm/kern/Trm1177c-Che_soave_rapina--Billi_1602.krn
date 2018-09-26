@@ -15,6 +15,7 @@
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Tenore	*	*I"Alto	*
+*I'B	*	*I'T	*	*I'A	*
 *clefF4	*	*clefGv2	*	*clefGv2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*
 *M4/2	*	*M4/2	*	*M4/2	*
@@ -246,7 +247,7 @@
 0Gl	-ne!	0dl	-ne!	0gl	-ne!
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3)]
+!!!system-decoration: [(s1)(s2)(s3)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

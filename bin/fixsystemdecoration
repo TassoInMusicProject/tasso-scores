@@ -1,0 +1,100 @@
+#!/usr/bin/perl
+# vim: ts=3
+
+use strict;
+
+
+my @files = sort @ARGV;
+
+
+foreach my $file (@files) {
+	processFile($file);
+}
+
+
+##############################
+##
+## processFile --
+##
+##    !!!system-decoration: [(s1,s2)]
+## goes to:
+##    !!!system-decoration: [(s1),(s2)]
+
+sub processFile {
+	my ($file) = @_;
+
+	open (FILE, $file) or die "Cannot read $file\n";
+	my @contents = <FILE>;
+	close FILE;
+
+	my $sdindex = -1;
+	for (my $i=0; $i<@contents; $i++) {
+		next if $contents[$i] !~ /^!!!system-decoration\s*:\s*(.*)\s*$/;
+		$sdindex = $i;
+		last;
+	}
+	if ($sdindex < 0) {
+		insertSystemDecoration($file, @contents);
+		return;
+	}
+
+	my $line = $contents[$sdindex];
+	return if $line !~ /\[([^\[\]]+)\]/;
+	my $string = $1;
+	my $newstring = $string;
+	$newstring =~ s/(?<!\)),(?!\()/)(/g;
+	return if $string eq $newstring;
+	$line =~ s/$string/$newstring/;
+	$line =~ s/\(+/(/g;
+	$line =~ s/\)+/)/g;
+	$contents[$sdindex] = $line;
+
+	open(FILE, ">$file") or die "Cannot write to file $file\n";
+	print FILE @contents;
+	close FILE;
+}
+
+
+
+##############################
+##
+## insertSystemDecoration -- Add a system-decoration line at the bottom of the file immediately after the terminal manipulators.
+##
+
+sub insertSystemDecoration {
+	my ($file, @contents) = @_;
+
+	my $tindex = -1;
+	my $eindex = -1;
+
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		if ($line =~ /^\*\*.*kern/) {
+			$eindex = $i;
+		} elsif ($line =~ /^\*-/) {
+			$tindex = $i;
+		}
+	}
+	return if $tindex < 0;
+	return if $eindex < 0;
+	my $scount = 0;
+	my @spines = split(/\t/, $contents[$eindex]);
+	for (my $i=0; $i<@spines; $i++) {
+		$scount++ if $spines[$i] eq "**kern";
+	}
+	return if $scount == 1;
+
+	my $string = "";
+	for (my $i=1; $i<=$scount; $i++) {
+		$string .= "(s$i)";
+	}
+	$string = "!!!system-decoration: [$string]\n";
+	$contents[$tindex] = "$contents[$tindex]$string";
+
+	open(FILE, ">$file") or die "Cannot write2 to file $file\n";
+	print FILE @contents;
+	close FILE;
+}
+
+
+

@@ -15,7 +15,7 @@
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Tenore	*	*I"Quinto	*	*I"Alto	*	*I"Canto	*
-*I'B	*	*I'T	*	*I'Q	*	*I'A	*	*I'C	*
+*I'B	*	*I'T	*	*I'V	*	*I'A	*	*I'C	*
 *clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
@@ -321,7 +321,7 @@
 0AA]	.	0A]	.	0e]	.	0a]	.	0cc#]	.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
 !!!YEM:	Carlo Gesualdo, “Mentre mia stella miri,” 1594 (Trm0560i; August 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2016 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
