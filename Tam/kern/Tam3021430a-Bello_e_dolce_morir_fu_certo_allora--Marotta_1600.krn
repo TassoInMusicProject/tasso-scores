@@ -278,6 +278,7 @@
 1AAl	-i.	1c#Xl	-i.	1al	-i.
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
