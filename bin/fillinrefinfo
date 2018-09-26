@@ -4,6 +4,9 @@
 use strict;
 use Getopt::Long;
 
+#my $indexfile = "../tasso-website/data/indexes/gerusalemme-settings.aton";
+#my $indexfile = "../tasso-website/data/indexes/aminta-settings.aton";
+#my $indexfile = "../tasso-website/data/indexes/other-settings.aton";
 my $indexfile = "../tasso-website/data/indexes/rime-settings.aton";
 
 my $writeQ = 0;
