@@ -1,0 +1,274 @@
+!!!COM: Ricci, Cesarina
+!!!CDT:
+!!!PTL: Di Madonna Cesarina de Tingoli il primo libro de madrigali à cinque voci. Con un Dialogo a otto. Novamente composti et dati in luce
+!!!PPP: Venice
+!!!PPR: Angelo Gardano
+!!!PDT: 1597
+!!!RISM: R 1253
+!!!rime:
+!!!OTL:	Non di morte sei tu ma di vivaci (Gerusalemme XII/97)
+!!!AGN: Madrigal
+!!!SCT: Tsg12097e
+!!!SCA: Tsg12097e
+!!!voices:
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Alto	*
+*I'B	*	*I'T	*	*I'A	*
+*clefF4	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M2/1	*	*M2/1	*	*M2/1	*
+=1	=1	=1	=1	=1	=1
+!LO:TX:t=Seconda parte 	!	!	!	!	!
+0r	.	0r	.	1r	.
+.	.	.	.	[1e	Non
+=2	=2	=2	=2	=2	=2
+0r	.	0r	.	2e]	.
+.	.	.	.	2e	di
+.	.	.	.	2B	mor-
+.	.	.	.	2c	-te
+=3	=3	=3	=3	=3	=3
+1r	.	0r	.	1g	sei
+[1E	Non	.	.	2e	tu;
+.	.	.	.	2g	ma
+=4	=4	=4	=4	=4	=4
+2E]	.	0r	.	2c	di
+2E	di	.	.	1B	vi-
+2BB	mor-	.	.	.	.
+2C	-te	.	.	2e	-va-
+=5	=5	=5	=5	=5	=5
+1G	sei	1.E	Non	2e	-ci
+.	.	.	.	2.g	Ce-
+2E	tu;	.	.	.	.
+.	.	.	.	4f	-ne-
+2C	ma	2E	di	2e	-ri al-
+=6	=6	=6	=6	=6	=6
+2BB	di	1G	mor-	2d	-ber-
+2E	vi-	.	.	1e	-go,
+2E	-va-	2G#X	-te	.	.
+2D	-ci	2A	sei	2a	al-
+=7	=7	=7	=7	=7	=7
+2.GG	Ce-	2B	tu;	2.g	-ber-
+.	.	2GnXi	ma	.	.
+4GG	-ne-	.	.	8fL	.
+.	.	.	.	8eJ	.
+1D	-ri al-	2A	di	1f	.
+.	.	2d	vi-	.	.
+=8	=8	=8	=8	=8	=8
+1AA	-ber-	2c	-va-	2e	-go,
+.	.	2A	-ci	2.a	Ce-
+[1E	-go,	2.B	Ce-	.	.
+.	.	.	.	4g#X	-ne-
+.	.	.	.	2g#i	-ri al-
+.	.	4B	-ne-	.	.
+=9	=9	=9	=9	=9	=9
+1E]	.	1e	-ri al-	2g#i	-ber-
+.	.	.	.	2g#i	-go o-
+1r	.	1A	-ber-	2a	-v'è
+.	.	.	.	2e	ri-
+=10	=10	=10	=10	=10	=10
+1r	.	2c	-go,	2.gnXi	-po-
+.	.	2r	.	.	.
+.	.	.	.	4f#X	-sto a-
+2r	.	2d	o-	1g	-mo-
+2E	o-	[2e	-v'è	.	.
+=11	=11	=11	=11	=11	=11
+2.A	-v'è	4e]	.	1e	-re;
+.	.	4d	ri-	.	.
+.	.	1c	-po-	.	.
+4G	ri-	.	.	.	.
+2F	-po-	.	.	1r	.
+2A	-sto a-	2c	-sto a-	.	.
+=12	=12	=12	=12	=12	=12
+1G	-mo-	1d	-mo-	1r	.
+1C	-re;	1e	-re;	[1g	E
+=13	=13	=13	=13	=13	=13
+1r	.	0r	.	2g]	.
+.	.	.	.	2e	ben
+2r	.	.	.	2f#X	sen-
+[2G	E	.	.	4g	-t'io
+.	.	.	.	4g	da
+=14	=14	=14	=14	=14	=14
+2G]	.	1G	E	1g	te,
+2E	ben	.	.	.	.
+2F#X	sen-	2A	ben	2r	.
+2G	-t'io	2B	sen-	4r	.
+.	.	.	.	4g	da
+=15	=15	=15	=15	=15	=15
+1r	.	4c	-t'io	4g	te
+.	.	4c	da	4g	l'u-
+.	.	4c	te	4f	-sa-
+.	.	4c	l'u-	4e	-te
+4r	.	2B	-sa-	2d	fa-
+4G	da	.	.	.	.
+4E	te	4c	-te	2e	-ci,
+4E	l'u-	[4B	fa-	.	.
+=16	=16	=16	=16	=16	=16
+4D	-sa-	8BL]	.	1r	.
+.	.	8AJ	.	.	.
+4C	-te	2A	.	.	.
+2BB	fa-	.	.	.	.
+.	.	4G#X	.	.	.
+2AA	-ci,	1A	-ci,	2r	.
+2AA	Men	.	.	2e	Men
+=17	=17	=17	=17	=17	=17
+1.E	dol-	2G#X	Men	1.e	dol-
+.	.	1B	dol-	.	.
+2A	-ci	2c	-ci	2e	-ci
+=18	=18	=18	=18	=18	=18
+1G#X	sì,	1B	sì,	1e	sì,
+2A	ma	2c#X	ma	2e	ma
+2D	non	2d	non	2f	non
+=19	=19	=19	=19	=19	=19
+4D	men	4A	men	4f	men
+2F	cal-	2A	cal-	2a	cal-
+4G	-de al	4d	-de al	4g	-de al
+1A	co-	4c#X	co-	1e	co-
+.	.	2d	.	.	.
+.	.	4c#X	.	.	.
+=20	=20	=20	=20	=20	=20
+1D	-re.	1d	-re.	1f#X	-re.
+1r	.	1r	.	2r	.
+.	.	.	.	2e	Deh!
+=21	=21	=21	=21	=21	=21
+1r	.	1r	.	2.c	pren-
+.	.	.	.	4d	-di i
+1C	e	1r	.	4e	miei
+.	.	.	.	4f	so-
+.	.	.	.	4.g	-spi-
+.	.	.	.	8f	.
+=22	=22	=22	=22	=22	=22
+2C	que-	1A	e	2e	.
+2D	-sti	.	.	2d	-ri,
+2E	ba-	2c	que-	2r	.
+4E	-ci,	2B	-sti	2e	<Deh!
+4E	Deh!	.	.	.	.
+=23	=23	=23	=23	=23	=23
+2.AA	pren-	2A	ba-	2.c	pren-
+.	.	1E	-ci,	.	.
+4BB	-di i	.	.	4d	-di i
+4C	miei	.	.	4e	miei
+4D	so-	.	.	4f	so-
+2E	-spi-	2B	Deh!	2g	-spi-
+=24	=24	=24	=24	=24	=24
+4E	-ri, e	4.e	pren-	4g	-ri> e
+2A	que-	.	.	2e	que-
+.	.	8d	-di i	.	.
+.	.	4c	miei	.	.
+4G	-sti	4B	so-	4e	-sti
+2F	ba-	2A	-spi-	2d	ba-
+2E	-ci	2B	-ri, e	2e	-ci,
+=25	=25	=25	=25	=25	=25
+0r	.	2.d	que-	4r	.
+.	.	.	.	4d	<e
+.	.	.	.	4f#X	que-
+.	.	4c	-sti	4a	-sti
+.	.	2B	ba-	2g#X	ba-
+.	.	2A	-ci	2a	-ci>
+=26	=26	=26	=26	=26	=26
+1D	Pren-	1A	Pren-	2r	.
+.	.	.	.	2f	Pren-
+2D	-di	2A	-di	2f	-di
+2AA	ch'io	[2A	ch'io	2e	ch'io
+=27	=27	=27	=27	=27	=27
+1D	ba-	2A]	.	1f	ba-
+.	.	2d	ba-	.	.
+2E	-gno	2B	-gno	2e	-gno
+[2F	di	[2A	di	[2c	di
+=28	=28	=28	=28	=28	=28
+4F]	.	4A]	.	4c]	.
+4D	do-	4A	do-	4d	do-
+4C	-glio-	4c	-glio-	4e	-glio-
+4AA	-so hu-	4c#X	-so hu-	4e	-so hu-
+2GG	-mo-	2d	-mo-	2g	-mo-
+2D	-re;	2d	-re;	2f	-re;
+=29	=29	=29	=29	=29	=29
+1r	.	2r	.	2e	E
+.	.	2A	E	4.c	dal-
+.	.	.	.	8d	-li
+2r	.	4.c	dal-	2e	tu,
+.	.	8d	-li	.	.
+2AA	E	4e	tu,	2a	<E
+.	.	4e	poi	.	.
+=30	=30	=30	=30	=30	=30
+4.C	dal-	2e	ch'io,	4.g	dal-
+8D	-li	.	.	8f	-li
+4E	tu,	4r	.	2e	tu,>
+4E	poi	4e	poi	.	.
+2E	ch'io	4e	c'hio	2r	.
+.	.	4e	non	.	.
+2A	non	4.c	pos-	2A	E
+.	.	8B	.	.	.
+=31	=31	=31	=31	=31	=31
+2F	pos-	2A	.	4.c	dal-
+.	.	.	.	8d	-li
+2C	-so al-	1G	-so al	4e	tu,
+.	.	.	.	4e	poi
+4.C	-me-	.	.	4e	ch'io
+.	.	.	.	2e	non
+8D	.	.	.	.	.
+4.E	.	[2c	me-	.	.
+.	.	.	.	[4g	pos-
+8F	.	.	.	.	.
+=32	=32	=32	=32	=32	=32
+2G	.	2c]	.	4g]	.
+.	.	.	.	4g	-so, al-
+2G	-no	2B	-no	4g	-me-
+.	.	.	.	4d	-no
+2.E	A	2.B	A	4r	.
+.	.	.	.	2e	A
+4E	l'a-	4B	l'a-	4e	l'a-
+=33	=33	=33	=33	=33	=33
+2E	-ma-	2B	-ma-	2e	-ma-
+4E	-te	4B	-te	4e	-te
+4A	re-	4c#X	re-	4e	re-
+2.G	-li-	2.d	-li-	2.g	-li-
+4C	-quie	4e	-quie	4g	-quie
+=34	=34	=34	=34	=34	=34
+4F	c'hai	4cnXi	c'hai	4f	c'hai
+4D	nel	4d	nel	4f	nel
+2E	se-	2B	se-	2e	se-
+1AA	-no,	2c#X	-no,	2e	-no,
+.	.	4c#i	<A	4e	<A
+.	.	4c#i	l'a-	4e	l'a-
+=35	=35	=35	=35	=35	=35
+0r	.	2c#i	-ma-	2e	-ma-
+.	.	4c#i	-te	4e	-te
+.	.	4d	re-	4d	re-
+.	.	2.e	-li-	2g	-li-
+.	.	.	.	4e	-quie
+.	.	4f	-quie	[4c	c'hai
+=36	=36	=36	=36	=36	=36
+1r	.	4e	c'hai	4c]	.
+.	.	4d	nel	4A	nel
+.	.	2B	se-	2G#X	se-
+2.AA	<A	2c#X	-no,>	2A	-no,>
+.	.	4c#i	A	4e	A
+4AA	l'a-	4c#i	l'a-	4e	l'a-
+=37	=37	=37	=37	=37	=37
+2AA	-ma-	2c#i	-ma-	2e	-ma-
+4AA	-te	4e	-te	4e	-te
+4D	re-	4d	re-	4f#X	re-
+2C	-li-	2G	-li-	2g	-li-
+2GG	-quie	2G	-quie	2g	-quie
+=38	=38	=38	=38	=38	=38
+4AA	c'hai	2.c	c'hai	4e	c'hai
+4C	nel	.	.	4e	nel
+2AA	se-	.	.	2e	se-
+.	.	4A	nel	.	.
+[1El	-no.>	1G#X	se-	[1el	-no.
+=39	=39	=39	=39	=39	=39
+0E]	.	0G#Xl	-no.	0e]	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]
+!!!YEM:	Cesarina Ricci de Tingoli, "Non di morte sei tu ma di vivaci," 1597 (Tsg12097e; Nov 2017) Tasso in Music Project (http://www.tassomusic.org) Copyright 2016 Emiliano Ricciardi
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/09/25
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/25

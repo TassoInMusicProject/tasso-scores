@@ -1,0 +1,278 @@
+!!!COM: Boschetti, Giovanni Boschetto
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a cinque voci di Gio. Boschetto Boschetti; con doi madrigali spirituali in fine
+!!!PPP: Rome
+!!!PPR: Giovanni Battista Robletti
+!!!PDT: 1613
+!!!RISM: B3785
+!!!rime:
+!!!OTL:	Ho visto al pianto mio (Aminta I/2)
+!!!AGN: Madrigal
+!!!SCT: Tam1020338d
+!!!SCA: Tam1020338d
+!!!voices:
+**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Quinto	*	*I"Canto	*
+*I'B	*	*I'T	*	*I'A	*	*I'Q	*	*I'C	*
+*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4r	.	4r	.	4r	.	4r	.	4r	.
+4A	Ho	4c	Ho	4e	Ho	4a	Ho	4ee	Ho
+4.A	vi-	4.c	vi-	4.e	vi-	4.a	vi-	4.ee	vi-
+8A	-sto al	8c	-sto al	8e	-sto al	8a	-sto al	8ee	-sto al
+4A	pian-	4c	pian-	4e	pian-	4a	pian-	4ee	pian-
+4G#X	-to	4B	-to	4e	-to	4b	-to	4ee	-to
+2A	mi-	2c	mi-	2e	mi-	2a	mi-	2cc	mi-
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2A	-o	2c	-o	2e	-o	2a	-o	2cc	-o
+4r	.	4r	.	4r	.	4r	.	4r	.
+4A	Ri-	4c	Ri-	4a	Ri-	4cc	Ri-	4ee	Ri-
+4.A	-spon-	4.e	-spon-	4.e	-spon-	4a	-spon-	4.cc	-spon-
+.	.	.	.	.	.	4e	-der	.	.
+8G	-der	8B	-der	8e	-der	.	.	8b	-der
+4.G	per	4.B	per	4.e	per	4.g	per	4.b	per
+8F	pie-	8c	pie-	8f	pie-	8a	pie-	8a	pie-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2.F	-ta-	2c	-ta-	2.f	-ta-	8aL	-ta-	2.a	-ta-
+.	.	.	.	.	.	8bJ	.	.	.
+.	.	.	.	.	.	2cc	.	.	.
+.	.	2A	-te i	.	.	.	.	.	.
+4F	-te i	.	.	4f	-te i	4a	-te i	4dd	-te i
+2F	sas-	2d	sas-	2f	sas-	2a	sas-	2.dd	sas-
+2E	-si e	2e	-si e	2g	-si e	2cc	-si e	.	.
+.	.	.	.	.	.	.	.	4cc	-si e
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1G	l'on-	1d	l'on-	1g	l'on-	2cc	l'on-	1dd	l'on-
+.	.	.	.	.	.	2b	.	.	.
+2C	-de,	1c	-de,	8gL	-de,	1cc	-de,	1ee	-de,
+.	.	.	.	8e	E	.	.	.	.
+.	.	.	.	8e	so-	.	.	.	.
+.	.	.	.	8fJ	-spi-	.	.	.	.
+8r	.	.	.	[2g	-rar	.	.	.	.
+8E	E	.	.	.	.	.	.	.	.
+8EL	so-	.	.	.	.	.	.	.	.
+8FJ	-spi-	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2G	-rar,	1r	.	2g	.	8r	.	8r	.
+.	.	.	.	.	.	8g	E	8b	E
+.	.	.	.	.	.	8gL	so-	8bL	so-
+.	.	.	.	.	.	8aJ	-spi-	8ccJ	-spi-
+8r	.	.	.	2r	.	2b	-rar,	2dd	-rar,
+8BB	E	.	.	.	.	.	.	.	.
+8BBL	so-	.	.	.	.	.	.	.	.
+8CJ	-spi-	.	.	.	.	.	.	.	.
+2D	-rar	2r	.	2r	.	8r	.	8r	.
+.	.	.	.	.	.	8a	E	8f#X	E
+.	.	.	.	.	.	8bL	so-	8gL	so-
+.	.	.	.	.	.	8ccJ	-spi-	8aJ	-spi-
+2BB	le	8r	.	2d	le	2dd	-rar	[2b	-rar
+.	.	8G	E	.	.	.	.	.	.
+.	.	8GL	so-	.	.	.	.	.	.
+.	.	8AJ	-spi-	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1D	fron-	4.B	-rar	1d	fron-	4f#X	le	4b	.
+.	.	.	.	.	.	2g	fron-	4a	le
+.	.	8c	le	.	.	.	.	.	.
+.	.	2d	fron-	.	.	.	.	2a	fron-
+.	.	.	.	.	.	4f#X	.	.	.
+2GG	-de,	2B	-de,	2d	-de,	2g	-de,	2g	-de,
+4r	.	4r	.	4r	.	4r	.	4r	.
+4G	Ho	4d	Ho	4d	Ho	4g	Ho	4b	Ho
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+!LO:TX:t=Giovanni Boschetto Boschetti, "Ho visto al pianto mio," 1613 (Tam1020338d; 22 August 2018)	!	!	!	!	!	!	!	!	!
+4.G	vi-	4.d	vi-	4.g	vi-	4.b	vi-	4.dd	vi-
+8G	-sto al	8d	-sto al	8g	-sto al	8b	-sto al	8dd	-sto al
+4G	pian-	4d	pian-	4g	pian-	4b	pian-	4dd	pian-
+4F#X	-to	4d	-to	4a	-to	4a	-to	4dd	-to
+2G	mi-	2B	mi-	2g	mi-	2b	mi-	2dd	mi-
+2G	-o,	2B	-o,	2g	-o,	2b	-o,	2dd	-o,
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4r	.	4r	.	4r	.	4r	.	4r	.
+2A	Ma	2c	Ma	2e	Ma	2a	Ma	2cc	Ma
+8FL	non	8cL	non	8fL	non	8aL	non	8ccL	non
+8FJ	ho	8cJ	ho	8fJ	ho	8aJ	ho	8ccJ	ho
+4F	vi-	4c	vi-	4f	vi-	4a	vi-	4cc	vi-
+4D	-sto	4B	-sto	4f	-sto	4b	-sto	4dd	-sto
+2E	ma-	2B	ma-	2e	ma-	2g#X	ma-	2b	ma-
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+4E	-i,	4B	-i,	4e	-i,	4g#i	-i,	4b	-i,
+4E	Nè	4B	Nè	4e	Nè	4g#i	Nè	4b	Nè
+4.E	spe-	4.B	spe-	4.e	spe-	4.g#i	spe-	4.b	spe-
+8E	-ro	8B	-ro	8e	-ro	8g#i	-ro	8b	-ro
+4E	di	4B	di	4e	di	4g#i	di	4b	di
+4A	ve-	4A	ve-	4e	ve-	4a	ve-	4cc	ve-
+2G	-de-	2d	-de-	2g	-de-	2b	-de-	2dd	-de-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2.G	-re,	4B	-re,	2.g	-re,	2.b	-re,	4dd	-re,
+.	.	4B	com-	.	.	.	.	4dd	com-
+.	.	4.B	-pas-	.	.	.	.	[1ee	-pas-
+4G	com-	.	.	4g	com-	4b	com-	.	.
+.	.	8A	.	.	.	.	.	.	.
+2G	-pas-	2G	.	8gL	-pas-	2b	-pas-	.	.
+.	.	.	.	8fJ	.	.	.	.	.
+.	.	.	.	2e	.	.	.	.	.
+2F	-si-	2A	-si-	.	.	2a	-si-	4ee]	.
+.	.	.	.	4A	-si-	.	.	4dd	-si-
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2E	-on	2B	-on	4e	-on,	4g#X	-on,	2b	-on,
+.	.	.	.	4e	com-	4g#i	com-	.	.
+2r	.	2r	.	1g	-pas-	1b	-pas-	4r	.
+.	.	.	.	.	.	.	.	4b	com-
+1r	.	1r	.	.	.	.	.	2.ee	-pas-
+.	.	.	.	2f	-si-	2a	-si-	.	.
+.	.	.	.	.	.	.	.	4a	-si-
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4r	.	4r	.	4e	-on	4g#X	-on	4b	-on
+4C	nel-	4c	nel-	4g	nel-	4cc	nel-	4ee	nel-
+4C	-la	4c	-la	4g	-la	4cc	-la	4ee	-la
+4C	cu-	4c	cru-	4e	cru-	4gnXi	cru-	4ee	cru-
+2C#X	-de-	2.A	-de-	2e	-de-	2a	-de-	2ee	-de-
+2C#i	-le e	.	.	2e	-le e	2a	-le e	2ee	-le e
+.	.	4G	-le e	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1D	bel-	4.F	bel-	1f	bel-	1a	bel-	1dd	bel-
+.	.	8G	.	.	.	.	.	.	.
+.	.	2A	.	.	.	.	.	.	.
+[1AA	-la,	1A	-la,	[1e	-la,	2a	-la,	4cc#X	-la,
+.	.	.	.	.	.	.	.	8eeL	Che
+.	.	.	.	.	.	.	.	8ddJ	non
+.	.	.	.	.	.	4r	.	4cc#i	sò
+.	.	.	.	.	.	8eeL	Che	8cc#iL	s'io
+.	.	.	.	.	.	8ddJ	non	8bJ]	mi
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2AA	.	4r	.	1e	.	4cc	sò	2a	chia-
+.	.	8eL	Che	.	.	8ccL	s'io	.	.
+.	.	8dJ	non	.	.	8bJ	mi	.	.
+4r	.	4c	sò	.	.	2a	chia-	2cc	-mi,
+8AL	Che	8cL	s'io	.	.	.	.	.	.
+8GJ	non	8BJ	mi	.	.	.	.	.	.
+4F	sò	1A	chia-	4r	.	2cc	-mi,	2r	.
+8FL	s'io	.	.	8aL	Che	.	.	.	.
+8EJ	mi	.	.	8gJ	non	.	.	.	.
+2D	chia-	.	.	4f	sò	2r	.	4r	.
+.	.	.	.	8fL	s'io	.	.	8ddL	Che
+.	.	.	.	8eJ]	mi	.	.	8ccJ	non
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2GG	-mi,	2B	-mi,	2d	chia-	4r	.	4b	sò
+.	.	.	.	.	.	8ddL	Che	8bL	s'io
+.	.	.	.	.	.	8ccJ	non	8aJ	mi
+4r	.	8dL	Che	2d	-mi,	4b	sò	2g	chia-
+.	.	8cJ	non	.	.	.	.	.	.
+8GL	Che	4B	sò	.	.	8bL	s'io	.	.
+8FJ	non	.	.	.	.	8aJ	mi	.	.
+4E	sò	8BL	s'io	4r	.	1g	chia-	2b	-mi,
+.	.	8AJ	mi	.	.	.	.	.	.
+8EL	s'io	2G	chia-	8gL	Che	.	.	.	.
+8DJ	mi	.	.	8fJ	non	.	.	.	.
+2C	chia-	.	.	4e	sò	.	.	2r	.
+.	.	4G	-mi ò	8eL	s'io	.	.	.	.
+.	.	.	.	8dJ	mi	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2C	-mi ò	2G	don-	1c	chia-	4g	-mi,	4r	.
+.	.	.	.	.	.	8eeL	Che	8ccL	Che
+.	.	.	.	.	.	8ddJ	non	8bJ	non
+1F	don-	2A	-na, ò	.	.	4cc	sò	4a	sò
+.	.	.	.	.	.	8ccL	s'io	8aL	s'io
+.	.	.	.	.	.	8bJ	mi	8gJ	mi
+.	.	[1A	fe-	1f	-mi ò	4a	chia-	4f	chia-
+.	.	.	.	.	.	4cc	-mi ò	4a	-mi ò
+2D	-na, ò	.	.	.	.	[2dd	don-	[2a	don-
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+1AA	fe-	1A	.	4e	don-	4dd	.	4a	.
+.	.	.	.	4d	-na, ò	4dd	-na, ò	4f	-na, ò
+.	.	.	.	2e	fe-	2cc#X	fe-	2e	fe-
+2D	-ra.	2A	-ra.	2d	-ra.	2dd	-ra.	2f#X	-ra.
+2r	.	4r	.	4r	.	2r	.	4r	.
+.	.	4d	Ma	4f#X	Ma	.	.	4a	Ma
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+0r	.	4.d	ne-	4.f#i	ne-	0r	.	4.a	ne-
+.	.	8d	-ga	8f#i	-ga	.	.	8a	-ga
+.	.	4d	d'es-	4f#i	d'es-	.	.	4a	d'es-
+.	.	4G	-ser	4g	-ser	.	.	4b	-ser
+.	.	2c	don-	2e	don-	.	.	2g	don-
+.	.	4c	-na,	4e	-na,	.	.	4g	-na,
+.	.	[4c	poi-	[4e	poi-	.	.	[4g	poi-
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+0r	.	4c	.	4e	.	1r	.	4g	.
+.	.	4c	-ché	4e	-ché	.	.	4g	-ché
+.	.	4c	ne-	4e	ne-	.	.	4g	ne-
+.	.	8cL	-ga	8eL	-ga	.	.	8gL	-ga
+.	.	8dJ	pie-	8dJ	pie-	.	.	8fJ	pie-
+.	.	2A	-ta-	2c#X	-ta-	2r	.	2e	-ta-
+.	.	4A	-te	4c#i	-te	4r	.	4e	-te
+.	.	4F	A	4f	A	4cc	A	4a	A
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+0r	.	4.F	chi	4f	chi	4.cc	chi	4.a	chi
+.	.	.	.	4f	non	.	.	.	.
+.	.	8G	non	.	.	8b	non	8b	non
+.	.	4A	la	4e	la	4.a	la	4cc	la
+.	.	4B	ne-	4d	ne-	.	.	4dd	ne-
+.	.	.	.	.	.	8g	ne-	.	.
+.	.	2c	-ga-	2e	-ga-	2g	-ga-	2cc	-ga-
+.	.	4c	-ro	4e	-ro	4g	-ro	4cc	-ro
+.	.	4A]	Le	4f	Le	4a	Le	4cc	Le
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+0r	.	4.B-X	co-	4.d	co-	4.f	co-	4.b-X	co-
+.	.	8B-i	-se i-	8d	-se i-	8f	-se i-	8b-i	-se i-
+.	.	4B-i	-na-	4d	-na-	4f	-na-	4b-i	-na-
+.	.	4G	-ni-	4d	-ni-	4g	-ni-	4b-i	-ni-
+.	.	1A	-ma-	4c#X	-ma-	1e	-ma-	1a	-ma-
+.	.	.	.	2d	.	.	.	.	.
+.	.	.	.	4c#X	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+2r	.	2D	-te,	2d	-te,	2f#X	-te,	2a	-te,
+4r	.	4r	.	4r	.	4r	.	4r	.
+4D	Ma	4A	Ma	4d	Ma	4f#X	Ma	4a	Ma
+4.D	ne-	4.A	ne-	4.d	ne-	4.f#i	ne-	4.a	ne-
+8D	-ga	8A	-ga	8d	-ga	8f#i	-ga	8a	-ga
+4D	d'es-	4A	d'es-	4d	d'es-	4f#i	d'es-	4a	d'es-
+4GG	-ser	4G	-ser	4d	-ser	4g	-ser	4b	-ser
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+2C	don-	2G	don-	2e	don-	2g	don-	2cc	don-
+4C	-na,	4G	-na,	4e	-na,	4g	-na,	4cc	-na,
+2C	Poi-	2G	Poi-	2e	Poi-	2g	Poi-	2cc	Poi-
+4C	-ché	4G	-ché	4e	-ché	4g	-ché	4cc	-ché
+4C	ne-	4G	ne-	4e	ne-	4g	ne-	4cc	ne-
+8CL	-ga	8GL	-ga	8eL	-ga	8gL	-ga	8ccL	-ga
+8DJ	pie-	8DJ	pie-	8dJ	pie-	8fJ	pie-	8aJ]	pie-
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2AA	-ta-	2A	-ta-	2c#X	-ta-	2e	-ta-	2a	-ta-
+4AA	-te	4A	-te	4c#i	-te	4e	-te	4a	-te
+4FF	A	4A	A	4f	A	4a	A	4cc	A
+4.FF	chi	4c	chi	4f	chi	4.a	chi	4.cc	chi
+.	.	4d	non	4f	non	.	.	.	.
+8GG	non	.	.	.	.	8b	non	8b	non
+4AA	la	4c	la	4e	la	4cc	la	4.a	la
+4BB	ne-	4B	ne-	4d	ne-	4dd	ne-	.	.
+.	.	.	.	.	.	.	.	8g	ne-
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+2C	-ga-	2G	-ga-	2e	-ga-	2cc	-ga-	2g	-ga-
+4C	-ro	4G	-ro	4e	-ro	4cc	-ro	4g	-ro
+4AA	Le	4c	Le	4e	Le	4cc	Le	4a	Le
+4.BB-X	co-	4.F	co-	4.d	co-	4.b-X	co-	4.f	co-
+8BB-i	-se i-	8F	-se i-	8d	-se i-	8b-i	-se i-	8f	-se i-
+4BB-i	-na-	4D	-na-	4d	-na-	4b-i	-na-	4f	-na-
+4GG	-ni-	4D	-ni-	4d	-ni-	4b-i	-ni-	4g	-ni-
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+1AA	-ma-	1A	-ma-	4c#X	-ma-	1a	-ma-	1e	-ma-
+.	.	.	.	2d	.	.	.	.	.
+.	.	.	.	4c#X	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+*M8/2	*	*M8/2	*	*M8/2	*	*M8/2	*	*M8/2	*
+00Dl	-te.	00Al	-te.	00dl	-te.	00al	-te.	00f#Xl	-te.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2,s3,s4,s5
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/09/25
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/25

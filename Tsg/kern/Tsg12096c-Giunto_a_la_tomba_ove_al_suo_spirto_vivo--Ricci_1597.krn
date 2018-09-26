@@ -1,0 +1,300 @@
+!!!COM: Ricci, Cesarina
+!!!CDT:
+!!!PTL: Di Madonna Cesarina de Tingoli il primo libro de madrigali à cinque voci. Con un Dialogo a otto. Novamente composti et dati in luce
+!!!PPP: Venice
+!!!PPR: Angelo Gardano
+!!!PDT: 1597
+!!!RISM: R 1253
+!!!rime:
+!!!OTL:	Giunto a la tomba ove al suo spirto vivo (Gerusalemme XII/96)
+!!!AGN: Madrigal
+!!!SCT: Tsg12096c
+!!!SCA: Tsg12096c
+!!!voices:
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Alto	*
+*I'B	*	*I'T	*	*I'A	*
+*clefF4	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M2/1	*	*M2/1	*	*M2/1	*
+=1	=1	=1	=1	=1	=1
+!LO:TX:t=Prima parte	!	!	!	!	!
+0r	.	1e	Giun-	0r	.
+.	.	2e	-to a	.	.
+.	.	2c	la	.	.
+=2	=2	=2	=2	=2	=2
+1r	.	1B	tom-	0r	.
+1AA	Giun-	1A	-ba,	.	.
+=3	=3	=3	=3	=3	=3
+2.C	-to a	1.E	<Giun-	1r	.
+4D	la	.	.	.	.
+1E	tom-	.	.	1e	Giun-
+.	.	2e	-to a	.	.
+=4	=4	=4	=4	=4	=4
+1AA	-ba,	2c	la	2e	-to a
+.	.	1A	tom-	2c	la
+1r	.	.	.	1B	tom-
+.	.	2G#X	.	.	.
+=5	=5	=5	=5	=5	=5
+1AA	<Giun-	2A	-ba,>	2A	-ba,
+.	.	1E	O-	2A	<Giun-
+2AA	-to a	.	.	2c	-to a
+2FF	la	[2A	-v'al	2d	la
+=6	=6	=6	=6	=6	=6
+1EE	tom-	2A]	.	1e	tom-
+.	.	2G#X	suo	.	.
+1AA	-ba,> o-	[1A	spir-	1c#X	-ba,> o-
+=7	=7	=7	=7	=7	=7
+2AA	-v'al	2A]	.	2c#i	-v'al
+2AA	suo	2A	-to	2c#i	suo
+1GG	spir-	2D	vi-	2d	spir-
+.	.	2E	.	2B	-to
+=8	=8	=8	=8	=8	=8
+1FF	-to	2.F	.	1A	vi-
+.	.	4G	.	.	.
+2.F	vi-	1A	.	2A	-vo,
+.	.	.	.	[2f	vi-
+4E	.	.	.	.	.
+=9	=9	=9	=9	=9	=9
+1D	.	1A	-vo	4f]	.
+.	.	.	.	4e	.
+.	.	.	.	2d	.
+2AA	-vo	[1A	Do-	2e	-vo
+[2AA	Do-	.	.	[2e	Do-
+=10	=10	=10	=10	=10	=10
+2AA]	.	2A]	.	2e]	.
+2GG	-lo-	1D	-lo-	2g	-lo-
+1GG	-ro-	.	.	1d	-ro-
+.	.	[2G	-ro-	.	.
+=11	=11	=11	=11	=11	=11
+1C	-sa	4G]	.	2e	-sa
+.	.	4G	-sa	.	.
+.	.	2E	pri-	2c	pri-
+1BB	pri-	1D	-gion	1d	-gion
+=12	=12	=12	=12	=12	=12
+1C	-gion	2r	.	1.e	il
+.	.	2G	il	.	.
+1C	il	1g	ciel	.	.
+.	.	.	.	[2g	ciel
+=13	=13	=13	=13	=13	=13
+1c	ciel	1e	pre-	2g]	.
+.	.	.	.	1e	pre-
+1A	pre-	[1c	-scris-	.	.
+.	.	.	.	[2e	-scris-
+=14	=14	=14	=14	=14	=14
+1F	-scris-	2c]	.	2e]	.
+.	.	2A	-se,	2d	.
+1E	-se,	2r	.	1e	-se,
+.	.	[2e	Pal-	.	.
+=15	=15	=15	=15	=15	=15
+2r	.	2e]	.	2r	.
+1E	Pal-	2B	-li-	1e	Pal-
+.	.	1B	-do,	.	.
+2BB	-li-	.	.	2d#X	-li-
+=16	=16	=16	=16	=16	=16
+1BB	-do,	1r	.	1d#i	-do,
+1C#X	fred-	1E	fred-	1e	fred-
+=17	=17	=17	=17	=17	=17
+1D	-do,	1D	-do,	1f#X	.
+[1GG	mu-	[1D	mu-	2g	-do,
+.	.	.	.	[2d	mu-
+=18	=18	=18	=18	=18	=18
+2GG]	.	2D]	.	2d]	.
+2GG	-to,	2D	-to,	2d	-to,
+1r	.	1r	.	4r	.
+.	.	.	.	4e	e
+.	.	.	.	4c	qua-
+.	.	.	.	4d	-si
+=19	=19	=19	=19	=19	=19
+0r	.	0r	.	2f	pri-
+.	.	.	.	4.c	-vo
+.	.	.	.	8G	Di
+.	.	.	.	4A	mo-
+.	.	.	.	4c	-vi-
+.	.	.	.	2B	-men-
+=20	=20	=20	=20	=20	=20
+0r	.	0r	.	2d	-to, al
+.	.	.	.	2.e	mar-
+.	.	.	.	4g	-m'il
+.	.	.	.	4a	vol-
+.	.	.	.	4a	-t'af-
+=21	=21	=21	=21	=21	=21
+0r	.	0r	.	1g#X	-fis-
+.	.	.	.	1g#i	-se.
+=22	=22	=22	=22	=22	=22
+2A	Al	2r	.	1r	.
+4A	fin	2A	Al-	.	.
+4A	sgor-	.	.	.	.
+8DL	-gan-	4A	-fin	2r	.
+8E	.	.	.	.	.
+8F	.	4A	sgor-	.	.
+8GJ	.	.	.	.	.
+8AL	.	8DL	-gan-	2a	Al
+8G	.	8E	.	.	.
+8F	.	8F	.	.	.
+8EJ	.	8GJ	.	.	.
+=23	=23	=23	=23	=23	=23
+8DL	.	4.A	.	4a	fin
+8E	.	.	.	.	.
+8F	.	.	.	4a	sgor-
+8EJ	.	8G	.	.	.
+4D	.	8FL	.	8dL	-gan-
+.	.	8EJ	.	8e	.
+8CL	.	4D	.	8f	.
+8BBJ	.	.	.	8gJ	.
+[1AA	.	1A	-d'un	2a	.
+.	.	.	.	2e	-d'un
+=24	=24	=24	=24	=24	=24
+2AA]	.	2.e	la-	2.c	la-
+2AA	-d'un	.	.	.	.
+.	.	4e	-chri-	4c	-chri-
+2.E	la-	2e	-mo-	2B	-mo-
+.	.	2e	-so	2B	-so
+4E	-chri-	.	.	.	.
+=25	=25	=25	=25	=25	=25
+2E	-mo-	1r	.	2.e	ri-
+2E	-so	.	.	.	.
+.	.	.	.	4d	.
+[1AA	ri-	4c	ri-	4c	.
+.	.	4d	.	4B	.
+.	.	4e	.	4A	.
+.	.	4d	.	4B	.
+=26	=26	=26	=26	=26	=26
+1AA]	.	4c	.	4c	.
+.	.	4B	.	4d	.
+.	.	2A	.	1e	.
+[1E	-vo,	1G#X	-vo,	.	.
+.	.	.	.	2e	-vo,
+=27	=27	=27	=27	=27	=27
+1E]	.	1r	.	1r	.
+1r	.	1A	In	2r	.
+.	.	.	.	2c	In
+=28	=28	=28	=28	=28	=28
+1r	.	2B-X	un	2d	un
+.	.	2.G	lan-	1d	lan-
+1D	In	.	.	.	.
+.	.	4F#X	-gui-	.	.
+.	.	2F#i	-do: "ohi-	2A	-gui-
+=29	=29	=29	=29	=29	=29
+2E	un	[0G	-mè!"	1e	-do: "ohi-
+2.C	lan-	.	.	.	.
+.	.	.	.	2g	-mè!",
+4BB	-gui-	.	.	.	.
+2BB	-do: "ohi-	.	.	2g	<In
+=30	=30	=30	=30	=30	=30
+1C	-mè!"	0G]	.	2g	un
+.	.	.	.	2.e	lan-
+1r	.	.	.	.	.
+.	.	.	.	4e	-gui-
+.	.	.	.	2d	-do: "ohi-
+=31	=31	=31	=31	=31	=31
+2C	pro-	2r	.	2c	-mè!">
+4.F	-rup-	2.A	pro-	4r	.
+.	.	.	.	2c	pro-
+8G	.	.	.	.	.
+4A	.	.	.	.	.
+4AA	-pe,	4.c	-rup-	4.e	-rup-
+4r	.	.	.	.	.
+.	.	8d	.	8d	.
+4AA	<pro-	4e	.	4c	.
+=32	=32	=32	=32	=32	=32
+4.D	-rup-	4d	-pe,	4A	-pe,
+.	.	2D	<pro-	2d	<pro-
+8E	.	.	.	.	.
+4F	.	.	.	.	.
+4FF	-pe,>	4.F	-rup-	4.c	-ru-
+2r	.	.	.	.	.
+.	.	8G	.	8B	.
+.	.	2A	.	4.A	.
+2F	e	.	.	.	.
+.	.	.	.	8G	.
+.	.	4A	-pe,> e	[4F	.
+=33	=33	=33	=33	=33	=33
+1D	dis-	1F	dis-	4F]	.
+.	.	.	.	4f	-pe,> e
+.	.	.	.	2d	dis-
+2AA	-se:	2E	-se:	2e	-se:
+2AA	"O	[2A	"O	2e	"O
+=34	=34	=34	=34	=34	=34
+1.D	sas-	2A]	.	1.f	sas-
+.	.	1d	sas-	.	.
+2E	-so a-	[2c	-so a-	2g	-so a-
+=35	=35	=35	=35	=35	=35
+1F	-ma-	2c]	.	1f	-ma-
+.	.	2A	-ma-	.	.
+4C	-t'et	4G	-t'et	4e	-t'et
+2C	ho-	2G	ho-	2e	ho-
+4D	-no-	4F#X	-no-	4d	-no-
+=36	=36	=36	=36	=36	=36
+4GG	-ra-	4G	-ra-	4d	-ra-
+4AA	-to	4E	-to	4c#X	-to
+2BB-X	tan-	2D	tan-	2d	tan-
+[1AA	-to,	2E	-to,	2c#X	-to,
+.	.	2E	<O	[2e	<O
+=37	=37	=37	=37	=37	=37
+1AA]	.	1.A	sas-	2e]	.
+.	.	.	.	1a	sas-
+1r	.	.	.	.	.
+.	.	2B	-so a-	2g	-so a-
+=38	=38	=38	=38	=38	=38
+0r	.	1c	-ma-	1g	-ma-
+.	.	4G	-t'et	4g	-t'et
+.	.	2G	ho-	2g	ho-
+.	.	4A	-no-	4e	-no-
+=39	=39	=39	=39	=39	=39
+1r	.	4D	-ra-	4f	-ra-
+.	.	4E	-to	2e	-to
+.	.	2F	tan-	.	.
+.	.	.	.	4d	tan-
+2r	.	2E	-to,>	2e	-to,>
+2E	Che	2G#X	Che	2e	Che
+=40	=40	=40	=40	=40	=40
+4.AA	den-	4.A	den-	4.e	den-
+8BB	-tr'hai	8GnXi	-tr'hai	8d	-tr'hai
+4C	le	4E	le	4c	le
+4E	mie	4G	mie	4B	mie
+2AA	fiam-	2A	fiam-	2e	fiam-
+2E	-me,	4G#X	-me,	2e	-me e
+.	.	4G#i	<Che	.	.
+=41	=41	=41	=41	=41	=41
+1r	.	4.A	den-	2.e	fuor
+.	.	8B	-tr'hai	.	.
+.	.	4c	le	.	.
+.	.	4e	mie	4g	il
+2r	.	2A	fiam-	2e	pian-
+2E	Che	2e	-me>	4e	-to,
+.	.	.	.	4e	Che
+=42	=42	=42	=42	=42	=42
+4.AA	den-	0r	.	2e	den-
+8BB	-tr'hai	.	.	.	.
+4C	le	.	.	2.e	-tr'hai
+4E	mie	.	.	.	.
+2AA	fiam-	.	.	.	.
+.	.	.	.	2a	le
+2E	-me e	.	.	.	.
+.	.	.	.	4g	mie
+=43	=43	=43	=43	=43	=43
+1.C	fuor	0E	e	2.g	fiam-
+.	.	.	.	4f	.
+.	.	.	.	2e	.
+2BB	il	.	.	2d	-m'e
+=44	=44	=44	=44	=44	=44
+0AA	pian-	2e	fuor	2c	fuor
+.	.	2d	il	2d	il
+.	.	1c	pian-	1e	pian-
+=45	=45	=45	=45	=45	=45
+0El	-to."	0Bl	-to."	0el	-to."
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]
+!!!YEM:	Cesarina Ricci de Tingoli, "Giunto a la tomba ove al suo spirto vivo," 1597 (Tsg12096c; Nov 2017) Tasso in Music Project (http://www.tassomusic.org) Copyright 2016 Emiliano Ricciardi
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/09/25
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/25

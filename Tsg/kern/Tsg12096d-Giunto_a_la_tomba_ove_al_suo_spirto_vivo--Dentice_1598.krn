@@ -1,0 +1,216 @@
+!!!COM: Dentice, Scipione
+!!!CDT:
+!!!PTL: Di Scipione Dentice il terzo libro de madrigali a cinque voci
+!!!PPP: Naples
+!!!PPR: Giovanni Giacomo Carlino & Antonio Pace
+!!!PDT: 1598
+!!!RISM: D 1663
+!!!rime:
+!!!OTL:	Giunto a la tomba (Gerusalemme XII, 96)
+!!!AGN: Madrigal
+!!!SCT: Tsg12096d
+!!!SCA: Tsg12096d
+!!!voices:
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
+*I'Q	*	*I'T	*	*I'A	*	*I'C	*
+*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:t=Prima parte	!	!	!	!	!	!	!
+2r	.	0r	.	1r	.	1r	.
+2.e	Gion-	.	.	.	.	.	.
+.	.	.	.	2r	.	1e	Gion-
+4d	-to a	.	.	.	.	.	.
+2c	la	.	.	[2e	Gion-	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+2B	tom-	0r	.	4e]	.	2g#X	-to a
+.	.	.	.	4d	-to a	.	.
+2.A	.	.	.	2c	la	2a	la
+.	.	.	.	1B	tom-	1b	tom-
+8G#iL	.	.	.	.	.	.	.
+8F#iJ	.	.	.	.	.	.	.
+2G#X	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+2A	-ba,	0r	.	2c#X	-ba,	2e	-ba,
+4r	.	.	.	4r	.	4r	.
+2A	o-	.	.	2d	o-	2f	o-
+4A	-v’al	.	.	4cnXi	-v’al	4e	-v’al
+4G	suo	.	.	4B	suo	2g	suo
+[4c	spir-	.	.	[4e	spir-	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+4c]	.	0r	.	4e]	.	4a	spir-
+4B	-to	.	.	4d	-to	4b	-to
+1e	vi-	.	.	1g	vi-	1cc	vi-
+2d	-vo	.	.	2g	-vo	2b	-vo
+=5	=5	=5	=5	=5	=5	=5	=5
+2d#X	Do-	0r	.	2f#X	Do-	2b	Do-
+2d#i	-lo-	.	.	2f#i	-lo-	2b	-lo-
+1e	-ro-	.	.	2g#X	-ro-	2b	-ro-
+.	.	.	.	[2a	-sa	[2cc	-sa
+=6	=6	=6	=6	=6	=6	=6	=6
+2e	-vsa	0r	.	2a]	.	2cc]	.
+2d	prig-	.	.	2gnXi	prig-	2b	prig-
+2.d	-gion	.	.	2.f#X	-gion	4a	-gion
+.	.	.	.	.	.	4a	il
+.	.	.	.	.	.	4dd	Ciel
+4G	il	.	.	4g	il	4ee	pre-
+=7	=7	=7	=7	=7	=7	=7	=7
+4B	Ciel	0r	.	4g	Ciel	4dd	-scris-
+4c	pre-	.	.	4e	pre-	2cc	.
+2d	-scris-	.	.	2g	-scris-	.	.
+.	.	.	.	.	.	4b	.
+2f	-se,	.	.	2a	-se,	1cc	-se,
+2r	.	.	.	[2f	Pa-	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+4r	.	2.c	Pa-	4f]	.	0r	.
+2A	Pa-	.	.	4e	-li-	.	.
+.	.	.	.	1e	-do,	.	.
+4G#X	-li-	4B	-li-	.	.	.	.
+2G#i	-do,	2B	-do,	.	.	.	.
+4r	.	4r	.	4r	.	.	.
+[4A	fred-	[4d	fred-	[4f	fred-	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+4A]	.	4d]	.	4f]	.	0r	.
+4A	-do,	4c	-do,	4e	-do,	.	.
+2.A	mu-	4c	mu-	1a	mu-	.	.
+.	.	8BL	.	.	.	.	.
+.	.	8AJ	.	.	.	.	.
+.	.	4c	.	.	.	.	.
+4B	.	4d	.	.	.	.	.
+2c	.	2e	.	2g	-to,	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+2c	-to,	2e	-to,	2r	.	4r	.
+.	.	.	.	.	.	4g	e
+2r	.	2r	.	4r	.	4cc	qua-
+.	.	.	.	4g	e	4b	-si
+2r	.	2r	.	4c	qua-	2a	pri-
+.	.	.	.	4d	-si	.	.
+4r	.	4r	.	4e	pri-	2g	-vo,
+4B	e	4G	e	4d	-vo,	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+4e	qua-	4c	qua-	4r	.	1r	.
+4d	-si	4B	-si	4g	e	.	.
+2c	pri-	2A	pri-	4e	qua-	.	.
+.	.	.	.	4f#X	-si	.	.
+4B	-vo,	2G	-vo	8gL	pri-	4r	.
+.	.	.	.	8fnXi	.	.	.
+4G	<e	.	.	8e	.	4b	e
+.	.	.	.	8dJ	.	.	.
+4c	qua-	2r	.	8eL	.	4ee	qua-
+.	.	.	.	8fJ	.	.	.
+4B	-si	.	.	[4g	.	4dd	-si
+=12	=12	=12	=12	=12	=12	=12	=12
+2A	pri-	4r	.	4g]	.	2cc	pri-
+.	.	4c	Di	4f#X	.	.	.
+4G	-vo>	4d	mo-	2g	-vo,	4.b	-vo
+4E	Di	2e	-vi-	.	.	.	.
+.	.	.	.	.	.	8g	Di
+4F#X	mo-	.	.	4r	.	4a	mo-
+4G	-vi-	2d	-men-	4B	<e	2b	-vi-
+2E	-men-	.	.	4.G	qua-	.	.
+.	.	4c#X	.	.	.	[4g	-men-
+.	.	.	.	8A	-si	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+2D	-to,	2d	-to,	4B	pri-	4g]	.
+.	.	.	.	8AL	-vo>	4f#X	-to,
+.	.	.	.	8dJ	Di	.	.
+2r	.	4A	Di	4e	mo-	2r	.
+.	.	4c	mo-	2f	-vi-	.	.
+4r	.	4d	-vi-	.	.	1r	.
+4E	Di	4.c	-men-	4.e	-men-	.	.
+4.F	mo-	.	.	.	.	.	.
+.	.	8BL	.	8d	.	.	.
+.	.	8A	.	[4d	.	.	.
+8G	-vi-	8GJ	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+2E	-men-	2.A	.	4d]	.	2r	.
+.	.	.	.	4c#X	-to,	.	.
+2D	-to, al	.	.	4r	.	4r	.
+.	.	4A	-to, al	4f	al	4dd	al
+4.E	mar-	4.G#X	mar-	4.e	mar-	4.b	mar-
+8E	-mo	8G#i	-mo	8e	-mo	8b	-mo
+4E	gli oc-	4G#i	gli oc-	4e	gli oc-	4b	gli oc-
+4F	-chi af-	4A	-chi af-	4cnXi	-chi af-	4a	-chi af-
+=15	=15	=15	=15	=15	=15	=15	=15
+2E	-fis-	2B	-fis-	2e	-fis-	2g#X	-fis-
+2E	-se	2B	-se,	2.e	-se,	2g#i	-se,
+2A	<al	4r	.	.	.	4r	.
+.	.	4E	<al	4e	al	4cc	<al
+4.F#X	mar-	4.B	mar-	4.d#X	mar-	4.b	mar-
+8F#i	-mo	8B	-mo	8d#i	-mo	8b	-mo
+=16	=16	=16	=16	=16	=16	=16	=16
+4F#i	gli oc-	4B	gli oc-	4d#i	gli oc-	4b	gli oc-
+4A	-chi af-	4E	-chi af-	4e	-chi af-	4a	-chi af-
+2F#X	-fis-	1B	-fis-	2d#X	-fis-	2b	-fis-
+1G#X	-se.>	.	.	1e	-se.	1b	-se>
+.	.	2B	-se.>	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+4r	.	4r	.	0r	.	0r	.
+4A	Al	4c	Al	.	.	.	.
+4A	fin,	4c	fin,	.	.	.	.
+4B	sgor-	4d	sgor-	.	.	.	.
+8cL	-gan-	8eL	-gan-	.	.	.	.
+8B	.	8d	.	.	.	.	.
+8A	.	8c	.	.	.	.	.
+8GJ	.	8BJ	.	.	.	.	.
+2F	.	2A	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+2E	-do	2G	-do	4r	.	4r	.
+.	.	.	.	4e	Al	4g	Al
+2r	.	4r	.	4e	fin,	4.g	fin,
+.	.	4B	un	4d	sgor-	.	.
+.	.	.	.	.	.	8f	sgor-
+2r	.	4c	la-	8cL	-gan-	8eL	-gan-
+.	.	.	.	8d	.	8f	.
+.	.	4B	-gri-	8e	.	8g	.
+.	.	.	.	8fJ	.	8aJ	.
+4r	.	[2G	-mo-	4.g	.	4b	.
+4d	un	.	.	.	.	4dd	-do un
+.	.	.	.	8g	-do un	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+4e	la-	4G]	.	4e	la-	4g	la-
+4c	-gri-	4C	-so	4f#X	-gri-	4a	-gri-
+4B	-mo-	1D	ri-	4g	-mo-	4b	-mo-
+4A	-so	.	.	4a	-so	4cc	-so
+2d	ri-	.	.	2g	ri-	2b	ri-
+2e	-vo,	2C	-vo,	2g	-vo,	2cc	-vo,
+=20	=20	=20	=20	=20	=20	=20	=20
+2r	.	0r	.	1f	In	2a	In
+1A	In	.	.	.	.	2d	un
+.	.	.	.	2c	un	2.f	lan-
+2D	un	.	.	[2d	lan-	.	.
+.	.	.	.	.	.	4f	-gui-
+=21	=21	=21	=21	=21	=21	=21	=21
+2F	lan-	1r	.	4d]	.	2d	-do: “oi-
+.	.	.	.	4B-X	-gui-	.	.
+4F	-gui-	.	.	2A	-do: “oi-	2.c	-mè!”
+4F	-do: “oi-	.	.	.	.	.	.
+4E	-mè!”	4r	.	4G	-mè!”	.	.
+4e	pro-	4c	pro-	4g	pro-	4g	pro-
+4c	-rup-	4A	-rup-	4f#X	-rup-	4a	-rup-
+4d	-p’e	4G	-p’e	4g	-p'e	4b-X	-p’e
+=22	=22	=22	=22	=22	=22	=22	=22
+2c#X	dis-	2A	dis-	2e	dis-	2a	dis-
+4c#i	-se,	4A	-se,	4e	-se,	4a	-se,
+4d	<pro-	4f	<pro-	4a	<pro-	4dd	<pro-
+4G	-rup-	4e	-rup-	4g	-rup-	4b	-rup-
+4d	-p’e	4A	-p’e	4a	-p’e	4a	-p’e
+2B	dis-	2e	dis-	2g#X	dis-	2b	dis-
+=23	=23	=23	=23	=23	=23	=23	=23
+0Bl	-se.>	0el	-se.>	0al	-se.>	0bl	-se.>
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!YEM:	Scipione Dentice, “Giunto a la tomba,” 1598 (Tsg12096d; August 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2016 Emiliano Ricciardi
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/09/25
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/25

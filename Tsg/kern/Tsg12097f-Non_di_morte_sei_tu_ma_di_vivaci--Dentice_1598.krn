@@ -1,0 +1,376 @@
+!!!COM: Dentice, Scipione
+!!!CDT:
+!!!PTL: Di Scipione Dentice il terzo libro de madrigali a cinque voci
+!!!PPP: Naples
+!!!PPR: Giovanni Giacomo Carlino & Antonio Pace
+!!!PDT: 1598
+!!!RISM: D 1663
+!!!rime:
+!!!OTL:	Non di morte sei tu, ma di vivaci (Gerusalemme XII, 97)
+!!!AGN: Madrigal
+!!!SCT: Tsg12097f
+!!!SCA: Tsg12097f
+!!!voices:
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
+*I'Q	*	*I'T	*	*I'A	*	*I'C	*
+*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:t=Seconda parte	!	!	!	!	!	!	!
+0r	.	1e	“O	1g	“O	1cc	“O
+.	.	2d	sas-	2g	sas-	2b	sas-
+.	.	2c	-so a-	2f#X	-so a-	2a	-so a-
+=2	=2	=2	=2	=2	=2	=2	=2
+0r	.	2.B	-ma-	2g	-ma-	2.dd	-ma-
+.	.	.	.	2g	-to et	.	.
+.	.	4c	-to et	.	.	4g	-to et
+.	.	4.c	ho-	4.f	ho-	4.a	ho-
+.	.	8c	-no-	8f	-no-	8a	-no-
+.	.	4c	-ra-	4f	-ra-	4a	-ra-
+.	.	4d	-to	4f	-to	4b	-to
+=3	=3	=3	=3	=3	=3	=3	=3
+0r	.	2e	tan-	2g	tan-	2cc	tan-
+.	.	2d	-to,	2g	-to,	2b	-to,
+.	.	4r	.	4r	.	4r	.
+.	.	4f	Che	4a	Che	4dd	Che
+.	.	2e	den-	2a	den-	2cc	den-
+=4	=4	=4	=4	=4	=4	=4	=4
+0r	.	4d	-tr’hai	4a	-tr’hai	4a	-tr’hai
+.	.	2d	le	2g	le	2b-X	le
+.	.	4d	mie	4d	mie	4g	mie
+.	.	4c	fiam-	2e	fiam-	2a	fiam-
+.	.	4A	-m’e	.	.	.	.
+.	.	4d	fuo-	2f	-m’e	2a	-me
+.	.	4c	-r’il	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+0r	.	1.B	pian-	1.d	fuo-	2r	.
+.	.	.	.	.	.	2d	e
+.	.	.	.	.	.	2g	fuo-
+.	.	[2A	.	2c	-r’il	2f	-r’il
+=6	=6	=6	=6	=6	=6	=6	=6
+1r	.	4A]	.	1B	pian-	1e	pian-
+.	.	8G#iL	.	.	.	.	.
+.	.	8F#iJ	.	.	.	.	.
+.	.	2G#X	.	.	.	.	.
+2r	.	1A	-to,	1c#X	-to,	1e	-to,
+[2A	Non	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+4A]	.	0r	.	2.e	Non	1r	.
+4E	di	.	.	.	.	.	.
+2G	mor-	.	.	.	.	.	.
+.	.	.	.	4B	di	.	.
+4F#X	-te	.	.	2d	mor-	2r	.
+4G	sei	.	.	.	.	.	.
+2A	tu,	.	.	4c#X	-te	4r	.
+.	.	.	.	4d	sei	4a	ma
+=8	=8	=8	=8	=8	=8	=8	=8
+2r	.	1r	.	1e	tu,	4g	di
+.	.	.	.	.	.	4cc	vi-
+4r	.	.	.	.	.	2b	-va-
+2e	Non	.	.	.	.	.	.
+.	.	4r	.	4r	.	2a	-ci,
+4A	di	2A	Non	2c	Non	.	.
+2c	mor-	.	.	.	.	2r	.
+.	.	4E	di	4G	di	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+4B	-te	2G	mor-	2B	mor-	2r	.
+4c#X	sei	.	.	.	.	.	.
+2d	tu,	4F#X	-te	4A	-te	4r	.
+.	.	4G	sei	4B	sei	4g	ma
+4r	.	2A	tu,	4c	tu,	4e	di
+4cnXi	ma	.	.	4e	ma	4a	vi-
+4B	di	2r	.	4d	di	2g#X	-va-
+4e	vi-	.	.	4B	vi-	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+4c#X	-va-	0r	.	4e	-va-	4a	-ci
+4d	-ci	.	.	2A	-ci	4.f	Ce-
+4A	Ce-	.	.	.	.	.	.
+.	.	.	.	.	.	8e	-ne-
+8EL	-ne-	.	.	4.A	Ce-	4e	-ri al-
+8EJ	-ri al-	.	.	.	.	.	.
+4.F	-ber-	.	.	.	.	[1d	-ber-
+.	.	.	.	8A	-ne-	.	.
+.	.	.	.	4B-X	-ri al-	.	.
+8E	.	.	.	.	.	.	.
+8FL	.	.	.	2B-i	-ber-	.	.
+8DJ	.	.	.	.	.	.	.
+[4G	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+4G]	.	0r	.	2A	-go, o-	2d]	.
+4F#X	.	.	.	.	.	.	.
+4G	-go, o-	.	.	4c	-v’è	2e	-go, o-
+4c	-v’è	.	.	4c	ri-	.	.
+4A	ri-	.	.	2.c	-po-	4f	-v’è
+4.c	-po-	.	.	.	.	4g	ri-
+.	.	.	.	.	.	4.a	-po-
+8A	-sto a-	.	.	.	.	.	.
+[4d	-mo-	.	.	4f	-sto a-	.	.
+.	.	.	.	.	.	8a	-sto a-
+=12	=12	=12	=12	=12	=12	=12	=12
+4d]	.	1r	.	2e	-mo-	2a	-mo-
+4c#X	.	.	.	.	.	.	.
+2d	-re;	.	.	2f#X	-re;	2a	-re;
+4r	.	2r	.	4r	.	4r	.
+4e	E	.	.	4g	E	4cc	E
+2d	ben,	4r	.	2g	ben	[2b	ben
+.	.	4G	E	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+0r	.	2.d	ben	1r	.	4b]	.
+.	.	.	.	.	.	4a	sen-
+.	.	.	.	.	.	4b	-t’io
+.	.	4c	sen-	.	.	4cc	da
+.	.	4d	-t’io	4r	.	2.b	te
+.	.	4e	da	4e	l’u-	.	.
+.	.	8dL	te	[2g	-sa-	.	.
+.	.	8BJ	l’u-	.	.	.	.
+.	.	[4e	-sa-	.	.	4g	l’u-
+=14	=14	=14	=14	=14	=14	=14	=14
+0r	.	4e]	.	4g]	.	2.cc	-sa-
+.	.	4d	-te	4f	-te	.	.
+.	.	1c	fa-	2.e	fa-	.	.
+.	.	.	.	.	.	4b	-te
+.	.	.	.	.	.	1a	fa-
+.	.	.	.	8dL	.	.	.
+.	.	.	.	8cJ	.	.	.
+.	.	4B	.	2d	.	.	.
+.	.	4A	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+2r	.	2B	.	2e	-ci,	1g#X	-ci,
+4r	.	2B	-ci,	4r	.	.	.
+4E	E	.	.	4B	E	.	.
+2.c	ben	1r	.	2.e	ben	4r	.
+.	.	.	.	.	.	4e	E
+.	.	.	.	.	.	[2gnXi	ben
+4B	sen-	.	.	4d	sen-	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+4c	-t’io	1r	.	4e	-t’io	4g]	.
+4d	da	.	.	4f	da	4f	sen-
+2.c	te	.	.	2e	te	4g	-t’io
+.	.	.	.	.	.	4a	da
+.	.	4r	.	2r	.	2g	te
+4B	l’u-	4G	l'u-	.	.	.	.
+2e	-sa-	[2c	-sa-	4r	.	2r	.
+.	.	.	.	4e	l’u-	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+4d	-te,	4c]	.	4f#X	-sa-	4r	.
+4d	l’u-	4B	-te	4g	-te	4b	l’u-
+4f	-sa-	2A	fa-	2a	fa-	4dd	-sa-
+4e	-te	.	.	.	.	4cc	-te
+2e	fa-	2.B	-ci,	2.g#X	-ci,	2b	fa-
+2e	-ci,	.	.	.	.	4b	-ci,
+.	.	[4A	Men	4a	Men	4cc	Men
+=18	=18	=18	=18	=18	=18	=18	=18
+4r	.	4A]	.	2f#X	dol-	2a	dol-
+4A	Men	2d	dol-	.	.	.	.
+4d	dol-	.	.	2g	-ci	2b-X	-ci
+4D	-ci	4d	-ci	.	.	.	.
+1A	sì,	2c#X	sì,	2.e	sì,	4a	sì,
+.	.	.	.	.	.	4a	ma
+.	.	4r	.	.	.	4.cc	non
+.	.	4A	ma	4e	ma	.	.
+.	.	.	.	.	.	8bnXi	men
+=19	=19	=19	=19	=19	=19	=19	=19
+1r	.	4.d	non	4.f	non	4a	cal-
+.	.	.	.	.	.	4b-X	-de al
+.	.	8c	men	8e	men	.	.
+.	.	4B	cal-	4d	cal-	1g	co-
+.	.	4c	-de al	4e	-de al	.	.
+2B	ma	2G	co-	2d	co-	.	.
+4.c	non	2G	-re,	4c	-re,	2e	-re,
+.	.	.	.	4g	ma	.	.
+8B	men	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+4A	cal-	1r	.	4.a	non	2r	.
+4c	-de al	.	.	.	.	.	.
+.	.	.	.	8g	men	.	.
+2d	co-	.	.	8fL	cal-	4r	.
+.	.	.	.	8e	.	.	.
+.	.	.	.	8d	.	4b	ma
+.	.	.	.	8cJ	.	.	.
+2A	-re,	4r	.	4d	.	4.dd	non
+.	.	4D	ma	4d	-de al	.	.
+.	.	.	.	.	.	8cc	men
+2r	.	4.d	non	8dL	co-	4b	cal-
+.	.	.	.	8eJ	.	.	.
+.	.	.	.	4f	.	4a	-de al
+.	.	8c	men	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+4r	.	8BL	cal-	4e	-re,	2g	co-
+.	.	8A	.	.	.	.	.
+4G	ma	8G	.	4B	ma	.	.
+.	.	8FJ	.	.	.	.	.
+4.c	non	2.E	.	4.e	non	2g	-re.
+8B	men	.	.	8d	men	.	.
+4A	cal-	.	.	4c	cal-	1r	.
+4G	-de al	4G	-de al	4d	-de al	.	.
+2F#X	co-	2A	co-	2d	co-	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+1G	-re.	1B	-re.	1d	-re.	1r	.
+2r	.	1r	.	2r	.	2r	.
+2F	Deh!	.	.	2f	Deh!	2a	Deh!
+=23	=23	=23	=23	=23	=23	=23	=23
+2.c	pren-	0r	.	2e	pren-	2g	pren-
+.	.	.	.	2d	-di i	4f#X	-di i
+4B	-di i	.	.	.	.	2g	miei
+2c	miei	.	.	4e	miei	.	.
+.	.	.	.	4A	so-	4a	so-
+4r	.	.	.	[2a	-spi-	[2cc	-spi-
+4A	so-	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+2e	-spi-	1r	.	2a]	.	2cc]	.
+2e	-ri,	.	.	2g#X	-ri,	2b	-ri,
+1r	.	2r	.	2r	.	1r	.
+.	.	2c	Deh!	2e	<Deh!	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+0r	.	2B	pren-	2d	pren-	0r	.
+.	.	2A	-di i	4c#X	-di i	.	.
+.	.	.	.	2d	miei	.	.
+.	.	4B	mie-	.	.	.	.
+.	.	4E	-i	4e	so-	.	.
+.	.	[2e	so-	[2g	-spi-	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+1r	.	2e]	.	2g]	.	1r	.
+.	.	2d#X	.	2f#X	-ri,>	.	.
+4r	.	2.e	-spi-	1r	.	4r	.
+4B	e	.	.	.	.	4g#X	e
+4c	que-	.	.	.	.	4a	que-
+4B	-sti	4e	-ri, e	.	.	4b	-sti
+=27	=27	=27	=27	=27	=27	=27	=27
+4A	ba-	4e	que-	1r	.	4cc	ba-
+4A	-ci	4d	-sti	.	.	4a	-ci
+2e	Pren-	2B	ba-	.	.	2g#X	Pren-
+2e	-di	4B	-ci	2r	.	2g#i	-di,
+.	.	4B	Pren-	.	.	.	.
+2r	.	4c	-di,	2e	e	4r	.
+.	.	4G	e	.	.	4e	<e
+=28	=28	=28	=28	=28	=28	=28	=28
+0r	.	4d	que-	4f	que-	4a	que-
+.	.	4B	-sti	4e	-sti	4g#X	-sti
+.	.	4.A	ba-	4d	ba-	4a	ba-
+.	.	.	.	4d	-ci	4f	-ci
+.	.	8B	-ci	.	.	.	.
+.	.	2c	Pren-	2g	Pren-	2e	Pren-
+.	.	2c	-di	4g	-di,	[2e	-di,>
+.	.	.	.	4G	ch’io	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+2A	ch’io	1r	.	2.c	ba-	2e]	.
+2.c	ba-	.	.	.	.	4r	.
+.	.	.	.	4A	-gno	4a	ch’io
+.	.	2.A	ch’io	2e	di	2.cc	ba-
+4B	-gno	.	.	.	.	.	.
+4A	di	.	.	2d	do-	.	.
+4B	do-	[4d	ba-	.	.	4b	-gno
+=30	=30	=30	=30	=30	=30	=30	=30
+4B	-glio-	4d]	.	4.e	-glio-	4g#X	di
+4c	-so hu-	4c	-gno	.	.	4a	do-
+.	.	.	.	8f#i	.	.	.
+2.e	-mo-	4B	di	4g#X	.	4b	-glio-
+.	.	4A	do-	4a	-so hu-	4e	-so hu-
+.	.	2A	-glio-	1fnXi	-mo-	1a	-mo-
+8dL	.	.	.	.	.	.	.
+8cJ	.	.	.	.	.	.	.
+2d	.	4A	-so hu-	.	.	.	.
+.	.	[4d	-mo-	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+2e	-re;	4d]	.	2e	-re;	2.a	-re;
+.	.	4c#X	.	.	.	.	.
+4r	.	4d	-re;	2f	E	.	.
+4d	E	4A	E	.	.	4a	E
+2d	dal-	2D	dal-	2f	dal-	2b-X	dal-
+2c	-li	2G	-li	2e	-li	2g	-li
+=32	=32	=32	=32	=32	=32	=32	=32
+4c	tu,	4F	tu,	4f	tu,	4a	tu,
+4c	poi	4G	poi	4e	poi	4g	poi
+4c	ch’io	4G	ch’io	4.e	ch’io	4g	ch’io
+4e	non	4c	non	.	.	4a	non
+.	.	.	.	8f	non	.	.
+2e	pos-	2B	pos-	2g	pos-	2b	pos-
+2d	-so, al-	2A	-so, al-	2a	-so, al-	2dd	-so, al-
+=33	=33	=33	=33	=33	=33	=33	=33
+2e	-me-	2B	-me-	2g#X	-me-	2b	-me-
+2e	-no	4B	-no	2g#i	-no	2b	-no
+.	.	2e	A	.	.	.	.
+2.c	A	.	.	1r	.	1r	.
+.	.	4f	l’a-	.	.	.	.
+.	.	4e	-ma-	.	.	.	.
+4d	l’a-	8dL	-te	.	.	.	.
+.	.	8eJ	re-	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+4c	-ma-	4f	-li-	0r	.	1r	.
+8BL	-te	4e	-quie	.	.	.	.
+8cJ	re-	.	.	.	.	.	.
+4d	-li-	2.d	ch’hai	.	.	.	.
+4c	-quie	.	.	.	.	.	.
+4B	ch’hai	.	.	.	.	2r	.
+4e	nel	4c	nel	.	.	.	.
+2d	se-	2B	se-	.	.	[2g	A
+=35	=35	=35	=35	=35	=35	=35	=35
+2c	-no,	4e	-no,	4r	.	4g]	.
+.	.	2c	A	2e	A	4a	l’a-
+2r	.	.	.	.	.	4g	-ma-
+.	.	4d	l’a-	4f	l’a-	8fL	-te
+.	.	.	.	.	.	8gJ	re-
+1r	.	4c	-ma-	4e	-ma-	4a	-li-
+.	.	8BL	-te	8dL	-te	4g	-quie
+.	.	8cJ	re-	8eJ	re-	.	.
+.	.	4d	-li-	4f	-li-	[2f	ch’hai
+.	.	4c	-quie	4e	-quie	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+1r	.	4B-X	ch’hai	4d	ch’hai	4f]	.
+.	.	4G	nel	4d	nel	4g	nel
+.	.	2A	se-	2c#X	se-	2e	se-
+2r	.	2A	-no,	4d	-no,	2d	-no,
+.	.	.	.	4d	E	.	.
+2A	E	2d	E	[2f	dal-	4r	.
+.	.	.	.	.	.	4a	E
+=37	=37	=37	=37	=37	=37	=37	=37
+2D	dal-	2d	dal-	2f]	.	2b-X	dal-
+2G	-li	2c	-li	2e	-li	2g	-li
+4F	tu,	4c	tu,	4f	tu,	4a	tu,
+4G	poi	4c	poi	4e	poi	4g	poi
+4G	ch’io	4c	ch’io	4.e	ch’io	4g	ch’io
+4c	non	4e	non	.	.	4a	non
+.	.	.	.	8f	non	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+2B	pos-	2e	pos-	4g	pos-	2b	pos-
+.	.	.	.	4e	-so, al-	.	.
+2A	-so, al-	2d	-so, al-	1a	-me-	2dd	-so, al-
+2B	-me-	2e	-me-	.	.	2b	-me-
+4B	-no	4e	-no	4g	-no	4b	-no
+[4e	A	[4E	A	[4g	A	[4cc	A
+=39	=39	=39	=39	=39	=39	=39	=39
+4e]	.	4E]	.	4g]	.	4cc]	.
+4d	l’a-	4G	l'a-	4g	l’a-	4dd	l’a-
+4e	-ma-	4G	-ma-	4g	-ma-	4cc	-ma-
+8dL	-te	8GL	-te	8gL	-te	8bL	-te
+8GJ	re-	8GJ	re-	8gJ	re-	8ccJ	re-
+2.A	-li-	2d	-li-	2f	-li-	4dd	-li-
+.	.	.	.	.	.	4a	-quie
+.	.	2c	-quie	2e	-quie	[2cc	ch’hai
+4A	-quie	.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+2G	ch’hai	2c	ch’hai	2e	ch’hai	4cc]	.
+.	.	.	.	.	.	4b	nel
+2E	nel	2c	nel	2e	nel	2.a	se-
+1E	se-	1B	se-	1e	se-	.	.
+.	.	.	.	.	.	8g#iL	.
+.	.	.	.	.	.	8f#XJ	.
+.	.	.	.	.	.	2g#X	.
+=41	=41	=41	=41	=41	=41	=41	=41
+0El	-no”.	0c#Xl	-no”.	0el	-no”.	0al	-no”.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!YEM:	Scipione Dentice, "Non di morte sei tu, ma di vivaci," 1598 (Tsg12097f; August 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2016 Emiliano Ricciardi
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2018/09/25
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/25
