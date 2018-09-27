@@ -1,0 +1,297 @@
+#!/usr/bin/perl
+# vim:         ts=3
+# Description: Add original clefs and mensuration to a score from
+#              the ATON file for settings from the website.  Check to
+#              see if the number of voices match between the data and
+#              the score.  Update the mensuration/clefs if they have
+#              changed.
+
+use strict;
+use Getopt::Long;
+
+my $overwriteQ = 0;
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'overwrite' => \$overwriteQ
+);
+
+my @files = @ARGV;
+
+my $rimeaton = "../tasso-website/data/indexes/rime-settings.aton";
+
+my %MENS;
+my %OCLEFS;
+my %EVOICES;
+
+fillInLookupData($rimeaton);
+
+
+foreach my $file (@files) {
+	processFile($file);
+}
+
+
+exit(0);
+
+
+##############################
+##
+## processFile --
+##
+## oclef:
+##    *oclefC3	*	*oclefC2	*	*oclefG2	*
+## clef:
+##    *clefGv2	*	*clefGv2	*
+##
+## met:
+##    *omet(C)	*	*omet(C)	*	*omet(C)	*
+## time:
+##    *M4/2	*	*M4/2	*
+##
+
+sub processFile {
+	my ($file) = @_;
+	open (FILE, $file) or die "Cannot read file $file\n";
+	my @contents = <FILE>;
+	close FILE;
+
+	my $filename = "";
+	if ($file =~ /([^\/]+)$/) {
+		$filename = $1;
+	}
+	if ($filename !~ /^([A-Z][a-z][a-z]\d+[a-z]+)-/) {
+		die "Cannot read catalog number from file $filename\n";
+	}
+	my $cat = $1;
+
+# skipping for now due to problems:
+return if $cat eq "Trm0256d";
+
+	my $oclefstring = $OCLEFS{$cat};
+	my $menstring  = $MENS{$cat};
+
+	# require both oclef and mens strings
+	if ($oclefstring =~ /^\s*$/) {
+		# no oclef to add
+		return;
+	}
+	if ($menstring =~ /^\s*$/) {
+		# no mensuration to add
+		return;
+	}
+
+	my @oclefs = split(/\s*,\s*/, $oclefstring);
+
+	# only the first one will be processed (assuming that
+	# all clefs are the same for all parts).
+	my @mens   = split(/\s*,\s*/, $menstring);
+
+	my $iclef  = -1;
+	my $ioclef = -1;
+	my $imet   = -1;
+	my $itime  = -1;
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		if ($line =~ /^\*oclef/) {
+			$ioclef = $i if $ioclef == -1;
+		} elsif ($line =~ /^\*clef/) {
+			$iclef = $i if $iclef == -1;
+		} elsif ($line =~ /^\*omet\(/) {
+			$imet = $i if $imet == -1; # only look at first omet entry
+		} elsif ($line =~ /^\*M\d+\/\d+/) {
+			$itime = $i if $itime == -1;
+		}
+	}
+	
+	my $change = 0;
+
+	if ($ioclef > 0) {
+		# check to see if oclefs match spreadsheet
+		my $oldclef = $contents[$ioclef];
+		my @fields = split(/\t/, $oldclef);
+		my $newstring = "";
+		my $ii = $#oclefs;
+
+		for (my $i=0; $i<@fields; $i++) {
+			my $token = "";
+			if ($fields[$i] =~ /^\*oclef/) {
+				die "Invalid oclef: $oclefs[$ii] for work $cat\n" if $oclefs[$ii] !~ /^[CFG][1-5]/;
+				$token = "*oclef$oclefs[$ii--]";
+			} else {
+				$token = "*";
+			}
+			$newstring .= $token;
+			if ($i < $#fields) {
+				$newstring .= "\t";
+			}
+			if ($ii < -1) {
+				print "\nCATALOG:\t$cat\n";
+				die "\tNot enough oclefs in new string: index is $ii of $oldclef\n";
+			}
+
+		}
+		if ($ii > -1) {
+			print "\nCATALOG:\t$cat\n";
+			die "\tToo many oclefs for new string: at index $ii of $oclefstring\n";
+		}
+
+		$newstring .= "\n";
+		if ($newstring ne $oldclef) {
+			$change = 1;
+			if ($overwriteQ) {
+				$contents[$ioclef] = "$newstring\n";
+			} else {
+				print "\nCATALOG:\t$cat\n";
+				print "\tOLD OCLEFS:\t$oldclef";
+				print "\tNEW OCLEFS:\t$newstring\n";
+			}
+		} else {
+			# print "NO CHANGES TO OCLEFS\n";
+		}
+
+	} elsif ($iclef > 0) { # else there is no oclef line, so add it above the clef line
+		my $clefline = $contents[$iclef];
+		my @fields = split(/\t/, $clefline);
+		my $oclefline = "";
+		my $ii = $#oclefs;
+		for (my $i=0; $i<@fields; $i++) {
+			my $token = "";
+			if ($fields[$i] =~ /^\*clef/) {
+				$token = "*oclef$oclefs[$ii--]";
+			} else {
+				$token = "*";
+			}
+			$oclefline .= $token;
+			if ($i < $#fields) {
+				$oclefline .= "\t";
+			}
+			if ($ii < -1) {
+				print "\nCATALOG:\t$cat\n";
+				die "\tNot enough oclefs in new string: $ii of $oclefstring\nCLEF LINE IS: $clefline\n";
+	
+			}
+		}
+		if ($ii > -1) {
+			print "\nCATALOG:\t$cat\n";
+			die "\tToo many oclefs for new string: At index $ii of $clefline\n";
+		}
+		$oclefline .= "\n";
+		$change = 1;
+		if ($overwriteQ) {
+			$contents[$iclef] = "$oclefline\n$contents[$iclef]";
+		} else {
+			print "\nCATALOG:\t$cat\n";
+			print "\tNEW OCLEFS:\t$oclefline\n";
+		}
+	}
+
+
+	# Types of mensurations:
+   # 1 @OMENSURATION:	?                       ignore
+   # 294 @OMENSURATION:	C                       => met(C)
+   # 1 @OMENSURATION:	C 3                     => met(C) (for now)
+   # 1 @OMENSURATION:	C, 3                    => met(C)
+   # 1 @OMENSURATION:	C, 3/2, C               => met(C)
+   # 1 @OMENSURATION:	C, C-dot 3/2            => met(C)
+   # 1 @OMENSURATION:	C, C-dot 3/2, C         => met(C)
+   # 1 @OMENSURATION:	C, C-dot 3/2, C, C-dot 3/2, C  => met(C)
+   # 3 @OMENSURATION:	C-dot 3/2               => met(C.3/2)
+   # 2 @OMENSURATION:	C3                      => met(C3)
+   # 76 @OMENSURATION:	Cut-C                   => met(C|)
+   # 1 @OMENSURATION:	cut-C                   => met(C|)
+   # 1 @OMENSURATION:C
+
+	if (($imet > 0) && ($mens[0] ne "?") && ($cat ne "Trm0333b")) {
+		# check to see if mensurations match spreadsheet
+		my $oldmetline = $contents[$imet];
+		my @fields = split(/\t/, $oldmetline);
+		my $newstring = "";
+		my $met = $mens[0];
+		$met = "*omet(C)" if $met eq "c";
+		$met = "*omet(C)" if $met eq "C";
+		$met = "*omet(C3)" if $met eq "C3";
+		$met = "*omet(C3)" if $met eq "C 3";
+		$met = "*omet(C|)" if $met eq "Cut-C";
+		$met = "*omet(C|)" if $met eq "cut-C";
+		$met = "*omet(C|)" if $met eq "CUT-C";
+		$met = "*omet(C.3/2)" if $met eq "C-dot 3/2";
+		die "Invalid mensuration: $met\n" if $met !~ /^\*/;
+		for (my $i=0; $i<@fields; $i++) {
+			my $token = "";
+			if ($fields[$i] =~ /^\*omet\(.*\)/) {
+				$token = $met;
+			} else {
+				$token = "*";
+			}
+			$newstring .= $token;
+			if ($i < $#fields) {
+				$newstring .= "\t";
+			}
+		}
+		$newstring .= "\n";
+		if ($newstring ne $oldmetline) {
+			$change = 1;
+			if ($overwriteQ) {
+				$contents[$imet] = "$newstring\n";
+			} else {
+				print "\nCATALOG:\t$cat\n";
+				print "\tOLD MENSURATIONS:\t$oldmetline";
+				print "\tNEW MENSURATIONS:\t$newstring\n";
+			}
+		} else {
+			# print "NO CHANGES TO MENSURATION\n";
+		}
+	}
+
+	if ($change) {
+		if ($overwriteQ) {
+			open (FILE, ">$file") or die "Cannot write to file $file\n";
+			print FILE @contents;
+			close FILE;
+		}
+	}
+}
+
+
+
+##############################
+##
+## fillInLookupData --
+##
+## @@BEGIN:	SETTING
+## @CATALOGNUM:	Trm0288l
+## ...
+## @OCLEFS:	C3,C4,F4
+## @OMENSURATION:	C
+## ...
+## @@END:		SETTING
+
+sub fillInLookupData {
+	my ($file) = @_;
+	open (FILE, $file) or die "Cannot read $file\n";
+	my @contents = <FILE>;
+	close FILE;
+	my $cat = "";
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		chomp $line;
+		if ($line =~ /^\@\@BEGIN\s*:\s*SETTING\s*$/) {
+			$cat = "";
+		} elsif ($line =~ /^\@\@END\s*:\s*SETTING\s*$/) {
+			$cat = "";
+		} elsif ($line =~ /^\@CATALOGNUM\s*:\s*(.*)\s*$/) {
+			$cat = $1;
+		} elsif ($line =~ /^\@OCLEFS\s*:\s*(.*)\s*$/) {
+			$OCLEFS{$cat} = $1;
+			# ignore secondary clefs (which will have to be hand-coded into the data);
+			$OCLEFS{$cat} =~ s/\s*\([^)]\)\s*,?\s*//;
+		} elsif ($line =~ /^\@OMENSURATION\s*:\s*(.*)\s*$/) {
+			$MENS{$cat} = $1;
+		} elsif ($line =~ /^\@EXTANTVOICES\s*:\s*(.*)\s*$/) {
+			$EVOICES{$cat} = $1;
+		}
+	}
+}
+
+
+
