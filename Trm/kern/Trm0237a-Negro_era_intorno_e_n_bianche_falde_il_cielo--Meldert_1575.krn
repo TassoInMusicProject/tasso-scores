@@ -17,9 +17,9 @@
 *I"Basso	*	*I"Tenore	*	*I"Quinto	*	*I"Alto	*	*I"Canto	*
 *I'B	*	*I'T	*	*I'V	*	*I'A	*	*I'C	*
 *oclefF3	*	*oclefC3	*	*oclefC3	*	*oclefC2	*	*oclefG2	*
-
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 0r	.	3%4A	Ne-	3%4a	Ne-	3%4cc	Ne-	3%4ee	Ne-

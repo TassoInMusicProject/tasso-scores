@@ -17,9 +17,9 @@
 *I"Basso	*	*I"Tenore	*	*I"Quinto	*	*I"Alto	*	*I"Canto	*
 *I'B	*	*I'T	*	*I'V	*	*I'A	*	*I'C	*
 *oclefF3	*	*oclefC3	*	*oclefC2	*	*oclefC1	*	*oclefG2	*
-
 *clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 2c	Bel-	2c	Bel-	2g	Bel-	2cc	Bel-	2ee	Bel-
 4A	-l’An-	4c	-l’An-	4a	-l’An-	4cc	-l’An-	4ee	-l’An-

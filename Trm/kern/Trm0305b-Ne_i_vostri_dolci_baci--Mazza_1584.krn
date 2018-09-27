@@ -17,9 +17,9 @@
 *I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Canto	*
 *I'B	*	*I'V	*	*I'T	*	*I'C	*
 *oclefF3	*	*oclefC3	*	*oclefC3	*	*oclefG2	*
-
 *clefF3	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1
 0r	.	2r	.	0r	.	1r	.

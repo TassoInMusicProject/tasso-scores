@@ -17,10 +17,10 @@
 *I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
 *I'B	*	*I'V	*	*I'T	*	*I'A	*	*I'C	*
 *oclefF4	*	*oclefC4	*	*oclefC4	*	*oclefC3	*	*oclefC1	*
-
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *	*	*Trd0c0	*	*Trd0c0	*	*	*	*	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 1F	Que-	2r	.	1c	Que-	1a	Que-	1cc	Que-

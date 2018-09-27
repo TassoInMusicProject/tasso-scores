@@ -25,11 +25,9 @@ my %EVOICES;
 
 fillInLookupData($rimeaton);
 
-
 foreach my $file (@files) {
 	processFile($file);
 }
-
 
 exit(0);
 
@@ -135,7 +133,6 @@ return if $cat eq "Trm0256d";
 			die "\tToo many oclefs for new string: at index $ii of $oclefstring\n";
 		}
 
-		$newstring .= "\n";
 		if ($newstring ne $oldclef) {
 			$change = 1;
 			if ($overwriteQ) {
@@ -201,20 +198,22 @@ return if $cat eq "Trm0256d";
    # 1 @OMENSURATION:	cut-C                   => met(C|)
    # 1 @OMENSURATION:C
 
+	my $met = $mens[0];
+	$met = "*omet(C)" if $met eq "c";
+	$met = "*omet(C)" if $met eq "C";
+	$met = "*omet(C3)" if $met eq "C3";
+	$met = "*omet(C3)" if $met eq "C 3";
+	$met = "*omet(C|)" if $met eq "Cut-C";
+	$met = "*omet(C|)" if $met eq "cut-C";
+	$met = "*omet(C|)" if $met eq "CUT-C";
+	$met = "*omet(C.3/2)" if $met eq "C-dot 3/2";
+
 	if (($imet > 0) && ($mens[0] ne "?") && ($cat ne "Trm0333b")) {
 		# check to see if mensurations match spreadsheet
 		my $oldmetline = $contents[$imet];
 		my @fields = split(/\t/, $oldmetline);
 		my $newstring = "";
-		my $met = $mens[0];
-		$met = "*omet(C)" if $met eq "c";
-		$met = "*omet(C)" if $met eq "C";
-		$met = "*omet(C3)" if $met eq "C3";
-		$met = "*omet(C3)" if $met eq "C 3";
-		$met = "*omet(C|)" if $met eq "Cut-C";
-		$met = "*omet(C|)" if $met eq "cut-C";
-		$met = "*omet(C|)" if $met eq "CUT-C";
-		$met = "*omet(C.3/2)" if $met eq "C-dot 3/2";
+
 		die "Invalid mensuration: $met\n" if $met !~ /^\*/;
 		for (my $i=0; $i<@fields; $i++) {
 			my $token = "";
@@ -241,7 +240,33 @@ return if $cat eq "Trm0256d";
 		} else {
 			# print "NO CHANGES TO MENSURATION\n";
 		}
+
+	} elsif (($itime > 0) && ($mens[0] ne "?") && ($cat ne "Trm0333b")) {
+		# else there is no omet line, so add it above the time-signature line
+		my $timeline = $contents[$itime];
+		my @fields = split(/\t/, $timeline);
+		my $metline = "";
+		for (my $i=0; $i<@fields; $i++) {
+			my $token = "";
+			if ($fields[$i] =~ /^\*M\d+\/\d+/) {
+				$token = $met;
+			} else {
+				$token = "*";
+			}
+			$metline .= $token;
+			if ($i < $#fields) {
+				$metline .= "\t";
+			}
+		}
+		$change = 1;
+		if ($overwriteQ) {
+			$contents[$itime] = "$metline\n$contents[$itime]";
+		} else {
+			print "\nCATALOG:\t$cat\n";
+			print "\tNEW MENSURATION:\t$metline\n";
+		}
 	}
+
 
 	if ($change) {
 		if ($overwriteQ) {
