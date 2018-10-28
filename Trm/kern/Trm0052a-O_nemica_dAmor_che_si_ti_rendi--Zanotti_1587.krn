@@ -284,8 +284,10 @@
 .	.	8G	-gi-	8d	-gi-	8g	-gi-	8b	-gi-
 .	.	4A	-ne	4c	-ne	4e	-ne	4a	-ne
 .	.	4F	di	4A	di	4d	di	4a	di
-.	.	3%2E	mor-	3%2B	mor-	3%2e	mor-	3%2g#X	mor-
+*	*	*col	*	*col	*	*col	*	*col	*
+.	.	3%2E	mor-	3%2B	mor-	3%2e	mor-	3%2g#Xi	mor-
 .	.	3E	-te.	3B	-te.	3e	-te.	3g#i	-te.
+*	*	*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33
 2r	.	2r	.	2r	.	2r	.	1r	.
 2C	Deh,	2e	Deh,	2g	Deh,	4r	.	.	.
@@ -311,11 +313,13 @@
 1E	-co,	.	.	2c	.	.	.	1e	-co,
 .	.	2G#X	-co,	2B	-co,	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+*col	*	*col	*	*col	*	*col	*	*col	*
 3.AA	Co-	3.A	Co-	3.c	Co-	3.cc	Co-	3.e	Co-
 6AA	-me	6A	-me	6c	-me	6cc	-me	6e	-me
 3C	not-	3GnXi	not-	3c	not-	3cc	not-	3e	not-
 3%2GG	-tur-	3%2G	-tur-	3%2d	-tur-	3%2b	-tur-	3%2g	-tur-
 3GG	-no au-	3G	-no au-	3d	-no au-	3b	-no au-	3g	-no au-
+*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37
 2C	-gel	1G	-gel	2e	-gel	2cc	-gel	2g	-gel
 2E	ne'	.	.	2e	ne	2r	.	2cc	ne'
