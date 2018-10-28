@@ -20,7 +20,7 @@
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1
-!LO:TX:a:t=[Prima parte.] A Quattro	!	!	!	!	!	!	!
+!!LO:TX:a:t=[Prima parte.] A Quattro
 1G	Men-	1d	Men-	1g	Men-	1b-y	Men-
 2D	-tre	1d	-tre	2f	-tre	1a	-tre
 4r	.	.	.	4r	.	.	.
@@ -294,7 +294,7 @@
 .	.	.	.	.	.	4cc#i	.
 1D	-da.	1d	-da.	1f#i	-da.	1dd	-da.
 =31||	=31||	=31||	=31||	=31||	=31||	=31||	=31||
-!LO:TX:a:t=Seconda parte. A 4.	!	!	!	!	!	!	!
+!!LO:TX:a:t=Seconda parte. A 4.
 2.G	Poi	2.d	Poi	2.g	Poi	2.b-y	Poi
 4D	che	4d	che	4fnXi	che	4a	che
 2G	dun-	2d	dun-	2g	dun-	2b-y	dun-

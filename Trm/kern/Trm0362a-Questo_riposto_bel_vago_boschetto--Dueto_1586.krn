@@ -19,7 +19,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 =1	=1	=1	=1	=1	=1	=1	=1
-!LO:TX:a:t=[Prima parte.]	!	!	!	!	!	!	!
+!!LO:TX:a:t=[Prima parte.]
 0r	.	0r	.	2d	Que-	2r	.
 .	.	.	.	4c	-sto	2a	Que-
 .	.	.	.	4A	ri-	.	.
@@ -243,7 +243,7 @@
 =23	=23	=23	=23	=23	=23	=23	=23
 0D	-to.	0A	-to.	0d	-to.	0f#X	-to.
 =24||	=24||	=24||	=24||	=24||	=24||	=24||	=24||
-!LO:TX:a:t=Seconda parte.	!	!	!	!	!	!	!
+!!LO:TX:a:t=Seconda parte.
 2D	Ch'a-	2F	Ch'a-	2A	Ch'a-	2d	Ch'a-
 4AA	-scon-	4E	-scon-	4A	-scon-	4c#X	-scon-
 4D	-d'in	4F	-d'in	4A	-d'in	4d	-d'in
@@ -406,7 +406,7 @@
 0.AA	-to.	0.A	-to.	0.c#X	-to.	0.e	-to.
 =48||	=48||	=48||	=48||	=48||	=48||	=48||	=48||
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
-!LO:TX:a:t=Terza parte.	!	!	!	!	!	!	!
+!!LO:TX:a:t=Terza parte.
 !LO:TX:a:t=Cut-C	!	!	!	!	!	!	!
 !LO:TX:a:t=Cut-C	!	!	!	!	!	!	!
 !LO:TX:a:t=Cut-C	!	!	!	!	!	!	!

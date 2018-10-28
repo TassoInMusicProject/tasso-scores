@@ -19,7 +19,7 @@
 *k[]	*	*k[]	*	*k[]	*
 *M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1
-!LO:TX:a:t=[Prima parte.]	!	!	!	!	!
+!!LO:TX:a:t=[Prima parte.]
 2r	.	0r	.	0r	.
 2c	Con	.	.	.	.
 4c	la	.	.	.	.
@@ -237,7 +237,7 @@
 =30	=30	=30	=30	=30	=30
 0G	-to."	0d	-to."	0b	-to.">
 =31||	=31||	=31||	=31||	=31||	=31||
-!LO:TX:a:t=Seconda parte.	!	!	!	!	!
+!!LO:TX:a:t=Seconda parte.
 2.e	Dol-	0r	.	1cc	Dol-
 4e	-ci	.	.	.	.
 2e	mie	.	.	2cc	-ci

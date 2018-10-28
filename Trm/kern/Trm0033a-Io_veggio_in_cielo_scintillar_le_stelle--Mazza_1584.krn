@@ -22,7 +22,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1
-!LO:TX:a:t=Prima parte.	!	!	!	!	!	!	!
+!!LO:TX:a:t=Prima parte.
 0r	.	0r	.	0r	.	2f	Io
 .	.	.	.	.	.	4f	veg-
 .	.	.	.	.	.	4f	-gio in
@@ -244,7 +244,7 @@
 =26	=26	=26	=26	=26	=26	=26	=26
 0C	-le?	0C	-le?	0G	-le?	0e	-le?
 =27||	=27||	=27||	=27||	=27||	=27||	=27||	=27||
-!LO:TX:a:t=Seconda parte.	!	!	!	!	!	!	!
+!!LO:TX:a:t=Seconda parte.
 2C	Pie-	2G	Pie-	2C	Pie-	2g	Pie-
 4C	-to-	4G	-to-	4E	-to-	4g	-to-
 4FF	-se	4A	-se	4F	-se	4f	-se

@@ -19,7 +19,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!LO:TX:a:t=Prima parte.	!	!	!	!	!	!	!	!	!
+!!LO:TX:a:t=Prima parte.
 4D	Gia-	4d	Gia-	4A	Gia-	4f	Gia-	4a	Gia-
 2D	-cea	2d	-cea	2A	-cea	2f	-cea	2a	-cea
 4AA	la	4c#X	la	4A	la	4e	la	4a	la
@@ -183,7 +183,7 @@
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 0A	-ta.	0c#X	-ta.	0A	-ta.	0e	-ta.	0a	-ta.
 =23||	=23||	=23||	=23||	=23||	=23||	=23||	=23||	=23||	=23||
-!LO:TX:a:t=Seconda parte.	!	!	!	!	!	!	!	!	!
+!!LO:TX:a:t=Seconda parte.
 0r	.	4r	.	0r	.	4r	.	4dd	Vol-
 .	.	4d	Vol-	.	.	4a	Vol-	2ff	-ge-
 .	.	2.a	-ge-	.	.	2.cc	-ge-	.	.

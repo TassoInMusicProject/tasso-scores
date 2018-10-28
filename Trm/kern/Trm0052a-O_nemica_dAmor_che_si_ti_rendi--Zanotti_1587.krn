@@ -19,7 +19,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!LO:TX:a:t=Prima parte.	!	!	!	!	!	!	!	!	!
+!!LO:TX:a:t=Prima parte.
 1r	.	2.e	O	1r	.	1r	.	1r	.
 .	.	4d	ne-	.	.	.	.	.	.
 2r	.	4c	-mi-	2.e	O	2r	.	2.cc	O
@@ -230,7 +230,7 @@
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 0AA	-do.	0A	-di.	0e	-di.	0a	-di.	0cc#X	-di.
 =26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||
-!LO:TX:a:t=Seconda parte.	!	!	!	!	!	!	!	!	!
+!!LO:TX:a:t=Seconda parte.
 1r	.	1r	.	2e	Ché	2b	Ché	0r	.
 .	.	.	.	2a	non	2cc	non	.	.
 2E	Ché	2B	Ché	4g	con-	4b	con-	.	.

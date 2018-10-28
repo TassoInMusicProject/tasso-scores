@@ -21,7 +21,7 @@
 *k[b-]	*	*k[b-e-]	*	*k[b-]	*
 *M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1
-!LO:TX:a:t=Prima parte.	!	!	!	!	!
+!!LO:TX:a:t=Prima parte.
 2r	.	0r	.	2r	.
 2d	Di	.	.	2a	Di
 2.d	net-	.	.	2.b-y	net-
@@ -201,7 +201,7 @@
 =22	=22	=22	=22	=22	=22
 0d	-te.	0d	-te.	0A	-te.
 =23||	=23||	=23||	=23||	=23||	=23||
-!LO:TX:a:t=Seconda parte.	!	!	!	!	!
+!!LO:TX:a:t=Seconda parte.
 4r	.	1r	.	4r	.
 4d	So-	.	.	4a	So-
 4d	-nar	.	.	4a	-nar

@@ -22,7 +22,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!LO:TX:a:t=Prima parte	!	!	!	!	!	!	!	!	!
+!!LO:TX:a:t=Prima parte
 2F	Ca-	2c	Ca-	2f	Ca-	2a	Ca-	2cc	Ca-
 2F	-ro,	2c	-ro,	2f	-ro,	2a	-ro,	2cc	-ro,
 2r	.	2r	.	2r	.	2r	.	2r	.
@@ -221,7 +221,7 @@
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 0C]	.	0c]	.	0cc]	.	0g]	.	0ee]	.
 ==23	==23	==23	==23	==23	==23	==23	==23	==23	==23
-!LO:TX:a:t=Seconda parte	!	!	!	!	!	!	!	!	!
+!!LO:TX:a:t=Seconda parte
 0r	.	0r	.	2.f	Ma	2r	.	0r	.
 .	.	.	.	.	.	2.cc	Ma	.	.
 .	.	.	.	4e	se	.	.	.	.

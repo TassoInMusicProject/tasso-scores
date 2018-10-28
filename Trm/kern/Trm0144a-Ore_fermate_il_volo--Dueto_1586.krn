@@ -19,7 +19,7 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1
-!LO:TX:a:t=[Prima parte.]	!	!	!	!	!	!	!
+!!LO:TX:a:t=[Prima parte.]
 0r	.	0r	.	2r	.	2dd	Ho-
 .	.	.	.	2g	Ho-	4b	-re
 .	.	.	.	.	.	4dd	fer-
@@ -310,7 +310,7 @@
 =28	=28	=28	=28	=28	=28	=28	=28
 0G	-no.	0d	-no.	0g	-no.	0b	-no.
 =29||	=29||	=29||	=29||	=29||	=29||	=29||	=29||
-!LO:TX:a:t=Seconda parte.	!	!	!	!	!	!	!
+!!LO:TX:a:t=Seconda parte.
 1r	.	2d	E	2r	.	1r	.
 .	.	8eL	voi,	2b	E	.	.
 .	.	8d	au-	.	.	.	.

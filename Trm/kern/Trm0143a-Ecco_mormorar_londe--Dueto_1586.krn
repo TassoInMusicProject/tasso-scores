@@ -19,7 +19,7 @@
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 *met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*
-!LO:TX:a:t=[Prima parte.]	!	!	!	!	!	!	!
+!!LO:TX:a:t=[Prima parte.]
 1r	.	2r	.	2.g	Ec-	1r	.
 .	.	2.g	Ec-	.	.	.	.
 .	.	.	.	4f	-co	.	.
@@ -271,7 +271,7 @@
 =20	=20	=20	=20	=20	=20	=20	=20
 0c	-te:>	0e	-te:	0g	-te:>	0cc	-te:>
 =21||	=21||	=21||	=21||	=21||	=21||	=21||	=21||
-!LO:TX:a:t=Seconda parte.	!	!	!	!	!	!	!
+!!LO:TX:a:t=Seconda parte.
 2.c	Ec-	2.e	Ec-	2.g	Ec-	2.cc	Ec-
 4A	-co	4e	-co	4a	-co	4cc	-co
 4F	già	4f	già	4a	già	4cc	già
