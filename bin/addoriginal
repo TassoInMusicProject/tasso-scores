@@ -133,13 +133,13 @@ return if $cat eq "Trm0256d";
 			die "\tToo many oclefs for new string: at index $ii of $oclefstring\n";
 		}
 
-		if ($newstring ne $oldclef) {
+		if ("$newstring\n" ne $oldclef) {
 			$change = 1;
 			if ($overwriteQ) {
 				$contents[$ioclef] = "$newstring\n";
 			} else {
 				print "\nCATALOG:\t$cat\n";
-				print "\tOLD OCLEFS:\t$oldclef";
+				print "\tOLD OCLEFS:\t$oldclef\n";
 				print "\tNEW OCLEFS:\t$newstring\n";
 			}
 		} else {
