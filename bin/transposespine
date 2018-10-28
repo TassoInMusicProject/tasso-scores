@@ -1,0 +1,37 @@
+#!/usr/bin/perl
+
+use strict;
+
+die "Usage: $0 spine b40 file" if @ARGV != 3;
+
+my $spine = $ARGV[0];
+my $b40   = $ARGV[1];
+my $file  = $ARGV[2];
+
+die "Usage: $0 SPINE b40 file" if $spine !~ /^\d+$/;
+die "Usage: $0 spine B40 file" if $b40 !~ /^[-+\d]+$/;
+die "Usage: $0 spine b40 FILE" if $file !~ /\.krn$/;
+
+my $before = $spine - 1;
+my $after = $spine + 1;  # probably never at end of line since there is text, 
+                         # which otherwise might cause problems.
+if ($before > 0) {
+
+	if ($before > 1) {
+		`extractx -s "1-$before" $file > before.krn`;
+	} else {
+		`extractx -s 1 $file > before.krn`;
+	}
+}
+
+`extractx -s $spine $file > current.krn`;
+
+`extractx -s "$after-\$" $file > after.krn`;
+
+`transpose -b $b40 current.krn > current2.krn`;
+
+`assemble before.krn current2.krn after.krn > final.krn`;
+
+`rm current.krn current2.krn before.krn after.krn`;
+
+
