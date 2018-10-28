@@ -1,26 +1,24 @@
 !!!COM: Merulo, Claudio
-!!!CDT: 1533/04/08-1604/05/04
+!!!CDT:
 !!!PTL: Corona de madrigali a sei voci
 !!!PPP: Venice
 !!!PPR: Heirs of G. Scotto
 !!!PDT: 1579
 !!!RISM: 1579-2
 !!!rime: 333
-!!!OTL: Gelo ha Madonna il seno
+!!!OTL: Gelo ha Maddon'il seno 
 !!!AGN: Madrigal
 !!!SCT: Trm0333b
 !!!SCA: Trm0333b
 !!!voices: 6
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
-*I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Sesto	*	*I"Canto	*
-*I'B	*	*I'V	*	*I'T	*	*I'A	*	*I'S	*	*I'C	*
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
-*oclefF3	*	*oclefC3	*	*oclefC3	*	*oclefC2	*	*oclefG2	*	*oclefG2	*
+*I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Sesto	*	*I"Canto	*
+*I'B	*	*I'Q	*	*I'T	*	*I'A	*	*I'S	*	*I'C	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
-*omet(C)	*	*omet(C)	*	*omet(C|)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
-*M4/2	*	*M4/2	*	*M2/1	*	*M4/2	*	*M4/2	*	*M4/2	*
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 0r	.	0r	.	0r	.	1a	Ge-	1ee	Ge-	2r	.
 .	.	.	.	.	.	.	.	.	.	2a	Ge-
@@ -141,13 +139,13 @@
 [2C	Que-	2e	-to.	.	.	.	.	.	.	[2ee	Que-
 .	.	.	.	4c	-st'a-	.	.	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-4C]	.	2.g	Que-	2c	-vien,	2.cc	Que-	2r	.	4ee]	.
+4C]	.	2.g	Que-	2c	-vien	2.cc	Que-	2r	.	4ee]	.
 4C	-st'a-	.	.	.	.	.	.	.	.	4ee	-st'a-
-2C	-vien,	.	.	2G	per-	.	.	2.gg	Que-	2ee	-vien,
+2C	-vien	.	.	2G	per-	.	.	2.gg	Que-	2ee	-vien
 .	.	4g	-st'a-	.	.	4cc	-st'a-	.	.	.	.
-2G	per-	2g	-vien,	1B	-ch'A-	2b	-vien,	.	.	2dd	per-
+2G	per-	2g	-vien	1B	-ch'A-	2b	-vien	.	.	2dd	per-
 .	.	.	.	.	.	.	.	4gg	-st'a-	.	.
-2E	-ch'A-	2g	per-	.	.	2b	per-	2gg	-vien,	2ee	-ch'A-
+2E	-ch'A-	2g	per-	.	.	2b	per-	2gg	-vien	2ee	-ch'A-
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 1A	-mo-	2c	-ch'A-	2.c	-mo-	2e	-ch'A-	2ee	per-	1cc	-mo-
 .	.	2.e	-mo-	.	.	2.a	-mo-	2ee	-ch'A-	.	.
@@ -181,10 +179,10 @@
 2G	-t'al-	2g	-t'al-	2d	-t'al-	.	.	.	.	.	.
 .	.	.	.	.	.	4b	-t'al-	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
-2.A	-ber-	2.e	-ber-	1c	-ber-	2.a	-ber-	1r	.	2ee	e
+2.A	-ber-	2.e	-ber-	1c	-ber	2.a	-ber-	1r	.	2ee	e
 .	.	.	.	.	.	.	.	.	.	4cc	nel
 4A	-ga e	4e	-ga e	.	.	4a	-ga e	.	.	4a	mio
-2E	nel	2e	nel	2B	-ga	2g#X	nel	2ee	e	2b	pet-
+2E	nel	2e	nel	2B	ga	2g#X	nel	2ee	e	2b	pet-
 2A	mio	2e	mio	2r	.	2a	mio	4cc	nel	2cc	-to,
 .	.	.	.	.	.	.	.	4a	mio	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
@@ -204,9 +202,9 @@
 .	.	.	.	.	.	.	.	.	.	8aJ	.
 .	.	2G	mio	.	.	2g	pet-	4gg	nel	2b	.
 .	.	.	.	.	.	.	.	4ff	mio	.	.
-2r	.	2c	pet-	4r	.	2g	-to,	2ee	pet-	2cc	-to,
+2r	.	2c	pet-	4r	.	2g	-to	2ee	pet-	2cc	-to
 .	.	.	.	4e	Né	.	.	.	.	.	.
-2C	Né	4c	-to,	2g	mai,	4r	.	2ee	-to,	4r	.
+2C	Né	4c	-to	2g	mai,	4r	.	2ee	-to,	4r	.
 .	.	4g	Né	.	.	4cc	Né	.	.	4ee	Né
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 2G	mai	2g	mai	1r	.	2b	mai	0r	.	2dd	mai
@@ -238,7 +236,7 @@
 4c	-bia	2g	ne	4e	-bia	4cc	-bia	1r	.	1r	.
 4G	ne	.	.	4d	ne	4b	ne	.	.	.	.
 2A	gl'oc-	2e	gl'oc-	2c	gl'oc-	2a	gl'oc-	.	.	.	.
-2E	-chi,	2e	-chi,	2B	-chi,	2g#X	-chi,	2r	.	2r	.
+2E	-chi	2e	-chi	2B	-chi	2g#X	-chi,	2r	.	2r	.
 2r	.	4r	.	2r	.	4r	.	[2ee	Sì	4r	.
 .	.	[4A	Sì	.	.	4a	Sì	.	.	[4cc	Sì
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
@@ -251,7 +249,7 @@
 .	.	2A	gl'oc-	.	.	.	.	2cc	gl'oc-	2a	gl'oc-
 .	.	.	.	.	.	4f#i	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-2r	.	2G	-chi,	4r	.	1g	-chi,	1b	-chi,	2d	-chi,
+2r	.	2G	-chi	4r	.	1g	-chi	1b	-chi	2d	-chi
 .	.	.	.	4d	el-	.	.	.	.	.	.
 4r	.	4r	.	4e	-la	.	.	.	.	2r	.
 4G	el-	4B	el-	4d	nel	.	.	.	.	.	.
@@ -280,7 +278,7 @@
 .	.	2A	co-	.	.	2a	el-	.	.	[2dd	el-
 .	.	.	.	4f#i	.	.	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
-1G	-re,	2G	-re,	2g	-re,	2b	-la	2r	.	2dd]	.
+1G	-re	2G	-re,	2g	-re,	2b	-la	2r	.	2dd]	.
 .	.	1B	el-	2d	el-	2g	nel	1b	el-	1gg	-la
 1E	<el-	.	.	2e	-la	2.g	co-	.	.	.	.
 .	.	[2e	-la	[2g	nel	.	.	2b	-la	2ee	nel
@@ -297,12 +295,13 @@
 0AAl	-re.>	0Al	-re.	0c#Xl	-re.	0el	-re.	0al	-re.	0eel	-re.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)(s6)]
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6)]
+!!!YEM:	Claudio Merulo, "Gelo ha Madonn' il seno," 1579 (Trm 333b; 11 Sep 2017) Tasso in Music Project (http://www.tassomusic.org) Copyright 2017 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
-!!!END: 2016/02/13
+!!!END: 2018
 !!!EED: Donnelly, Daniel
-!!!EEV: 2017/11/18
-!!!YEC: Copyright 2017 Emiliano Ricciardi, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2017/11/18 and edited by Craig Stuart Sapp
+!!!EEV: 2018/10/28
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/10/28 and edited by Craig Stuart Sapp

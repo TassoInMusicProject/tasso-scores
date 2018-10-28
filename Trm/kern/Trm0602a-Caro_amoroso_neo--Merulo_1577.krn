@@ -1,27 +1,24 @@
 !!!COM: Merulo, Claudio
-!!!CDT: 1533/04/08-1604/05/04
-!!!OTL: Caro amoroso neo
+!!!CDT:
 !!!PTL: Il primo fiore della ghirlanda musicale
 !!!PPP: Venice
 !!!PPR: Heirs of G. Scotto
 !!!PDT: 1577
 !!!RISM: 1577-7
 !!!rime: 602
+!!!OTL: Caro amoroso neo 
 !!!AGN: Madrigal
 !!!SCT: Trm0602a
 !!!SCA: Trm0602a
 !!!voices: 5
 **kern	**text	**kern	**text
+*part2	*part2	*part1	*part1
 *staff2	*staff2	*staff1	*staff1
-*Ivox	*	*Ivox	*
 *I"Alto	*	*I"Canto	*
 *I'A	*	*I'C	*
-*oclefC2	*	*oclefG2	*
-*clefG2v8	*	*clefG2	*
+*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*
-*omet(C|)	*	*omet(C|)	*
-*M2/1	*	*M2/1	*
-!!incipit: 4
+*M4/2	*	*M4/2	*
 =1	=1	=1	=1
 0r	.	1a	Ca-
 .	.	2cc	-ro a-
@@ -79,35 +76,35 @@
 =11	=11	=11	=11
 2r	.	2r	.
 1a	Che	2ff	Che
-.	.	2ff	s&igrave; il-
-2a	s&igrave; il-	[2ee	-lu-
+.	.	2ff	sì il-
+2a	sì il-	[2ee	-lu-
 =12	=12	=12	=12
 2.g	-lu-	4ee]	.
-.	.	4dd	.
-.	.	2dd	-stri un
+.	.	4dd	-stri un
+.	.	2dd	bel
 4d	-stri un	.	.
-2f	bel	1cc	bel
+2f	bel	1cc	vol-
 2e	vol-	.	.
 =13	=13	=13	=13
-1f	-to	2.a	vol-
+1f	-to	2.a	-to
 .	.	4g	.
 2r	.	4a	.
 .	.	4b	.
-2a	Col	2cc	-to
+2a	Col	2cc	.
 =14	=14	=14	=14
 2a	ne-	2r	.
 2d	-ro	2dd	Col
 2f	tuo	2dd	ne-
-2e	fra 'l	2cc#X	-ro
+2e	fra'l	2cc#X	-ro
 =15	=15	=15	=15
 4a	suo	2.dd	tuo
 4g	.	.	.
 4f	.	.	.
-4e	.	4ee	fra 'l
-2d	.	2ff	suo
-2e	can-	2ee	can-
+4e	.	4ee	fra'l
+2d	can-	2ff	suo
+2e	-dor	2ee	can-
 =16	=16	=16	=16
-2.f	-dor	2.dd	-dor
+2.f	.	2.dd	-dor
 4g	.	8ccL	.
 .	.	8bJ	.
 1a	.	4a	.
@@ -116,16 +113,16 @@
 =17	=17	=17	=17
 2g	ac-	2cc	ac-
 2.f	-col-	2.a	-col-
-4e	.	8g#iL	.
-.	.	8f#iJ	.
-[2d	.	2g#i	.
+4e	.	8gL	.
+.	.	8fJ	.
+[2d	.	2g	.
 =18	=18	=18	=18
 4d]	.	0a	-to,
-8c#iL	.	.	.
+8cL	.	.	.
 8BJ	.	.	.
-4c#i	.	.	.
+4c	.	.	.
 8BL	.	.	.
-8c#iJ	.	.	.
+8cJ	.	.	.
 1d	.	.	.
 =19	=19	=19	=19
 1a	-to,	2r	.
@@ -134,12 +131,12 @@
 2a	Se	.	.
 .	.	4ff	te
 =20	=20	=20	=20
-4b-	per	4dd	stes-
+4b-X	per	4dd	stes-
 4b-i	te	4dd	-so
 4a	stes-	2cc#X	se-
 4a	-so	.	.
 2f	se-	[1dd	-i
-4d	-i	.	.
+4d	-i,	.	.
 [4b-X	<Se	.	.
 =21	=21	=21	=21
 4b-]	.	0dd]	.
@@ -156,20 +153,20 @@
 .	.	2ee	mac-
 4e	pur	.	.
 =23	=23	=23	=23
-2.f	mac-	2.a	-chia e
+2.f	mach-	2.a	-cha e
 4f	-chia e	4a	di-
 4e	di-	2ee	-fet-
 2a	-fet-	.	.
 .	.	2dd	-to,
-8g#iL	.	.	.
-8f#iJ	.	.	.
+8gL	.	.	.
+8fJ	.	.	.
 =24	=24	=24	=24
-2g#i	.	2r	.
+2g	.	2r	.
 4a	-to,	2cc	Con
 2a	Con	.	.
 .	.	2dd	qual
 4a	qual	.	.
-[2gni	ar-	2ee	ar-
+[2g	ar-	2ee	ar-
 =25	=25	=25	=25
 4g]	.	4ee	-te
 2a	-te	4ee	per-
@@ -184,29 +181,29 @@
 1r	.	2r	.
 .	.	2ee	Poi
 2a	Poi	4dd	ren-
-.	.	4cc	-di il
+.	.	4cc	-d'il
 4g	ren-	4b	col-
-4f	-di il	4b	-mo
+4f	-d'il	4b	-mo
 =28	=28	=28	=28
 4e	col-	4a	del-
 4e	-mo	4cc	-le
 4d	del-	4b	gra-
 4f	-le	4a	-tie in
 4e	gra-	4a	le-
-4d	-tie in	4g#i	.
+4d	-tie in	4g	.
 4d	le-	[2a	-i,
 4c#i	.	.	.
 =29	=29	=29	=29
-2d	-i!	2a]	.
+2d	-i,	2a]	.
 2r	.	2r	.
 2r	.	1r	.
 4r	.	.	.
 4a	<Poi	.	.
 =30	=30	=30	=30
 4g	ren-	2gg	<Poi
-4e	-di il	.	.
+4e	-d'il	.	.
 4a	col-	4ff	ren-
-4g	-mo	4ee	-di il
+4g	-mo	4ee	-d'il
 2f	del-	4dd	col-
 .	.	4dd	-mo
 4e	-le	4cc	del-
@@ -222,9 +219,9 @@
 =32	=32	=32	=32
 4a]	.	0r	.
 4a	-se	.	.
-2gni	mac-	.	.
+2g	mac-	.	.
 4cc	-chie	.	.
-4b	s&igrave;	.	.
+4b	sì	.	.
 2a	bel-	.	.
 =33	=33	=33	=33
 2g	-le	2r	.
@@ -250,34 +247,32 @@
 4B	le	.	.
 2A	stel-	.	.
 =36	=36	=36	=36
-2B	-le?>	1r	.
+2B	-le?<	1r	.
 2r	.	.	.
 1g	Ma	[1ee	Ma
 =37	=37	=37	=37
 2cc	se	2ee]	.
-1cc	ta-	2ee	se
+1.cc	ta-	2ee	se
 .	.	1gg	ta-
-2cc	-li ha	.	.
 =38	=38	=38	=38
-2a	co-	2ff	-li ha
-2.a	-ste-	2ee	co-
-.	.	1ee	-ste-
-8g#iL	.	.	.
-8f#iJ	.	.	.
-2g#i	.	.	.
+2cc	-li ha	2ff	-li ha
+2a	co-	2ee	co-
+2.a	-ste-	1ee	-ste-
+8gL	.	.	.
+8fJ	.	.	.
 =39	=39	=39	=39
-2a	-i,	1cc	-i,
-1cc	<Ma	.	.
-.	.	2r	.
-2cc	se	[2gg	<Ma
+2g	.	1cc	-i,
+2a	-i,	.	.
+1cc	<Ma	2r	.
+.	.	[2gg	<Ma
 =40	=40	=40	=40
-1.cc	ta-	2gg]	.
-.	.	2gg	se
+2cc	se	2gg]	.
+1cc	ta-	2gg	se
 .	.	1ee	ta-
 2cc	-li ha	.	.
 =41	=41	=41	=41
-2a	co-	2dd	-li ha
-2.a	-ste-	2cc	co-
+2a	co	2dd	-li ha
+2.a	ste-	2cc	co-
 .	.	1b	-ste-
 8g#iL	.	.	.
 8f#iJ	.	.	.
@@ -290,12 +285,12 @@
 .	.	2ee	In
 4r	.	4dd	sua
 4d	In	4ff	bel-
-4c	sua	2ee	-t&agrave;
+4c	sua	2ee	-ta
 4e	bel-	.	.
 =44	=44	=44	=44
-4d	-t&agrave;	4a	le
+4d	-tà	4a	le
 4f	le	2dd	men-
-2e	men-	.	.
+2e	man-	.	.
 .	.	4cc#i	.
 1d	-de,	2dd	-de,
 .	.	4r	.
@@ -303,7 +298,7 @@
 =45	=45	=45	=45
 2r	.	4gg	poi
 .	.	4gg	sa-
-2a	Quai	4ff	-ran-
+2a	Qual	4ff	-ran-
 .	.	4ff	-no i
 4cc	poi	2ee	fre-
 4cc	sa-	.	.
@@ -317,7 +312,7 @@
 4r	.	4.dd	-ran-
 4a	<Quai	.	.
 .	.	8cc	-no i
-4gni	poi	2b	fre-
+4gnXi	poi	2b	fre-
 4e	sa-	.	.
 =47	=47	=47	=47
 4.a	-ran-	2a	-gi>
@@ -326,7 +321,7 @@
 4e	-gi>	4ee	on-
 4r	.	4ff	-d'el-
 4a	on-	4ff	-la
-4b-	-d'el-	2dd	splen-
+4b-X	-d'el-	2dd	splen-
 4b-i	-la	.	.
 =48	=48	=48	=48
 2g	splen-	2ee	-de,
@@ -342,7 +337,7 @@
 4f	-d'el-	2a	-de,>
 4d	-la	.	.
 =50	=50	=50	=50
-2g	splen-	2ee	on-
+2g	splan-	2ee	on-
 2a	-de,	4cc	-d'el-
 .	.	4a	-la
 2r	.	4.dd	splen-
@@ -372,12 +367,13 @@
 0al	-de?>	0cc#Xl	-de?>
 ==	==	==	==
 *-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)]
+!!!system-decoration: [(s1,s2)]
+!!!YEM:	Claudio Merulo, "Caro amoroso neo" 1577 (Trm 0602a; 16 Oct 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
-!!!END: 2013
+!!!END: 2018
 !!!EED: Donnelly, Daniel
-!!!EEV: 2013/08/19
-!!!YEC: Copyright 2013 Emiliano Ricciardi, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2013/08/19 and edited by Craig Stuart Sapp
+!!!EEV: 2018/10/28
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/10/28 and edited by Craig Stuart Sapp

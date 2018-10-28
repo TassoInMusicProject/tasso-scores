@@ -4,16 +4,24 @@
 use strict;
 use Getopt::Long;
 
-#my $indexfile = "../tasso-website/data/indexes/gerusalemme-settings.aton";
-#my $indexfile = "../tasso-website/data/indexes/aminta-settings.aton";
-#my $indexfile = "../tasso-website/data/indexes/other-settings.aton";
-my $indexfile = "../tasso-website/data/indexes/rime-settings.aton";
+my $Tsg_indexfile = "../tasso-website/data/indexes/gerusalemme-settings.aton";
+my $Tam_indexfile = "../tasso-website/data/indexes/aminta-settings.aton";
+my $Too_indexfile = "../tasso-website/data/indexes/other-settings.aton";
+my $Trm_indexfile = "../tasso-website/data/indexes/rime-settings.aton";
+
+my $indexfile = $Trm_indexfile;
 
 my $writeQ = 0;
+my $amintaQ = 0;
 Getopt::Long::Configure("bundling");
 GetOptions (
-   'w|overwrite' => \$writeQ
+   'w|overwrite' => \$writeQ,
+   'a|aminta' => \$amintaQ
 );
+
+if ($amintaQ) {
+	$indexfile = $Tam_indexfile;
+}
 
 
 open (IFILE, $indexfile) or die "Cannot read $indexfile\n";

@@ -394,3 +394,16 @@ census:
 
 
 
+############################################################################
+##
+## Maintenance commands (not useable in general):
+##
+
+ref: refs
+refs:
+	bin/fillinrefinfo -w Trm/kern/*.krn
+	bin/fillinrefinfo -a -w Tam/kern/*.krn
+	# Add other genres here
+
+
+

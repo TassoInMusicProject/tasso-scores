@@ -15,11 +15,9 @@
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Quinto	*	*I"Canto	*
-*I'B	*	*I'T	*	*I'A	*	*I'V	*	*I'C	*
-*oclefF4	*	*oclefC4	*	*oclefC3	*	*oclefC1	*	*oclefC1	*
+*I'B	*	*I'T	*	*I'A	*	*I'Q	*	*I'C	*
 *clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
-*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 1F	Ge-	0r	.	1c	Ge-	1f	Ge-	1a	Ge-
@@ -69,7 +67,7 @@
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 2C	-col-	2G	-col-	2c	-col-	2r	.	2e	-col-
 4C	-to,	4G	-to,	4c	-to,	4r	.	4e	-to,
-4FF	e'l	4A	e'l	4c	e'l	4f	E'l	4a	<e'l
+4FF	E'l	4A	E'l	4c	E'l	4f	E'l	4a	<E'l
 8BB-yL	fuo-	4.F	fuo-	8dL	fuo-	2f	fuo-	4b-y	fuo-
 8C	.	.	.	8eJ	.	.	.	.	.
 8D	.	.	.	2f	.	.	.	4b-y	-c'ho
@@ -92,7 +90,7 @@
 4AA	-ch'A-	4A	-ch'A-	4c#i	-ch'A-	4e	-ch'A-	4a	-ch'A-
 2D	-mo-	2A	-mo-	2d	-mo-	2f#X	-mo-	2a	-mo-
 1GG	-re	2G	-re,	2d	-re,	2g	-re,	2bnX	-re,
-.	.	[2G	que-	[2d	que-	[2g	que-	[2bnX	que-
+.	.	[2G	Que-	[2d	Que-	[2g	Que-	[2bnX	Que-
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 0r	.	4G]	.	4d]	.	4g]	.	4b]	.
 .	.	4C	-st'a-	4e	-st'a-	4g	-st'a-	4cc	-st'a-
@@ -105,7 +103,7 @@
 4AA	Nel-	.	.	4c#X	Nel-	.	.	.	.
 4AA	-la	2A	Nel-	4c#i	-la	2e	Nel-	.	.
 4AA	sua	.	.	4c#i	sua	.	.	4a	Nel-
-4D	front'	4D	-la	2.d	fron-	4fnXi	-la	4a	-la
+4D	front'	4D	-la	2.d	fron-	4f	-la	4a	-la
 4BB-y	al-	4D	sua	.	.	4d	sua	4g	sua
 2AA	-ber-	[2A	fron-	.	.	2e	fron-	2a	fron-
 .	.	.	.	4c#X	-t'al-	.	.	.	.
@@ -120,7 +118,7 @@
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 1D	-to,	1D	-to,	2d	-to,	1f#X	-to,	1a	-to,
 .	.	.	.	2A	Né	.	.	.	.
-4r	.	4r	.	2cnXi	mai	4r	.	4r	.
+4r	.	4r	.	2c	mai	4r	.	4r	.
 4C	Né	4G	Né	.	.	4g	Né	4e	Né
 4C	mai	4G	mai	4c	can-	4g	mai	4e	mai
 [4C	can-	[4G	can-	4c	-gia	[4g	can-	[4e	can-
@@ -133,11 +131,11 @@
 2AA	-to,	.	.	2c#i	-to,	2a	-to,	2e	-to,
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 4r	.	4r	.	4r	.	4r	.	4r	.
-4D	né	4A	<né	4d	né	4a	né	4f#X	<né
+4D	Né	4A	<Né	4d	Né	4a	Né	4f#X	<Né
 4GG	mai	4G	mai	4d	mai	4bnX	mai	4g	mai
 4.C	can-	4.G	can-	4.e	can-	4.cc	can-	4.g	can-
 8C	-gia	8E	-gia	8e	-gia	8cc	-gia	8g	-gia
-4FF	ri-	4F	ri-	4cnXi	ri-	4a	ri-	4fnXi	ri-
+4FF	ri-	4F	ri-	4c	ri-	4a	ri-	4fnXi	ri-
 [2C	-cet-	[2G	-cet-	[2c	-cet-	[2g	-cet-	[2e	-cet-
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 2C]	.	2G]	.	2c]	.	2g]	.	2e]	.
@@ -170,8 +168,8 @@
 .	.	.	.	.	.	.	.	2a	l'hab-
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 0r	.	4C	-re,	0r	.	2.e	Sì	2g	-bia,
-.	.	2c	sì	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	2g	sì
+.	.	2c	Sì	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	2g	Sì
 .	.	4B-y	ch'io	.	.	4d	ch'io	.	.
 .	.	2A	l'hab-	.	.	8cL	l'hab-	2cc	ch'io
 .	.	.	.	.	.	8d	.	.	.
@@ -187,13 +185,13 @@
 .	.	4c	-la	2r	.	8eL	-la	4cc	-la
 .	.	.	.	.	.	8cJ	nel	.	.
 .	.	4F	nel	.	.	4.f	co-	4a	nel
-.	.	2C	co-	[2c	sì	.	.	2g	co-
+.	.	2C	co-	[2c	Sì	.	.	2g	co-
 .	.	.	.	.	.	16eLL	.	.	.
 .	.	.	.	.	.	16dJJ	.	.	.
 .	.	.	.	.	.	4e	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-2.F	<sì	4F	-re,	2c]	.	4f	-re,	4a	-re,
-.	.	2A	<sì	.	.	2f	<sì	2a	sì
+2.F	<Sì	4F	-re,	2c]	.	4f	-re,	4a	-re,
+.	.	2A	<Sì	.	.	2f	<Sì	2a	Sì
 .	.	.	.	2c	ch'io	.	.	.	.
 4E	ch'io	4c	ch'io	.	.	4g	ch'io	4g	ch'io
 2D	l'hab-	2F	l'hab-	2d	l'hab-	2a	l'hab-	8fL	l'hab-
@@ -230,7 +228,7 @@
 2D	-mo-	2A	-mo-	2d	-mo-	2a	-mo-	2f#X	-mo-
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
 1GG	-re	2G	-re,	2d	-re,	2bnX	-re,	2g	-re,
-.	.	2.G	<que-	2.d	<que-	2.bnX	<que-	2.g	<que-
+.	.	2.G	<Que-	2.d	<Que-	2.bnX	<Que-	2.g	<Que-
 1r	.	.	.	.	.	.	.	.	.
 .	.	4C	-st'a-	4e	-st'a-	4cc	-st'a-	4g	-st'a-
 .	.	2F	-vien,	2cnXi	-vien,	2a	-vien,	2fnXi	-vien,
@@ -243,11 +241,11 @@
 4AA	-la	4r	.	4c#i	-la	.	.	2e	Nel-
 4AA	sua	4A	Nel-	4c#i	sua	4a	Nel-	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-4D	fron-	4D	-la	2d	fron-	4a	-la	4fnXi	-la
+4D	fron-	4D	-la	2d	fron-	4a	-la	4f	-la
 4BB-y	-te al-	4D	sua	.	.	4g	sua	4d	sua
 2AA	-ber-	2.A	fron-	2c#X	-te al-	2a	fron-	2e	fron-
 4D	-ga e	.	.	2.d	-ber-	4a	-te al-	4f	-te al-
-2GG	nel	4G	-te al-	.	.	2b-X	-ber-	2gnXi	-ber-
+2GG	nel	4G	-te al-	.	.	2b-X	-ber-	2g	-ber-
 .	.	4G	-ber-	.	.	.	.	.	.
 4D	mio	4D	-ga e	4d	-ga e	4a	-ga e	4f	-ga e
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30
@@ -257,7 +255,7 @@
 1D	-to,	1D	-to,	2d	-to,	1a	-to,	1f#X	-to,
 .	.	.	.	2A	Né	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31
-4r	.	4r	.	2cnXi	mai	4r	.	4r	.
+4r	.	4r	.	2c	mai	4r	.	4r	.
 4C	Né	4G	Né	.	.	4e	Né	4g	Né
 4C	mai	4G	mai	2c	can-	4e	mai	4g	mai
 4.C	can-	4.G	can-	.	.	4.e	can-	4.g	can-
@@ -269,13 +267,13 @@
 2AA]	.	1A	-to,	2c#]	.	2e]	.	2a]	.
 2AA	-to,	.	.	2c#X	-to,	2e	-to,	2a	-to,
 4r	.	4r	.	4r	.	4r	.	4r	.
-4D	<né	4A	<né	4d	<né	4f#X	<né	4a	<né
+4D	<Né	4A	<Né	4d	<Né	4f#X	<Né	4a	<Né
 4GG	mai	4G	mai	4d	mai	4g	mai	4bnX	mai
 [4C	can-	[4G	can-	[4e	can-	[4g	can-	[4cc	can-
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33
 8CL]	.	8GL]	.	8eL]	.	8gL]	.	8ccL]	.
 8CJ	-gia	8EJ	-gia	8eJ	-gia	8gJ	-gia	8ccJ	-gia
-4FF	ri-	4F	ri-	4cnXi	ri-	4fnXi	ri-	4a	ri-
+4FF	ri-	4F	ri-	4c	ri-	4f	ri-	4a	ri-
 1C	-cet-	1G	-cet-	1c	-cet-	1e	-cet-	1g	-cet-
 2C	-to>	2G	-to>	2c	-to>	2e	-to>	2g	-to>
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
@@ -305,8 +303,8 @@
 1FF	-re,	1F	.	1A	-re,	4cc]	.	1r	.
 .	.	.	.	.	.	4b-y	ch'io	.	.
 .	.	.	.	.	.	2a	l'hab-	.	.
-1r	.	1C	-re,	2.c	sì	2g	-bia,	2.e	Sì
-.	.	.	.	.	.	2g	<sì	.	.
+1r	.	1C	-re,	2.c	Sì	2g	-bia,	2.e	Sì
+.	.	.	.	.	.	2g	<Sì	.	.
 .	.	.	.	4B-y	ch'io	.	.	4d	ch'io
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37
 0r	.	0r	.	2A	l'hab-	2cc	ch'io	8cL	l'hab-
@@ -327,8 +325,8 @@
 .	.	.	.	.	.	.	.	16eLL	.
 .	.	.	.	.	.	.	.	16dJJ	.
 .	.	.	.	.	.	.	.	4e	.
-2.F	sì	2.A	sì	4F	-re,	4a	-re,	4f	-re,
-.	.	.	.	2c	<sì	2a	sì	2f	sì
+2.F	Sì	2.A	Sì	4F	-re,	4a	-re,	4f	-re,
+.	.	.	.	2c	<sì	2a	Sì	2f	Sì
 4E	ch'io	4c	ch'io	4c	ch'io	4g	ch'io	4g	ch'io
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39
 2D	l'hab-	2F	l'hab-	2d	l'hab-	8fL	l'hab-	2a	l'hab-
@@ -355,13 +353,13 @@
 1FFl	-re.	1Fl	-re.	1cl	-re.	1fl	-re.	1al	-re.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
 !!!YEM:	Paolo Bellasio, "Gelo ha Maddona il seno" 1578 (Trm 0333a; 22 Aug 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END: 2018
 !!!EED: Donnelly, Daniel
-!!!EEV: 2018/09/18
+!!!EEV: 2018/10/28
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2018/09/18 and edited by Craig Stuart Sapp
+!!!ONB: Translated from MusicXML on 2018/10/28 and edited by Craig Stuart Sapp

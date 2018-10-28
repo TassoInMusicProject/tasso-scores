@@ -20,7 +20,7 @@
 *omet(C)	*
 *M4/2	*
 =1	=1
-!LO:TX:t=Prima parte.   DI REGOLO VECOLI.	!
+!LO:TX:a:t=Prima parte.   DI REGOLO VECOLI.	!
 2r	.
 2g	Que-
 4g	-sta,
@@ -226,7 +226,7 @@
 =33	=33
 0f#X	-to.
 ==34	==34
-!LO:TX:t=Seconda parte.	!
+!LO:TX:a:t=Seconda parte.	!
 2g	Cie-
 4fnXi	-ca
 4e	non

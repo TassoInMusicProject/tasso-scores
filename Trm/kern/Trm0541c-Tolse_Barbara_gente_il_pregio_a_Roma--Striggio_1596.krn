@@ -20,7 +20,7 @@
 *omet(C|)	*
 *M2/1	*
 =1	=1
-!LO:TX:t=Prima parte.	!
+!LO:TX:a:t=Prima parte.	!
 0r	.
 =2	=2
 0r	.
@@ -225,7 +225,7 @@
 =38	=38
 0G;	-ma.
 =39||	=39||
-!LO:TX:t=Seconda parte.	!
+!LO:TX:a:t=Seconda parte.	!
 0r	.
 =40	=40
 0r	.

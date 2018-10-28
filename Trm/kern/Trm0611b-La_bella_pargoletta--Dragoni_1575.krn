@@ -15,11 +15,9 @@
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
-*I'B	*	*I'V	*	*I'T	*	*I'A	*	*I'C	*
-*oclefF3	*	*oclefC3	*	*oclefC3	*	*oclefC2	*	*oclefG2	*
+*I'B	*	*I'Q	*	*I'T	*	*I'A	*	*I'C	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
-*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 0r	.	0r	.	0r	.	2g	La	2r	.
@@ -32,9 +30,9 @@
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 0r	.	0r	.	2r	.	2g	-let-	2ee	-let-
 .	.	.	.	2d	La	2f	-ta,	2dd	-ta,
-.	.	.	.	4d	bel-	2a	<la	2r	.
+.	.	.	.	4d	bel-	2a	<La	2r	.
 .	.	.	.	4d	-la	.	.	.	.
-.	.	.	.	[2f	par-	4a	bel-	2a	la
+.	.	.	.	[2f	par-	4a	bel-	2a	La
 .	.	.	.	.	.	4a	-la	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 0r	.	0r	.	2f]	.	1cc	par-	4a	bel-
@@ -53,8 +51,8 @@
 .	.	.	.	.	.	8eJ	.	.	.
 .	.	.	.	.	.	2f#i	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-2r	.	1r	.	2G	<la	2g	-ta,>	1bnX	-ta,
-2G	La	.	.	4G	bel-	2g	la	.	.
+2r	.	1r	.	2G	<La	2g	-ta,>	1bnX	-ta,
+2G	La	.	.	4G	bel-	2g	La	.	.
 .	.	.	.	4G	-la	.	.	.	.
 4G	bel-	2d	La	8B-yL	par-	4g	bel-	1r	.
 .	.	.	.	8A	.	.	.	.	.
@@ -82,15 +80,15 @@
 .	.	.	.	.	.	8a	.	.	.
 2d	-mo-	2f	sen-	4r	.	4b-y	.	2r	.
 .	.	.	.	4f	Ch'an-	4a	-re,	.	.
-2c	-re,	2e	-te a-	4g	-cor	2r	.	2cc	<ch'an-
+2c	-re,	2e	-te a-	4g	-cor	2r	.	2cc	<Ch'an-
 .	.	.	.	4g	non	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 1r	.	2f	-mo-	4a	sen-	4r	.	2.cc	-cor-
-.	.	.	.	4a	-te a-	4f	<ch'an-	.	.
+.	.	.	.	4a	-te a-	4f	<Ch'an-	.	.
 .	.	2c	-re,	2e	-mo-	4g	-cor	.	.
 .	.	.	.	.	.	4g	non	4cc	-non
-2r	.	2F	ch'an-	1f	-re,	2a	sen-	2cc	sen-
-2F	ch'an-	4A	-cor	.	.	2a	-te a-	[2dd	-te a-
+2r	.	2F	Ch'an-	1f	-re,	2a	sen-	2cc	sen-
+2F	Ch'an-	4A	-cor	.	.	2a	-te a-	[2dd	-te a-
 .	.	4A	non	.	.	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 4G	-cor	2B-y	sen-	1r	.	4.g	-mo-	2dd]	.
@@ -106,8 +104,8 @@
 1C	-re,	2c	-re,	1e	pur,	2r	.	2cc	-re,>
 .	.	2c	Né	.	.	2g	Né	2cc	Né
 2r	.	1f	pur,	2r	.	2a	pur,	2cc	pur,
-2F	Né	.	.	2a	né	2cc	né	4r	.
-.	.	.	.	.	.	.	.	4ff	né
+2F	Né	.	.	2a	Né	2cc	Né	4r	.
+.	.	.	.	.	.	.	.	4ff	Né
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 2c	pur	0r	.	2g	pur	2cc	pur	2ee	pur
 4A	no-	.	.	4a	no-	4cc	no-	4cc	no-
@@ -164,7 +162,7 @@
 .	.	.	.	.	.	.	.	4cc#i	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 2.D	Con	4a]	.	4A]	.	1f#X	-ta	4dd	-ta,
-.	.	4a	be-	4A	be-	.	.	2dd	con
+.	.	4a	be-	4A	be-	.	.	2dd	Con
 .	.	2a	-gl'oc-	2d	-gl'oc-	.	.	.	.
 4D	be-	.	.	.	.	.	.	4dd	be-
 2G	-gl'oc-	4g	-chi	2d	-chi	1r	.	2bnX	-gl'oc-
@@ -200,7 +198,7 @@
 4F	.	2r	.	4A	.	2d	.	2r	.
 4G	.	.	.	4B-y	.	.	.	.	.
 2C	-so,	2e	E	2c	-so,	4e	-so,	2cc	E
-.	.	.	.	.	.	4g	e	.	.
+.	.	.	.	.	.	4g	E	.	.
 1r	.	4.f	col	1r	.	4.a	col	4.cc	col
 .	.	8g	so-	.	.	8b-y	so-	8b-y	so-
 .	.	4f	-a-	.	.	4a	-a-	4cc	-a-
@@ -357,7 +355,7 @@
 .	.	.	.	1g	O	1bnX	O	1dd	O
 .	.	.	.	2c	bel-	2cc	bel-	2ee-X	bel-
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41
-0r	.	0r	.	2g	-lez-	2b-i	-lez-	4dd	-lez-
+0r	.	0r	.	2g	-lez-	2b-y	-lez-	4dd	-lez-
 .	.	.	.	.	.	.	.	2dd	-z'ho-
 .	.	.	.	4f	-z'ho-	4a	-z'ho-	.	.
 .	.	.	.	4e-X	-mi-	4g	-mi-	4cc	-mi-
@@ -396,7 +394,7 @@
 .	.	.	.	8g	.	.	.	.	.
 4c	do-	4e	do-	4a	.	.	.	1r	.
 4B-y	-lor	4d	-lor	2g	-lor	4b-y	-lor	.	.
-2A	np-	2c	no-	.	.	[2cc	no-	.	.
+2A	no-	2c	no-	.	.	[2cc	no-	.	.
 .	.	.	.	4f#i	no-	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46
 1G	-stri,	2d	-stri,	1g	-stri,	2cc]	.	2r	.
@@ -495,13 +493,13 @@
 1Gl	-stri.	1dl	-stri.	1Gl	-stri.	1gl	-stri.>	1bnXl	-stri.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
 !!!YEM:	Giovanni Andrea Dragoni, "La bella pargoletta" 1575 (Trm 0611b; 23 Aug 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END: 2018
 !!!EED: Donnelly, Daniel
-!!!EEV: 2018/09/18
+!!!EEV: 2018/10/28
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2018/09/18 and edited by Craig Stuart Sapp
+!!!ONB: Translated from MusicXML on 2018/10/28 and edited by Craig Stuart Sapp

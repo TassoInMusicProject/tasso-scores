@@ -20,7 +20,7 @@
 *omet(C|)	*
 *M2/1	*
 =1	=1
-!LO:TX:t=Prima parte[.] A Quattro.	!
+!LO:TX:a:t=Prima parte[.] A Quattro.	!
 2A	A-
 2.A	-mor,
 4G	se
@@ -215,7 +215,7 @@
 =28	=28
 0G	-chi;
 ==29	==29
-!LO:TX:t=Seconda parte[.]A quattro.	!
+!LO:TX:a:t=Seconda parte[.]A quattro.	!
 2c	Tuo
 4c	fia
 4c	que-

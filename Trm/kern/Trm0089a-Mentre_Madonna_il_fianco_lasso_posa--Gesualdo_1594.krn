@@ -22,7 +22,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!LO:TX:t=Prima parte	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=Prima parte	!	!	!	!	!	!	!	!	!
 2.G	Men-	2d	Men-	2.g	Men-	2.b	Men-	2.dd	Men-
 .	.	4d	-tre	.	.	.	.	.	.
 4G	-tre	4G	Ma-	4g	-tre	4b	-tre	4dd	-tre
@@ -303,7 +303,7 @@
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
 0C	-sa.	0g	-sa.	0cc	-sa.	0c	-sa.	0ee	-sa.
 ==28	==28	==28	==28	==28	==28	==28	==28	==28	==28
-!LO:TX:t=Seconda parte	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=Seconda parte	!	!	!	!	!	!	!	!	!
 0r	.	0r	.	2r	.	2r	.	1dd	Ahi,
 .	.	.	.	2g	Ahi,	2b	Ahi,	.	.
 .	.	.	.	4r	.	4r	.	4r	.

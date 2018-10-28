@@ -6,7 +6,7 @@
 !!!PDT: 1575
 !!!RISM: M 2216
 !!!rime: 48
-!!!OTL:	Amor l'alma m'alaccia
+!!!OTL: Amor l'alma m'alaccia 
 !!!AGN: Madrigal
 !!!SCT: Trm0048a
 !!!SCA: Trm0048a
@@ -15,11 +15,9 @@
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Tenore	*	*I"Quinto	*	*I"Alto	*	*I"Canto	*
-*I'B	*	*I'T	*	*I'V	*	*I'A	*	*I'C	*
-*oclefF4	*	*oclefC4	*	*oclefC4	*	*oclefC3	*	*oclefC1	*
+*I'B	*	*I'T	*	*I'Q	*	*I'A	*	*I'C	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
-*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 2r	.	2r	.	1r	.	2r	.	1f	A-
@@ -82,10 +80,10 @@
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 1AA	-te-	1A	-ne,	1c#X	ca-	1e	-ne,	1a	-te-
 1D	-ne:	1r	.	1d	-te-	2r	.	2f	-ne,
-.	.	.	.	.	.	2f	di	2d	di
+.	.	.	.	.	.	2f	Di	2d	Di
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 0r	.	2r	.	2A	-ne,	1F	dol-	1f	dol-
-.	.	2c	<di	2A	di	.	.	.	.
+.	.	2c	<Di	2A	Di	.	.	.	.
 .	.	1F	dol-	1c	col-	1A	-ci as-	1f	-ci as-
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 0r	.	1E-X	-ci as-	1c	-ci as-	2G	-pre,	2g	-pre
@@ -106,7 +104,7 @@
 2C	per	2.F	do-	.	.	2A	mi	2a	per-
 1C	ciò,	.	.	2r	.	1c	do-	1g	-ciò
 .	.	4E	.	.	.	.	.	.	.
-.	.	2E	.	2G	ne	.	.	.	.
+.	.	2E	.	2G	Ne	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 1r	.	2F	-glio	2A	mi	2c	-glio	1r	.
 .	.	2D	per-	1B-y	do-	2d	per-	.	.
@@ -145,17 +143,17 @@
 2GG	Che	.	.	1D	-ghi,	2B-y	.	1r	.
 2AA	mi	[2F	le-	.	.	[2A	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20
-1BB-y	le-	2F]	.	1d	che	4A]	.	0r	.
+1BB-y	le-	2F]	.	1d	Che	4A]	.	0r	.
 .	.	.	.	.	.	8GL	.	.	.
 .	.	.	.	.	.	8FJ	.	.	.
 .	.	2D	-ghi,	.	.	2G	.	.	.
 2AA	-ghi,	2r	.	2c	mi	2A	-ne,	.	.
-2r	.	[2G	<che	[2B-y	le-	2d	che	.	.
+2r	.	[2G	<Che	[2B-y	le-	2d	che	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 2r	.	2G]	.	2B-]	.	2e	mi	2r	.
-1D	che	2A	mi	2A	-ghi,	1f	le-	1a	che
+1D	Che	2A	mi	2A	-ghi,	1f	le-	1a	Che
 .	.	1B-y	le-	2r	.	.	.	.	.
-2E	mi	.	.	2G	che	4e	-ghi	[2g	mi
+2E	mi	.	.	2G	Che	4e	-ghi	[2g	mi
 .	.	.	.	.	.	4d	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 1F	le-	1A	.	2A	mi	1.c	.	2g]	.
@@ -227,7 +225,7 @@
 2C	-so,	4G	-so,	[2e-X	E'n	2c	-so,	.	.
 .	.	[4c	E'n	.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33
-2E-X	E'n	4c]	.	2e-]	.	2g	<e'n	0r	.
+2E-X	E'n	4c]	.	2e-]	.	2g	<E'n	0r	.
 .	.	4.B-y	mia	.	.	.	.	.	.
 4.BB-y	mia	.	.	4.d	mia	4.f	mia	.	.
 .	.	8B-y	ra-	.	.	.	.	.	.
@@ -261,7 +259,7 @@
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39
 0r	.	1BnX	-gua,	1G	lin-	2d]	.	1g	-gua,
 .	.	.	.	.	.	2e	La	.	.
-.	.	1c	sco-	[1F	-gua,	1f	lin-	1a	scio-
+.	.	1c	Scio-	[1F	-gua,	1f	lin-	1a	Scio-
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40
 1r	.	2A	-gli	1F]	.	1f	-gua,	2cc	-gli
 .	.	2A	pie-	.	.	.	.	2cc	pie-
@@ -269,7 +267,7 @@
 .	.	2A	-so A-	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	4g	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41
-2F	-gli	1A	-mo-	1c	scio-	1f	<scio-	2a	.
+2F	-gli	1A	-mo-	1c	Scio-	1f	<Scio-	2a	.
 2F	pie-	.	.	.	.	.	.	2a	-so A-
 1BB-y	-to-	2F	-re	2B-y	-gli	2d	-gli	2.b-y	-mo-
 .	.	2D	la	2F	pie-	2d	pie-	.	.
@@ -305,7 +303,7 @@
 2B-y	string'	2d	string'	.	.	1fnXi	sol	.	.
 .	.	.	.	.	.	.	.	8b-y	.
 .	.	.	.	.	.	.	.	2b-y	.
-2F	un	2cnX	un	.	.	.	.	.	.
+2F	un	2c	un	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	4a	un
 =47	=47	=47	=47	=47	=47	=47	=47	=47	=47
 1G	sol	2BnX	sol	0r	.	1d	men	2g	sol
@@ -344,7 +342,7 @@
 .	.	.	.	.	.	8dJ	.	.	.
 .	.	.	.	2C	-re,	2e	.	2c	-re,
 2r	.	2F	-re,	2r	.	2f	-re,	2r	.
-2D	Tan-	2A	<tan-	2F	<tan-	2d	tan-	2f	<tan-
+2D	Tan-	2A	<Tan-	2F	<Tan-	2d	Tan-	2f	<Tan-
 =52	=52	=52	=52	=52	=52	=52	=52	=52	=52
 4F	-ti	4A	-ti	4A	-ti	4d	-ti	4f	-ti
 4G	n'ag-	4G	n'ag-	4BnX	n'ag-	4d	n'ag-	4d	n'ag-
@@ -367,12 +365,13 @@
 0FFl	-re.	0Cl	-re.>	0Fl	-re.>	0Al	-re.	0fl	-re.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!YEM:	Leonardo Meldert, "Amor l'alma m'allaccia," 1578 (Trm 0048a; 6 Jun 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
-!!!END: 2018/06/06
+!!!END: 2018
 !!!EED: Donnelly, Daniel
-!!!EEV: 2018/07/09
+!!!EEV: 2018/10/28
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2018/07/09 and edited by Craig Stuart Sapp
+!!!ONB: Translated from MusicXML on 2018/10/28 and edited by Craig Stuart Sapp

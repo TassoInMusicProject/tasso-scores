@@ -6,7 +6,7 @@
 !!!PDT: 1577
 !!!RISM: W 881
 !!!rime: 541
-!!!OTL:	Tolse Barbara gente il pregio a Roma
+!!!OTL: Tolse Barbara gente il pregio a Roma 
 !!!AGN: Madrigal
 !!!SCT: Trm0541a
 !!!SCA: Trm0541a
@@ -15,11 +15,9 @@
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Tenore	*	*I"Quinto	*	*I"Alto	*	*I"Canto	*
-*I'B	*	*I'T	*	*I'V	*	*I'A	*	*I'C	*
-*oclefF3	*	*oclefC3	*	*oclefC3	*	*oclefC2	*	*oclefG2	*
+*I'B	*	*I'T	*	*I'Q	*	*I'A	*	*I'C	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
-*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 2F	Tol-	2c	Tol-	0r	.	2r	.	0r	.
@@ -34,7 +32,7 @@
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 4B-]	.	4d]	.	0r	.	2.g	gen-	0r	.
 4c	-te il	4c	-te il	.	.	.	.	.	.
-2.B-y	pre-	2d	pre-	.	.	.	.	.	.
+2.B-y	preg-	2d	preg-	.	.	.	.	.	.
 .	.	.	.	.	.	4f	-te il	.	.
 .	.	4d	-gio a	.	.	4g	preg-	.	.
 4A	-gio a	2f	Ro-	.	.	4a	-gio a	.	.
@@ -138,7 +136,7 @@
 8FJ	-co	.	.	8cJ	-co	.	.	.	.
 4C	la	4e	-la	4c	la	4g	-ci-	.	.
 2D	do-	4.d	Bar-	2A	do-	2.f	-tri-	4r	.
-.	.	.	.	.	.	.	.	4.ff	ec-
+.	.	.	.	.	.	.	.	4.ff	Ec-
 .	.	8d	-ba-	.	.	.	.	.	.
 2BB-y	-ma,	4d	-ra	2B-y	-ma,	.	.	.	.
 .	.	.	.	.	.	.	.	8ff	-co
@@ -148,7 +146,7 @@
 .	.	4c	-ci-	.	.	4g	la	4ee	-la
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 4r	.	2.B-y	-tri-	4r	.	2b-y	do-	4.dd	Bar-
-4.BB-y	ec-	.	.	4.f	ec-	.	.	.	.
+4.BB-y	Ec-	.	.	4.f	Ec-	.	.	.	.
 .	.	.	.	.	.	.	.	8dd	-ba-
 .	.	.	.	.	.	2b-y	-ma,	4dd	-ra
 8BB-y	-co	.	.	8f	-co	.	.	.	.
@@ -193,7 +191,7 @@
 .	.	2a	no-	2f	no-	2cc	no-	2ff	no-
 2r	.	2g	-ma,	2c	-ma,	2cc	-ma,	1ee	-ma
 2C	Et	4r	.	4r	.	4r	.	.	.
-.	.	4g	<et	4c	<et	4cc	<et	.	.
+.	.	4g	Et	4c	<Et	4cc	<Et	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19
 4C	a	4e	a	4c	a	4g	a	0r	.
 4C	qual	4e	qual	4c	qual	4g	qual	.	.
@@ -227,17 +225,17 @@
 2C	bel-	2c	bel-	4e	sce-	2g	bel-	2g	-la,
 .	.	.	.	4c	-tro e	.	.	.	.
 2BB-y	-la,	4F	-la,	4.d	ti-	2b-y	-la,	4r	.
-.	.	4.f	<tol-	.	.	.	.	4.dd	<tol-
+.	.	4.f	<Tol-	.	.	.	.	4.dd	<Tol-
 .	.	.	.	8c	-to-	.	.	.	.
 1r	.	.	.	4B-y	-lo	4r	.	.	.
 .	.	8g	-to	.	.	.	.	8ee	-to
-.	.	4a	lo	4A	di	4.cc	tol-	4ff	lo
+.	.	4a	lo	4A	di	4.cc	Tol-	4ff	lo
 .	.	4g	scet-	2c	bel-	.	.	4ee	sce-
 .	.	.	.	.	.	8cc	-to	.	.
 .	.	4e	-ro e	.	.	4g	lo	4cc	-tro e
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 4r	.	4.f	ti-	4B-y	-la,	2b-y	sce-	4.dd	ti-
-4.B-y	<tol-	.	.	4.d	<tol-	.	.	.	.
+4.B-y	<Tol-	.	.	4.d	<Tol-	.	.	.	.
 .	.	8e	-to-	.	.	.	.	8cc	-to-
 .	.	2d	-lo	.	.	2f	-ro	4b-y	-lo
 8c	-to	.	.	8e	-to	.	.	.	.
@@ -271,10 +269,10 @@
 .	.	.	.	2d	.	.	.	.	.
 4Bni	.	.	.	.	.	.	.	.	.
 2c	-glio,	2e	-glio,	1c	-glio,	2r	.	2r	.
-2F	<spie-	2c	<spie-	.	.	2f	Spie-	2a	Spie-
+2F	<Spie-	2c	<Spie-	.	.	2f	Spie-	2a	Spie-
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
 4F	-ga	4c	-ga	4r	.	4f	-ga	4a	-ga
-4c	sua	4c	sua	4c	<spie-	4e	sua	4g	sua
+4c	sua	4c	sua	4c	<Spie-	4e	sua	4g	sua
 4A	squa-	4c	squa-	4F	-ga	4f	squa-	4a	squa-
 4G	-dra in	4d	-dra in	4B-y	sua	4g	-dra in	4b-y	-dra in
 4F	cam-	4f	cam-	2.A	squa-	4.a	cam-	4.cc	cam-
@@ -425,14 +423,14 @@
 .	.	.	.	2g	-go-	.	.	2dd	-go-
 .	.	.	.	.	.	4b-y	.	.	.
 .	.	2r	.	[1c	-re,	2cc	-re,	1ee	-re,
-.	.	2e	so-	.	.	2g	so-	.	.
+.	.	2e	So-	.	.	2g	so-	.	.
 =43	=43	=43	=43	=43	=43	=43	=43	=43	=43
 1r	.	4e	-no i	1c]	.	4g	-no i	1r	.
 .	.	4f	guer-	.	.	4a	guer-	.	.
 .	.	4e	-rie-	.	.	4g	-rie-	.	.
 .	.	4a	-ri	.	.	4f	-ri	.	.
 2r	.	1g	suoi	2r	.	2e	suoi,	2r	.
-2c	<So-	.	.	2g	<so-	2cc	<so-	2ee	so-
+2c	<So-	.	.	2g	<So-	2cc	<So-	2ee	So-
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44
 4c	-no i	1r	.	4g	-no i	4cc	-no i	4ee	-no i
 4F	guer-	.	.	4a	guer-	4cc	guer-	4ff	guer-
@@ -508,7 +506,7 @@
 .	.	8d	-da	8f	-to	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51
 4.c	quan-	4c	più	4.e	sfi-	4r	.	0r	.
-.	.	2e	tan-	.	.	4g	che	.	.
+.	.	2e	tan-	.	.	4g	Che	.	.
 8B-y	-to	.	.	8d	-da	.	.	.	.
 4.A	sfi-	.	.	2.c	più	4.cc	quan-	.	.
 .	.	4.f	-to	.	.	.	.	.	.
@@ -522,18 +520,18 @@
 =52	=52	=52	=52	=52	=52	=52	=52	=52	=52
 4F	-to	2f	pia-	8dL	pia-	4a	-to	4r	.
 .	.	.	.	8cJ	.	.	.	.	.
-4F	più	.	.	2c	.	4a	più	4cc	<che
+4F	più	.	.	2c	.	4a	più	4cc	<Che
 2G	pia-	4d	-ce,	.	.	2g	pia-	4.gg	quan-
-.	.	4d	che	4B-y	.	.	.	.	.
+.	.	4d	Che	4B-y	.	.	.	.	.
 .	.	.	.	.	.	.	.	8ff	-to
 2C	-ce,	4.g	quan-	4c	-ce,	4g	-ce,	4.ee	sfi-
-.	.	.	.	4G	che	2g	<che	.	.
+.	.	.	.	4G	Che	2g	<Che	.	.
 .	.	8f	-to	.	.	.	.	8dd	-da
 4r	.	4.e	sfi-	4.c	quan-	.	.	2cc	più,
-4C	che	.	.	.	.	[4cc	quan-	.	.
+4C	Che	.	.	.	.	[4cc	quan-	.	.
 .	.	8d	-da	8B-y	-to	.	.	.	.
 =53	=53	=53	=53	=53	=53	=53	=53	=53	=53
-4.F	quan-	4c	più,	4.A	sfi-	8ccL]	.	4cc	che
+4.F	quan-	4c	più,	4.A	sfi-	8ccL]	.	4cc	Che
 .	.	.	.	.	.	8b-yJ	-to	.	.
 .	.	4c	<che	.	.	4.a	sfi-	4.ff	quan-
 8E	-to	.	.	8G	-da	.	.	.	.
@@ -566,7 +564,7 @@
 =56	=56	=56	=56	=56	=56	=56	=56	=56	=56
 2r	.	2c	-tro,	2F	-ro,	2f	-tro,	1a	-tro,
 2F	I	4r	.	4r	.	4r	.	.	.
-.	.	4f	<i	4c	<i	4a	<i	.	.
+.	.	4f	<I	4c	<I	4a	<I	.	.
 2.B-y	vin-	2.f	vin-	2.d	vin-	2.b-y	vin-	1r	.
 4F	-ti un	4f	-ti un	4c	-ti un	4a	-ti un	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57
@@ -616,16 +614,16 @@
 4C	-tro	2g	-vi-	2c	vi-	4e	-tro	2r	.
 4C	d'in-	.	.	.	.	4e	d'in-	.	.
 2F	-vi-	4f	-dia,	2c	-dia,	4.a	-vi-	2cc	L'al-
-.	.	4f	<l'al-	.	.	.	.	.	.
+.	.	4f	<L'al-	.	.	.	.	.	.
 .	.	.	.	.	.	8g	.	.	.
-2F	-dia,	4f	-tro	2c	<l'al-	2f	.	4a	-tro
+2F	-dia,	4f	-tro	2c	<L'al-	2f	.	4a	-tro
 .	.	4a	d'in-	.	.	.	.	4a	d'in-
-2F	<l'al-	4.a	-vi-	4A	-tro	2f	-dia,	4.dd	-vi-
+2F	<L'al-	4.a	-vi-	4A	-tro	2f	-dia,	4.dd	-vi-
 .	.	.	.	4A	d'in-	.	.	.	.
 .	.	8g	.	.	.	.	.	8cc	.
 =63	=63	=63	=63	=63	=63	=63	=63	=63	=63
 4D	-tro	2f	.	4.d	-vi-	4r	.	4b-y	.
-4D	d'in-	.	.	.	.	4d	<l'al-	2a	.
+4D	d'in-	.	.	.	.	4d	<L'al-	2a	.
 .	.	.	.	8c	.	.	.	.	.
 2G	-vi-	2d	-dia:>	2B-y	.	4d	-tro	.	.
 .	.	.	.	.	.	4B-y	d'in-	4g	.
@@ -732,12 +730,13 @@
 1Fl	-se?	.	.	1cl	-se?	.	.	1al	-se?
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!YEM:	Giaches de Wert, "Tolse Barbara gente il pregio a Roma," 1577 (Trm 0541a; 6 Jun 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
-!!!END: 2018/06/06
+!!!END: 2018
 !!!EED: Ricciardi, Emiliano
-!!!EEV: 2018/07/09
+!!!EEV: 2018/10/28
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2018/07/09 and edited by Craig Stuart Sapp
+!!!ONB: Translated from MusicXML on 2018/10/28 and edited by Craig Stuart Sapp

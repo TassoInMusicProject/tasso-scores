@@ -1,0 +1,241 @@
+!!!COM: Bellasio, Paolo
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: Heir of G. Scotto
+!!!PDT: 1578
+!!!RISM: B 1713
+!!!rime: 560
+!!!OTL:	Mentre mia stella miri (i.e. Tarquinia se rimiri, Rime 560)
+!!!AGN: Madrigal
+!!!SCT: Trm0560b
+!!!SCA: Trm0560b
+!!!voices: 5
+**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Quinto	*	*I"Alto	*	*I"Canto	*
+*I'B	*	*I'T	*	*I'Q	*	*I'A	*	*I'C	*
+*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+1c	Men-	1e	Men-	1g	Men-	1cc	Men-	1ee	Men-
+2C	-tre,	2e	-tre,	2g	-tre,	2cc	-tre,	2ee	-tre,
+2C	mia	2e	mia	2g	mia	2cc	mia	2ee	mia
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1.E	stel-	1.e	stel-	1.g#X	stel-	1.b	stel-	1.ee	stel-
+2A	-la,	2e	-la,	2a	-la,	2cc	-la,	2ee	-la,
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1D	mi-	1d	mi-	1a	mi-	1dd	mi-	1ff	mi-
+1A	-ri	1e	-ri	1a	-ri	1cc#X	-ri	1ee	-ri
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4r	.	0r	.	4r	.	4r	.	4r	.
+4c	I	.	.	4g	I	4cc	I	4ee	I
+4.c	bei	.	.	4.g	bei	4.cc	bei	4.ee	bei
+8B	ce-	.	.	8g	ce-	8dd	ce-	8dd	ce-
+4A	-le-	.	.	4a	-le-	4cc	-le-	4ff	-le-
+4c	-sti	.	.	4g	-sti	4cc	-sti	4ee	-sti
+2G	gi-	.	.	2g	gi-	2b	gi-	2dd	gi-
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1c	-ri,	2r	.	2g	-ri,	2cc	-ri,	2ee	-ri,
+.	.	2c	Il	2g	Il	4r	.	4r	.
+.	.	.	.	.	.	4cc	Il	4ee	Il
+1r	.	4g	ciel	4g	ciel	4b	ciel	4dd	ciel
+.	.	4.e	es-	4.g#X	es-	4.b	es-	4.ee	es-
+.	.	8e	-ser	8g#X	-ser	8b	-ser	8ee	-ser
+.	.	4a	vor-	4a	vor-	4cc	vor-	4ee	vor-
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1r	.	2e	-re-	2g#X	-re-	2b	-re-	2ee	-re-
+.	.	2A	-i,	2a	-i,	2a	-i,	2cc#X	-i,
+1c	Men-	1e	Men-	1gnXi	Men-	1cc	Men-	1ee	Men-
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+2F	-tre,	2c	-tre,	2a	-tre,	2cc	-tre,	2ff	-tre,
+2F	mia	2c	mia	2a	mia	2cc	mia	2ff	mia
+2.A	stel-	2c#X	stel-	2e	stel-	2a	stel-	2ee	stel-
+.	.	2c#X	-la	2e	-la	2a	-la,	2ee	-la,
+4A	-la,	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1E	mi-	1e	mi-	1g#X	mi-	1b	mi-	1ee	mi-
+1A	-ri	1e	-ri	1a	-ri,	1a	-ri	1cc#X	-ri
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+0r	.	4r	.	0r	.	4r	.	4r	.
+.	.	4G	I	.	.	4b	I	4dd	I
+.	.	4.g	bei	.	.	4.b	bei	4.dd	bei
+.	.	8f	ce-	.	.	8a	ce-	8dd	ce-
+.	.	4e	-le-	.	.	4g	-le-	4cc	-le-
+.	.	4g	-sti	.	.	4g	-sti	4b	-sti
+.	.	2d	gi-	.	.	2f#X	gi-	2a	gi-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2r	.	2G	-ri,	2r	.	1g	-ri,	2b	-ri,
+2G	Il	4r	.	2b	Il	.	.	4r	.
+.	.	4g	Il	.	.	.	.	4dd	Il
+4d	ciel	4f#X	ciel	4a	ciel	1r	.	4dd	ciel
+4.B	es-	4.f#X	es-	4.b	es-	.	.	4.dd#X	es-
+8B	-ser	8f#i	-ser	8b	-ser	.	.	8dd#i	-ser
+4e	vor-	4g	vor-	4b	vor-	.	.	4ee	vor-
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2B	-rei-	2f#X	-re-	2b	-re-	2r	.	2dd#X	-re-
+2E	-i;	2g	-i;	4b	-i;	4r	.	2ee	-i;
+.	.	.	.	4g	Ac-	4b	Ac-	.	.
+1r	.	2r	.	4.e	-ciò	4.g	-ciò	1r	.
+.	.	.	.	8f	tu	8a	tu	.	.
+.	.	4r	.	4g	ri-	4b	ri-	.	.
+.	.	4e	Ac-	4g	-vol-	4b	-vol-	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2r	.	4.c	-ciò	2a	-ges-	2cc	-ges-	2r	.
+.	.	8d	tu	.	.	.	.	.	.
+4r	.	4e	ri-	2g	-si,	4b	-si,	4r	.
+4c	Ac-	4e	-vol-	.	.	4g	tu	4ee	Ac-
+4.A	-ciò	2f	-ges-	2r	.	4a	ri-	4.cc	-ciò
+.	.	.	.	.	.	4a	-vol-	.	.
+8B	tu	.	.	.	.	.	.	8dd	tu
+4c	ri-	4e	-si,	4r	.	2g	-gesi-	4ee	ri-
+4c	-vol-	4g	<Ac-	4cc	<Ac-	.	.	4ee	-vol-
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2d	-ges-	4.f	-ciò	4.a	-ciò	2dd	-si,	2ff	-ges-
+.	.	8g	tu	8b	tu	.	.	.	.
+2c	-si,	4a	ri-	4cc	ri-	2r	.	2ee	-si,
+.	.	4g	-vol-	4cc	-vol-	.	.	.	.
+4r	.	2f	-ges-	2cc	-ges-	2a	Ac-	2r	.
+4F	<Ac-	.	.	.	.	.	.	.	.
+4.A	-ciò	2e	-si,>	2a	-si,>	4.cc	-ciò	4r	.
+.	.	.	.	.	.	.	.	4a	<Ac-
+8G	tu	.	.	.	.	8b	tu	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+4F	ri-	4r	.	2r	.	4a	ri-	2.cc	-ciò
+4A	-vol-	4c	Ac-	.	.	4e	-vol-	.	.
+2G	-ges-	4.d	-ciò	4r	.	2g	-ges-	.	.
+.	.	.	.	4g	tu	.	.	4b	tu
+.	.	8e	tu	.	.	.	.	.	.
+2F	-si>	4f	ri-	4a	ri-	2c	-si	4a	ri-
+.	.	4f	-vol-	2a	-vol-	.	.	4cc	-vol-
+2r	.	4d	-ges-	.	.	2r	.	2b	-ges-
+.	.	4e	.	4g#X	-ges-	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4r	.	2A	-si	4a	-si	4r	.	4a	-si>
+4.A	Spes-	.	.	4.e	Spes-	4.a	Spes-	4.cc	Spes-
+.	.	2r	.	.	.	.	.	.	.
+8A	-so	.	.	8e	-so	8a	-so	8cc	-so
+4A	ne'	.	.	4e	ne'	4a	ne'	4cc	ne'
+4G	lu-	1r	.	4gnXi	lu-	4b	lu-	4dd	lu-
+4E	-mi	.	.	4g	-mi-	4b	-mi	4ee	-mi
+2B	miei	.	.	2f#X	-miei	2b	miei	2dd#X	miei
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+4E	Le	4r	.	4g#X	Le	4b	Le	4ee	Le
+4E	tue	4e	Le	4g#i	tue	4b	tue	4ee	tue
+4E	ar-	4e	tue ar-	4g#X	ar-	4b	ar-	4ee	ar-
+4.E	-den-	4.e	-den-	4.g#i	-den-	4.b	-den-	4.ee	-den-
+8E	-ti	8e	-ti	8g#i	-ti	8b	-ti	8ee	-ti
+4D	fa-	4A	fa-	4a	fa-	4dd	fa-	4ff	fa-
+2E	-vil-	2e	-vil-	2g#X	-vil-	2b	-vil-	2ee	-vil-
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2.A	-le,	2e	-le,	1a	-le,	1a	-le,	1cc#X	-le,
+.	.	2e	Io	.	.	.	.	.	.
+4A	Io	.	.	.	.	.	.	.	.
+4.G#X	va-	4.e	va-	2r	.	2b	Io	4r	.
+.	.	.	.	.	.	.	.	4ee	Io
+8G#i	-gheg-	8e	-gheg-	.	.	.	.	.	.
+4A	-giar	4e	-giar	2a	Io	4cc#i	va-	4cc#X	va-
+4D	po-	4f	po-	.	.	4a	-gheg-	4dd	-gheg-
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2E	-tes-	2e	-tes-	4.g#X	va-	4.ee	-giar	4.b	-giar
+.	.	.	.	8g#i	-gheg-	8ee	po-	8b	po-
+2A	-si,	2e	-si,	4a	-giar	2cc#X	-tes-	2a	-tes-
+.	.	.	.	4e	po-	.	.	.	.
+1r	.	2d	<Io	2f	-tes-	4dd	-si,	4a	-si,
+.	.	.	.	.	.	4a	<Io	4dd	<Io
+.	.	4.c#X	va-	2e	-si,	4.a	va-	4.ee	va-
+.	.	8c#i	-gheg-	.	.	8a	-gheg-	8ee	-gheg-
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1r	.	4d	-giar	4r	.	4a	-giar	4ff	-giar
+.	.	4f	po-	4a	Io	4a	po-	4dd	po-
+.	.	2e	-tes-	4.g#X	va-	2b	-tes-	2ee	-tes-
+.	.	.	.	8g#i	-gheg-	.	.	.	.
+4r	.	2A	-si,>	4a	-giar,	4cc	-si,>	1ee	-si,>
+4A	Io	.	.	4e	<Io	4cc	Io	.	.
+4.G#X	va-	4r	.	4.e	va-	4.b	va-	.	.
+.	.	4B	Io	.	.	.	.	.	.
+8G#i	-gheg-	.	.	8e	-gheg-	8b	-gheg-	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+4A	-giar	4c	va-	4e	-giar>	4a	-giar	2r	.
+4F	po-	4d	-gheg-	4A	po-	4a	po-	.	.
+2E	-tes-	2.e	-giar	2B	-tes-	2g#X	-tes-	4r	.
+.	.	.	.	.	.	.	.	4b	Io
+4A	-si,	.	.	2.A	-si,	4a	-si,	4cc	va-
+4D	Io	4f	po-	.	.	4a	<Io	4dd	-gheg-
+4.C#X	va-	2e	-tes-	.	.	4.a	va-	4ee	-giar
+.	.	.	.	4e	Io	.	.	4ee	po-
+8C#i	-gheg-	.	.	.	.	8a	-gheg-	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+4D	-giar	2A	-si	4f	va-	4a	-giar	8ddL	-tes-
+.	.	.	.	.	.	.	.	8cc	.
+4F	po-	.	.	4d	-gheg-	4a	po-	8b	.
+.	.	.	.	.	.	.	.	8aJ	.
+2E	-tes-	2r	.	4.e	-giar	2g#X	-tes-	2b	.
+.	.	.	.	8e	po-	.	.	.	.
+1A	-si	4r	.	2e	-tes-	4a	-si	4a	-si
+.	.	4.c	Mil-	.	.	4.cc	Mil-	4.ee	Mil-
+.	.	.	.	2e	-si	.	.	.	.
+.	.	8c	-le	.	.	8cc	-le	8ee	-le
+.	.	4c	bel-	.	.	4cc	bel-	4ee	bel-
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+0r	.	4d	-lez-	0r	.	4b	-lez-	4.dd	-lez-
+.	.	4d	-ze	.	.	4a	-ze	.	.
+.	.	.	.	.	.	.	.	8cc	-ze
+.	.	4e	tue	.	.	4g	tue	4b	tue
+.	.	4c	con	.	.	4cc	con	4ee	con
+.	.	4d	oc-	.	.	8bL	oc-	4.dd	oc-
+.	.	.	.	.	.	8aJ	-chi	.	.
+.	.	4d	-chi	.	.	4.a	mil-	.	.
+.	.	.	.	.	.	.	.	8cc	-chi
+.	.	2e	mil-	.	.	.	.	2b	mil-
+.	.	.	.	.	.	16g#iLL	.	.	.
+.	.	.	.	.	.	16f#iJJ	.	.	.
+.	.	.	.	.	.	4g#X	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+4r	.	1A	-le,	4r	.	4a	-le,	4a	-le,
+4.A	Mil-	.	.	4.e	Mil-	4.a	Mil-	4.cc	<Mil-
+8A	-le	.	.	8e	-le	8a	-le	8cc	-le
+4A	bel-	.	.	4e	bel-	4a	bel-	4cc	bel-
+4G	-lez-	1r	.	4e	-lez-	4b	-lez-	4dd	-lez-
+4F	-ze	.	.	4f	-ze	4a	-ze	4dd	-ze
+4E	tue	.	.	4g	tue	4b	tue	4ee	tue
+4A	con	.	.	4e	con	4cc	con	4cc	con
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+4G	oc-	1r	.	4g	oc-	4b	oc-	4dd	oc-
+4D	-chi	.	.	4f	-chi	4a	-chi	4dd	-chi
+4A	mil-	.	.	2e	mil-	2a	mil-	2cc#X	mil-
+4A	-le,	.	.	.	.	.	.	.	.
+4r	.	4r	.	4d	-le,	4a	-le,	4dd	-le,>
+4.F	Mil-	4.c	Mil-	4.a	Mil-	4.cc	<Mil-	4.ff	Mil-
+8F	-le	8c	-le	8a	-le	8cc	-le	8ff	-le
+4F	bel-	4c	bel-	4a	bel-	4cc	bel-	4ff	bel-
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+4G	-lez-	4G	-lez-	4.g	-lez-	4cc	-lez-	4ee	-lez-
+4G	-ze	4d	-ze	.	.	4b	-ze	4dd	-ze
+.	.	.	.	8f	-ze	.	.	.	.
+4A	tue	4A	tue	4e	tue	4a	tue	4cc	tue
+4F	con	4c	con	4a	con	4cc	con	4ff	con
+4G	oc-	4G	oc-	4.g	oc-	4cc	oc-	8eeL	oc-
+.	.	.	.	.	.	.	.	8ddJ	-chi
+4G	-chi	4d	-chi	.	.	4b-X	-chi	4.dd	mil-
+.	.	.	.	8f	-chi	.	.	.	.
+2A	mil-	2A	mil-	2e	mil-	2a	mil-	.	.
+.	.	.	.	.	.	.	.	16cc#iLL	.
+.	.	.	.	.	.	.	.	16bJJ	.
+.	.	.	.	.	.	.	.	4cc#i	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+0Dl	-le.	0dl	-le.	0f#Xl	-le.	0al	-le.>	0ddl	-le.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!YEM:	Paolo Bellasio, "Mentre mia stella miri" 1578 (Trm 0560b; 9 Oct 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2018
+!!!EED: Donnelly, Daniel
+!!!EEV: 2018/10/28
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/10/28 and edited by Craig Stuart Sapp

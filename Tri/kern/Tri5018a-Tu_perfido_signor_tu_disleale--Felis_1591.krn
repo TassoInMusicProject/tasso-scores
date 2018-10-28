@@ -1,15 +1,15 @@
-!!!COM: Felis, Stefano
+!!!COM:
 !!!CDT:
-!!!PTL: l sesto libro de madrigali a cinque voci, con alcuni a sei, et un dialogo a sette nel fine. Novamente composti et dati in luce. Di Stefano Felis
-!!!PPP: Venice
+!!!PTL:
+!!!PPP:
 !!!PPR:
-!!!PDT: 1591
-!!!RISM: F 213
+!!!PDT:
+!!!RISM:
 !!!rime:
 !!!OTL:	Tu perfido Signor, tu disleale (Rinaldo V/18)
 !!!AGN: Madrigal
-!!!SCT: Tri5018a
-!!!SCA: Tri5018a
+!!!SCT:
+!!!SCA:
 !!!voices:
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
@@ -266,7 +266,7 @@
 .	.	4e	-mor	2cc	-mor	4g	al-	2ee	-mor
 .	.	4f	da	.	.	4a	-tri A-	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-1r	.	2g	spe-	2b	da	4bnX	-mor	2dd	da
+1r	.	2g	spe-	2b	da	4b	-mor	2dd	da
 .	.	.	.	.	.	4g	da	.	.
 .	.	2d	-me	4.dd	spe-	4a	spe-	4.ff	spe-
 .	.	.	.	.	.	2b	-me	.	.
@@ -312,13 +312,13 @@
 0Al	-sce!	0Al	-sce!	0al	-sce!	0el	-sce!	0cc#Xl	-sce!
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
 !!!YEM:	Stefano Felis, "Tu perfido Signor, tu disleale," 1591 (Tri 5018a; 13 Sep 2017) Tasso in Music Project (http://www.tassomusic.org) Copyright 2017 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END:
 !!!EED: Emiliano Ricciardi
-!!!EEV: 2018/09/25
+!!!EEV: 2018/10/28
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2018/09/25
+!!!ONB: Translated from MusicXML on 2018/10/28

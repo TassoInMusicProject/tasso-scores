@@ -15,33 +15,32 @@
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Tenore	*	*I"Quinto	*	*I"Alto	*	*I"Canto	*
-*I'B	*	*I'T	*	*I'V	*	*I'A	*	*I'C	*
-*oclefF3	*	*oclefC3	*	*oclefC3	*	*oclefC2	*	*oclefG2	*
+*I'B	*	*I'T	*	*I'Q	*	*I'A	*	*I'C	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
-*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
-*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-0r	.	3%4A	Ne-	3%4a	Ne-	3%4cc	Ne-	3%4ee	Ne-
-.	.	3%2B	-gro e-	3%2d	-gro e-	[3%2g	-gro e-	3%2dd	-gro e-
+1%3r	.	0A	Ne-	0a	Ne-	0cc	Ne-	0ee	Ne-
+.	.	1B	-gro e-	1d	-gro e-	[1g	-gro e-	1dd	-gro e-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-0r	.	3%2c	-ra in-	3%2e	-ra in-	3g]	.	3%2cc	-ra in-
-.	.	.	.	.	.	3e	-ra in-	.	.
-.	.	3%4G	-tor-	3%4g	-tor-	3%4d	-tor-	3%4b	-tor-
+1%3r	.	1c	-ra in-	1e	-ra in-	2g]	.	1cc	-ra in-
+.	.	.	.	.	.	2e	-ra in-	.	.
+.	.	0G	-tor-	0g	-tor-	0d	-tor-	0b	-tor-
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-0r	.	3%2c	-no,	3%4g	-no,	3%4e	-no,	3%4cc	-no,
-.	.	3%2e	<ne-	.	.	.	.	.	.
-.	.	3%2d	-gro e-	3%2r	.	3%2r	.	3%2r	.
+1%3r	.	1c	-no,	0g	-no,	0e	-no,	0cc	-no,
+.	.	1e	<Ne-	.	.	.	.	.	.
+.	.	1d	-gro e-	1r	.	1r	.	1r	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-3%4A	Ne-	3%2c	-ra in-	3%4e	<ne-	3%4a	<ne-	3%4cc	<ne-
-.	.	3%4A	-tor-	.	.	.	.	.	.
-3%2D	-gro e-	.	.	3%2d	-gro e-	3%2f#X	-gro e-	3%2a	-gro e-
+0A	Ne-	1c	-ra in-	0e	<Ne-	0a	<Ne-	0cc	<Ne-
+.	.	0A	-tor-	.	.	.	.	.	.
+1D	-gro e-	.	.	1d	-gro e-	1f#X	-gro e-	1a	-gro e-
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-3%2E	-ra in-	3%4G	-no>	3%2c	-ra in-	3%2g	-ra in-	3%2ee	-ra in-
-3%4G	-tor-	.	.	3%4B	-tor-	3%4g	-tor-	3%4dd	-tor-
-.	.	3%2r	.	.	.	.	.	.	.
+1E	-ra in-	0G	-no	1c	-ra in-	1g	-ra in-	1ee	-ra in-
+0G	-tor-	.	.	0B	-tor-	0g	-tor-	0dd	-tor-
+.	.	1r	.	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-2C	-e	2g	e	2c	-no> e	2e	-no> e	1cc	-no> e
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+2C	-no e	2g	e	2c	-no> e	2e	-no> e	1cc	-no> e
 1F	bian-	1c	bian-	1A	bian-	1a	bian-	.	.
 .	.	.	.	.	.	.	.	2ff	bian-
 2D	-che	2d	-che	2A	-che	2a	-che	2ff	-che
@@ -189,7 +188,7 @@
 2A	Sem-	.	.	2e	Sem-	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 4B-X	-brar	1r	.	4d	-brar	4r	.	4r	.
-4.A	per-	.	.	4.c	per-	4e	sem-	4cc	ad
+4.A	per-	.	.	4.c	per-	4e	Sem-	4cc	ad
 .	.	.	.	.	.	4f	-brar	4cc	ar-
 8A	-le	.	.	8c	-le	.	.	.	.
 4A	su	.	.	4c	su	4.e	per-	4a	-te
@@ -302,7 +301,7 @@
 .	.	.	.	2d	d'Al-	2f	d'Al-	2a	d'Al-
 .	.	.	.	2A	-pe o	2e	-pe o	2cc	-pe o
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41
-0r	.	0r	.	4e	d'Ap-	4gnXi	d'Ap-	4b	d'Ap-
+0r	.	0r	.	4e	d'Ap-	4g	d'Ap-	4b	d'Ap-
 .	.	.	.	4f#X	-pen-	4a	-pen-	4dd	-pen-
 .	.	.	.	2g	-ni-	2b	-ni-	2dd	-ni-
 .	.	.	.	4e	-no	4cc	-no	2ee	-no
@@ -311,7 +310,7 @@
 =42	=42	=42	=42	=42	=42	=42	=42	=42	=42
 1r	.	1.f	Deh!	2d	-ne,	2a]	.	2dd	-vie-
 .	.	.	.	2r	.	2d	-ne	2a	-ne
-1A	Deh!	.	.	1c	<deh!	1r	.	1r	.
+1A	Deh!	.	.	1c	<Deh!	1r	.	1r	.
 .	.	[2e	quan-	.	.	.	.	.	.
 =43	=43	=43	=43	=43	=43	=43	=43	=43	=43
 2.G#X	quan-	4e]	.	2.B	quan-	0r	.	0r	.
@@ -323,8 +322,8 @@
 2F	d'Al-	2d	d'Al-	2A	d'Al-	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44
 2E	-pe o	2e	-pe o	2c	-pe o	0r	.	0r	.
-4GnXi	d'Ap-	4e	d'Ap-	4B	d'Ap-	.	.	.	.
-4A	-pen-	4f#X	-pen-	4c	-pen-	.	.	.	.
+4G	d'Ap-	4e	d'Ap-	4B	d'Ap-	.	.	.	.
+4A	-pen-	4f#X	-pen-	4c#i	-pen-	.	.	.	.
 2B	-ni-	1g	-ni-	2d	-ni-	.	.	.	.
 4c	-no	.	.	4e	-no	.	.	.	.
 4G	A-	.	.	4d	A-	.	.	.	.
@@ -358,7 +357,7 @@
 1E	-so,	1e	-so,	2c	ca-	2a]	.	1r	.
 .	.	.	.	2B	-so,	2g	-ro	.	.
 2r	.	1a	o	1r	.	1f	ca-	2r	.
-2D	o	.	.	.	.	.	.	[2dd	O
+2D	o	.	.	.	.	.	.	[2dd	o
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51
 2E	cui	2g	cui	1r	.	1e	-so,	2dd]	.
 2E	sì	2g	sì	.	.	.	.	1cc	cui
@@ -509,7 +508,7 @@
 1F	Las-	2.A	Las-	2e]	.	2r	.	1r	.
 .	.	.	.	2d	-so,	1a	Las-	.	.
 .	.	4B	.	.	.	.	.	.	.
-1E	-so,	2cnXi	.	2r	.	.	.	1ee	Las-
+1E	-so,	2c	.	2r	.	.	.	1ee	Las-
 .	.	2B	-so,	4e	io	2g	-so,	.	.
 .	.	.	.	4f	ri-	.	.	.	.
 =72	=72	=72	=72	=72	=72	=72	=72	=72	=72
@@ -594,7 +593,7 @@
 =82	=82	=82	=82	=82	=82	=82	=82	=82	=82
 2F	ne-	1r	.	2d	ne-	2a	ne-	1r	.
 2F	-ve	.	.	2c	-ve il	2a	-ve	.	.
-1r	.	2.A	<men-	2.c	tur-	4r	.	2.ee	Men-
+1r	.	2.A	<Men-	2.c	tur-	4r	.	2.ee	Men-
 .	.	.	.	.	.	4a	il	.	.
 .	.	.	.	.	.	4a	tur-	.	.
 .	.	4B	-tre	4g	-bo	4d	-bo	4dd	-tre
@@ -618,13 +617,13 @@
 0Al	-sce.	0Al	-sce.	0el	-sce.>	0al	-sce.	0cc#Xl	-sce.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
 !!!YEM:	Leonardo Meldert, "Negro era intorno e 'n bianche falde il cielo," 1578 (Trm 0237a; 20 Aug 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END: 2018
 !!!EED: Donnelly, Daniel
-!!!EEV: 2018/09/18
+!!!EEV: 2018/10/28
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2018/09/18 and edited by Craig Stuart Sapp
+!!!ONB: Translated from MusicXML on 2018/10/28 and edited by Craig Stuart Sapp

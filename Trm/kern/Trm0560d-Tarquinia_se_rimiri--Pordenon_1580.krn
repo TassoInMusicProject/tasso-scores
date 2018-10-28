@@ -1,0 +1,231 @@
+!!!COM: Pordenon, Marco Antonio
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a quattro voci
+!!!PPP: Venice
+!!!PPR: Angelo Gardano
+!!!PDT: 1580
+!!!RISM: P 5106
+!!!rime: 560
+!!!OTL:	Mentre mia stella miri (i.e., Tarquinia se rimiri, Rime 560)
+!!!AGN: Madrigal
+!!!SCT: Trm0560d
+!!!SCA: Trm0560d
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Alto	*	*I"Canto	*
+*I'B	*	*I'A	*	*I'C	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M2/1	*	*M2/1	*	*M2/1	*
+=1	=1	=1	=1	=1	=1
+0r	.	1e	Men-	2r	.
+.	.	.	.	2b	Men-
+.	.	2d	-tre,	2.dd	-tre,
+.	.	2g	mia	.	.
+.	.	.	.	4b	mia
+=2	=2	=2	=2	=2	=2
+1r	.	4f#X	stel-	4a	stel-
+.	.	4g	-la,	4dd	-la,
+.	.	2a	mi-	2cc	mi-
+1E	Men-	2g#X	-ri,	2b	-ri,
+.	.	2e	Men-	2g#X	Men-
+=3	=3	=3	=3	=3	=3
+2D	-tre,	2f#X	-tre,	2a	-tre,
+2G	mia	2g	mia	4b	mia
+.	.	.	.	2dd	stel-
+4F#X	stel-	4a	stel-	.	.
+4G	-la,	4g	-la	4b	-la
+2A	mi-	2e	mi-	[2a	mi-
+=4	=4	=4	=4	=4	=4
+1E	-ri	0e	-ri,	2a]	.
+.	.	.	.	2g#X	-ri,
+2A	I	.	.	1r	.
+4A	bei	.	.	.	.
+4G	ce-	.	.	.	.
+=5	=5	=5	=5	=5	=5
+4.F	-le-	4r	.	2r	.
+.	.	2a	I	.	.
+8G	.	.	.	.	.
+4A	.	.	.	2ee	I
+4c	-sti	2g	bei	.	.
+2B-X	gi-	.	.	4dd	bei
+.	.	4f	ce-	4dd	ce-
+2A	-ri,	4a	-le-	4.cc	-le-
+.	.	[4e	-sti	.	.
+.	.	.	.	8dd	.
+=6	=6	=6	=6	=6	=6
+1r	.	4e]	.	4ee	.
+.	.	2a	gi-	4cc	-sti
+.	.	.	.	2b	gi-
+.	.	4g	-ri,	.	.
+2A	I	2e	I	4a	-ri,
+.	.	.	.	4cc	I
+4G	bei	4g	bei	4b	bei
+4G	ce-	4d	ce-	4b	ce-
+=7	=7	=7	=7	=7	=7
+4.F	-le-	4f	-le-	4a	-le-
+.	.	4f	-sti	2cc	-sti
+8G	.	.	.	.	.
+4A	.	4e	gi-	.	.
+4F	-sti	4d	.	2a	gi-
+1E	gi-	1e	.	.	.
+.	.	.	.	8g#iL	.
+.	.	.	.	8f#iJ	.
+.	.	.	.	2g#i	.
+=8	=8	=8	=8	=8	=8
+2AA	-ri,	2c#X	-ri,	2a	-ri,
+2A	Il	2e	Il	4r	.
+.	.	.	.	4a	Il
+4F	cie-	4d	cie-	4a	cie-
+4E	-lo es-	4e	-lo es-	4g	-lo es-
+4D	-ser	4f	-ser	4a	-ser
+4F	vor-	4a	vor-	4a	vor-
+=9	=9	=9	=9	=9	=9
+2C	-re-	2g	-re-	2cc	-re-
+2G	-i,	2g	-i,	2b	-i,
+2r	.	2r	.	2r	.
+2A	Il	2e	Il	2a	Il
+=10	=10	=10	=10	=10	=10
+4F	cie-	4d	cie-	4a	cie-
+4E	-lo es-	4e	-lo es-	4g	-lo es-
+4D	-ser	4f	-ser	4a	-ser
+4F	vor-	4a	vor-	4a	vor-
+2C	-re-	2g	-re-	2cc	-re-
+4G	-i;	2g	-i;	2b	-i;
+4G	Per-	.	.	.	.
+=11	=11	=11	=11	=11	=11
+4A	-ché	4r	.	1r	.
+4E	tu	4g	Per-	.	.
+4F	ri-	4a	-ché,	.	.
+4A	-vol-	4e	per-	.	.
+2G#X	-ges-	2.e	-ché	2b	Per-
+4A	-si,	.	.	2cc	-ché,
+4A	Per-	[4c	tu	.	.
+=12	=12	=12	=12	=12	=12
+2F	-ché	4c]	.	2a	per-
+.	.	2d	ri-	.	.
+2G	tu	.	.	4b	-ché
+.	.	2B	-vol-	4b	tu
+2E	ri-	.	.	2g	ri-
+.	.	4c	-ges-	.	.
+2F	-vol-	4A	.	2a	-vol-
+.	.	[4c	.	.	.
+=13	=13	=13	=13	=13	=13
+2D	-ges-	8cL]	.	2dd	-ges-
+.	.	16BL	.	.	.
+.	.	16AJJ	.	.	.
+.	.	4B	.	.	.
+2C	-si	2c	-si	1g	-si
+1c	Fis-	1e	Fis-	.	.
+.	.	.	.	2g	Fis-
+=14	=14	=14	=14	=14	=14
+2A	-so	2e	-so	2a	-so
+2G	ne	2g	ne	2b	ne
+4A	gl'oc-	4e	gl'oc-	4cc	gl'oc-
+4A	-chi	4e	-chi	4a	-chi
+2E	mie-	2e	mie-	2g#X	mie-
+=15	=15	=15	=15	=15	=15
+1AA	-i	2c#X	-i	2a	-i
+.	.	2c#i	Le	2e	Le
+1r	.	2d	tue	2f#X	tue
+.	.	[2e	dol-	[2g	dol-
+=16	=16	=16	=16	=16	=16
+0r	.	4e]	.	4g]	.
+.	.	4e	-ci	4g	-ci
+.	.	2d	fa-	2f	fa-
+.	.	2c#X	-vil-	2e	-vil-
+.	.	2c#i	-le,	2e	-le,
+=17	=17	=17	=17	=17	=17
+2D	Io	1r	.	2f	Io
+4E	va-	.	.	4g	va-
+4F	-gheg-	.	.	4a	-gheg-
+4G	-giar,	4r	.	4d	-giar,
+4G	Io	4d	Io	4g	Io
+4E	va-	4e	va-	4g	vag-
+4D	-gheg-	4f	-gheg-	4a	-gheg-
+=18	=18	=18	=18	=18	=18
+4C	-giar	4g	-giar	4cc	-giar
+4G	po-	4g	po-	4b	po-
+2A	-tes-	2e	-tes-	2a	-tes-
+2D	-si	1f#X	-si	1a	-si
+2D	Mil-	.	.	.	.
+=19	=19	=19	=19	=19	=19
+4G	-le	2r	.	0r	.
+4E	bel-	.	.	.	.
+4F	-lez-	4r	.	.	.
+4F	-ze	4d	Mil-	.	.
+2E	tue	2g	-le	.	.
+2C	con	2e	bel-	.	.
+=20	=20	=20	=20	=20	=20
+4D	oc-	2f	-lez-	2a	Mil-
+4D	-chi	.	.	.	.
+2BB	mil-	2d	-ze	4dd	-le
+.	.	.	.	4b	bel-
+2AA	-le,	4c	tue	4cc	-lez-
+.	.	4e	con	4cc	-ze
+2E	con	4e	oc-	4b	tue
+.	.	4e	-chi	4b	con
+=21	=21	=21	=21	=21	=21
+4F	oc-	4.c	mil-	4a	oc-
+4F	-chi	.	.	4a	-chi
+.	.	8d	.	.	.
+2E	mil-	2e	.	2g	mil-
+2AA	-le,	2c#X	-le,	4a	-le,
+.	.	.	.	2a	Mil-
+2r	.	2d	Mil-	.	.
+.	.	.	.	4dd	-le
+=22	=22	=22	=22	=22	=22
+0r	.	4g	-le	4b	bel-
+.	.	4e	bel-	2cc	-lez-
+.	.	4f	-lez-	.	.
+.	.	4f	-ze	4a	-ze
+.	.	2e	tue	4b	tue
+.	.	.	.	4b	con
+.	.	2c	con	2cc	oc-
+=23	=23	=23	=23	=23	=23
+1r	.	4d	oc-	4a	-chi
+.	.	4d	-chi	2a	mil-
+.	.	2B	mil-	.	.
+.	.	.	.	4g#i	.
+2r	.	2A	-le,	2a	-le,
+2D	Mil-	2r	.	2r	.
+=24	=24	=24	=24	=24	=24
+4G	-le	2r	.	0r	.
+4E	bel-	.	.	.	.
+4F	-lez-	4r	.	.	.
+4F	-ze	4d	Mil-	.	.
+2E	tue	4g	-le	.	.
+.	.	4g	bel-	.	.
+2C	con	4e	-lez-	.	.
+.	.	4e	-ze	.	.
+=25	=25	=25	=25	=25	=25
+4D	oc-	2f	tue	2a	Mil-
+4D	-chi	.	.	.	.
+2BB	mil-	2d	con	4dd	-le
+.	.	.	.	4b	bel-
+2AA	-le,	4c	oc-	4cc	-lez-
+.	.	4e	-chi	4cc	-ze
+2E	con	2e	mil-	2b	tue
+=26	=26	=26	=26	=26	=26
+2.F	oc-	2c	-le,	2a	con
+.	.	2f	con	2.a	oc-
+4G	.	.	.	.	.
+4A	.	4e	oc-	.	.
+4E	-chi	4e	-chi	4g#X	-chi
+2AA	mil-	2e	mil-	2a	mil-
+=27	=27	=27	=27	=27	=27
+0El	-le.	0el	-le.	0g#Xl	-le.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]
+!!!YEM:	Marco Antonio Pordenon, "Mentre mia stella miri" 1580 (Trm 0560d; 25 Sep 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2018
+!!!EED: Donnelly, Daniel
+!!!EEV: 2018/10/28
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/10/28 and edited by Craig Stuart Sapp

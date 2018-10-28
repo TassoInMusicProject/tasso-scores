@@ -15,11 +15,9 @@
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Quinto	*	*I"Canto	*
-*I'B	*	*I'T	*	*I'A	*	*I'V	*	*I'C	*
-*oclefF3	*	*oclefC3	*	*oclefC2	*	*oclefC1	*	*oclefG2	*
+*I'B	*	*I'T	*	*I'A	*	*I'Q	*	*I'C	*
 *clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
-*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 0r	.	0r	.	0r	.	2.g	D'a-	2r	.
@@ -118,7 +116,7 @@
 8C	.	16ALL	i-	.	.	.	.	8eeJ	.
 .	.	16GJJ	.	.	.	.	.	.	.
 8DL	.	8FL	.	.	.	2d	-ra,	2.ff	.
-8EnXi	.	8G	.	.	.	.	.	.	.
+8E	.	8G	.	.	.	.	.	.	.
 8F	.	8A	.	2a	i-	.	.	.	.
 8GJ	.	8B-yJ	.	.	.	.	.	.	.
 8AL	.	2c	.	.	.	1r	.	.	.
@@ -198,7 +196,7 @@
 2G	-no,	4r	.	4.dd	Chia-	2bnX	-no,	4.gg	Chia-
 .	.	4.g	<chia-	.	.	.	.	.	.
 .	.	.	.	8dd	-ma-	.	.	8gg	-ma-
-4.c	<chia-	.	.	2g	-no,	4.ccnXi	chia-	2ee	-no,
+4.c	<chia-	.	.	2g	-no,	4.cc	chia-	2ee	-no,
 .	.	8g	-ma-	.	.	.	.	.	.
 .	.	4e	-no,>	.	.	.	.	.	.
 8c	-ma-	.	.	.	.	8cc	-ma-	.	.
@@ -225,7 +223,7 @@
 4G	pur	4B-y	pur	4d	pur	4g	pur	4dd	pur
 2.G	l'em-	2.B-y	l'am-	2.d	l'em-	2.g	l'em-	2.dd	l'em-
 4G	-pi'a	4B-y	-pi'a	4d	-pi'a	4g	-pi'a	4dd	-pi'a
-4G	dar-	4G	dar-	4BnX	dar-	4g	dar-	4eenX	dar-
+4G	dar-	4G	dar-	4BnX	dar-	4g	dar-	4ee	dar-
 4F	-li	4A	-li	4c	-li	4a	-li	4ff	-li
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 2E-X	mor-	2B-y	mor-	2e-i	mor-	2b-y	mor-	2.gg	mor-
@@ -252,7 +250,7 @@
 4C	fe-	4A	di-	.	.	4cc	di-	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 2BB-y	-ri-	2.B-y	-giun,	2.d	-ta,	2.f	-giun,	4r	.
-.	.	.	.	.	.	.	.	4.ff	<muo-
+.	.	.	.	.	.	.	.	4.ff	<Muo-
 2BB-y	-ta,	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	8ff	-ia
 .	.	4B-y	ma	4.f	muo-	4b-y	me	4ff	non
@@ -265,21 +263,21 @@
 .	.	8eJ	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 4r	.	1f	.	2.a	-giun,	1cc	-ta,	4r	.
-4.F	muo-	.	.	.	.	.	.	4ff	ma
+4.F	Muo-	.	.	.	.	.	.	4ff	ma
 .	.	.	.	.	.	.	.	4ff	di
 8F	-ia	.	.	.	.	.	.	.	.
 4F	non	.	.	4a	ma	.	.	4ff	fe-
 4G	di	2B-y	-ta,	4g	di	4r	.	2dd	-ri-
-4B-y	di-	.	.	4f	fe-	4.b-y	muo-	.	.
+4B-y	di-	.	.	4f	fe-	4.b-y	Muo-	.	.
 [2F	-giun	4r	.	[2f	-ri-	.	.	2cc	-ta,
 .	.	.	.	.	.	8a	-ia	.	.
-.	.	[4c	muo-	.	.	4a	non	.	.
+.	.	[4c	Muo-	.	.	4a	non	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 2F]	.	8cL]	.	2f]	.	4a	di	0r	.
 .	.	8cJ	-ia	.	.	.	.	.	.
 .	.	4c	non	.	.	4a	di-	.	.
 2G	ma	4B-y	di	4d	-ta,	2g	-giun,	.	.
-.	.	4B-y	di-	4.d	muo-	.	.	.	.
+.	.	4B-y	di-	4.d	Muo-	.	.	.	.
 4D	di	2A	-giun,	.	.	2f	ma	.	.
 .	.	.	.	8d	-ia	.	.	.	.
 4D	fe-	.	.	4d	non	.	.	.	.
@@ -287,7 +285,7 @@
 .	.	.	.	4c	di-	4g	fe-	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 4BB-y	-ta,	2.B-y	di	1d	-giun,	2f	-ri-	4r	.
-4.BB-y	muo-	.	.	.	.	.	.	4.dd	muo-
+4.BB-y	Muo-	.	.	.	.	.	.	4.dd	Muo-
 .	.	.	.	.	.	2f	-ta,	.	.
 8BB-y	-ia	.	.	.	.	.	.	8dd	-ia
 4BB-y	non	4B-y	di-	.	.	.	.	4dd	non
@@ -337,7 +335,7 @@
 2B-y	-mil-	4d	Fol-	4b-y	mil-	4f	mil-	2dd	-le,
 .	.	8dL	-go-	4b-y	-le,	4f	-le,	.	.
 .	.	8eJ	-r'a	.	.	.	.	.	.
-2F	-le,	4f	mil-	4a	fol-	4f	fol-	4cc	<fol-
+2F	-le,	4f	mil-	4a	Fol-	4f	Fol-	4cc	<Fol-
 .	.	4c	-l'a	8aL	-go-	8fL	-go-	8ccL	-go-
 .	.	.	.	8b-yJ	-r'a	8fJ	-r'a	8ddJ	-r'a
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32
@@ -444,7 +442,7 @@
 2E	-ci il	2G	-no.	4BnX	suoi	2e	stra-	.	.
 .	.	.	.	4cnXi	de-	.	.	.	.
 2F	mio	2A	Fac-	4c	-dir	4A	-ti,	.	.
-.	.	.	.	4d	con-	[4a	<fac-	.	.
+.	.	.	.	4d	con-	[4a	<Fac-	.	.
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44
 2E	stra-	2BnX	-ci il	2.e	-ten-	4a]	.	2r	.
 .	.	.	.	.	.	2g	-ci il	.	.
@@ -476,7 +474,7 @@
 2B-y	pie-	.	.	2d	pie-	2f	pie-	.	.
 1E-i	-tà,	.	.	1e-X	-tà,	1g	-tà,	[1b-y	Ben
 =48	=48	=48	=48	=48	=48	=48	=48	=48	=48
-1G	<ben	1d	Ben	2r	.	0r	.	2b-]	.
+1G	<Ben	1d	Ben	2r	.	0r	.	2b-]	.
 .	.	.	.	2B-y	<ben	.	.	1g	fia
 2C	fia	2c	fia	2e-i	fia	.	.	.	.
 2E-X	pie-	2B-y	pie-	2e-i	pie-	.	.	2g	pie-
@@ -508,18 +506,18 @@
 2F	-me-	[2f	pia,	2c	di-	2a	-co	2r	.
 =52	=52	=52	=52	=52	=52	=52	=52	=52	=52
 2B-y	-no,	2f]	.	2d	-co	2b-y	pia,	2r	.
-2r	.	4r	.	2e-X	pia,	2g	ma	2b-y	<non
+2r	.	4r	.	2e-X	pia,	2g	ma	2b-y	<Non
 .	.	4g	ma	.	.	.	.	.	.
 1r	.	4f	dis-	2r	.	4a	dis-	2cc	di-
 .	.	4e-X	-de-	.	.	4g	-de-	.	.
-.	.	4d	-gno-	2f	<non	4.a	-gno-	2dd	-co
+.	.	4d	-gno-	2f	<Non	4.a	-gno-	2dd	-co
 .	.	4d	-sa e	.	.	.	.	.	.
 .	.	.	.	.	.	8b-y	.	.	.
 =53	=53	=53	=53	=53	=53	=53	=53	=53	=53
 0r	.	2c	cru-	4g	di-	4cc	.	2ee-i	pia,>
 .	.	.	.	4a	-co	4cc	-sa e	.	.
 .	.	4B-y	-da,	4b-y	pia,	2f	cru-	4r	.
-.	.	4B-y	non	4b-y	ma	.	.	4dd	ma
+.	.	4B-y	Non	4b-y	ma	.	.	4dd	ma
 .	.	2c	di-	4a	dis-	2e	-da,	4cc	dis-
 .	.	.	.	4g	-de-	.	.	4b-y	-de-
 .	.	2d	-co	4f	-gno-	2r	.	4a	-gno-
@@ -531,32 +529,32 @@
 .	.	.	.	.	.	.	.	8ccJ	.
 2BB-y	Non	4r	.	2f	-da,	.	.	2dd	.
 .	.	4d	ma	.	.	.	.	.	.
-2C	di-	4c	dis-	2e-X	non	4r	.	2g	-da,
-.	.	4B-y	-de-	.	.	4g	non	.	.
+2C	di-	4c	dis-	2e-X	Non	4r	.	2g	-da,
+.	.	4B-y	-de-	.	.	4g	Non	.	.
 2D	-co	4A	-gno-	4d	di-	2f	di-	2r	.
 .	.	4A	-sa e	4c	-co	.	.	.	.
 =55	=55	=55	=55	=55	=55	=55	=55	=55	=55
 2E-X	pia,	1G	cru-	1B-y	pia,	2e-X	-co	2r	.
-4r	.	.	.	.	.	4d	pia,	2b-y	non
+4r	.	.	.	.	.	4d	pia,	2b-y	Non
 4G	ma	.	.	.	.	4d	ma	.	.
 4F	dis-	2A	-da,	1r	.	4f	dis-	2cc	di-
 4E-i	-de-	.	.	.	.	4g	-de-	.	.
-4D	-gno-	2F	non	.	.	4a	-gno-	2dd	-co
+4D	-gno-	2F	Non	.	.	4a	-gno-	2dd	-co
 4D	-sa e	.	.	.	.	4b-y	-sa e	.	.
 =56	=56	=56	=56	=56	=56	=56	=56	=56	=56
 2C	cru-	4G	di-	4r	.	2cc	cru-	2ee-i	pia,
-.	.	4A	-co	4c	<non	.	.	.	.
+.	.	4A	-co	4c	<Non	.	.	.	.
 2BB-y	-da,	4B-y	pia,	2d	di-	2f	-da,	4r	.
 .	.	4B-y	ma	.	.	.	.	4dd	ma
 2r	.	4A	dis-	2e	-co	1r	.	4cc	dis-
 .	.	4G	-de-	.	.	.	.	4b-y	-de-
 4r	.	4F	-gno-	4f	pia,>	.	.	4a	-gno-
-4F	non	4f	-sa e	4a	ma	.	.	4cc	-sa e
+4F	Non	4f	-sa e	4a	ma	.	.	4cc	-sa e
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57
 2G	di-	2d	cru-	4g	dis-	2r	.	2b-y	cru-
 .	.	.	.	4f	-de-	.	.	.	.
 2A	-co	2c	-da,	4e	-gno-	4r	.	4a	-da,
-.	.	.	.	4a	-sa e	4c	non	4cc	non
+.	.	.	.	4a	-sa e	4c	Non	4cc	Non
 4B-y	pia,	1r	.	2f	cru-	2d	di-	4b-y	di-
 4d	ma	.	.	.	.	.	.	4a	-co
 4c	dis-	.	.	4g	-da,	4e	-co	4cc	pia,
@@ -575,13 +573,13 @@
 0Gl	-da.	0Gl	-da.	0dl	-da.	0gl	-da.	0b-yl	-da.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
 !!!YEM:	Feliciani, Andrea, "D'aria un tempo nodrimmi, e cibo e vita" 1579 (Trm 0159b; 26 Aug 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END: 2018
 !!!EED: Donnelly, Daniel
-!!!EEV: 2018/09/18
+!!!EEV: 2018/10/28
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2018/09/18 and edited by Craig Stuart Sapp
+!!!ONB: Translated from MusicXML on 2018/10/28 and edited by Craig Stuart Sapp

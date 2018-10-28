@@ -6,7 +6,7 @@
 !!!PDT: 1575
 !!!RISM:
 !!!rime: 558
-!!!OTL:	Facelle son d'immortal luce ardenti
+!!!OTL: Facelle son d'immortal luce ardenti 
 !!!AGN: Madrigal
 !!!SCT: Trm0558a
 !!!SCA: Trm0558a
@@ -15,11 +15,9 @@
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Tenore	*	*I"Quinto	*	*I"Alto	*	*I"Canto	*
-*I'B	*	*I'T	*	*I'V	*	*I'A	*	*I'C	*
-*oclefF4	*	*oclefC4	*	*oclefC4	*	*oclefC3	*	*oclefC1	*
+*I'B	*	*I'T	*	*I'Q	*	*I'A	*	*I'C	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
-*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 0r	.	2r	.	0r	.	2r	.	2g	Fa-
@@ -81,7 +79,7 @@
 .	.	4.F	fiam-	2d	E	2f	E	.	.
 .	.	8G	.	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-0r	.	4A	.	4cnX	fiam-	2e	fiam-	1a]	.
+0r	.	4A	.	4c	fiam-	2e	fiam-	1a]	.
 .	.	4B-y	.	4B-y	.	.	.	.	.
 .	.	1c	.	4A	.	2e	-ma e	.	.
 .	.	.	.	4G	.	.	.	.	.
@@ -89,9 +87,9 @@
 .	.	2d	-ma e	2D	-ma e	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 2r	.	1.B-y	l'au-	2G	l'au-	2d	-ra,	1r	.
-2GG	E	.	.	2D	-ra,	2g	<e	.	.
+2GG	E	.	.	2D	-ra,	2g	<E	.	.
 4.BB-y	fiam-	.	.	4r	.	[1f	fiam-	2r	.
-.	.	.	.	4D	e	.	.	.	.
+.	.	.	.	4D	E	.	.	.	.
 8C	.	.	.	.	.	.	.	.	.
 4D	.	2A	-ra	4F	fiam-	.	.	2dd	E
 4E	.	.	.	4G	.	.	.	.	.
@@ -375,7 +373,7 @@
 .	.	.	.	.	.	.	.	8b-yJ	.
 2C	-tro in-	2G	-tro in-	.	.	2e	-tro in-	1cc	.
 2F	-cen-	2A	-cen-	.	.	2f	-cen-	.	.
-2G	-dio il	2B-y	-dio il	.	.	4d	-dio l	2b-y	-dio l'
+2G	-dio il	2B-y	-dio il	.	.	4d	-dio il	2b-y	-dio il
 .	.	.	.	.	.	[4d	co-	.	.
 =53	=53	=53	=53	=53	=53	=53	=53	=53	=53
 1E-X	co-	2B-y	co-	0r	.	4d]	.	1g	co-
@@ -439,12 +437,13 @@
 1GGl	-te.	1Gl	-te.	1dl	-te.	1gl	-te.	1bnXl	-te.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!YEM:	Leonardo Meldert, "Facelle son d'immortal luce ardenti," 1578 (Trm 0558a; 6 Jun 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
-!!!END: 2018/06/06
+!!!END: 2018
 !!!EED: Donnelly, Daniel
-!!!EEV: 2018/07/09
+!!!EEV: 2018/10/28
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
-!!!ONB: Translated from MusicXML on 2018/07/09 and edited by Craig Stuart Sapp
+!!!ONB: Translated from MusicXML on 2018/10/28 and edited by Craig Stuart Sapp
