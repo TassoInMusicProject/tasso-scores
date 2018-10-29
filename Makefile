@@ -399,11 +399,22 @@ census:
 ## Maintenance commands (not useable in general):
 ##
 
+process: refs system original
+
 ref: refs
 refs:
 	bin/fillinrefinfo -w Trm/kern/*.krn
 	bin/fillinrefinfo -a -w Tam/kern/*.krn
 	# Add other genres here
+
+system:
+	bin/fixsystemdecoration Trm/kern/*.krn
+	bin/fixsystemdecoration Tam/kern/*.krn
+	bin/fixsystemdecoration Tri/kern/*.krn
+	bin/fixsystemdecoration Tsg/kern/*.krn
+
+original:
+	bin/addoriginal -w Trm/kern/*.krn
 
 
 

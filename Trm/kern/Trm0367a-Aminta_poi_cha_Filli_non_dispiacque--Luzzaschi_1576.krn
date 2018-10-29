@@ -16,8 +16,11 @@
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
 *I'B	*	*I'Q	*	*I'T	*	*I'A	*	*I'C	*
+*oclefC4	*	*oclefC3	*	*oclefC3	*	*oclefC2	*	*oclefG2	*
+
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 1r	.	1r	.	2A	A-	2r	.	1r	.
@@ -614,7 +617,7 @@
 1Al	-re.>	1Al	-re.	1e]	.	1al	-re.	1cc#Xl	-re.>
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
 !!!YEM:	Luzzasco Luzzaschi, "Aminta poi ch'a Filli non dispiacque" 1576 (Sam 0367a; 2 Oct 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

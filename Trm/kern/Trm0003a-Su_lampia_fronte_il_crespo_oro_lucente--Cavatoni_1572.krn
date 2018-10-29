@@ -16,8 +16,11 @@
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Tenore	*	*I"Alto	*	*I"Canto	*
 *I'T	*	*I'A	*	*I'C	*
+*oclefC4	*	*oclefC3	*	*oclefC1	*
+
 *clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*	*M2/1	*
 =1	=1	=1	=1	=1	=1
 0r	.	0F	Su	2r	.
@@ -623,7 +626,7 @@
 0Fl	-to.	0cl	-to.	0fl	-to.
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3)]
+!!!system-decoration: [(s1)(s2)(s3)]
 !!!YEM:	Pietro Cavatoni, "Su l'ampia fronte il crespo oro lucente" 1572 (Trm 0003a; 24 Aug 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

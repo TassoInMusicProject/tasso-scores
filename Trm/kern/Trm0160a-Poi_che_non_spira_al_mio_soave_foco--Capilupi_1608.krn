@@ -15,8 +15,11 @@
 *part2	*part2	*part1	*part1
 *staff2	*staff2	*staff1	*staff1
 *I"Quinto	*	*I"Tenore	*
+*oclefC3	*	*oclefC3	*
+
 *clefGv2	*	*clefGv2	*
 *k[]	*	*k[]	*
+*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*
 =1	=1	=1	=1
 !!LO:TX:a:t=Sestina. Prima parte.
@@ -1385,7 +1388,7 @@
 0dl	-te.>	0Gl	-te.
 ==	==	==	==
 *-	*-	*-	*-
-!!!system-decoration: [(s1,s2)]
+!!!system-decoration: [(s1)(s2)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

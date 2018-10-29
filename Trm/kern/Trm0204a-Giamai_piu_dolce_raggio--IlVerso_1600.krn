@@ -15,8 +15,11 @@
 *part2	*part2	*part1	*part1
 *staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Canto	*
+*oclefF4	*	*oclefC1	*
+
 *clefF4	*	*clefG2	*
 *k[]	*	*k[]	*
+*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*
 =1	=1	=1	=1
 0r	.	0r	.
@@ -300,7 +303,7 @@
 1GGl	-so.	1gl	-so.
 ==	==	==	==
 *-	*-	*-	*-
-!!!system-decoration: [(s1,s2)]
+!!!system-decoration: [(s1)(s2)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

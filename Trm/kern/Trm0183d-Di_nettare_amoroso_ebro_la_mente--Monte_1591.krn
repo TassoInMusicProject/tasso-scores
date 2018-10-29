@@ -16,8 +16,11 @@
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Tenore	*	*I"Quinto	*	*I"Alto	*
 *I'T	*	*I'Q	*	*I'A	*
+*oclefC3	*	*oclefC2	*	*oclefC2	*
+
 *clefGv2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*b[b-]	*	*k[b-]	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1
 !!LO:TX:a:t=Prima parte.
@@ -390,7 +393,7 @@
 1Gl	-zo.	1dl	-zo.	1bnXl	-zo.
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3)]
+!!!system-decoration: [(s1)(s2)(s3)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

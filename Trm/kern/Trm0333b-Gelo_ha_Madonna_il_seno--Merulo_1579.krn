@@ -16,6 +16,8 @@
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Sesto	*	*I"Canto	*
 *I'B	*	*I'Q	*	*I'T	*	*I'A	*	*I'S	*	*I'C	*
+*oclefF3	*	*oclefC3	*	*oclefC3	*	*oclefC2	*	*oclefG2	*	*oclefG2	*
+
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
@@ -295,7 +297,7 @@
 0AAl	-re.>	0Al	-re.	0c#Xl	-re.	0el	-re.	0al	-re.	0eel	-re.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5,s6)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)(s6)]
 !!!YEM:	Claudio Merulo, "Gelo ha Madonn' il seno," 1579 (Trm 333b; 11 Sep 2017) Tasso in Music Project (http://www.tassomusic.org) Copyright 2017 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

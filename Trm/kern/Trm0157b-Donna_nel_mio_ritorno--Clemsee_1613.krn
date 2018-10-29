@@ -15,8 +15,11 @@
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
+*oclefF3	*	*oclefC4	*	*oclefC3	*	*oclefG2	*
+
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 =1	=1	=1	=1	=1	=1	=1	=1
 !LO:TX:t=à 5. [Quinto part missing]	!	!	!	!	!	!	!
@@ -297,7 +300,7 @@
 0Fl	-o.	0cl	-o.	0fl	-o.	0ffl	-o.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

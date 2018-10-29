@@ -16,8 +16,11 @@
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Alto	*	*I"Canto	*
 *I'B	*	*I'A	*	*I'C	*
+*oclefF4	*	*oclefC3	*	*oclefC1	*
+
 *clefF4	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*	*M2/1	*
 =1	=1	=1	=1	=1	=1
 0r	.	1e	Men-	2r	.
@@ -219,7 +222,7 @@
 0El	-le.	0el	-le.	0g#Xl	-le.
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3)]
+!!!system-decoration: [(s1)(s2)(s3)]
 !!!YEM:	Marco Antonio Pordenon, "Mentre mia stella miri" 1580 (Trm 0560d; 25 Sep 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

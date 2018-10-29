@@ -15,8 +15,11 @@
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
+*oclefF3	*	*oclefC3	*	*oclefC2	*	*oclefG2	*
+
 *clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1
 0r	.	0r	.	1c	Sec-	1cc	Sec-
@@ -306,7 +309,7 @@
 0Fl	-na.	0Al	-na.	0fl	-na.	0ccl	-na.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

@@ -16,8 +16,11 @@
 *staff2	*staff2	*staff1	*staff1
 *I"Alto	*	*I"Canto	*
 *I'A	*	*I'C	*
+*oclefC2	*	*oclefG2	*
+
 *clefG2	*	*clefG2	*
 *k[]	*	*k[]	*
+*omet(C|)	*	*omet(C|)	*
 *M4/2	*	*M4/2	*
 =1	=1	=1	=1
 0r	.	1a	Ca-
@@ -367,7 +370,7 @@
 0al	-de?>	0cc#Xl	-de?>
 ==	==	==	==
 *-	*-	*-	*-
-!!!system-decoration: [(s1,s2)]
+!!!system-decoration: [(s1)(s2)]
 !!!YEM:	Claudio Merulo, "Caro amoroso neo" 1577 (Trm 0602a; 16 Oct 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
