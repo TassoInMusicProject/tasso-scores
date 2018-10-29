@@ -37,12 +37,12 @@ exit(0);
 ## processFile --
 ##
 ## oclef:
-##    *oclefC3	*	*oclefC2	*	*oclefG2	*
+##    *oclefC3	*	*oclefC2	*
 ## clef:
 ##    *clefGv2	*	*clefGv2	*
 ##
 ## met:
-##    *omet(C)	*	*omet(C)	*	*omet(C)	*
+##    *omet(C)	*	*omet(C)	*
 ## time:
 ##    *M4/2	*	*M4/2	*
 ##
@@ -136,6 +136,7 @@ return if $cat eq "Trm0256d";
 		if ("$newstring\n" ne $oldclef) {
 			$change = 1;
 			if ($overwriteQ) {
+				chomp $newstring;
 				$contents[$ioclef] = "$newstring\n";
 			} else {
 				print "\nCATALOG:\t$cat\n";
@@ -172,7 +173,9 @@ return if $cat eq "Trm0256d";
 			print "\nCATALOG:\t$cat\n";
 			die "\tToo many oclefs for new string: At index $ii of $clefline\n";
 		}
-		$oclefline .= "\n";
+		chomp $oclefline;
+		# $oclefline .= "\n";
+		
 		$change = 1;
 		if ($overwriteQ) {
 			$contents[$iclef] = "$oclefline\n$contents[$iclef]";
