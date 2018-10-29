@@ -396,16 +396,17 @@ census:
 
 ############################################################################
 ##
-## Maintenance commands (not useable in general):
+## Maintenance commands (not useable in general).  Used when new works
+## are added to the database.
 ##
 
-process: refs system original
+process: refs system original index
 
 ref: refs
 refs:
 	bin/fillinrefinfo -w Trm/kern/*.krn
 	bin/fillinrefinfo -a -w Tam/kern/*.krn
-	# Add other genres here
+	# need also to do other genres here
 
 system:
 	bin/fixsystemdecoration Trm/kern/*.krn
@@ -415,6 +416,6 @@ system:
 
 original:
 	bin/addoriginal -w Trm/kern/*.krn
-
+	# need also to do other genres here
 
 
