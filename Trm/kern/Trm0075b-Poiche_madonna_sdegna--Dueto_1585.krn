@@ -22,7 +22,7 @@
 *omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*
 =1	=1	=1	=1
-!LO:TX:a:t=[Prima parte.]	!	!	!
+!!LO:TX:a:t=[Prima parte.]
 1B	Poi	0r	.
 2c	che	.	.
 2d	Ma-	.	.
@@ -201,7 +201,7 @@
 =26	=26	=26	=26
 0d	-le.	0a	-le.
 =27||	=27||	=27||	=27||
-!LO:TX:a:t=Seconda parte.	!	!	!
+!!LO:TX:a:t=Seconda parte.	
 1d	Né	1a	Né
 2d	giu-	2.b	giu-
 2e	-sto	.	.
