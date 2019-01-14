@@ -1,4 +1,4 @@
-!!!COM: Macigni, Giovanni; Magni, Benedetto
+!!!COM: Macigni, Giovanni
 !!!CDT:
 !!!PTL: Madrigali a cinque voci con il basso continuo: libro primo   di Giovanni Macingni gentil homo Fiorentino; con alcuni di Benedetto Magni suo maestro
 !!!PPP: Venice
@@ -10,7 +10,7 @@
 !!!AGN: Madrigal
 !!!SCT: Tam1020338f
 !!!SCA: Tam1020338f
-!!!voices:
+!!!voices: 5 + bc
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
