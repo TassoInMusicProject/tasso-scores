@@ -22,7 +22,7 @@
 *omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*
 =1	=1	=1	=1
-!LO:TX:t=[Prima parte.]	!	!	!
+!!LO:TX:a:t=[Prima parte.]
 2r	.	1cc	A-
 2.cc	A-	.	.
 .	.	1dd	-mor
@@ -220,7 +220,7 @@
 =32	=32	=32	=32
 0b	-so.	0dd	-so.>
 ==33	==33	==33	==33
-!LO:TX:t=Seconda parte.	!	!	!
+!!LO:TX:a:t=Seconda parte.
 2g	Scio-	2cc	Scio-
 4a	-gli,	4cc	-gli
 4a	pie-	4cc	pie-
