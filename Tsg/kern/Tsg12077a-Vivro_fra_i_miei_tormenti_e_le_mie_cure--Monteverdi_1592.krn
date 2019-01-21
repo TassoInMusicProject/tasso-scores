@@ -1,0 +1,238 @@
+!!!COM:
+!!!CDT:
+!!!PTL:
+!!!PPP:
+!!!PPR:
+!!!PDT:
+!!!RISM:
+!!!rime:
+!!!OTL:	Vivrò fra i miei tormenti e le mie cure (Gerusalemme XII/77)
+!!!AGN: Madrigal
+!!!SCT:
+!!!SCA:
+!!!voices:
+**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Quinto	*	*I"Canto	*
+*I'B	*	*I'T	*	*I'A	*	*I'Q	*	*I'C	*
+*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+1r	.	1r	.	2r	.	2r	.	4a	Vi-
+.	.	.	.	.	.	.	.	2a	-vrò
+.	.	.	.	4d	Vi-	4f#X	Vi-	.	.
+.	.	.	.	2d	-vrò	2f#X	-vrò	4a	fra
+4D	Vi-	2r	.	.	.	.	.	4a	miei
+2D	-vrò	.	.	4d	fra	4f#X	fra	4a	tor-
+.	.	4A	Vi-	4d	miei	4f#X	miei	[2a	-men-
+4D	fra	[4A	-vrò	4d	tor-	4f#X	tor-	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4D	miei	4A]	.	2d	-men-	2f#X	-men-	2a]	.
+4D	tor-	4A	fra	.	.	.	.	.	.
+2D	-men-	4A	miei	2d	.	2f#X	-ti e	2a	-ti e
+.	.	4A	tor-	.	.	.	.	.	.
+4D	-ti	4.A	-men-	2.d	-le	2.f#X	le	2.a	le
+2D	le	.	.	.	.	.	.	.	.
+.	.	8A	-ti e	.	.	.	.	.	.
+.	.	4A	le	.	.	.	.	.	.
+4G	mie	4G	mie	4d	mie	4g	mie	4b	mie
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2F	cu-	2c	cu-	2f	cu-	2a	cu-	2cc	cu-
+2F	-re,	4c	-re,	2f	-re,	2a	-re,	2cc	-re,
+.	.	4c	Mie	.	.	.	.	.	.
+4r	.	4c	giu-	4r	.	4r	.	4r	.
+4F	Mie	4c	-ste	4f	Mie	4a	Mie	4cc	Mie
+4F	giu-	4.f	fu-	4f	giu-	4a	giu-	4cc	giu-
+4F	-ste	.	.	4f	-ste	4a	-ste	4cc	-ste
+.	.	8f	-rie,	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4.B-X	fu-	8f	for-	4.d	fu-	4.b-X	fu-	4.dd	fu-
+.	.	8f	-sen-	.	.	.	.	.	.
+.	.	2f	-na-	.	.	.	.	.	.
+8B-i	-rie,	.	.	8d	-rie,	8b-X	-rie,	8dd	-rie,
+8B-i	for-	.	.	8d	for-	8b-X	for-	8dd	for-
+8B-i	-sen-	.	.	8d	-sen-	8cc	-sen-	8ee	-sen-
+2B-i	-na-	4f	-to, er-	2b-X	-na-	2dd	-na-	2ff	-na-
+.	.	2d	-ran-	.	.	.	.	.	.
+4d	-to, er-	.	.	4a	-to, er-	4ff	-to, er-	4ff	-to, er-
+2c	-ran-	8g	-te;	2cc	-ran-	2ee	-ran-	2gg	-ran-
+.	.	8c	Pa-	.	.	.	.	.	.
+.	.	8c	-ven-	.	.	.	.	.	.
+.	.	8c	-te-	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2F	-te;	2c	-rò,	2cc	-te;	8ff	-te;	2ff	-te;
+.	.	.	.	.	.	8cc	Pa-	.	.
+.	.	.	.	.	.	8cc	-ven-	.	.
+.	.	.	.	.	.	8cc	-te-	.	.
+8r	.	8r	.	8r	.	2cc	-rò	8r	.
+8C	Pa-	8g	Pa-	8e	Pa-	.	.	8ee	Pa-
+8C	-ven-	8g	-ven-	8e	-ven-	.	.	8ee	-ven-
+8C	-te-	8f	-te-	8d	-te-	.	.	8ff	-te-
+2C	-rò	2e	-rò	2c	-rò	4g	l’om-	2gg	-rò
+.	.	.	.	.	.	8g	-bre	.	.
+.	.	.	.	.	.	8g	so-	.	.
+4C	l’om-	4e	l’om-	4c	l’om-	2g	-lin-	4cc	l’om-
+8C	-bre	8e	-bre	8c	-bre	.	.	8cc	-bre
+8C	so-	8e	so-	8c	so-	.	.	8cc	so-
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4G	-lin-	4d	-lin-	4d	-lin-	4g	-ghe e	4b	-lin-
+4A	-ghe e	4c	-ghe e	4f	-ghe e	2cc	scu-	4cc	-ghe e
+2G	scu-	2g	scu-	2d	scu-	.	.	2dd	scu-
+.	.	.	.	.	.	4b	.	.	.
+1C	-re	4g	-re	1e	-re	1cc	-re	2.cc	-re
+.	.	4g	Che’l	.	.	.	.	.	.
+.	.	4g	pri-	.	.	.	.	.	.
+.	.	4g	-mo er-	.	.	.	.	4gg	Che’l
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4r	.	4.e	-ror	4r	.	2r	.	4gg	pri-
+4c	Che’l	.	.	4g	Che’l	.	.	4gg	-mo er-
+.	.	8e	mi	.	.	.	.	.	.
+4c	pri-	8e	che-	4g	pri-	4r	.	4.ee	-ror
+.	.	8e	-che-	.	.	.	.	.	.
+4c	-mo er-	2c	-ran-	4g	-mo er-	4cc	Che’l	.	.
+.	.	.	.	.	.	.	.	8ee	mi
+4.A	-ror	.	.	4.a	-ror	4cc	pri-	8ee	re-
+.	.	.	.	.	.	.	.	8ee	-che-
+.	.	4c	-no i-	.	.	4cc	-mo er	2cc	-ran-
+8A	mi	.	.	8e	mi	.	.	.	.
+8A	re-	2A	-nan-	8e	re-	4.a	ror	.	.
+8A	-che-	.	.	8e	-che-	.	.	.	.
+[4F	-ran-	.	.	[4f	-ran-	.	.	4cc	-no i-
+.	.	.	.	.	.	8a	mi	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4F]	.	2A	-te,	4f]	.	8a	re-	8ccL	-nan-
+.	.	.	.	.	.	8a	-che-	8aJ	.
+4D	-no i-	.	.	4f	-no i-	2a	-ran-	2dd	.
+2A	-nan-	2r	.	2e	-nan-	.	.	.	.
+.	.	.	.	.	.	4a	-no i-	4cc#X	.
+1D	-te,	1r	.	1a	-te,	2f#X	-nan-	1dd	-te,
+.	.	.	.	.	.	2f#X	-te,	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2.d	E	2.f	E	0r	.	2r	.	2r	.
+.	.	.	.	.	.	2.a	E	2.dd	E
+4d	del	4f	del	.	.	.	.	.	.
+1d	sol	1f	sol	.	.	.	.	.	.
+.	.	.	.	.	.	4a	del	4dd	del
+.	.	.	.	.	.	2a	sol	2dd	sol
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4A	che	4e	che	1r	.	4cc	che	4ee	che
+4d	sco-	4d	sco-	.	.	4a	sco-	4ff	sco-
+4.G	-prì	2g	-prì	.	.	4.b-X	-prì	2dd	-prì
+8G	le	.	.	.	.	8b-X	le	.	.
+4G	mie	4b-X	le	2r	.	4b-i	mie	2dd	le
+4A	sven-	2a	mie	.	.	4cc	sven-	.	.
+2B-X	-tu-	.	.	4r	.	[2dd	-tu-	4dd	mie
+.	.	4g	sven-	4d	A	.	.	4dd	sven-
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2.A	-re,	2a	-tu-	4.a	schi-	2dd]	.	2ff	-tu-
+.	.	.	.	8a	-vo ed	.	.	.	.
+.	.	2a	-re,	4a	in	4cc#X	-re,	4ee	-re,
+4A	A	.	.	4a	hor-	4cc#X	A	4ee	A
+4.d	schi-	4r	.	2a	-ror	4.dd	schi-	4.ff	schi-
+.	.	4d	A	.	.	.	.	.	.
+8d	-vo ed	.	.	.	.	8dd	-vo ed	8ff	-vo ed
+4d	in	4.a	schi-	2r	.	4dd	in	8ff	in
+.	.	.	.	.	.	.	.	8ff	hor-
+4d	hor-	.	.	.	.	4dd	hor-	[4ff	-ror
+.	.	8a	-vo ed	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2d	-ror	8a	in	2f	ha-	2a	-ror	4ff]	.
+.	.	8a	hor-	.	.	.	.	.	.
+.	.	2f	-ror	.	.	.	.	2dd	ha-
+2B-X	ha-	.	.	4.b-X	-vrò il	2dd	ha-	.	.
+.	.	4d	ha-	.	.	.	.	4.gg	-vrò il
+.	.	.	.	8a	.	.	.	.	.
+4c	-vrò il	4e	-vrò il	4g	.	4cc	-vrò il	.	.
+.	.	.	.	.	.	.	.	8ff	sem-
+4d	sem-	4f	sem-	4b-X	sem-	4b-X	sem-	2ff	-bian-
+2c	-bian-	2g	-bian-	2g	-bian-	2cc	-bian-	.	.
+.	.	.	.	.	.	.	.	4ee	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1F	-te.	2f	-te.	1a	-te.	1cc	-te.	1ff	-te.
+.	.	4c	Te-	.	.	.	.	.	.
+.	.	4d	-me-	.	.	.	.	.	.
+4C	Te-	1e	-rò	4g	Te-	4cc	Te-	4ee	Te-
+4C	-me-	.	.	4g	-me-	4cc	-me-	4ff	-me-
+2C	-rò	.	.	2g	-rò	2cc	-rò	2gg	-rò
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+4C	me	4c	me	4g	me	4cc	me	4gg	me
+4G	me-	4d	me-	4g	me-	4b	me-	4dd	me-
+2.C	-de-	2.c	-de-	4.g	-de-	2.cc	-de-	4.ee	-de-
+.	.	.	.	8g	-smo; e	.	.	8ee	.
+.	.	.	.	4g	da	.	.	4ee	-da
+4F	-smo; e	4A	-smo; e	4f	me	4cc	-smo; e	4cc	me
+4D	da	4d	da	[2a	stes-	4dd	da	2ff	stes-
+4D	me	4d	me	.	.	4dd	me	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2A	stes-	2e	stes-	2a]	.	1cc#X	stes-	2ee	-so
+2A	-so	2e	-so	1a	-so	.	.	4ee	Sem-
+.	.	.	.	.	.	.	.	8ee	-pre
+.	.	.	.	.	.	.	.	8ee	fug-
+4A	Sem-	4e	Sem-	.	.	2cc#X	-so	4aa	-gen-
+8A	-pre	8e	-pre	.	.	.	.	4aa	-do,
+8A	fug-	8e	fug-	.	.	.	.	.	.
+4d	-gen-	4f	-gen-	2r	.	2r	.	4a	Sem-
+4d	-do,	4f	-do, ha-	.	.	.	.	8a	-pre
+.	.	.	.	.	.	.	.	8a	fug-
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+4D	Sem-	4f	-vrò	0r	.	4a	Sem-	4dd	-gen-
+8D	-pre	4f	me	.	.	8a	-pre	4dd	-do, ha-
+8D	fug-	.	.	.	.	8a	fug-	.	.
+4G	-gen-	4d	sem-	.	.	4b-X	-gen-	4g	-vrò
+4G	-do, ha-	4d	-pre ap-	.	.	4b-X	-do, ha-	4g	me
+4E	-vrò	2g	-pres-	.	.	4g	-vrò	2.cc	sem-
+4E	me	.	.	.	.	4g	me	.	.
+4F	sem-	2c	-so,	.	.	4a	sem-	.	.
+4E	-pre ap-	.	.	.	.	4cc	-pre ap-	4cc	-pre ap-
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2G	-pres-	2r	.	4d	Sem-	2b	-pres-	2dd	-pres-
+.	.	.	.	8d	-pre	.	.	.	.
+.	.	.	.	8d	fug-	.	.	.	.
+2C	-so,	4G	Sem-	4g	-gen-	2cc	-so,	2ee	-so,
+.	.	8G	-pre	4g	-do,	.	.	.	.
+.	.	8G	fug-	.	.	.	.	.	.
+1r	.	4c	-gen-	4e	Sem-	4g	Sem-	2r	.
+.	.	4c	-do, ha-	8e	-pre	8g	-pre	.	.
+.	.	.	.	8e	fug-	8g	fug-	.	.
+.	.	4A	-vrò	4a	-gen-	4cc	-gen-	4ee	Sem-
+.	.	4A	me	4a	-do, ha-	4cc	-do, ha-	8ee	-pre
+.	.	.	.	.	.	.	.	8ee	fug-
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+0r	.	2d	sem-	4f	-vrò	4a	-vrò	4ff	-gen-
+.	.	.	.	4f	me	4a	me	4ff	-do, ha-
+.	.	2B-X	-pre ap-	4f	sem-	4b-X	sem-	4dd	-vrò
+.	.	.	.	2g	-pre ap-	4dd	-pre ap-	4dd	me
+.	.	2c	-pres-	.	.	2cc	-pres-	4ee	sem-
+.	.	.	.	2f	-pres-	.	.	4ff	-pre ap-
+.	.	2c	-so,	.	.	2cc	-so,	2gg	-pres-
+.	.	.	.	4e	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+4F	Sem-	4A	Sem-	2f	-so,	4cc	Sem-	2ff	-so,
+8F	-pre	8A	-pre	.	.	8cc	-pre	.	.
+8F	fug-	8A	fug-	.	.	8cc	fug-	.	.
+4B-X	-gen-	4d	-gen-	4f	Sem-	4b-X	-gen-	4dd	Sem-
+4B-i	-do, ha-	4d	-do, ha-	8f	-pre	4b-X	-do, ha-	8dd	-pre
+.	.	.	.	8f	fug-	.	.	8dd	fug-
+4G	-vrò	4B-X	-vrò	4b-X	-gen-	2dd	-vrò	4gg	-gen-
+4G	me	4B-i	me	4b-i	-do, ha-	.	.	4gg	-do, ha-
+4A	sem-	4c	sem-	4a	-vrò	4cc	me	4ee	-vrò
+4A	-pre ap-	4c	-pre ap-	4a	me	[4a	sem-	4ee	me
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+1D	-pres-	1A	-pres-	4f	sem-	4a]	.	4ff	sem-
+.	.	.	.	4d	-pre ap-	4a	-pre ap-	4ff	-pre ap-
+.	.	.	.	2f	-pres-	2a	-pres-	2dd	-pres-
+2Al	-so.	2Al	-so.	2el	-so.	2al	-so.	2cc#Xl	-so.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2,s3,s4,s5
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2019/01/21
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/01/21

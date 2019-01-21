@@ -22,7 +22,7 @@
 *omet(O3/2)	*	*omet(O3/2)	*
 *M6/2	*	*M6/2	*
 =1	=1	=1	=1
-!LO:TX:t=Prima parte.	!	!	!
+!!LO:TX:a:t=Prima parte.
 1%3r	.	1.r	.
 .	.	2dd	O-
 .	.	2dd	-ve
