@@ -209,6 +209,8 @@ return if $cat eq "Trm0256d";
 	$met = "*omet(C|)" if $met eq "Cut-C";
 	$met = "*omet(C|)" if $met eq "cut-C";
 	$met = "*omet(C|)" if $met eq "CUT-C";
+	$met = "*omet(O3/2)" if $met eq "O3/2";
+	$met = "*omet(O3/2)" if $met eq "O 3/2";
 	$met = "*omet(C.3/2)" if $met eq "C-dot 3/2";
 
 	if (($imet > 0) && ($mens[0] ne "?") && ($cat ne "Trm0333b")) {

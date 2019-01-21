@@ -1,16 +1,15 @@
-!!!COM:
+!!!COM: Massaino, Tiburtio
 !!!CDT:
-!!!PTL:
-!!!PPP:
-!!!PPR:
-!!!PDT:
-!!!RISM:
-!!!rime:
+!!!PTL: Di Tiburtio Massaino il secondo libro de madrigali a sei voci
+!!!PPP: Venice
+!!!PPR: Giacomo Vincenzi
+!!!PDT: 1604
+!!!RISM: M1295
 !!!OTL:	Ho visto al pianto mio (Aminta I/2)
 !!!AGN: Madrigal
-!!!SCT:
-!!!SCA:
-!!!voices:
+!!!SCT: Tam1020338c
+!!!SCA: Tam1020338c
+!!!voices: 6
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -290,7 +289,7 @@
 00AAl	-chi.	00El	-chi.	00Al	-chi.	00al	-chi.	00cc#Xl	-chi.	00eel	-chi.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5,s6)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)(s6)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

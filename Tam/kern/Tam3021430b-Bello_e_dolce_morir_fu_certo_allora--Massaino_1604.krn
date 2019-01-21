@@ -1,16 +1,15 @@
-!!!COM:
+!!!COM: Massaino, Tiburtio
 !!!CDT:
-!!!PTL:
-!!!PPP:
-!!!PPR:
-!!!PDT:
-!!!RISM:
-!!!rime:
+!!!PTL: Madrigali a sei voci: libro primo
+!!!PPP: Venice
+!!!PPR: Angelo Gardano
+!!!PDT: 1604
+!!!RISM: M1294
 !!!OTL:	Bello e dolce morir fu certo allora (Aminta III/2)
 !!!AGN: Madrigal
-!!!SCT:
-!!!SCA:
-!!!voices:
+!!!SCT: Tam3021430b
+!!!SCA: Tam3021430b
+!!!voices: 6
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -316,7 +315,7 @@
 00El	-i.	00G#Xl	-i.	00Bl	-i.	00el	-i.	00bl	-i.	00eel	-i.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5,s6)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)(s6)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

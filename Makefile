@@ -406,6 +406,7 @@ ref: refs
 refs:
 	bin/fillinrefinfo -w Trm/kern/*.krn
 	bin/fillinrefinfo -a -w Tam/kern/*.krn
+	bin/fillinrefinfo -a -w Tsg/kern/*.krn
 	# need also to do other genres here
 
 system:
@@ -416,6 +417,8 @@ system:
 
 original:
 	bin/addoriginal -w Trm/kern/*.krn
+	bin/addoriginal -w Tam/kern/*.krn
+	bin/addoriginal -w Tsg/kern/*.krn
 	# need also to do other genres here
 
 
