@@ -1,0 +1,207 @@
+!!!COM: Bozi, Paolo
+!!!CDT:
+!!!PTL: Canzonette a tre voci
+!!!PPP: Venice
+!!!PPR: Amadino
+!!!PDT: 1591
+!!!RISM: B 4203
+!!!rime: 408
+!!!OTL: Questo tra gli altri fiori
+!!!AGN: Madrigal
+!!!SCT: Trm0408a
+!!!SCA: Trm0408a
+!!!voices: 3
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Canto	*
+*oclefC4	*	*oclefC1	*	*oclefC1	*
+*clefGv2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+=1	=1	=1	=1	=1	=1
+2D	Que-	2d	Que-	2f	Que-
+4A	-sto	4c	-sto	4e	-sto
+4F	tra	4f	tra	4a	tra
+=2	=2	=2	=2	=2	=2
+4G	gli_al-	4d	gli_al-	4b-y	gli_al-
+4A	-tri	4c	-tri	4a	-tri
+2B-y	fio-	2d	fio-	4f	fio-
+.	.	.	.	4g	.
+=3	=3	=3	=3	=3	=3
+4A	-ri	2e	-ri	4a	-ri
+4A	San-	.	.	4e	San-
+4.d	-gui-	4r	.	4.f	-gui-
+.	.	4a	San-	.	.
+8d	-gno	.	.	8f	-gno
+=4	=4	=4	=4	=4	=4
+4.G	sì	4.b-y	-gui-	4.d	sì
+8G	fu	8b-y	-gno	8d	fu
+2c	tin-	4.g	sì	2e	tin-
+.	.	8g	fu	.	.
+=5	=5	=5	=5	=5	=5
+2F	-to,	2a	tin-	4c	-to,
+.	.	.	.	4c	San-
+4r	.	2a	-to,	4.f	-gui-
+4D	San-	.	.	.	.
+.	.	.	.	8f	-gno
+=6	=6	=6	=6	=6	=6
+4.G	-gui-	4r	.	4.d	sì
+.	.	4b-y	San-	.	.
+8G	-gno	.	.	8d	fu
+4.C	sì	4.cc	-gui-	2g	tin-
+8C	fu	8cc	-gno	.	.
+=7	=7	=7	=7	=7	=7
+2F	tin-	4.a	sì	4c	-to,
+.	.	.	.	4c	<San-
+.	.	8a	fu	.	.
+2D	-to,	2dd	tin-	4.f	-gui-
+.	.	.	.	8f	-gno
+=8	=8	=8	=8	=8	=8
+4.G	sì	4b-y	-to,	2d	sì
+.	.	4b-y	<San-	.	.
+8A	.	.	.	.	.
+4B-y	.	4.b-y	-gui-	4d	fu
+4G	fu	.	.	[4g	tin-
+.	.	8b-y	-gno	.	.
+=9	=9	=9	=9	=9	=9
+1A	tin-	4cc	sì	8gL]	.
+.	.	.	.	8f	.
+.	.	4dd	fu	8f	.
+.	.	.	.	16eL	.
+.	.	.	.	16dJJ	.
+.	.	2cc#X	tin-	2e	.
+=10	=10	=10	=10	=10	=10
+1D	-to,	1dd	-to,>	1f#X	-to,>
+=11	=11	=11	=11	=11	=11
+2D	Que-	2d	Que-	2f#i	Que-
+4A	-sto	4c	-sto	4e	-sto
+4F	tra	4f	tra	4a	tra
+=12	=12	=12	=12	=12	=12
+4G	gli_al-	4d	gli_al-	4b-y	gli_al-
+4A	-tri	4c	-tri	4a	-tri
+2B-y	fio-	2d	fio-	4f	fio-
+.	.	.	.	4g	.
+=13	=13	=13	=13	=13	=13
+4A	-ri	2e	-ri	4a	-ri
+4A	San-	.	.	4e	San-
+4.d	-gui-	4r	.	4.f	-gui-
+.	.	4a	San-	.	.
+8d	-gno	.	.	8f	-gno
+=14	=14	=14	=14	=14	=14
+4.G	sì	4.b-y	-gui-	4.d	sì
+8G	fu	8b-y	-gno	8d	fu
+2c	tin-	4.g	sì	2e	tin-
+.	.	8g	fu	.	.
+=15	=15	=15	=15	=15	=15
+2F	-to,	2a	tin-	4c	-to,
+.	.	.	.	4c	San-
+4r	.	2a	-to,	4.f	-gui-
+4D	San-	.	.	.	.
+.	.	.	.	8f	-gno
+=16	=16	=16	=16	=16	=16
+4.G	-gui-	4r	.	4.d	sì
+.	.	4b-y	San-	.	.
+8G	-gno	.	.	8d	fu
+4.C	sì	4.cc	-gui-	2g	tin-
+8C	fu	8cc	-gno	.	.
+=17	=17	=17	=17	=17	=17
+2F	tin-	4.a	sì	4c	-to,
+.	.	.	.	4c	<San-
+.	.	8a	fu	.	.
+2D	-to,	2dd	tin-	4.f	-gui-
+.	.	.	.	8f	-gno
+=18	=18	=18	=18	=18	=18
+4.G	sì	4b-y	-to,	2d	sì
+.	.	4b-y	<San-	.	.
+8A	.	.	.	.	.
+4B-y	.	4.b-y	-gui-	4d	fu
+4G	fu	.	.	[4g	tin-
+.	.	8b-y	-gno	.	.
+=19	=19	=19	=19	=19	=19
+1A	tin-	4cc	sì	8gL]	.
+.	.	.	.	8f	.
+.	.	4dd	fu	8f	.
+.	.	.	.	16eL	.
+.	.	.	.	16dJJ	.
+.	.	2cc#X	tin-	2e	.
+=20	=20	=20	=20	=20	=20
+2D	-to,	2dd	-to,>	2d	-to,>
+4r	.	4r	.	2dd	Del
+4d	Del	4f	Del	.	.
+=21	=21	=21	=21	=21	=21
+4c	bel	4e	bel	2g	bel
+4B-y	san-	4d	san-	.	.
+4A	-gue	4c	-gue	2a	san-
+4F	d'A-	4f	d'A-	.	.
+=22	=22	=22	=22	=22	=22
+2G	-do-	2d	-do-	2b-y	-gue
+2c	-ne_o	2e	-ne	2g	d'A-
+=23	=23	=23	=23	=23	=23
+4d	di	4r	.	2f	-do-
+4B-y	Gia-	4d	o	.	.
+2A	-cin-	8eL	di	2a	-ne_o
+.	.	8d	.	.	.
+.	.	8e	.	.	.
+.	.	8fJ	.	.	.
+=24	=24	=24	=24	=24	=24
+4G	-to,	4.g	.	2b-y	di
+4B-y	o	.	.	.	.
+.	.	8f	.	.	.
+8AL	di	2e	.	2cc	Gia-
+8B-y	.	.	.	.	.
+8c	.	.	.	.	.
+8AJ	.	.	.	.	.
+=25	=25	=25	=25	=25	=25
+4B-y	.	4d	Gia-	4dd	-cin-
+4G	Gia-	2g	-cin-	4b-y	.
+2d	-cin-	.	.	2a	.
+.	.	4f#X	.	.	.
+=26	=26	=26	=26	=26	=26
+2G	-to,	2g	-to,	2g	-to,
+2d	Del	4r	.	4r	.
+.	.	4f	Del	4a	Del
+=27	=27	=27	=27	=27	=27
+2G	bel	4e	bel	4g	bel
+.	.	4d	san-	4f	san-
+2A	san-	4c	-gue	4e	-gue
+.	.	4cc	d'A-	4c	d'A-
+=28	=28	=28	=28	=28	=28
+2B-y	-gue	4b-y	-do-	2d	-do-
+.	.	4f	-ne_o	.	.
+2G	d'A-	4.b-y	di	2g	-ne_o
+.	.	16aLL	.	.	.
+.	.	16b-yJJ	.	.	.
+=29	=29	=29	=29	=29	=29
+2F	-do-	4cc	.	4a	di
+.	.	4.cc	Gia-	4f	Gia-
+2A	-ne_o	.	.	2e	-cin-
+.	.	8b-yL	.	.	.
+.	.	8a	.	.	.
+.	.	8gJ	.	.	.
+=30	=30	=30	=30	=30	=30
+2B-y	di	4f	.	4d	-to,
+.	.	4b-y	-cin-	4f	o
+2c	Gia-	4g	-t'o	8eL	di
+.	.	.	.	8f	.
+.	.	[4cc	di	8g	.
+.	.	.	.	8eJ	.
+=31	=31	=31	=31	=31	=31
+1d	-cin-	4cc]	.	4f	.
+.	.	4b-y	Gia-	4g	Gia-
+.	.	2a	-cin-	2f#X	-cin-
+=32	=32	=32	=32	=32	=32
+1G;l	-to?	1bnX;l	-to?	1g;l	-to?
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/01/30
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/01/30
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/01/30 by Craig Stuart Sapp

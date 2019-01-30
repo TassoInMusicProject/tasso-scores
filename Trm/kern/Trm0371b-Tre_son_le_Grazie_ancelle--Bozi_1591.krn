@@ -1,0 +1,201 @@
+!!!COM: Bozi, Paolo
+!!!CDT:
+!!!PTL: Canzonette a tre voci
+!!!PPP: Venice
+!!!PPR: Amadino
+!!!PDT: 1591
+!!!RISM: B 4203
+!!!rime: 371
+!!!OTL: Tre son le Grazie ancelle
+!!!AGN: Madrigal
+!!!SCT: Trm0371b
+!!!SCA: Trm0371b
+!!!voices: 3
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Canto	*
+*oclefC3	*	*oclefG2	*	*oclefG2	*
+*clefGv2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+=1	=1	=1	=1	=1	=1
+1r	.	1r	.	2g	Tre
+.	.	.	.	4.b	son
+.	.	.	.	8cc	le
+=2	=2	=2	=2	=2	=2
+1r	.	2g	Tre	4dd	gra-
+.	.	.	.	4ee	-tie_an-
+.	.	4.b	son	2dd	-cel-
+.	.	8cc	le	.	.
+=3	=3	=3	=3	=3	=3
+2G	Tre	4dd	gra-	2b	-le,
+.	.	4ee	-tie_an-	.	.
+4.B	son	4.dd	-cel-	4r	.
+.	.	.	.	4dd	le
+8c	le	16ccLL	.	.	.
+.	.	16bJJ	.	.	.
+=4	=4	=4	=4	=4	=4
+4d	gra-	4a	.	4ff	gra-
+4e	-tie_an-	4g	.	4gg	-tie_an-
+2d	-cel-	2a	.	2ff	-cel-
+=5	=5	=5	=5	=5	=5
+4d	-le,	4a	-le,	4ff	-le,
+4g	Se	4b	Se	4dd	Se
+4g	non	4b	non	4dd	non
+4g	è	4b	è	4dd	è
+=6	=6	=6	=6	=6	=6
+4.g	fal-	4.b	fal-	4.dd	fal-
+8g	-so	8b	-so	8dd	-so
+4g	de	4b	de	4dd	de
+4e	la	4cc	la	4gg	la
+=7	=7	=7	=7	=7	=7
+4f	fa-	4a	fa-	4ff	fa-
+4g	-ma_il	4b	-ma_il	4dd	-ma_il
+2c	gri-	2cc	gri-	2ee	gri-
+=8	=8	=8	=8	=8	=8
+1c	-do,	2cc	-do,	1ee	-do,
+.	.	2g	Tre	.	.
+=9	=9	=9	=9	=9	=9
+1r	.	4.b	son	2r	.
+.	.	8cc	le	.	.
+.	.	4dd	gra-	2g	Tre
+.	.	4ee	-tie_an-	.	.
+=10	=10	=10	=10	=10	=10
+2r	.	2dd	-cel-	4.b	son
+.	.	.	.	8cc	le
+2G	Tre	2b	-le,	4dd	gra-
+.	.	.	.	4ee	-tie_an-
+=11	=11	=11	=11	=11	=11
+4.B	son	4r	.	4.dd	-cel-
+.	.	4dd	le	.	.
+8c	le	.	.	16ccLL	.
+.	.	.	.	16bJJ	.
+4d	gra-	4ff	gra-	4a	.
+4e	-tie_an-	4gg	-tie_an-	4g	.
+=12	=12	=12	=12	=12	=12
+2d	-cel-	2ff	-cel-	2a	.
+4d	-le,	4ff	-le,	4a	-le,
+4g	Se	4dd	Se	4b	Se
+=13	=13	=13	=13	=13	=13
+4g	non	4dd	non	4b	non
+4g	è	4dd	è	4b	è
+4.g	fal-	4.dd	fal-	4.b	fal-
+8g	-so	8dd	-so	8b	-so
+=14	=14	=14	=14	=14	=14
+4g	de	4dd	de	4b	de
+4e	la	4gg	la	4cc	la
+4f	fa-	4ff	fa-	4a	fa-
+4g	-ma_il	4dd	-ma_il	4b	-ma_il
+=15	=15	=15	=15	=15	=15
+2c	gri-	1ee	gri-	2cc	gri-
+2c	-do,	.	.	2cc	-do,
+=16	=16	=16	=16	=16	=16
+2g	On-	2dd	-do,	4r	.
+.	.	.	.	4b	On-
+2f	-d'è	4r	.	4cc	-d'è
+.	.	4a	On-	4dd	ser-
+=17	=17	=17	=17	=17	=17
+2e	ser-	4b	-d'è	2ee	-vi-
+.	.	4cc	ser-	.	.
+2d	-vi-	2dd	-vi-	2a	-ta,
+=18	=18	=18	=18	=18	=18
+8cL	-ta,	4g	-ta	2r	.
+8d	.	.	.	.	.
+8e	.	2cc	l'al-	.	.
+8fJ	.	.	.	.	.
+2g	.	.	.	2dd	On-
+.	.	4b	-ma	.	.
+=19	=19	=19	=19	=19	=19
+2r	.	4cc	Dea	2cc	-d'è
+.	.	4ee	di	.	.
+2G	On-	2dd	Gni-	2b	ser-
+=20	=20	=20	=20	=20	=20
+4A	-d'è	4cc	-do,	2a	-vi-
+4B	ser-	4dd	On-	.	.
+2c	-vi-	2cc	-d'è	2g	-ta
+=21	=21	=21	=21	=21	=21
+4G	-ta	2b	ser-	2.dd	l'al-
+2g	l'al-	.	.	.	.
+.	.	2a	-vi-	.	.
+4f	-ma	.	.	4dd	-ma
+=22	=22	=22	=22	=22	=22
+4e	Dea	4g	-ta	4b	Dea
+4c	di	2g	l'al-	4cc	di
+2d	Gni-	.	.	2a	Gni-
+.	.	4f#X	-ma	.	.
+=23	=23	=23	=23	=23	=23
+4G	-do,	2g	Dea,	4b	-do,
+2c	l'al-	.	.	2ee	l'al-
+.	.	4cc	l'al-	.	.
+4d	-ma	8bL	.	8ddL	.
+.	.	8aJ	.	8ccJ	.
+=24	=24	=24	=24	=24	=24
+4e	Dea	4g	.	4.b	.
+4g	di	4g	-ma	.	.
+.	.	.	.	8b	-ma
+[2d	Gni-	4f	Dea	4a	Dea
+.	.	4g	di	4g	di
+=25	=25	=25	=25	=25	=25
+2d]	.	2f#X	Gni-	2a	Gni-
+4G	-do,	4g	-do,	2b	-do,
+4g	On-	4b	On-	.	.
+=26	=26	=26	=26	=26	=26
+2f	-d'è	4cc	-d'è	4r	.
+.	.	4dd	ser-	4a	On-
+2e	ser-	2ee	-vi-	4b	-d'è
+.	.	.	.	4cc	ser-
+=27	=27	=27	=27	=27	=27
+2d	-vi-	2a	-ta,	2dd	-vi-
+8cL	-ta,	2r	.	4g	-ta
+8d	.	.	.	.	.
+8e	.	.	.	[4cc	l'al-
+8fJ	.	.	.	.	.
+=28	=28	=28	=28	=28	=28
+2g	.	2dd	On-	4cc]	.
+.	.	.	.	4b	-ma
+2r	.	2cc	-d'è	4cc	Dea
+.	.	.	.	4ee	di
+=29	=29	=29	=29	=29	=29
+2G	On-	2b	ser-	2dd	Gni-
+4A	-d'è	2a	-vi-	4cc	-do,
+4B	ser-	.	.	4dd	On-
+=30	=30	=30	=30	=30	=30
+2c	-vi-	2g	-ta	2cc	-d'è
+4G	-ta	[2dd	l'al-	2b	ser-
+[4g	l'al-	.	.	.	.
+=31	=31	=31	=31	=31	=31
+4g]	.	4dd]	.	2a	-vi-
+4f	-ma	4dd	-ma	.	.
+4e	Dea	4b	Dea	4g	-ta
+4c	di	4cc	di	[4g	l'al-
+=32	=32	=32	=32	=32	=32
+2d	Gni-	2a	Gni-	4g]	.
+.	.	.	.	4f#X	-ma
+4G	-do,	4b	-do,	2g	dea,
+[4c	l'al-	[4ee	l'al-	.	.
+=33	=33	=33	=33	=33	=33
+4c]	.	4ee]	.	4cc	l'al-
+4d	-ma	8ddL	.	8bL	.
+.	.	8ccJ	.	8aJ	.
+4e	Dea	4b	.	4g	.
+4g	di	4b	-ma	4g	-ma
+=34	=34	=34	=34	=34	=34
+1d	Gni-	4a	Dea	4f#X	Dea
+.	.	4g	di	4g	di
+.	.	2a	Gni-	2f#X	Gni-
+=35	=35	=35	=35	=35	=35
+1G;l	-do.	1b;l	-do.	1g;l	-do.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/01/30
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/01/30
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/01/30 by Craig Stuart Sapp

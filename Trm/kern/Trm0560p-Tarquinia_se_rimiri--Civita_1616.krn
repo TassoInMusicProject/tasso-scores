@@ -1,0 +1,177 @@
+!!!COM: Civita, Davide
+!!!CDT:
+!!!PTL: Premitie armoniche a tre voci
+!!!PPP: Venice
+!!!PPR: Giacomo Vincenzi
+!!!PDT: 1616
+!!!RISM: Unknown
+!!!rime: 560
+!!!OTL: Tarquinia se rimiri
+!!!AGN: Madrigal
+!!!SCT: Trm0560p
+!!!SCA: Trm0560p
+!!!voices: 3+bc
+**kern	**kern	**text	**kern	**text
+*part3	*part2	*part2	*part1	*part1
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"B.C.	*I"Basso	*	*I"Alto	*
+*oclefF4	*oclefF4	*	*oclefC1	*
+*clefF4	*clefF4	*	*clefG2	*
+*k[b-]	*k[b-]	*	*k[b-]	*
+*F:	*F:	*	*F:	*
+*omet(C)	*omet(C)	*	*omet(C)	*
+*M2/2	*M2/2	*	*M2/2	*
+=1	=1	=1	=1	=1
+2F	2F	Men-	2a	Men-
+4F	4F	-tre,	4a	-tre,
+4F	4F	mia	4a	mia
+=2	=2	=2	=2	=2
+4.F	4.F	stel-	4.a	stel-
+8G	8G	-la,	8g	-la,
+2D	2D	mi-	2f#X	mi-
+=3	=3	=3	=3	=3
+1D	1D	-ri	1f#X	-ri
+=4	=4	=4	=4	=4
+2D	4r	.	4r	.
+.	4D	I	4fnXi	I
+4GG	4GG	bei	4g	bei
+4G	4G	ce-	4g	ce-
+=5	=5	=5	=5	=5
+2F	2F	-le-	4a	-le-
+.	.	.	4a	-sti
+2BB-y	2BB-y	-sti	8b-yL	gi-
+.	.	.	8a	.
+.	.	.	8g	.
+.	.	.	8fJ	.
+=6	=6	=6	=6	=6
+1C	1C	gi-	4e	.
+.	.	.	2f	.
+.	.	.	4e	.
+=7	=7	=7	=7	=7
+4FF	4FF	-ri,	4f	-ri,
+4F	4F	Il	4a	Il
+2F	2F	Ciel	2a	Ciel
+=8	=8	=8	=8	=8
+4F	4r	.	4r	.
+4.F	4.F	es-	4.a	es-
+8F	8F	-ser	8a	-ser
+4C	4C	vor-	4e	vor-
+=9	=9	=9	=9	=9
+2GG	2GG	-re-	2g	-re-
+2D	2D	-i;	2f#X	-i;
+=10	=10	=10	=10	=10
+2D	4r	.	1r	.
+.	4D	Per-	.	.
+4F#X	4F#X	-ché	.	.
+4F#i	4F#i	nel-	.	.
+=11	=11	=11	=11	=11
+2G	2G	-l’oc-	1r	.
+2A	2A	-chi	.	.
+=12	=12	=12	=12	=12
+2B-y	2B-y	miei,	4r	.
+.	.	.	4dd	Per-
+2F#X	2F#X	Per-	4dd	-ché
+.	.	.	4a	nel-
+=13	=13	=13	=13	=13
+2G	2G	-ché	4b-y	-l’oc-
+.	.	.	4b-y	-chi
+2A	2A	nel-	8aL	mie-
+.	.	.	8g	.
+.	.	.	8f	.
+.	.	.	8eJ	.
+=14	=14	=14	=14	=14
+4B-y	4B-y	-l’oc-	8dL	.
+.	.	.	16eL	.
+.	.	.	16fJJ	.
+4G	4G	-chi	2g	.
+2D	2D	mie-	.	.
+.	.	.	4f#X	.
+=15	=15	=15	=15	=15
+1GG	1GG	-i	1g	-i
+=16	=16	=16	=16	=16
+2.D	2.D	Fis-	2.f	Fis-
+4D	4D	-so	4f#X	-so
+=17	=17	=17	=17	=17
+2D	2D	tu	2f#X	tu
+4GG	4GG	ri-	4g	ri-
+4AA	4AA	-vol-	4e	-vol-
+=18	=18	=18	=18	=18
+2D	2D	-ges-	2f#X	-ges-
+2D	2D	-si	2f#X	-si
+=19	=19	=19	=19	=19
+2.F	2.F	Le	2r	.
+.	.	.	4r	.
+4E	4E	tue	[4g	Le
+=20	=20	=20	=20	=20
+2.A	2.A	dol-	4g]	.
+.	.	.	4fnXi	tue
+.	.	.	[2f	dol-
+8GL	8GL	-ci	.	.
+8FJ	8FJ	fa-	.	.
+=21	=21	=21	=21	=21
+1G	1G	-vil-	4f]	.
+.	.	.	8eL	-ci
+.	.	.	8eJ	fa-
+.	.	.	2d	-vil-
+=22	=22	=22	=22	=22
+1C	1C	-le,	1c	-le,
+=23	=23	=23	=23	=23
+2G	1r	.	1r	.
+2F	.	.	.	.
+=24	=24	=24	=24	=24
+2G	1r	.	4dd	Io
+.	.	.	8ccL	vag-
+.	.	.	8b-yJ	-gheg-
+2F	.	.	4cc	-giar
+.	.	.	4a	po-
+=25	=25	=25	=25	=25
+4G	4G	Io	2b-y	-tes-
+8FL	8FL	vag-	.	.
+8EJ	8EJ	-gheg-	.	.
+4F	4F	-giar	4a	-si,
+4D	4D	po-	8f#XL	vag-
+.	.	.	8f#XJ	-gheg-
+=26	=26	=26	=26	=26
+2E-X	2E-X	-tes-	8gL	-giar
+.	.	.	8gJ	po-
+.	.	.	2g	-tes-
+2D	2D	-si	.	.
+.	.	.	4f#X	-si
+=27	=27	=27	=27	=27
+2.F	2.F	Mil-	2.a	Mil-
+8DL	8DL	-le	8fL	-le
+8DJ	8DJ	bel-	8fJ	bel-
+=28	=28	=28	=28	=28
+4.BB-y	4.BB-y	-lez-	4.d	-lez-
+8BB-y	8BB-y	-ze	8d	-ze
+2AA	2AA	tue	2c#X	tue
+=29	=29	=29	=29	=29
+2AA	4r	.	4r	.
+.	4AA	con	4a	con
+4BB-y	4BB-y	lu-	4g	lu-
+4GG	4GG	-ci	4g	-ci
+=30	=30	=30	=30	=30
+2C	2C	mil-	2e	mil-
+2C	2C	-le,	2e	-le,
+=31	=31	=31	=31	=31
+2F	2F	con	1a	con
+4.AA	4.AA	lu-	.	.
+8BB-y	8BB-y	-ci	.	.
+=32	=32	=32	=32	=32
+1C	1C	mil-	8eL	lu-
+.	.	.	8eJ	-ci
+.	.	.	2f	mil-
+.	.	.	4e	.
+=33	=33	=33	=33	=33
+1FF;l	1FF;l	-le.	1f;l	-le.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/01/30
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/01/30
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/01/30 by Craig Stuart Sapp

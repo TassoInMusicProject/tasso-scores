@@ -1,0 +1,230 @@
+!!!COM: Bozi, Paolo
+!!!CDT:
+!!!PTL: Canzonette a tre voci
+!!!PPP: Venice
+!!!PPR: Amadino
+!!!PDT: 1591
+!!!RISM: B 4203
+!!!rime: 137
+!!!OTL: Non fonte o fiume od aura
+!!!AGN: Madrigal
+!!!SCT: Trm0137b
+!!!SCA: Trm0137b
+!!!voices: 3
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Canto	*
+*oclefC3	*	*oclefG2	*	*oclefG2	*
+*clefGv2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+=1	=1	=1	=1	=1	=1
+2d	Non	1dd	Non	2a	Non
+4B-y	fon-	.	.	2b-y	fon-
+4G	-te_o	.	.	.	.
+=2	=2	=2	=2	=2	=2
+8B-yL	fiu-	2b-y	fon-	1f	-te
+8A	.	.	.	.	.
+8B-y	.	.	.	.	.
+8cJ	.	.	.	.	.
+8dL	.	[2a	-te	.	.
+8c	.	.	.	.	.
+8d	.	.	.	.	.
+8eJ	.	.	.	.	.
+=3	=3	=3	=3	=3	=3
+4f	.	4a]	.	2r	.
+4g	-me_od	4g	o	.	.
+2G	au-	8b-yL	fiu-	4r	.
+.	.	8a	.	.	.
+.	.	8b-y	.	4g	o
+.	.	8ccJ	.	.	.
+=4	=4	=4	=4	=4	=4
+4G	-ra,	8ddL	.	8b-yL	fiu-
+.	.	8cc	.	8a	.
+4g	od	8dd	.	8b-y	.
+.	.	8eeJ	.	8ccJ	.
+4.f	au-	4ff	.	8ddL	.
+.	.	.	.	8cc	.
+.	.	4f	-me_od	8dd	.
+8e	.	.	.	8eeJ	.
+=5	=5	=5	=5	=5	=5
+1d	.	4a	au-	4ff	.
+.	.	4b-y	.	4gg	-me_od
+.	.	2a	.	2ff#X	au-
+=6	=6	=6	=6	=6	=6
+2G	-ra	2g	-ra	2gg	-ra
+2g	O-	[2b-y	O-	2dd	O-
+=7	=7	=7	=7	=7	=7
+4g	-do_in	4b-]	.	4dd	-do_in
+4g	più	4b-y	-do_in	4dd	più
+[2d	dol-	2a	più	[2ff	dol-
+=8	=8	=8	=8	=8	=8
+2d]	.	2.b-y	dol-	2ff]	.
+2e-X	-ce	.	.	2gg	-ce
+.	.	4g	-ce	.	.
+=9	=9	=9	=9	=9	=9
+[1d	suon	[1a	suon	[1ff	suon
+=10	=10	=10	=10	=10	=10
+2d]	.	2a]	.	2ff]	.
+2B-y	di	2b-y	di	2dd	di
+=11	=11	=11	=11	=11	=11
+2A	quel	2cc	quel	2cc	quel
+2B-y	de	2dd	de	4b-y	de
+.	.	.	.	[4b-y	Lau-
+=12	=12	=12	=12	=12	=12
+1f	Lau-	1cc	Lau-	4b-]	.
+.	.	.	.	8aL	.
+.	.	.	.	8gJ	.
+.	.	.	.	2a	.
+=13	=13	=13	=13	=13	=13
+1B-y	-ra;	1dd	-ra;	1b-y	-ra;
+=14	=14	=14	=14	=14	=14
+2d	Non	1dd	Non	2a	Non
+4B-y	fon-	.	.	2b-y	fon-
+4G	-te_o	.	.	.	.
+=15	=15	=15	=15	=15	=15
+8B-yL	fiu-	2b-y	fon-	1f	-te
+8A	.	.	.	.	.
+8B-y	.	.	.	.	.
+8cJ	.	.	.	.	.
+8dL	.	2a	-te	.	.
+8c	.	.	.	.	.
+8d	.	.	.	.	.
+8eJ	.	.	.	.	.
+=16	=16	=16	=16	=16	=16
+4f	.	4r	.	2r	.
+4g	-me_od	4g	o	.	.
+2G	au-	8b-yL	fiu-	4r	.
+.	.	8a	.	.	.
+.	.	8b-y	.	4g	o
+.	.	8ccJ	.	.	.
+=17	=17	=17	=17	=17	=17
+4G	-ra,	8ddL	.	8b-yL	fiu-
+.	.	8cc	.	8a	.
+4g	od	8dd	.	8b-y	.
+.	.	8eeJ	.	8ccJ	.
+4.f	au-	4ff	.	8ddL	.
+.	.	.	.	8cc	.
+.	.	4f	-me_od	8dd	.
+8e	.	.	.	8eeJ	.
+=18	=18	=18	=18	=18	=18
+1d	.	4a	au-	4ff	.
+.	.	4b-y	.	4gg	-me_od
+.	.	2a	.	2ff#X	au-
+=19	=19	=19	=19	=19	=19
+2G	-ra	2g	-ra	2gg	-ra
+2g	O-	[2b-y	O-	2dd	O-
+=20	=20	=20	=20	=20	=20
+4g	-do_in	4b-]	.	4dd	-do_in
+4g	più	4b-y	-do_in	4dd	più
+[2d	dol-	2a	più	[2ff	dol-
+=21	=21	=21	=21	=21	=21
+2d]	.	2.b-y	dol-	2ff]	.
+2e-X	-ce	.	.	2gg	-ce
+.	.	4g	-ce	.	.
+=22	=22	=22	=22	=22	=22
+[1d	suon	[1a	suon	[1ff	suon
+=23	=23	=23	=23	=23	=23
+2d]	.	2a]	.	2ff]	.
+2B-y	di	2b-y	di	2dd	di
+=24	=24	=24	=24	=24	=24
+2A	quel	2cc	quel	2cc	quel
+2B-y	de	2dd	de	4b-y	de
+.	.	.	.	[4b-y	Lau-
+=25	=25	=25	=25	=25	=25
+1f	Lau-	1cc	Lau-	4b-]	.
+.	.	.	.	8aL	.
+.	.	.	.	8gJ	.
+.	.	.	.	2a	.
+=26	=26	=26	=26	=26	=26
+3%2B-y	-ra;	3%2dd	-ra;	3%2b-y	-ra;
+3d	Nè_in	3ff	Né_in	3a	Né_in
+=27	=27	=27	=27	=27	=27
+3%2B-y	lau-	3%2ff	lau-	3%2dd	lau-
+3G	-ro_o'n	3gg	-ro_o'n	3b-y	-ro_o'n
+=28	=28	=28	=28	=28	=28
+3%2d	pi-	3%2ff#X	pi-	3%2a	pi-
+3e-X	-no_o'n	3gg	-no_o'n	3g	-no_o'n
+=29	=29	=29	=29	=29	=29
+3%2d	mir-	3%2ff	mir-	3%2a	mir-
+3d	-to	3ff	-to	3a	-to
+=30	=30	=30	=30	=30	=30
+3.g	Mor-	3.dd	Mor-	3.b-y	Mor-
+6g	-mo-	6dd	-mo-	6b-y	-mo-
+3g	-rar	3b-y	-rar	3b-y	-rar
+=31	=31	=31	=31	=31	=31
+3%2f	s'u-	3%2cc	s'u-	3%2a	s'u-
+3f	-dì	3cc	-dì	3a	-dì
+=32	=32	=32	=32	=32	=32
+3%2B-y	mai	3%2dd	mai	3%2b-y	mai
+3e-X	più	3b-y	più	3g	più
+=33	=33	=33	=33	=33	=33
+[1e-i	dol-	1b-y	dol-	[1g	dol-
+=34	=34	=34	=34	=34	=34
+2e-]	.	2cc	-ce	2g]	.
+2c	-ce	[2cc	spir-	2a	-ce
+=35	=35	=35	=35	=35	=35
+[1d	spir-	4cc]	.	2f	spir-
+.	.	4b-y	.	.	.
+.	.	4b-y	.	[2g	.
+.	.	8aL	.	.	.
+.	.	8gJ	.	.	.
+=36	=36	=36	=36	=36	=36
+1d]	.	1a	.	4g]	.
+.	.	.	.	8f#XL	.
+.	.	.	.	8eJ	.
+.	.	.	.	2f#i	.
+=37	=37	=37	=37	=37	=37
+3%2G	-to,	3%2bnX	-to,	3%2g	-to,
+3d	Né_in	3a	Né_in	3f	Né_in
+=38	=38	=38	=38	=38	=38
+3%2B-y	lau-	3%2dd	lau-	3%2ff	lau-
+3G	-ro_o'n	3b-y	-ro_o'n	3gg	-ro_o'n
+=39	=39	=39	=39	=39	=39
+3%2d	pi-	3%2a	pi-	3%2ff	pi-
+3e-X	-no_o'n	3g	-no_o'n	3gg	-no_o'n
+=40	=40	=40	=40	=40	=40
+3%2d	mir-	3%2a	mir-	3%2ff	mir-
+3d	-to	3a	-to	3ff	-to
+=41	=41	=41	=41	=41	=41
+3.g	Mor-	3.b-y	Mor-	3.dd	Mor-
+6g	-mo-	6b-y	-mo-	6dd	-mo-
+3g	-rar	3b-y	-rar	3b-y	-rar
+=42	=42	=42	=42	=42	=42
+3%2f	s'u-	3%2a	s'u-	3%2cc	s'u-
+3f	-dì	3a	-dì	3cc	-dì
+=43	=43	=43	=43	=43	=43
+3%2B-y	mai	3%2b-y	mai	3%2dd	mai
+3e-X	più	3g	più	3b-y	più
+=44	=44	=44	=44	=44	=44
+[1e-i	dol-	[1g	dol-	1b-y	dol-
+=45	=45	=45	=45	=45	=45
+2e-]	.	2g]	.	2cc	-ce
+2c	-ce	2a	-ce	[2cc	spir-
+=46	=46	=46	=46	=46	=46
+[1d	spir-	2f#X	spir-	4cc]	.
+.	.	.	.	4b-y	.
+.	.	[2g	.	4b-y	.
+.	.	.	.	8aL	.
+.	.	.	.	8gJ	.
+=47	=47	=47	=47	=47	=47
+1d]	.	4g]	.	1a	.
+.	.	8f#XL	.	.	.
+.	.	8eJ	.	.	.
+.	.	2f#X	.	.	.
+=48	=48	=48	=48	=48	=48
+1G;l	-to.	1g;l	-to.	1bnX;l	-to.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/01/30
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/01/30
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/01/30 by Craig Stuart Sapp

@@ -1,0 +1,141 @@
+!!!COM: Torelli, Gaspare
+!!!CDT:
+!!!PTL: Il secondo libro delle canzonette a tre et a quatro voci
+!!!PPP: Venice
+!!!PPR: Amadino
+!!!PDT: 1594
+!!!RISM: 1594-16
+!!!rime: 305
+!!!OTL: Ne i vostri dolci baci
+!!!AGN: Madrigal
+!!!SCT: Trm0305h
+!!!SCA: Trm0305h
+!!!voices: 4
+**kern	**text
+*I"Canto	*
+*oclefC1	*
+*clefG2	*
+*k[b-]	*
+*F:	*
+*omet(C3)	*
+*M4/2	*
+=1	=1
+2g	Ne i
+2a	vo-
+4a	-stri
+2g	dol-
+4g	-ci
+=2	=2
+2b-y	ba-
+2.g	-ci,
+4g	Ne i
+2a	vo-
+=3	=3
+4a	-stri
+2a	dol-
+4a	-ci
+2g	ba-
+4f	-ci
+4f	De
+=4	=4
+4f	l'a-
+4f	-pi_è_il
+4.e	dol-
+8e	-ce
+2g	me-
+2f	-le,
+=5	=5
+2f	il
+4r	.
+2g	dol-
+2f	-ce
+4e	me-
+=6	=6
+1f	-le,
+2g	Ne i
+2a	vo-
+=7	=7
+4a	-stri
+2g	dol-
+4g	-ci
+2b-y	ba-
+[2g	-ci,
+=8	=8
+4g]	.
+4g	Ne i
+2a	vo-
+4a	-stri
+2a	dol-
+4a	-ci
+=9	=9
+2g	ba-
+4f	-ci
+4f	De
+4f	l'a-
+4f	-pi_è_il
+4.e	dol-
+8e	-ce
+=10	=10
+2g	me-
+2f	-le,
+2f	il
+4r	.
+[4g	dol-
+=11	=11
+4g]	.
+2f	-ce
+4e	me
+2f	le,
+2f	E
+=12	=12
+4.d	v'è_il
+8d	mor-
+4g	-so
+4g	de
+2g	l'a-
+2g	-pi
+=13	=13
+0r	.
+=14	=14
+0r	.
+=15	=15
+0r	.
+=16	=16
+3f	Dun-
+3f	-que_a-
+3g	-dol-
+3%2f#X	-ci-
+3f#X	-to,
+=17	=17
+3f#i	Dun-
+3f#i	-que_a-
+3f#i	-dol-
+3%2g	-ci-
+3g	-to_e
+=18	=18
+1.cc	pun-
+2a	-to
+=19	=19
+4r	.
+4a	da
+4g	voi,
+4g	da
+2g	voi
+[2f	par-
+=20	=20
+4f]	.
+4f	-to_in
+2f	un
+2g	pun-
+4.al	-to.
+8r	.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/01/30
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/01/30
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/01/30 by Craig Stuart Sapp

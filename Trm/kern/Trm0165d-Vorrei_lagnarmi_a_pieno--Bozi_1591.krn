@@ -1,0 +1,199 @@
+!!!COM: Bozi, Paolo
+!!!CDT:
+!!!PTL: Canzonette a tre voci
+!!!PPP: Venice
+!!!PPR: Amadino
+!!!PDT: 1591
+!!!RISM: B 4203
+!!!rime: 165
+!!!OTL: Vorrei lagnarmi a pieno
+!!!AGN: Madrigal
+!!!SCT: Trm0165d
+!!!SCA: Trm0165d
+!!!voices: 3
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Canto	*
+*oclefC2	*	*oclefG2	*	*oclefG2	*
+*clefGv2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+=1	=1	=1	=1	=1	=1
+2f	Vor-	2cc	Vor-	2a	Vor-
+[2B-y	-rei	[2dd	-rei	[2b-y	-rei
+=2	=2	=2	=2	=2	=2
+4B-]	.	4dd]	.	4b-]	.
+4B-y	la-	4dd	la-	4b-y	la-
+4B-y	-gnar-	4dd	-gnar-	4b-y	-gnar-
+4A	-mi_a	4cc	-mi_a	4cc	-mi_a
+=3	=3	=3	=3	=3	=3
+2B-y	pie-	2b-y	pie-	2dd	pie-
+4F	-no	2a	-no	4.cc	-no
+[4f	Sfo-	.	.	.	.
+.	.	.	.	8b-y	.
+=4	=4	=4	=4	=4	=4
+4f]	.	4cc	Sfo-	2.a	.
+2d	-gan-	2dd	-gan-	.	.
+4A	-do_il	4cc	-do_il	4cc	Sfo-
+=5	=5	=5	=5	=5	=5
+8B-yL	duol	2b-y	duol,	2dd	-gan-
+8c	.	.	.	.	.
+8d	.	.	.	.	.
+8eJ	.	.	.	.	.
+4f	.	4r	.	4cc	-go_il
+4g	Ch'io	4b-y	il	4b-y	duol
+=6	=6	=6	=6	=6	=6
+1f	sen-	4cc	duol	4a	ch'io
+.	.	4dd	ch'io	2b-y	sen-
+.	.	2cc	sen-	.	.
+.	.	.	.	4a	.
+=7	=7	=7	=7	=7	=7
+1B-y	-to,	1dd	-to,	1b-y	-to,
+=8	=8	=8	=8	=8	=8
+2f	Vor-	2a	Vor-	2cc	Vor-
+[2B-y	-rei	[2b-y	-rei	[2dd	-rei
+=9	=9	=9	=9	=9	=9
+4B-]	.	4b-]	.	4dd]	.
+4B-y	la-	4b-y	la-	4dd	la-
+4B-y	-gnar-	4b-y	-gnar-	4dd	-gnar-
+4A	-mi_a	4cc	-mi_a	4cc	-mi_a
+=10	=10	=10	=10	=10	=10
+2B-y	pie-	2dd	pie-	2b-y	pie-
+4F	-no	4.cc	-no	2a	-no
+[4f	Sfo-	.	.	.	.
+.	.	8b-y	.	.	.
+=11	=11	=11	=11	=11	=11
+4f]	.	2.a	.	4cc	Sfo-
+2d	-gan-	.	.	2dd	-gan-
+4A	-do_il	4cc	Sfo-	4cc	-do_il
+=12	=12	=12	=12	=12	=12
+8B-yL	duol	2dd	-gna-	2b-y	duol,
+8c	.	.	.	.	.
+8d	.	.	.	.	.
+8eJ	.	.	.	.	.
+4f	.	4cc	-do_il	4r	.
+4g	ch'io	4b-y	duol	4b-y	il
+=13	=13	=13	=13	=13	=13
+1f	sen-	4a	ch'io	4cc	duol
+.	.	2b-y	sen-	4dd	ch'io
+.	.	.	.	2cc	sen-
+.	.	4a	.	.	.
+=14	=14	=14	=14	=14	=14
+4B-y	-to,	4b-y	-to,	4.dd	.
+4b-y	Ma	4dd	Ma	.	.
+.	.	.	.	8ee	.
+4.a	vo-	4.cc	vo-	[2ff	.
+8a	-stro	8cc	-stro	.	.
+=15	=15	=15	=15	=15	=15
+2b-y	sde-	2dd	sde-	2ff]	.
+2f	-gno,	2cc	-gno,	[2ff	-to,
+=16	=16	=16	=16	=16	=16
+4r	.	4r	.	2ff]	.
+4f	Ma	4a	Ma	.	.
+4.e	vo-	4.g	vo-	2r	.
+8e	-stro	8g	-stro	.	.
+=17	=17	=17	=17	=17	=17
+2f	sde-	2a	sde-	4r	.
+.	.	.	.	4ff	Ma
+2c	-gno	2g	-gno	4.ee	vo-
+.	.	.	.	8ee	-stro
+=18	=18	=18	=18	=18	=18
+4.d	d'ir-	4.f	d'ir-	2ff	sde-
+8e	.	8g	.	.	.
+4f	.	4a	.	2cc	-gno,
+4F	-ri-	4a	-ri-	.	.
+=19	=19	=19	=19	=19	=19
+4c	-tar	4g	-tar	4r	.
+4d	pa-	4f	pa-	4ff	Ma
+2c	-ven-	2g	-ven-	4.ee	vo-
+.	.	.	.	8ee	-stro
+=20	=20	=20	=20	=20	=20
+4F	-to,	4a	-to,	2ff	sde-
+2f	d'ir-	2a	d'ir-	.	.
+.	.	.	.	2cc	-gno
+4e	-ri-	4g	-ri-	.	.
+=21	=21	=21	=21	=21	=21
+4d	-tar	4a	-tar	2ff	d'ir-
+4B-y	pa-	4b-y	pa-	.	.
+2c	-ven-	2g	-ven-	2ee	-ri-
+=22	=22	=22	=22	=22	=22
+4d	-to,	4f	-to,	2.dd	-tar
+2B-y	<d'ir-	2b-y	<d'ir-	.	.
+4c	-ri-	4g	-ri-	8ccL	.
+.	.	.	.	8b-yJ	.
+=23	=23	=23	=23	=23	=23
+4d	-tar	4f	-tar	4.a	.
+4f	pa-	4f	pa-	.	.
+.	.	.	.	8a	pa-
+2c	-ven-	2e	-ven-	2g	-ven-
+=24	=24	=24	=24	=24	=24
+2f	-to,>	4f	-to,>	2a	-to,
+.	.	4ff	Ma	.	.
+4r	.	[2ff	vo-	2dd	Ma
+4b-y	Ma	.	.	.	.
+=25	=25	=25	=25	=25	=25
+4.a	vo-	4ff]	.	4.cc	vo-
+.	.	4ff	-stro	.	.
+8a	-stro	.	.	8cc	-stro
+2b-y	sde-	[2ff	sde-	2dd	sde-
+=26	=26	=26	=26	=26	=26
+2f	-gno,	2ff]	.	2cc	-gno,
+4r	.	[2cc	-gno,	4r	.
+4f	Ma	.	.	4a	<Ma
+=27	=27	=27	=27	=27	=27
+4.e	vo-	2cc]	.	4.g	vo-
+8e	-stro-	.	.	8g	-stro
+2f	-sde-	4r	.	2a	sde-
+.	.	4ff	<Ma	.	.
+=28	=28	=28	=28	=28	=28
+2c	-gno	4.ee	vo-	2g	-gno>
+.	.	8ee	-stro	.	.
+4.d	d'ir-	2ff	sde-	4.f	d'ir-
+8e	.	.	.	8g	.
+=29	=29	=29	=29	=29	=29
+4f	.	2cc	-gno,>	4a	.
+4F	-ri-	.	.	4a	-ri-
+4c	-tar	4r	.	4g	-tar
+4d	pa-	4ff	Ma	4f	pa-
+=30	=30	=30	=30	=30	=30
+2c	-ven-	4.ee	vo-	2g	-ven-
+.	.	8ee	-stro	.	.
+4F	-to,	2ff	sde-	4a	-to,
+[4f	d'ir-	.	.	[4a	d'ir-
+=31	=31	=31	=31	=31	=31
+4f]	.	2cc	-gno	4a]	.
+4e	-ri-	.	.	4g	-ri-
+4d	-tar	2ff	d'ir-	4a	-tar
+4B-y	pa-	.	.	4b-y	pa-
+=32	=32	=32	=32	=32	=32
+2c	-ven-	2ee	-ri-	2g	-ven-
+4d	-to,	[2dd	-tar	4f	-to,
+[4B-y	<d'ir-	.	.	[4b-y	<d'ir-
+=33	=33	=33	=33	=33	=33
+4B-]	.	4dd]	.	4b-]	.
+4c	-ri-	8ccL	.	4g	-ri-
+.	.	8b-yJ	.	.	.
+4d	-tar	4.a	.	2f	-tar
+4f	pa-	.	.	.	.
+.	.	8a	pa-	.	.
+=34	=34	=34	=34	=34	=34
+1c	-ven-	4g	-ven-	4e	pa-
+.	.	4f	.	2f	-ven-
+.	.	2g	.	.	.
+.	.	.	.	4e	.
+=35	=35	=35	=35	=35	=35
+1F;l	-to.>	1a;l	-to.	1f;l	-to.>
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/01/30
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/01/30
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/01/30 by Craig Stuart Sapp

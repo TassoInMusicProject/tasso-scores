@@ -1,0 +1,158 @@
+!!!COM: Vecchi, Orazio
+!!!CDT:
+!!!PTL: Canzonette. Libro primo. A quattro voci
+!!!PPP: Venice
+!!!PPR: Angelo Gardano
+!!!PDT: 1580
+!!!RISM: V 1010
+!!!rime: 297
+!!!OTL: Sel vostro volto e dun aria gentile
+!!!AGN: Madrigal
+!!!SCT: Trm0297a
+!!!SCA: Trm0297a
+!!!voices: 4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Alti	*	*I"Canto	*
+*oclefC3	*	*oclefC1	*	*oclefG2	*	*oclefG2	*
+*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+=1	=1	=1	=1	=1	=1	=1	=1
+1r	.	4r	.	4r	.	4r	.
+.	.	4c	Se'l	4cc	Se'l	4gg	Se'l
+.	.	4c	vo-	4cc	vo-	4gg	vo-
+.	.	4d	-stro	4a	-stro	4ff	-stro
+=2	=2	=2	=2	=2	=2	=2	=2
+2r	.	2c	vol-	2cc	vol-	2ee	vol-
+4r	.	4g	-to	4b	-to	4dd	-to
+4c	è	4cc	è	4ee	è	4gg	è
+=3	=3	=3	=3	=3	=3	=3	=3
+4g	d'un	4b	d'un	4dd	d'un	4gg	d'un
+4d	a-	4a	a-	4dd	a-	4ff	a-
+4e	-ria	4g	-ria	4cc	-ria	4ee	-ria
+4g	gen-	4g	gen-	4b	gen-	4dd	gen-
+=4	=4	=4	=4	=4	=4	=4	=4
+2d	-ti-	2f#X	-ti-	2a	-ti-	2dd	-ti-
+2G	-le,	2g	-le,	2b	-le,	2dd	-le,
+=5	=5	=5	=5	=5	=5	=5	=5
+1r	.	4r	.	4r	.	4r	.
+.	.	4c	Se'l	4cc	Se'l	4gg	Se'l
+.	.	4c	vo-	4cc	vo-	4gg	vo-
+.	.	4d	-stro	4a	-stro	4ff	-stro
+=6	=6	=6	=6	=6	=6	=6	=6
+2r	.	2c	vol-	2cc	vol-	2ee	vol-
+4r	.	4g	-to	4b	-to	4dd	-to
+4c	è	4cc	è	4ee	è	4gg	è
+=7	=7	=7	=7	=7	=7	=7	=7
+4g	d'un	4b	d'un	4dd	d'un	4gg	d'un
+4d	a-	4a	a-	4dd	a-	4ff	a-
+4e	-ria	4g	-ria	4cc	-ria	4ee	-ria
+4g	gen-	4g	gen-	4b	gen-	4dd	gen-
+=8	=8	=8	=8	=8	=8	=8	=8
+2d	-ti-	2f#X	-ti-	2a	-ti-	2dd	-ti-
+2G	-le	2g	-le	2b	-le	2dd	-le
+=9	=9	=9	=9	=9	=9	=9	=9
+4r	.	4r	.	4r	.	4r	.
+4G	E_i	4g	E_i	4b	E_i	4dd	E_i
+4g	bei	4g	bei	4b	bei	4dd	bei
+4f	vo-	4a	vo-	4a	vo-	4dd	vo-
+=10	=10	=10	=10	=10	=10	=10	=10
+4e	-stri_oc-	4g	-stri_oc-	4b	-stri_oc-	4ee	-stri_oc-
+4d	-chi	4f	-chi	4dd	-chi	4ff	-chi
+4c	son	4e	son	4ee	son	4gg	son
+4d	due	4f	due	4dd	due	4ff	due
+=11	=11	=11	=11	=11	=11	=11	=11
+4e	fiam-	4g	fiam-	4b	fiam-	4ee	fiam-
+4c	-me_ar-	4g	-me_ar-	4cc	-me_ar-	4ee	-me_ar-
+2G	-den-	2g	-den-	2b	-den-	2dd	-den-
+=12	=12	=12	=12	=12	=12	=12	=12
+2c	-ti,	1g	-ti,	4cc	-ti,	1ee	-ti,
+.	.	.	.	4cc	In	.	.
+4r	.	.	.	2b	voi	.	.
+4g	In	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+2f	voi	4r	.	2a	dun-	2r	.
+.	.	4a	In	.	.	.	.
+2e	dun-	4b	voi	2g	-que,	2gg	In
+.	.	4g	dun-	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+4d	-que	4a	-que	2r	.	2ff	voi
+4d	ci	4b	ci	.	.	.	.
+2c	so-	4cc	so-	2cc	In	2ee	dun-
+.	.	4g	-no,	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+2G	-no,	2r	.	2b	voi	4dd	-que,
+.	.	.	.	.	.	4dd	in
+4r	.	2cc	In	2a	dun-	4ee	voi
+4A	In	.	.	.	.	4cc	dun-
+=16	=16	=16	=16	=16	=16	=16	=16
+4B	voi	2b	voi	2g	-que	4dd	-que
+4G	dun-	.	.	.	.	4ee	ci
+4A	-que	2a	dun-	4r	.	2ff	so-
+4B	ci	.	.	4dd	ci	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+8cL	so-	4.g	-que	2cc	so-	2ee	-no
+8d	.	.	.	.	.	.	.
+8e	.	.	.	.	.	.	.
+8fJ	.	8a	ci	.	.	.	.
+4g	.	4b	so-	2b	-no	4.dd	due_e-
+4g	-no	4b	-no	.	.	.	.
+.	.	.	.	.	.	8ee	.
+=18	=18	=18	=18	=18	=18	=18	=18
+4f	due_e-	4a	due_e-	4cc	due_e-	4ff	.
+4d	-le-	4a	-le-	4dd	-le-	4ff	-le-
+2e	-men-	2g#X	-men-	2b	-men-	2ee	-men-
+=19	=19	=19	=19	=19	=19	=19	=19
+2A	-ti,	2a	-ti,	4a	-ti,	2ee	-ti,
+.	.	.	.	4cc	In	.	.
+4r	.	2r	.	2b	voi	2r	.
+4g	In	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+2f	voi	4r	.	2a	dun-	2r	.
+.	.	4a	In	.	.	.	.
+2e	dun-	4b	voi	2g	-que,	2gg	In
+.	.	4g	dun-	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21
+4d	-que	4a	-que	2r	.	2ff	voi
+4d	ci	4b	ci	.	.	.	.
+2c	so-	4cc	so-	2cc	In	2ee	dun-
+.	.	4g	-no,	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+2G	-no,	2r	.	2b	voi	4dd	-que,
+.	.	.	.	.	.	4dd	In
+4r	.	2cc	In	2a	dun-	4ee	voi
+4A	In	.	.	.	.	4cc	dun-
+=23	=23	=23	=23	=23	=23	=23	=23
+4B	voi	2b	voi	2g	-que	4dd	-que
+4G	dun-	.	.	.	.	4ee	ci
+4A	-que	2a	dun-	4r	.	2ff	so-
+4B	ci	.	.	4dd	ci	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+8cL	so-	4.g	-que	2cc	so-	2ee	-co
+8d	.	.	.	.	.	.	.
+8e	.	.	.	.	.	.	.
+8fJ	.	8a	ci-	.	.	.	.
+4g	.	4b	-so-	2b	-no	4.dd	due_e-
+4g	-no	4b	-no	.	.	.	.
+.	.	.	.	.	.	8ee	.
+=25	=25	=25	=25	=25	=25	=25	=25
+4f	due_e-	4a	due_e-	4cc	due_e-	4ff	.
+4d	-le-	4a	-le-	4dd	-le-	4ff	-le-
+2e	-men-	2g#X	-men-	2b	-men-	2ee	-men-
+=26	=26	=26	=26	=26	=26	=26	=26
+1A;l	-ti.	1a;l	-ti.	1cc#X;l	-ti.	1ee;l	-ti.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)(s4)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/01/30
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/01/30
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/01/30 by Craig Stuart Sapp

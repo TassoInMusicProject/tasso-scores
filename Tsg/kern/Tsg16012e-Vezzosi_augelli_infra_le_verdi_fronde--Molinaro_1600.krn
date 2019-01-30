@@ -1,0 +1,263 @@
+!!!COM:
+!!!CDT:
+!!!PTL:
+!!!PPP:
+!!!PPR:
+!!!PDT:
+!!!RISM:
+!!!rime:
+!!!OTL:
+!!!AGN: Madrigal
+!!!SCT:
+!!!SCA:
+!!!voices:
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Canto	*
+*clefGv2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*
+*M2/2	*	*M2/2	*	*M2/2	*
+=1	=1	=1	=1	=1	=1
+1r	.	2r	.	2cc	Vez-
+.	.	2cc	Vez-	4a	-zo-
+.	.	.	.	4f	-si au-
+=2	=2	=2	=2	=2	=2
+1r	.	4a	-zo-	2cc	-gel-
+.	.	4f	-si au-	.	.
+.	.	2cc	-gel-	2f	-li,
+=3	=3	=3	=3	=3	=3
+4r	.	4f	-li,	2cc	vez-
+4f	Vez-	4a	vez-	.	.
+4d	-zo-	4a	-zo-	4dd	-so-
+4B-y	-si au-	[4b-y	-si au-	4dd	-si au-
+=4	=4	=4	=4	=4	=4
+2f	-gel-	4b-]	.	2cc	-gel-
+.	.	4a	-gel-	.	.
+2B-y	-li	2b-y	-li	2b-y	-li
+=5	=5	=5	=5	=5	=5
+4r	.	4r	.	4r	.
+4.F	in-	4.a	in-	4.cc	in-
+8F	-fra	8a	-fra	8cc	-fra
+4G	le	4g	le	4b-y	le
+=6	=6	=6	=6	=6	=6
+4A	ver-	4f	ver-	4a	ver-
+4c	-di	4e	-di	4g	-di
+2BnX	fron-	2d	fron-	2g	fron-
+=7	=7	=7	=7	=7	=7
+2c	-de	2e	-de	2g	-de
+2F	Tem-	4a	Tem-	4cc	Tem-
+.	.	8fL	-pra-	8aL	-pra-
+.	.	8gJ	-n’a	8b-yJ	-n’a
+=8	=8	=8	=8	=8	=8
+4F	-pra-	4a	pro-	4cc	pro-
+4F	-n’a	4a	-va,	4cc	-va,
+2F	pro-	4cc	tem-	4a	tem-
+.	.	8aL	-pra-	8fL	-pra-
+.	.	8b-yJ	-n’a	8gJ	-n’a
+=9	=9	=9	=9	=9	=9
+2F	-va	4cc	pro-	4a	pro-
+.	.	4cc	-va	4a	-va
+4.B-y	la-	4.dd	la-	4.ff	la-
+8c	-sci-	8cc	-sci-	8ee	-sci-
+=10	=10	=10	=10	=10	=10
+4d	-vet-	4b-y	-vet-	4dd	-vet-
+4f	-te,	4a	-te,	4cc	-te,
+4.B-y	la-	4.b-y	la-	4.dd	la-
+8c	-sci-	8g	-sci-	8cc	-sci-
+=11	=11	=11	=11	=11	=11
+4d	-vet-	4f#X	-vet-	4a	-vet-
+4e-X	-te	2g	-te	4g	-te
+2d	no-	.	.	2a	no-
+.	.	4f#X	no-	.	.
+=12	=12	=12	=12	=12	=12
+2G	-te.	2g	-te.	2g	-te.
+4r	.	4r	.	2r	.
+[4B-y	Mor-	[4d	Mor-	.	.
+=13	=13	=13	=13	=13	=13
+8B-L]	.	8dL]	.	4.f	Mor-
+8AJ	-mo-	8cJ	-mo-	.	.
+4B-y	-ra	4d	-ra	.	.
+.	.	.	.	8e	-mo-
+2A	l'au-	2c	l'au-	4f	-ra
+.	.	.	.	[4e	l'au-
+=14	=14	=14	=14	=14	=14
+4G	-ra,	4B-y	-ra,	4e]	.
+4G	e	4B-y	e	4d	-ra,
+8GL	fa	8B-yL	fa	4r	.
+8F	le	8A	le	.	.
+8G	fo-	8B-y	fo-	4g	e
+8AJ	-glie e	8cJ	-glie e	.	.
+=15	=15	=15	=15	=15	=15
+4B-y	l’on-	4d	l’on-	8fL	fa
+.	.	.	.	8e	le
+8AL	-de	8cL	-de	8f	fo-
+8GJ	Gar-	8B-yJ	Gar-	8gJ	-glie e
+4F	-rir,	4c	-rir,	4a	l’on-
+4F	e	4f	e	8gL	-de
+.	.	.	.	8fJ	Gar-
+=16	=16	=16	=16	=16	=16
+8cL	fa	8eL	fa	4g	-rir,
+8B-y	le	8d	le	.	.
+8c	fo-	8e	fo-	4cc	e
+8dJ	-glie e	8fJ	-glie e	.	.
+4e-X	l’on-	4g	l’on-	8b-yL	fa
+.	.	.	.	8a	le
+8dL	-de	8fL	-de	8b-y	fo-
+8cJ	Gar-	8eJ	Gar-	8ccJ	-glie e
+=17	=17	=17	=17	=17	=17
+4B-y	-rir,	8fL	-rir,	4dd	l’on-
+.	.	8d	.	.	.
+8AL	.	8f	.	8ccL	-de
+8GJ	.	8gJ	.	8b-yJ	Gar-
+2F	.	2a	.	2cc	-rir,
+=18	=18	=18	=18	=18	=18
+*M3/2	*	*M3/2	*	*M3/2	*
+2c	che	2g	che	2cc	che
+2d	va-	2f	va-	2a	va-
+2B-y	-ria-	2f	-ria-	2b-y	-ria-
+=19	=19	=19	=19	=19	=19
+2c	-men-	2e	-men-	2g	-men-
+2.F	-te el-	2.f	-te el-	2.a	-te el-
+4C	-la	4e	-la	4g	-la
+=20	=20	=20	=20	=20	=20
+2D	per-	2d	per-	2f	per-
+2A	-co-	2c#X	-co-	2e	-co-
+2D	-te:	2d	-te:	2d	-te:
+=21	=21	=21	=21	=21	=21
+*M2/2	*	*M2/2	*	*M2/2	*
+2r	.	2r	.	1r	.
+4d	Quan-	4f	Quan-	.	.
+4d	-do	4f	-do	.	.
+=22	=22	=22	=22	=22	=22
+2.d	tac-	2.f	tac-	4a	Quan-
+.	.	.	.	4a	-do
+.	.	.	.	[2a	tac-
+8cL	-cion	8eL	-cion	.	.
+8B-yJ	gli au-	8dJ	gli au-	.	.
+=23	=23	=23	=23	=23	=23
+1A	-gel-	1c#X	-gel-	4a]	.
+.	.	.	.	8gL	-cion
+.	.	.	.	8fJ	gli au-
+.	.	.	.	2e	-gel-
+=24	=24	=24	=24	=24	=24
+2A	-li,	2c#i	-li,	2e	-li,
+4r	.	4r	.	4r	.
+[4f	al-	[4a	al-	[4cc	al-
+=25	=25	=25	=25	=25	=25
+8fL]	.	8aL]	.	8ccL]	.
+8fJ	-to	8aJ	-to	8ccJ	-to
+4g	ri-	4g	ri-	4b-y	ri-
+4d	-spon-	4f#X	-spon-	4a	-spon-
+4G	-de;	4g	-de;	4g	-de;
+=26	=26	=26	=26	=26	=26
+2r	.	1r	.	2r	.
+4B-y	Quan-	.	.	4dd	Quan-
+4B-y	-do	.	.	4dd	-do
+=27	=27	=27	=27	=27	=27
+2.B-y	can-	4fnXi	quan-	2.dd	can-
+.	.	4f	-do	.	.
+.	.	[2f	can-	.	.
+8AL	-tan	.	.	8ccL	-tan
+8GJ	gli au-	.	.	8b-yJ	gli au-
+=28	=28	=28	=28	=28	=28
+1F	-gei,	4f]	.	1a	-gei,
+.	.	8eL	-tan	.	.
+.	.	8dJ	gli au-	.	.
+.	.	2c	-gei,	.	.
+=29	=29	=29	=29	=29	=29
+2F	più	2f	più	2a	più
+4G	lie-	4e	lie-	4g	lie-
+4D	-ve	[4d	-ve	4f	-ve
+=30	=30	=30	=30	=30	=30
+2A	sco-	4d]	.	2e	sco-
+.	.	4c#X	sco-	.	.
+2D	-te:	2d	-te:	2d	-te:
+=31	=31	=31	=31	=31	=31
+2d	Sia	4r	.	2f	Sia
+.	.	4d	Sia	.	.
+4B-y	ca-	8dL	ca-	4g	ca-
+.	.	8eJ	-so od	.	.
+4A	-so od	[4f	ar-	4a	-so od
+=32	=32	=32	=32	=32	=32
+2G	ar-	4f]	.	2b-y	ar-
+.	.	4e	.	.	.
+4F	-te,	4f	-te,	4a	-te,
+4f	hor	4a	hor	4cc	hor
+=33	=33	=33	=33	=33	=33
+4e-X	ac-	4g	ac-	4cc	ac-
+4d	-com-	4f	-com-	4dd	-com-
+4c	-pa-	8gL	-pa-	4ee-X	-pa-
+.	.	8aJ	-gna ed	.	.
+4B-y	-gna ed	[4b-y	ho-	4dd	-gna ed
+=34	=34	=34	=34	=34	=34
+1F	ho-	4b-]	.	1cc	ho-
+.	.	8aL	.	.	.
+.	.	8gJ	.	.	.
+.	.	2a	.	.	.
+=35	=35	=35	=35	=35	=35
+2B-y	-ra	2b-y	-ra	2b-y	-ra
+2B-y	Al-	4r	.	2dd	Al-
+.	.	4b-y	Al-	.	.
+=36	=36	=36	=36	=36	=36
+4f	-ter-	4a	-ter-	4cc	-ter-
+4d	-na i	4b-y	-na i	4dd	-na i
+4e-X	ver-	4g	ver-	4b-y	ver-
+4c	-si	4a	-si	4cc	-si
+=37	=37	=37	=37	=37	=37
+2B-y	lor	2b-y	lor	2dd	lor
+2F	la	4r	.	4r	.
+.	.	[4a	la	[4cc	la
+=38	=38	=38	=38	=38	=38
+4G	mu-	4a]	.	4cc]	.
+4G	-si-	2g	mu-	2b-y	mu-
+4.A	-ca o-	.	.	.	.
+.	.	[4f	-si-	4a	-si-
+8B-y	.	.	.	.	.
+=39	=39	=39	=39	=39	=39
+2c	.	4f]	.	2g	-ca o-
+.	.	4e	-ca o-	.	.
+4F	-ra,	4f	-ra,	4.a	-ra,
+4f	Al-	4a	Al-	.	.
+.	.	.	.	8b-y	.
+=40	=40	=40	=40	=40	=40
+4e	-ter-	4g	-ter-	2cc	.
+4f	-na i	4a	-na i	.	.
+4d	ver-	4f	ver-	2r	.
+4e	-si	4g	-si	.	.
+=41	=41	=41	=41	=41	=41
+4f	lor,	8aL	lor,	4r	.
+.	.	8g	.	.	.
+4F	Al-	8f	.	4cc	Al-
+.	.	8eJ	.	.	.
+4G	-ter-	4d	.	4bnX	-ter-
+4A	-na i	4c	i	4cc	-na i
+=42	=42	=42	=42	=42	=42
+4F	ver-	4d	ver-	4a	ver-
+4G	-si	4d	-si	4bnX	-si
+4A	lor	4c	lor	2cc	lor
+[4F	la	[4a	la	.	.
+=43	=43	=43	=43	=43	=43
+4F]	.	4a]	.	2cc	la
+2E-X	mu-	2g	mu-	.	.
+.	.	.	.	[2b-i	mu-
+4D	-si-	4f	-si-	.	.
+=44	=44	=44	=44	=44	=44
+1C	-ca o-	4e	-ca o-	4b-]	.
+.	.	2f	.	4a	-si-
+.	.	.	.	2g	-ca o-
+.	.	4e	.	.	.
+=45	=45	=45	=45	=45	=45
+1F;l	-ra.	1f;l	-ra.	1a;l	-ra.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/01/30
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2019/01/30
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/01/30 by Craig Stuart Sapp

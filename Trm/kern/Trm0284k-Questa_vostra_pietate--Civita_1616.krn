@@ -1,0 +1,160 @@
+!!!COM: Civita, Davit
+!!!CDT:
+!!!PTL: Premitie armoniche a tre voci
+!!!PPP: Venice
+!!!PPR: Giacomo Vincenzi
+!!!PDT: 1616
+!!!RISM: Unknown
+!!!rime: 284
+!!!OTL: Questa vostra pietate
+!!!AGN: Madrigal
+!!!SCT: Trm0284k
+!!!SCA: Trm0284k
+!!!voices: 3+Bc
+**kern	**kern	**text	**kern	**text
+*part3	*part2	*part2	*part1	*part1
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"B.C.	*I"Basso	*	*I"Alto	*
+*oclefF4	*oclefF4	*	*oclefC1	*
+*clefF4	*clefF4	*	*clefG2	*
+*k[b-]	*k[b-]	*	*k[b-]	*
+*F:	*F:	*	*F:	*
+*omet(C)	*omet(C)	*	*omet(C)	*
+*M2/2	*M2/2	*	*M2/2	*
+=1	=1	=1	=1	=1
+2.F	2.F	Que-	2.a	Que-
+4E	4E	-sta	4g	-sta
+=2	=2	=2	=2	=2
+2.F	2.F	vo-	4a	vo-
+.	.	.	8aL	-stra
+.	.	.	8b-yJ	pie-
+.	.	.	[2cc	-ta-
+8CL	8CL	-stra	.	.
+8DJ	8DJ	pie-	.	.
+=3	=3	=3	=3	=3
+2E-X	2E-X	-ta-	2cc]	.
+2D	2D	-te	2dd	-te
+=4	=4	=4	=4	=4
+2D	4r	.	4r	.
+.	4D	Non	4dd	Non
+4GG	4GG	re-	4b-y	re-
+4AA	4AA	-fri-	4cc	-fri-
+=5	=5	=5	=5	=5
+4BB-y	4BB-y	-ge-	4dd	-ge-
+4GG	4GG	-rio_al	4b-y	-rio_al
+2D	2D	co-	4a	co-
+.	.	.	4a	-re
+=6	=6	=6	=6	=6
+1AA	1AA	-re	4r	.
+.	.	.	4cc	Ma
+.	.	.	4a	dà
+.	.	.	[4cc	for-
+=7	=7	=7	=7	=7
+4F	4F	Ma	4cc]	.
+4D	4D	dà	8fL	-z'al-
+.	.	.	8gJ	-l'ar-
+4F	4F	for-	4a	-do-
+8CL	8CL	-z'al-	4g	-re,
+8DJ	8DJ	-l'ar-	.	.
+=8	=8	=8	=8	=8
+2E-X	2E-X	-do-	4r	.
+.	.	.	4g	<Ma
+2BB-y	2BB-y	-re;	4d	dà
+.	.	.	[4f	for-
+=9	=9	=9	=9	=9
+2.F	2.F	Dun-	4f]	.
+.	.	.	8aL	-z'al-
+.	.	.	8b-yJ	-l'ar-
+.	.	.	4cc	-do-
+4F	4F	-que	4f	-re;>
+=10	=10	=10	=10	=10
+2F	2F	d'es-	4.cc	Dun-
+.	.	.	8cc	-que
+4F	4F	-ser	4cc	d'es-
+4D	4D	pie-	8fL	-ser
+.	.	.	8fJ	pie-
+=11	=11	=11	=11	=11
+4C	4C	-to-	4g	-to-
+4F	4F	-s'ho-	4a	-s'ho-
+[2BB-y	[2BB-y	-mai	2b-y	-mai
+=12	=12	=12	=12	=12
+4BB-]	4BB-]	.	4g	ces-
+4C	4C	ces-	2g	-sa-
+2D	2D	-sa-	.	.
+.	.	.	4f#X	.
+=13	=13	=13	=13	=13
+1GG	1GG	-te	1g	-te
+=14	=14	=14	=14	=14
+4G	4G	In	4b-y	In
+4D	4D	co-	4a	co-
+[2F	[2F	-sì	[2a	-sì
+=15	=15	=15	=15	=15
+4F]	4F]	.	4a]	.
+8CL	8CL	stra-	8gL	stra-
+8CJ	8CJ	-na	8gJ	-na
+2F	2F	gui-	2a	gui-
+=16	=16	=16	=16	=16
+4BB-y	4BB-y	-sa	4b-y	-sa
+2B-y	4r	.	4r	.
+.	4B-y	Che	4b-y	Che
+4G	4G	ne	4b-y	ne
+=17	=17	=17	=17	=17
+4A	4A	sia	4a	sia
+8FL	8FL	l'al-	8aL	l'al-
+8FJ	8FJ	-m'uc-	8aJ	-m'uc-
+4G	4G	-ci-	4g	-ci-
+4E	4E	-sa,	4g	-sa,
+=18	=18	=18	=18	=18
+4F	4F	<Che	4cc	<Che
+4BB-y	4BB-y	ne	4dd	ne
+4D	4D	sia	4dd	sia
+8GGL	8GGL	l'al-	8bniL	l'al-
+8GGJ	8GGJ	-m'uc-	8bniJ	-m'uc-
+=19	=19	=19	=19	=19
+1AA	1AA	-ci-	4cc#X	-ci-
+.	.	.	2dd	.
+.	.	.	4cc#X	.
+=20	=20	=20	=20	=20
+1D	1D	-sa;>	1dd	-sa;>
+=21	=21	=21	=21	=21
+2BB-y	4r	.	4r	.
+.	4BB-y	Per-	4b-y	Per-
+4.FF	4.FF	-ch'el-	4.a	-ch'el-
+8FF	8FF	-la	8a	-la
+=22	=22	=22	=22	=22
+4GG	4GG	vi	4g	vi
+4AA	4AA	de-	4f	de-
+2C	2C	-si-	2e	-si-
+=23	=23	=23	=23	=23
+2C	2C	-a	4e	-a
+.	.	.	2cc	O_in
+4F	4F	O_in	.	.
+4G	4G	e-	4b-y	e-
+=24	=24	=24	=24	=24
+4A	4A	-stre-	4a	-stre-
+8B-yL	8B-yL	-mo	8gL	-mo
+8B-yJ	8B-yJ	cru-	8fJ	cru-
+4c	4c	-de-	2e	-de-
+4C	4C	-l'ò_in	.	.
+=25	=25	=25	=25	=25
+2D	2D	tut-	2.a	-l'o_in
+2AA	2AA	-to	.	.
+.	.	.	[4e	tut-
+=26	=26	=26	=26	=26
+1C	1C	pi-	8eL]	.
+.	.	.	8cJ	-to
+.	.	.	2f	pi-
+.	.	.	4e	.
+=27	=27	=27	=27	=27
+1FF;l	1FF;l	-a.	1f;l	-a.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/01/30
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/01/30
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/01/30 by Craig Stuart Sapp

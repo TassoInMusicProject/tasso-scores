@@ -1,0 +1,97 @@
+!!!COM: Borsaro, Arcangelo
+!!!CDT:
+!!!PTL: Il primo libro delle villanelle a tre voci
+!!!PPP: Venice
+!!!PPR: Amadino
+!!!PDT: 1587
+!!!RISM: B 3774
+!!!rime: 297
+!!!OTL: Sel vostro volto e dun aria gentile
+!!!AGN: Madrigal
+!!!SCT: Trm0297c
+!!!SCA: Trm0297c
+!!!voices: 3
+**kern	**text
+*I"Basso	*
+*oclefC3	*
+*clefGv2	*
+*k[b-]	*
+*F:	*
+*omet(C)	*
+*M2/2	*
+=1	=1
+1c	Se’l
+=2	=2
+2g	vo-
+2e	-stro
+=3	=3
+2a	vol-
+4d	-to_è
+[4g	d'u-
+=4	=4
+4g]	.
+4e	-n'a-
+4f	-ria
+4g	gen-
+=5	=5
+2c	-ti-
+2c	-le
+=6:|!|:	=6:|!|:
+4r	.
+4c	E_i
+4.c	bei
+8B-y	vo-
+=7	=7
+4.A	-str'oc-
+8G	-chi
+4F	son
+4F	due
+=8	=8
+2B-y	fiam-
+2A	-m'ar-
+=9	=9
+1d	-den-
+=10	=10
+4c	-ti,
+2f	son
+4f	due
+=11	=11
+2B-y	fiam-
+2B-y	-m'ar-
+=12	=12
+2c	-den-
+2G	-ti,
+=13||	=13||
+2r	.
+2G	In
+=14	=14
+2A	voi
+2BnX	dun-
+=15	=15
+2c	-que
+2A	ci
+=16	=16
+4G	so-
+4A	.
+4B-y	.
+4c	.
+=17	=17
+2d	.
+2d	-no
+=18	=18
+2.e	due_e-
+4f	-le-
+=19	=19
+1g	-men-
+=20	=20
+1c;l	-ti.
+=:|!	=:|!
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/01/30
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/01/30
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/01/30 by Craig Stuart Sapp
