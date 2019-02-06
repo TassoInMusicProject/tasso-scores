@@ -50,6 +50,8 @@ foreach my $file (@files) {
 	my $entryline = $startline{$catalog};
 	if ($entryline =~ /^\s*$/) {
 		print STDERR "Catalog number missing from index for file: $file\n";
+		print STDERR "\tCATALOG: $catalog\n";
+		print STDERR "\tLINE: $entryline\n";
 		next;
 	}
 	processFile($file, $catalog, $entryline);
@@ -150,6 +152,7 @@ sub processFile {
 ## NORMLOC       --> PPP          (location of first publisher)
 ## NORMPUB       --> PPR          (name of first publisher)
 ## PRINCEPSYEAR  --> PDT          (year of first publication)
+## RIMETITLE     --> OTL          (title of rime (usually of setting))
 ## PRINCEPSRISM  --> RISM         (RISM number of first publication)
 ##               --> rime         (rime number of poem used in musical setting)
 ##               --> AGN          (genre of music)
@@ -166,6 +169,7 @@ sub getValue {
 	}
 	$ikey = "COMDATES"      if $hkey eq "CDT";
 	$ikey = "COMPOSER"      if $hkey eq "COM";
+	$ikey = "RIMETITLE"     if $hkey eq "OTL";
 	$ikey = "PRINCEPSTITLE" if $hkey eq "PTL";
 	$ikey = "NORMLOC"       if $hkey eq "PPP";
 	$ikey = "NORMPUB"       if $hkey eq "PPR";

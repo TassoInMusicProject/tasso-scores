@@ -1,0 +1,123 @@
+!!!COM: Cerbello, Giovanni Battista
+!!!CDT:
+!!!PTL: Novelli amori. A tre voci. Libro primo
+!!!PPP: Naples
+!!!PPR: Vitale
+!!!PDT: 1619
+!!!RISM: Unknown
+!!!rime: 358
+!!!OTL: Amarilli s'io te miro
+!!!AGN: Madrigal
+!!!SCT: Trm0358b
+!!!SCA: Trm0358b
+!!!voices: 3
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto secondo	*	*I"Canto	*
+*oclefF4	*	*oclefC1	*	*oclefC1	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+=1	=1	=1	=1	=1	=1
+2.G	A-	2.g	A-	2.b-y	A-
+4GG	-ma-	4g	-ma-	4b-y	-ma-
+=2	=2	=2	=2	=2	=2
+2D	-ril-	2f#X	-ril-	2a	-ril-
+2D	-li,	2f#i	-li,	2a	-li,
+=3	=3	=3	=3	=3	=3
+*M3/2	*	*M3/2	*	*M3/2	*
+2r	.	2r	.	2r	.
+2r	.	2r	.	2r	.
+4D	s'io	4a	s'io	4dd	s'io
+4C	ti	4cc	ti	4ee-X	ti
+=4	=4	=4	=4	=4	=4
+1F	mi-	1a	mi-	1cc	mi-
+2F	-ro,	2a	-ro,	2cc	-ro,
+=5	=5	=5	=5	=5	=5
+*M2/2	*	*M2/2	*	*M2/2	*
+4F	Mi-	4a	Mi-	1r	.
+4D	-r'il	4f	-r'il	.	.
+8GL	sol	8b-yL	sol	.	.
+8G	de	8b-y	de	.	.
+8F	gl'oc-	8a	gl'oc-	.	.
+8E-XJ	-chi	8gJ	-chi	.	.
+=6	=6	=6	=6	=6	=6
+[1D	mie-	2f#X	mie-	4dd	Mi-
+.	.	.	.	4a	-r'il
+.	.	[2g	.	8ddL	sol
+.	.	.	.	8dd	de
+.	.	.	.	8cc	gl'oc-
+.	.	.	.	8b-yJ	-chi
+=7	=7	=7	=7	=7	=7
+1D]	.	4g]	.	1a	mie-
+.	.	8f#XL	.	.	.
+.	.	8eJ	.	.	.
+.	.	2f#X	.	.	.
+=8	=8	=8	=8	=8	=8
+1GG	-i:	1g	-i:	1g	-i:
+=9:|!|:	=9:|!|:	=9:|!|:	=9:|!|:	=9:|!|:	=9:|!|:
+4G	Tan-	1r	.	4b-y	Tan-
+4G	-to	.	.	4b-y	-to
+8cL	bel-	.	.	8ee-XL	bel-
+8c	-la e	.	.	8ee-i	-la e
+8B-y	va-	.	.	8dd	va-
+8AJ	-ga	.	.	8ccJ	-ga
+=10	=10	=10	=10	=10	=10
+2G	se-	4g	Tan-	2b-y	se-
+.	.	4g	-to	.	.
+2G	-i,	8ddL	bel-	2b-y	-i,
+.	.	8dd	-la e	.	.
+.	.	8cc	va-	.	.
+.	.	8b-yJ	-ga	.	.
+=11	=11	=11	=11	=11	=11
+4F	Tan-	4a	se-	4cc	Tan-
+4F	-to	4a	-i,	4cc	-to
+8B-yL	bel-	4f	Tan-	8ddL	bel-
+8B-y	-la e	.	.	8dd	-la e
+8A	va-	4g	-to	8cc	va-
+8GJ	-ga	.	.	8b-yJ	-ga
+=12	=12	=12	=12	=12	=12
+1F	se-	8aL	bel-	1cc	se-
+.	.	8a	-la e	.	.
+.	.	8g	va-	.	.
+.	.	8fJ	-ga	.	.
+.	.	2a	se-	.	.
+=13	=13	=13	=13	=13	=13
+1BB-y	-i	1b-y	-i	1b-y	-i
+=14	=14	=14	=14	=14	=14
+4r	.	4r	.	4r	.
+4B-y	Che	4dd	Che	4f	Che
+4B-y	per	4dd	per	4f	per
+8FL	al-	8ccL	al-	8aL	al-
+8FJ	-tra	8ccJ	-tra	8aJ	-tra
+=15	=15	=15	=15	=15	=15
+2.G	non	2.b-y	non	4dd	non
+.	.	.	.	4dd	so–,
+.	.	.	.	4r	.
+4E-X	so-	4b-y	so-	8ddL	so-
+.	.	.	.	[8ccJ	-spi-
+=16	=16	=16	=16	=16	=16
+4D	-spi–,	8f#X	-spi–,	8ccL]	.
+.	.	8r	.	8ddJ	-ro,
+4r	.	2g	so-	4r	.
+16C#XLL	so-	.	.	4a	so-
+16D	.	.	.	.	.
+16E-X	.	.	.	.	.
+16C#iJJ	.	.	.	.	.
+4D	-spi-	4f#X	-spi-	4a	-spi-
+=17	=17	=17	=17	=17	=17
+1GGl	-ro.	1gl	-ro.	1gl	-ro.
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/02/06
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/02/06

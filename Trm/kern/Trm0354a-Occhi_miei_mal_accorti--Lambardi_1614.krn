@@ -1,0 +1,104 @@
+!!!COM: Lambardi, Francesco
+!!!CDT:
+!!!PTL: Canzonette a tre, quattro e cinque voci. Libro terzo
+!!!PPP: Naples
+!!!PPR: Vitale
+!!!PDT: 1616
+!!!RISM: 1616-15
+!!!rime: 354
+!!!OTL: Occhi miei mal accorti
+!!!AGN: Madrigal
+!!!SCT: Trm0354a
+!!!SCA: Trm0354a
+!!!voices: 3
+**kern	**text	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto	*
+*oclefF4	*	*oclefC1	*
+*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*omet(C)	*	*omet(C)	*
+*M2/2	*	*M2/2	*
+=1	=1	=1	=1
+4G	Oc-	4b	Oc-
+4BB	-chi	4dd	-chi
+2C	miei	2g	miei
+=2	=2	=2	=2
+4c	ma-	4e	ma-
+4A	-li ac-	4cc	-li ac-
+2G	-cor-	2b	-cor-
+=3	=3	=3	=3
+8GL	-ti,	4b	-ti,
+8G	A	.	.
+8F	gran	8r	.
+8GJ	ra-	8dd	A
+4.A	-gio-	8ccL	gran
+.	.	8ddJ	ra-
+.	.	[4ee	-gio-
+8E	-n'o-	.	.
+=4!|:	=4!|:	=4!|:	=4!|:
+4.F	-gn'or	8eeL]	.
+.	.	8aJ	-n'o-
+.	.	2cc	-gn'or
+8C	di	.	.
+4E	voi	.	.
+4F	mi	4dd	di
+=5	=5	=5	=5
+1E	do-	4g#X	voi
+.	.	4a	mi
+.	.	2b	do-
+=6	=6	=6	=6
+2AA	-glio,	4a	-glio,
+.	.	2cc	Voi,
+2A	Voi,	.	.
+.	.	4e	che
+=7	=7	=7	=7
+4A	che	2f	se-
+4.B-X	se-	.	.
+.	.	4f	-te
+8B-i	-te	.	.
+4G	ca-	4g	ca-
+=8	=8	=8	=8
+2.A	-gion,	2e	-gion,
+.	.	2cc#X	Voi,
+4A	Voi,	.	.
+=9	=9	=9	=9
+4F#X	che	4dd	che
+4.G	se-	4.b	se-
+8E	-te	8b	-te
+4BB	ca-	4dd	ca-
+=10	=10	=10	=10
+2.D	-gion	2a	-gion
+.	.	2r	.
+4D	del	.	.
+=11	=11	=11	=11
+2C#X	mio	2a	del
+2CnX	cor-	4b-X	mio
+.	.	4cc	cor-
+=12	=12	=12	=12
+1D	-do-	1a	-do-
+=13	=13	=13	=13
+8GGL	-glio.	4g	-glio.
+8G	A	.	.
+8F	gran	8r	.
+8GJ	ra-	8dd	A
+4.A	-gio-	8ccL	gran
+.	.	8ddJ	ra-
+.	.	(>4ee)	-gio
+8E	-n'o	.	.
+=14:|!	=14:|!	=14:|!	=14:|!
+1GG;l	glio.	1g;l	glio.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)]
+!!!RDF**kern: > = above
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/02/06
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/02/06

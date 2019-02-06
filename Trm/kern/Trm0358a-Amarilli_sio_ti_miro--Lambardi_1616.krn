@@ -1,0 +1,152 @@
+!!!COM: Lambardi, Francesco
+!!!CDT:
+!!!PTL: Canzonette a tre, quattro e cinque voci. Libro terzo
+!!!PPP: Naples
+!!!PPR: Vitale
+!!!PDT: 1616
+!!!RISM: 1616-15
+!!!rime: 358
+!!!OTL: Amarilli s'io te miro
+!!!AGN: Madrigal
+!!!SCT: Trm0358a
+!!!SCA: Trm0358a
+!!!voices: 3
+**kern	**text	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto	*
+*oclefF4	*	*oclefC1	*
+*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*omet(C.3/2)	*	*omet(C.3/2)	*
+*M3/2	*	*M3/2	*
+=1	=1	=1	=1
+2r	.	2r	.
+2r	.	2r	.
+4G	A-	4dd	A-
+4G	-ma-	4dd	-ma-
+=2	=2	=2	=2
+1G	-ril-	1dd	-ril-
+2G	-li,	2dd	-li,
+=3	=3	=3	=3
+1A	s'io	1cc	s'io
+2A	ti	2cc	ti
+=4	=4	=4	=4
+1.B	mi-	1.b	mi-
+=5	=5	=5	=5
+1.E	-ro,	1.b	-ro,
+=6	=6	=6	=6
+1.r	.	2r	.
+.	.	2ee	Mi-
+.	.	2ee	-ro il
+=7	=7	=7	=7
+1.r	.	2cc#X	sol
+.	.	2a	de
+.	.	[2dd	gli oc-
+=8	=8	=8	=8
+2r	.	2dd]	.
+2A	Mi-	1cc#X	-chi
+2A	-ro il	.	.
+=9	=9	=9	=9
+2F#X	sol	1.dd	mie-
+2D	de	.	.
+[2G	gli oc-	.	.
+=10	=10	=10	=10
+2G]	.	2b	-i,
+1F#X	-chi	2dd	Mi-
+.	.	2dd	-ro il
+=11	=11	=11	=11
+1G	miei,	1b	sol
+2A	de	2cc	de
+=12	=12	=12	=12
+1B	gli oc-	1b	gli oc-
+2c	-chi	2a	-chi
+=13	=13	=13	=13
+2d	mie-	1.a	mie-
+1D	.	.	.
+=14	=14	=14	=14
+1.GG	-i,	1.g	-i,
+=15!|:	=15!|:	=15!|:	=15!|:
+2r	.	2r	.
+2D	Tan-	2a	Tan-
+2D	-to	2a	-to
+=16	=16	=16	=16
+1D	bel-	1a	bel-
+2BB	-la, e	2b	-la, e
+=17	=17	=17	=17
+1AA	va-	1cc	va-
+2D	-ga	2a	-ga
+=18	=18	=18	=18
+1.GG	se-	1.b	se-
+=19	=19	=19	=19
+1.D	-i	1.a	-i
+=20	=20	=20	=20
+2r	.	2r	.
+2G	Ch'io	2dd	Ch'io
+2G	per	2cc	per
+=21	=21	=21	=21
+1G	al-	1b-X	al-
+2A	-tra	2a	-tra
+=22	=22	=22	=22
+2B-X	non	1g	non
+1G	so-	.	.
+.	.	2f	so-
+=23	=23	=23	=23
+1.A	-spi-	1.e	-spi-
+=24	=24	=24	=24
+1.D	-ro,	2d	-ro,
+.	.	2ff	Ch'io
+.	.	2ee	per
+=25	=25	=25	=25
+2r	.	1dd	al-
+2D	Ch'io	.	.
+2E	per	2cc	-tra
+=26	=26	=26	=26
+2F	al-	1b	non
+1D	-tra	.	.
+.	.	2a	so-
+=27	=27	=27	=27
+1E	non	1g#X	-spi-
+2C	so-	[2a	.
+=28	=28	=28	=28
+1.E	-spi-	2a]	.
+.	.	1g#X	.
+=29	=29	=29	=29
+1.AA	-ro,	1.a	-ro,
+=30	=30	=30	=30
+2r	.	1.r	.
+2.E	Ch'io	.	.
+4F#X	per	.	.
+=31	=31	=31	=31
+1.G	al-	2r	.
+.	.	2.b	Ch'io
+.	.	4cc	per
+=32	=32	=32	=32
+2D	-tra,	[1.dd	al-
+2.D	Ch'io	.	.
+4E	per	.	.
+=33	=33	=33	=33
+2F	al-	1.dd]	.
+2D	-tra	.	.
+[2F	non	.	.
+=34	=34	=34	=34
+2F]	.	2a	-tra
+1E	so-	1cc	non
+=35	=35	=35	=35
+[1.D	-spi-	1.b	so-
+=36	=36	=36	=36
+1.D]	.	1.a	-spi-
+=37	=37	=37	=37
+1.GGl	-ro.	1.gl	-ro.
+=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/02/06
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/02/06

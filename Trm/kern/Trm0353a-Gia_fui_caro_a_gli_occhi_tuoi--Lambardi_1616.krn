@@ -1,0 +1,149 @@
+!!!COM: Lambardi, Francesco
+!!!CDT:
+!!!PTL: Canzonette a tre, quattro e cinque voci. Libro terzo
+!!!PPP: Naples
+!!!PPR: Vitale
+!!!PDT: 1616
+!!!RISM: 1616-15
+!!!rime: 353
+!!!OTL: Già fui caro agli occhi tuoi
+!!!AGN: Madrigal
+!!!SCT: Trm0353a
+!!!SCA: Trm0353a
+!!!voices: 3
+**kern	**text	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto	*
+*oclefC4	*	*oclefC1	*
+*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*omet(C)	*	*omet(C)	*
+*M2/2	*	*M2/2	*
+=1	=1	=1	=1
+4r	.	4r	.
+8dL	Già	8aL	Già
+8dJ	fui	8ddJ	fui
+8AL	ca-	8ccL	ca-
+8A	-ro a	8cc	-ro a
+8B	gli oc-	8b	gli oc-
+8BJ	-chi	8aJ	-chi
+=2	=2	=2	=2
+4.c	tuo-	8gL	tuo-
+.	.	8eJ	-i,
+.	.	4.cc	O
+8A	-i,	.	.
+4.f	O	.	.
+.	.	8dd	mio
+.	.	[4a	so-
+8e	mio	.	.
+=3	=3	=3	=3
+(>4d	so-	4a]	.
+4e)	.	4g#X	.
+2A	-le,	2a	-le,
+=4:|!	=4:|!	=4:|!	=4:|!
+(>4d	so-	(<4a)	.
+4e)	.	4g#X	.
+2A	-le,	4a	le,
+.	.	8aL	Vis-
+.	.	8ccJ	-si
+=5!|:	=5!|:	=5!|:	=5!|:
+2r	.	8bL	lie-
+.	.	8g	-to
+.	.	8a	del
+.	.	8ddJ	tuo a-
+4r	.	4cc	-mo-
+8BL	Vis-	4b	-re,
+8eJ	-si	.	.
+=6	=6	=6	=6
+8cL	lie-	4r	.
+8A	-to	.	.
+8e	del	8bL	Vis-
+8EJ	tuo a-	8eeJ	-si
+4.A	-mo-	8ccL	lie-
+.	.	8a	-to
+.	.	8cc	del
+8B	.	8bJ	tuo a-
+=7	=7	=7	=7
+8cL	.	8aL	-mo-
+8AJ	-re,	8eJ	-re,
+4F	Del	4a	Del
+2G	mio ar-	4b	mio ar-
+.	.	[4cc	-do-
+=8	=8	=8	=8
+2G	-do-	4cc]	.
+.	.	4b	.
+2C	-re,	4cc	-re,
+.	.	8aL	Vis-
+.	.	8ccJ	-si
+=9:|!	=9:|!	=9:|!	=9:|!
+2G	do-	(>4cc)	.
+.	.	4b	.
+2C	-re,	2cc	re,
+=10!|:	=10!|:	=10!|:	=10!|:
+4r	.	4r	.
+8cL	Hor	8gL	Hor
+8AJ	che	8aJ	che
+4G	più	4b	più
+4E	non	4cc	non
+=11	=11	=11	=11
+4.F	m'a-	2a	m'a-
+8G	.	.	.
+2A	.	2e	-mi,
+=12	=12	=12	=12
+2D	-mi,	8r	.
+.	.	8ddL	Co-
+.	.	8a	-m'es-
+.	.	8ccJ	-ser
+8r	.	8bL	pò
+8GL	Co-	8g	che
+8D	-m'es-	8dd	mai,
+8FJ	-ser	8aJ	che
+=13	=13	=13	=13
+8EL	pò	8bL	mai
+8E	che	8g	più
+8D	mai	8cc	vi-
+8CJ	più	8bJ	-ver
+4F	vi-	4a	bra-
+4C	-ver	[4g	.
+=14	=14	=14	=14
+2D	bra-	4g]	.
+.	.	4f#X	.
+8GL	-mi,	4g	-mi,
+8c	co-	.	.
+8F	-m'es-	4r	.
+8AJ	-ser	.	.
+=15	=15	=15	=15
+8GL	pò	2r	.
+8F	che	.	.
+8D	mai	.	.
+8FJ	più	.	.
+8EL	vi-	8r	.
+8D	-ver	8eeL	Co-
+8E	bra-	8b	-m'es-
+8AJ	-mi,	8ddJ	-ser
+=16	=16	=16	=16
+8F#XL	che	8cc#XL	pò
+8GJ	mai	8dd	che
+4A	più	8b-X	mai
+.	.	8aJ	più
+4B-X	vi-	4.g	vi-
+4G	-ver	.	.
+.	.	8f	-ver
+=17	=17	=17	=17
+2A	bra-	2e	bra-
+2Dl	-mi?	2dl	-mi?
+=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/02/06
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/02/06
