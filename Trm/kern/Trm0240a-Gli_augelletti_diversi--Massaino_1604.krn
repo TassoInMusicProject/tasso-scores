@@ -1,0 +1,327 @@
+!!!CDT:
+!!!PTL:
+!!!PPP:
+!!!PPR:
+!!!PDT:
+!!!RISM:
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT:
+!!!SCA:
+!!!voices:
+!!!COM:	Tiburtio Massaino
+!!!OTL:	Gl'augelletti diversi (i.e., Gli augelletti diversi, Rime 240)
+**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Quinto	*	*I"Canto	*
+*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*	*F:	*	*F:	*
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+0r	.	0r	.	8fL	Gl'au-	8aL	Gl'au-	8ccL	Gl'au-
+.	.	.	.	8fJ	-gel-	8aJ	-gel-	8ccJ	-gel-
+.	.	.	.	2f	-let-	2a	-let-	2cc	-let-
+.	.	.	.	8eL	-ti	8gL	-ti	8ccL	-ti
+.	.	.	.	8dJ	di-	8fJ	di-	8ddJ	di-
+.	.	.	.	2c	-ver-	1g	-ver-	4ee	-ver-
+.	.	.	.	.	.	.	.	4ee	-si
+.	.	.	.	2c	-si	.	.	4r	.
+.	.	.	.	.	.	.	.	4cc	Al
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+0r	.	0r	.	2cc	Al	2f	-si	4a	tuo
+.	.	.	.	.	.	.	.	4cc	ve-
+.	.	.	.	4a	tuo	2r	.	4.f	-nir,
+.	.	.	.	4cc	ve-	.	.	.	.
+.	.	.	.	.	.	.	.	8g	.
+.	.	.	.	4.f	-nir,	2cc	Al	4.a	.
+.	.	.	.	8g	.	.	.	8b-y	.
+.	.	.	.	4.a	.	4a	tuo	2cc	.
+.	.	.	.	.	.	4cc	ve-	.	.
+.	.	.	.	8b-y	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+0r	.	0r	.	2cc	.	4.f	-nir,	4.a	Li-
+.	.	.	.	.	.	8g	.	8b-y	.
+.	.	.	.	2f	Li-	4.a	.	4cc	.
+.	.	.	.	.	.	.	.	2ff	-co-
+.	.	.	.	.	.	8b-y	.	.	.
+.	.	.	.	4.a	-co-	4cc	.	.	.
+.	.	.	.	.	.	4cc	Li-	4ee	.
+.	.	.	.	8e	.	.	.	.	.
+.	.	.	.	2g	.	2bnX	-co-	2dd	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+0r	.	0r	.	2c	-ra,	2cc	-ri,	4ee	-ri,
+.	.	.	.	.	.	.	.	8ccL	Fra
+.	.	.	.	.	.	.	.	8ccJ	bei
+.	.	.	.	8fL	Fra	8aL	Fra	2cc	Mir-
+.	.	.	.	8fJ	bei	8aJ	bei	.	.
+.	.	.	.	2f	Mir-	2a	Mir-	.	.
+.	.	.	.	.	.	.	.	4dd	-ti
+.	.	.	.	8gL	-ti	8b-iL	-ti	4ee	can-
+.	.	.	.	8aJ	can-	8ccJ	can-	.	.
+.	.	.	.	2f	-ta-	2dd	-ta-	2ff	-ta-
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+0r	.	0r	.	4cc	-ro e	4ee	-ro e	4ee	-ro e
+.	.	.	.	2b-y	ver-	2ff	ver-	2dd	ver-
+.	.	.	.	4a	-di Al-	4aa	-di Al-	4ff	-di Al-
+.	.	.	.	4cc	-lo-	4gg	-lo-	4ee	-lo-
+.	.	.	.	8ccL	-ri	8ggL	-ri	8eeL	-ri
+.	.	.	.	8gJ	So-	8ggJ	So-	8ddJ	So-
+.	.	.	.	2g	-a-	2dd	-a-	2b-y	-a-
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+0r	.	0r	.	2f#X	-ve-	2dd	-ve-	2a	-ve-
+.	.	.	.	2g	-men-	2b-y	-men-	2g	-men-
+.	.	.	.	4d	-te a-	2a	-te a-	4f#X	-te a-
+.	.	.	.	2d	-mo-	.	.	2f#i	-mo-
+.	.	.	.	.	.	4b-y	-mo-	.	.
+.	.	.	.	4e-X	-ro-	4cc	-ro-	4g	-ro-
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+0r	.	0r	.	2d	-set-	4.dd	-set-	4a	-set-
+.	.	.	.	.	.	.	.	4bnX	-ti
+.	.	.	.	.	.	8dd	-ti	.	.
+.	.	.	.	2c	-ti	2ee	ver-	2cc	ver-
+.	.	.	.	4d	ver-	4.ff	-si	4.a	-si
+.	.	.	.	8dL	-si	.	.	.	.
+.	.	.	.	8cJ	Da in-	8ee	Da in-	8cc	Da in-
+.	.	.	.	4d	-te-	4ff	-te-	4.b-i	-te-
+.	.	.	.	4enXi	-ne-	4gg	-ne-	.	.
+.	.	.	.	.	.	.	.	8b-y	-ne-
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+0r	.	0r	.	2f#X	-rir	2aa	-rir	2a	-rir
+.	.	.	.	2g	i	2dd	i	2.bnX	i
+.	.	.	.	1g	co-	1dd	co-	.	.
+.	.	.	.	.	.	.	.	2cc	co-
+.	.	.	.	.	.	.	.	4bni	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+2r	.	2r	.	2c	-ri;	2ee	-ri;	1cc	-ri;
+4r	.	4r	.	4r	.	2r	.	.	.
+4F	Ma	4c	Ma	4a	Ma	.	.	.	.
+2F	tu	2c	tu	2a	tu	1r	.	1r	.
+4E-X	più	4e-X	più	4b-y	più	.	.	.	.
+[4E-i	dol-	[4e-i	dol-	[4b-y	dol-	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4E-]	.	4e-]	.	4b-]	.	0r	.	0r	.
+4G	-ci as-	4B-y	-ci as-	4g	-ci as-	.	.	.	.
+2C	-sai	2.c	-sai	2g	-sai	.	.	.	.
+4AA	gli	.	.	4a	gli	.	.	.	.
+2BB-y	can-	2F	gli	8dL	can-	.	.	.	.
+.	.	.	.	8eJ	.	.	.	.	.
+.	.	.	.	8fL	.	.	.	.	.
+.	.	.	.	8gJ	-ti e	.	.	.	.
+4AA	-ti e	4f	can-	[4a	det-	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+1C	det-	4enXi	-ti e	4a]	.	4r	.	1r	.
+.	.	2f	det-	4f	.	4cc	Fe-	.	.
+.	.	.	.	2g	.	4.cc	-li-	.	.
+.	.	4e	.	.	.	.	.	.	.
+.	.	.	.	.	.	8b-y	-ce	.	.
+1F	-ti.	1f	-ti.	1a	-ti.	4a	chi	4r	.
+.	.	.	.	.	.	4f	gl'im-	4ff	Fe-
+.	.	.	.	.	.	[2cc	-pa-	4.ff	-li-
+.	.	.	.	.	.	.	.	8ff	-ce
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+1r	.	1r	.	1r	.	4cc]	.	4.ee	ch
+.	.	.	.	.	.	8bnXiL	.	.	.
+.	.	.	.	.	.	8aJ	.	8ee	gl'im-
+.	.	.	.	.	.	2bnX	.	2dd	-pa-
+4r	.	2r	.	4r	.	1cc	-ra,	2cc	-ra,
+4F	Fe-	.	.	4c	Fe-	.	.	.	.
+4.F	-li-	4r	.	4.c	-li-	.	.	4r	.
+.	.	4c	Fe-	.	.	.	.	4cc	<Fe-
+8F	-ce	.	.	8d	-ce	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+4.E	chi	4.c	-li-	4e	chi	1r	.	4.cc	-li-
+.	.	.	.	4e	gl'im-	.	.	.	.
+8E	gl'im-	8c	-ce	.	.	.	.	8cc	-ce
+2D	-pa-	2d	chi	8fL	-pa-	.	.	4b-y	chi
+.	.	.	.	8g	.	.	.	.	.
+.	.	.	.	8a	.	.	.	4a	gl'im-
+.	.	.	.	8fJ	.	.	.	.	.
+1C	-ra,	4e	gl'im-	1g	.	2r	.	2cc	-pa-
+.	.	2f	-pa-	.	.	.	.	.	.
+.	.	.	.	.	.	4r	.	2cc	-ra,>
+.	.	4e	.	.	.	4cc	<Fe-	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+4r	.	2f	-ra,	1a	-ra,	4.cc	-li-	4r	.
+4F	Fe-	.	.	.	.	.	.	4cc	Fe-
+.	.	.	.	.	.	8b-y	-ce	.	.
+4.F	-li-	4r	.	.	.	4a	chi	4.cc	-li-
+.	.	4c	Fe-	.	.	4f	gl'im-	.	.
+8F	-ce	.	.	.	.	.	.	8dd	-ce
+4.E	chi	4.c	-li-	1r	.	2g	-pa-	4ee	chi
+.	.	.	.	.	.	.	.	4ee	gl'im-
+8E	gl'im-	8c	-ce	.	.	.	.	.	.
+[2D	-pa-	4B-y	chi	.	.	2dd	-ra>	4.ff	-pa-
+.	.	4A	gl'im-	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	8ee	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2D]	.	2d	-pa-	2a	chi	0r	.	2dd	.
+2C	-ra	2G	-ra	4cc	gl'im-	.	.	2ee	-ra,
+.	.	.	.	2cc	-pa-	.	.	.	.
+1r	.	2r	.	.	.	.	.	4ff	chi
+.	.	.	.	4bnX	.	.	.	4ff	gl'im-
+.	.	4r	.	4cc	-ra	.	.	2ee	-pa-
+.	.	4c	E	4g	E	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+4F	E	4f	la	4a	la	4r	.	2ff	-ra
+4B-y	la	4d	sua	2b-i	sua	4f	E	.	.
+4G	sua	2g	vo-	.	.	4b-y	la	2r	.
+2c	vo-	.	.	4cc	vo-	4g	sua	.	.
+.	.	8eL	-ce al	4g	-ce al	2cc	vo-	1r	.
+.	.	8eJ	suo	.	.	.	.	.	.
+8AL	-ce al	2a	no-	4cc	suo	.	.	.	.
+8AJ	suo	.	.	.	.	.	.	.	.
+[2d	no-	.	.	2f	no-	8aL	-ce al	.	.
+.	.	.	.	.	.	8aJ	suo	.	.
+.	.	8dL	-me	.	.	[4dd	no-	.	.
+.	.	8dJ	ri-	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+4d]	.	8fL	-schia-	8aL	-me	4dd]	.	1r	.
+.	.	8g	.	8dJ	ri-	.	.	.	.
+8AL	-me	8a	.	2f	-schia-	8ccL	-me	.	.
+8AJ	ri-	8fJ	.	.	.	8ccJ	ri-	.	.
+2c	-schia-	2g	.	.	.	2cc	-schia-	.	.
+.	.	.	.	4e	.	.	.	.	.
+1F	-ra!	1a	-ra!	1f	-ra,	2cc	-ra,	2r	.
+.	.	.	.	.	.	2r	.	4f	E
+.	.	.	.	.	.	.	.	4cc	la
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+0r	.	0r	.	4r	.	4cc	E	4a	sua
+.	.	.	.	4f	E	4ff	la	2dd	vo-
+.	.	.	.	4b-y	la	4dd	sua	.	.
+.	.	.	.	2g	sua	2gg	vo-	8bnXL	-ce al
+.	.	.	.	.	.	.	.	8bniJ	suo
+.	.	.	.	.	.	.	.	1cc	no-
+.	.	.	.	4cc	vo-	8eeL	-ce al	.	.
+.	.	.	.	.	.	8eeJ	suo	.	.
+.	.	.	.	8fL	-ce al	4aa	no-	.	.
+.	.	.	.	8fJ	suo	.	.	.	.
+.	.	.	.	[4cc	no-	8ggL	-me	.	.
+.	.	.	.	.	.	8ggJ	ri-	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2r	.	1r	.	4cc]	.	2gg	-schia-	2dd	-me
+.	.	.	.	8bnXL	-me	.	.	.	.
+.	.	.	.	8bniJ	ri-	.	.	.	.
+4r	.	.	.	4.cc	-schia-	2gg	-ra!	2ee	ri-
+4C	Fe-	.	.	.	.	.	.	.	.
+.	.	.	.	8b-i	.	.	.	.	.
+4.F	-li-	4r	.	4.a	.	2r	.	2ff	-schia-
+.	.	4F	Fe-	.	.	.	.	.	.
+8D	-ci	.	.	8b-y	.	.	.	.	.
+4E	quei	4.c	-li-	4.g	.	4r	.	2ee	-ra!
+4C	bo-	.	.	.	.	4cc	Fe-	.	.
+.	.	8A	-ci	8a	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2D	-schet-	4B-y	quei	4f	-ra!	4.ff	-li-	2r	.
+.	.	4A	bo-	4f	Fe-	.	.	.	.
+.	.	.	.	.	.	8dd	-ci	.	.
+2C	-ti,	2c	-schet-	4.cc	-li-	4.ee	quei	4r	.
+.	.	.	.	.	.	.	.	4cc	Fe-
+.	.	.	.	8a	-ci	8cc	bo-	.	.
+1r	.	4B-y	-ti,	4b-y	quei	4dd	-schet-	4.ff	-li-
+.	.	4d	<Fe-	4a	bo-	4dd	-ti	.	.
+.	.	.	.	.	.	.	.	8dd	-ci
+.	.	4.c	-li-	2cc	-schet-	2r	.	4.ee	quei
+.	.	8A	-ci	.	.	.	.	8cc	bo-
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+2r	.	4B-y	quei	4b-y	-ti,	2r	.	4dd	-schet-
+.	.	4d	bo-	4f	Fe-	.	.	4dd	-ti
+4r	.	2c	-schet-	4.cc	-li-	4r	.	2r	.
+4F	<Fe-	.	.	.	.	4ff	Ch'in-	.	.
+.	.	.	.	8a	-ci	.	.	.	.
+4.B-y	-li-	2B-y	-ti>	4.b-y	quei	8ddL	-se-	1r	.
+.	.	.	.	.	.	8cc	-gni	.	.
+.	.	.	.	.	.	8dd	ri-	.	.
+8G	-ci	.	.	8b-y	bo-	8eeJ	-so-	.	.
+4A	quei	4r	.	2a	-schet-	4ff	-nar-	.	.
+4F	bo-	4f	Ch'in-	.	.	4ff	-gi,	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+2G	-schet-	8dL	-se-	4g	-ti	4r	.	2r	.
+.	.	8c	-gni	.	.	.	.	.	.
+.	.	8d	ri-	4b-y	Ch'in-	4gg	<Ch'in-	.	.
+.	.	8eJ	-so-	.	.	.	.	.	.
+2F	-ti>	4f	-nar-	8aL	-se-	8ccL	-se-	4r	.
+.	.	.	.	8g	-gni	8b-y	-gni	.	.
+.	.	4f	-gli,	8a	ri-	8cc	ri-	4ff	Ch'in-
+.	.	.	.	8fJ	-so-	8aJ	-so-	.	.
+2r	.	4r	.	4g	-nar-	2b-y	-nar-	8ddL	-se-
+.	.	.	.	.	.	.	.	8cc	-gni
+.	.	4g	Ch'in-	4d	-gli,	.	.	8dd	ri-
+.	.	.	.	.	.	.	.	8eeJ	-so-
+4r	.	8fL	-se-	4r	.	2a	-gli,>	4ff	-nar-
+.	.	8e	-gni	.	.	.	.	.	.
+4F	Ch'in-	8f	ri-	4a	<Ch'in-	.	.	4ff	-gli,
+.	.	8gJ	-so-	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+8DL	-se-	4a	-nar-	8fL	-se-	2r	.	4r	.
+8C	-gni	.	.	8e	-gni	.	.	.	.
+8D	ri-	4a	-gli,	8f	ri-	.	.	4dd	<Ch'in-
+8EJ	-so-	.	.	8gJ	-so-	.	.	.	.
+4F	-nar-	4r	.	4a	-nar-	4r	.	8ccL	-se-
+.	.	.	.	.	.	.	.	8b-y	-gni
+4F	-gli	4c	<Ch'in-	4f	-gli,>	4ff	Ch'in-	8cc	ri-
+.	.	.	.	.	.	.	.	8aJ	-so-
+2r	.	8B-yL	-se-	1r	.	8ddL	-se-	2b-y	-nar-
+.	.	8A	-gni	.	.	8cc	-gni	.	.
+.	.	8B-y	ri-	.	.	8dd	ri-	.	.
+.	.	8cJ	-so-	.	.	8eeJ	-so-	.	.
+4r	.	4d	-nar-	.	.	[2ff	-nar-	4a	-gli,>
+4F	e	4c	-gli,>	.	.	.	.	4ff	<Ch'in-
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2BB-y	quei	1r	.	4r	.	2ff]	.	8ddL	-se-
+.	.	.	.	.	.	.	.	8cc	-gni
+.	.	.	.	4b-y	Ch'in-	.	.	8dd	ri-
+.	.	.	.	.	.	.	.	8eeJ	-so-
+2D	pog-	.	.	8aL	-se-	2dd	-gli e	4ff	-nar-
+.	.	.	.	8g	-gni	.	.	.	.
+.	.	.	.	8a	ri-	.	.	4ff	-gli>
+.	.	.	.	8b-yJ	-so-	.	.	.	.
+1C	-get-	2r	.	4cc	-nar-	1gg	quei,	2r	.
+.	.	.	.	4cc	-gli	.	.	.	.
+.	.	4r	.	4r	.	.	.	2ee	e
+.	.	4c	Ch'in-	4cc	e	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+1F	-ti,	8AL	-se-	2f	quei	4r	.	1ff	quei,
+.	.	8G	-gni	.	.	.	.	.	.
+.	.	8A	ri-	.	.	4ff	e	.	.
+.	.	8B-yJ	-so-	.	.	.	.	.	.
+.	.	4c	-nar-	2a	pog-	4cc	quei	.	.
+.	.	4c	-gli	.	.	4ff	pog-	.	.
+2r	.	4r	.	2g	-get-	2ee	-ge-	2r	.
+.	.	4c	e	.	.	.	.	.	.
+4r	.	4F	quei	2f	-ti,	2ff	-ti,	4r	.
+4D	e	4A	pog-	.	.	.	.	4ff	Ch'in-
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+2BB-y	quei	2G	-get-	4r	.	2r	.	8ddL	-se-
+.	.	.	.	.	.	.	.	8cc	-gni
+.	.	.	.	4b-y	Ch'in-	.	.	8dd	ri-
+.	.	.	.	.	.	.	.	8eeJ	-so-
+2D	pog-	2F	-ti,	8aL	-se-	2dd	e	4ff	-nar-
+.	.	.	.	8g	-gni	.	.	.	.
+.	.	.	.	8a	ri-	.	.	4ff	-gli
+.	.	.	.	8b-yJ	-so-	.	.	.	.
+[1C	-get-	2r	.	4cc	-nar-	2g	quei	4r	.
+.	.	.	.	4c	-gli e	.	.	4gg	e
+.	.	2c	e	8eL	quei	4r	.	4cc	quei
+.	.	.	.	8f	.	.	.	.	.
+.	.	.	.	8g	.	4cc	pog-	[4gg	pog-
+.	.	.	.	8eJ	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+1C]	.	4F	quei	4.f	.	1cc	-get-	4gg]	.
+.	.	4A	pog-	.	.	.	.	2ff	-get-
+.	.	.	.	8f	pog-	.	.	.	.
+.	.	2G	-get-	2g	-get-	.	.	.	.
+.	.	.	.	.	.	.	.	4ee	.
+1Fl	-ti!	1Fl	-ti!	1al	-ti!	1ccl	-ti!	1ffl	-ti!
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2019/02/22
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/02/22 and edited by Craig Stuart Sapp
