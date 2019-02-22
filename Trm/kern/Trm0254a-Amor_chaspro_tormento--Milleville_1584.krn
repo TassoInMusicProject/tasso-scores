@@ -1,23 +1,25 @@
 !!!CDT:
-!!!PTL:
-!!!PPP:
-!!!PPR:
-!!!PDT:
-!!!RISM:
-!!!rime:
+!!!PTL: Madrigali a sei voci
+!!!PPP: Ferrara
+!!!PPR: Baldini
+!!!PDT: 1584
+!!!RISM: M 2800
+!!!rime: 254
 !!!AGN: Madrigal
-!!!SCT:
-!!!SCA:
-!!!voices:
-!!!COM:	Alessandro Milleville
-!!!OTL:	Amor, ch'aspro tormento (Rime 254)
+!!!SCT: Trm0254a
+!!!SCA: Trm0254a
+!!!voices: 6
+!!!COM: Milleville, Alessandro
+!!!OTL: Amor, ch'aspro tormento
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
+*oclefF3	*	*oclefC3	*	*oclefC3	*	*oclefC2	*	*oclefG2	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 1r	.	2r	.	1r	.	1r	.	1cc	A-
@@ -279,12 +281,12 @@
 0.AAl	-ce.	0.el	-ce.	0.c#Xl	-ce.	0.al	-ce.	0.eel	-ce.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END:
-!!!EED: Emiliano Ricciardi
+!!!EED: Ricciardi, Emiliano
 !!!EEV: 2019/02/22
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2019/02/22 and edited by Craig Stuart Sapp

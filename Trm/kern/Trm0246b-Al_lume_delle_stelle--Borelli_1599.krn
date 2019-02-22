@@ -1,23 +1,25 @@
 !!!CDT:
-!!!PTL:
-!!!PPP:
-!!!PPR:
-!!!PDT:
-!!!RISM:
-!!!rime:
+!!!PTL: Il primo libro de madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: Amadino
+!!!PDT: 1599
+!!!RISM: B 3685
+!!!rime: 246
 !!!AGN: Madrigal
-!!!SCT:
-!!!SCA:
-!!!voices:
-!!!COM:	Francesco Borelli
-!!!OTL:	Al lume delle stelle (Rime 246)
+!!!SCT: Trm0246b
+!!!SCA: Trm0246b
+!!!voices: 5
+!!!COM: Borelli, Francesco Maria
+!!!OTL: Al lume delle stelle
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
+*oclefF3	*	*oclefC3	*	*oclefC2	*	*oclefG2	*
 *clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1
 0r	.	0r	.	2g	Al	4r	.
@@ -277,12 +279,12 @@
 1Gl	-te."	1Gl	-te."	1gl	-te."	.	.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END:
-!!!EED: Emiliano Ricciardi
+!!!EED: Ricciardi, Emiliano
 !!!EEV: 2019/02/22
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2019/02/22 and edited by Craig Stuart Sapp

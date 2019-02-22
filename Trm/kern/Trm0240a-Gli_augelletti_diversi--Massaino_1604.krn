@@ -1,23 +1,25 @@
 !!!CDT:
-!!!PTL:
-!!!PPP:
-!!!PPR:
-!!!PDT:
-!!!RISM:
-!!!rime:
+!!!PTL: Il quinto libro de madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: Angelo Gardano
+!!!PDT: 1587
+!!!RISM: I 58
+!!!rime: 240
 !!!AGN: Madrigal
-!!!SCT:
-!!!SCA:
-!!!voices:
-!!!COM:	Tiburtio Massaino
-!!!OTL:	Gl'augelletti diversi (i.e., Gli augelletti diversi, Rime 240)
+!!!SCT: Trm0240a
+!!!SCA: Trm0240a
+!!!voices: 5
+!!!COM: Ingegneri, Marco Antonio
+!!!OTL: Gli augelletti diversi
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Quinto	*	*I"Canto	*
+*oclefC4	*	*oclefC3	*	*oclefC2	*	*oclefG2	*	*oclefG2	*
 *clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*F:	*	*F:	*	*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 0r	.	0r	.	8fL	Gl'au-	8aL	Gl'au-	8ccL	Gl'au-
@@ -316,12 +318,12 @@
 1Fl	-ti!	1Fl	-ti!	1al	-ti!	1ccl	-ti!	1ffl	-ti!
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END:
-!!!EED: Emiliano Ricciardi
+!!!EED: Ricciardi, Emiliano
 !!!EEV: 2019/02/22
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2019/02/22 and edited by Craig Stuart Sapp

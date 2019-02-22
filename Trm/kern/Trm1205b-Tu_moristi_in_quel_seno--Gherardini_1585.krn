@@ -1,24 +1,26 @@
 !!!CDT:
-!!!PTL:
-!!!PPP:
-!!!PPR:
-!!!PDT:
-!!!RISM:
-!!!rime:
+!!!PTL: Il primo libro de madrigali a cinque voci
+!!!PPP: Ferrara
+!!!PPR: Baldini
+!!!PDT: 1585
+!!!RISM: 1585-24
+!!!rime: 1205
 !!!AGN: Madrigal
-!!!SCT:
-!!!SCA:
-!!!voices:
-!!!COM:	Arcangelo Gherardini
-!!!OTL:	Tu moristi in quel seno (Rime 1205)
+!!!SCT: Trm1205b
+!!!SCA: Trm1205b
+!!!voices: 5
+!!!COM: Gherardini, Arcangelo
+!!!OTL: Tu moristi in quel seno
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Quinto	*	*I"Canto	*
+*oclefF4	*	*oclefC4	*	*oclefC3	*	*oclefC1	*	*oclefC1	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*F:	*	*F:	*	*F:	*	*F:	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 !!LO:TX:a:t=Seconda parte.
 2.F	Tu	2.A	Tu	2.c	Tu	0r	.	0r	.
@@ -212,6 +214,7 @@
 !!LO:TX:a:t=3
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
 *omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*
+
 0.r	.	1B-y	Più	0.r	.	1b-y	Più	1dd	Più
 .	.	1c	che	.	.	1g	che	1cc	che
 .	.	1G	nel	.	.	1g	nel	1b-y	nel
@@ -247,12 +250,12 @@
 0FFl	-ce.	0Fl	-ce.>	0fl	-ce.>	0al	-ce.	0ccl	-ce.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END:
-!!!EED: Emiliano Ricciardi
+!!!EED: Ricciardi, Emiliano
 !!!EEV: 2019/02/22
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2019/02/22 and edited by Craig Stuart Sapp

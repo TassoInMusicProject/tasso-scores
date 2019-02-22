@@ -1,23 +1,25 @@
 !!!CDT:
-!!!PTL:
-!!!PPP:
-!!!PPR:
-!!!PDT:
-!!!RISM:
-!!!rime:
+!!!PTL: Il settimo libro de madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: Giacomo Vincenzi
+!!!PDT: 1604
+!!!RISM: L 3130
+!!!rime: 378
 !!!AGN: Madrigal
-!!!SCT:
-!!!SCA:
-!!!voices:
-!!!COM:	Luzzasco Luzzaschi
-!!!OTL:	Nel dolce sen de la sua bella Clori (i.e., Nel dolce seno de la bella Clori, Rime 378)
+!!!SCT: Trm0378h
+!!!SCA: Trm0378h
+!!!voices: 5
+!!!COM: Luzzaschi. Luzzasco
+!!!OTL: Nel dolce seno de la bella Clori
 **kern	**text	**kern	**text
 *part2	*part2	*part1	*part1
 *staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Canto	*
+*oclefF4	*	*oclefC1	*
 *clefF4	*	*clefG2	*
 *k[]	*	*k[]	*
 *C:	*	*C:	*
+*omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*
 =1	=1	=1	=1
 !!LO:TX:a:t=[Prima Parte.]
@@ -561,12 +563,12 @@
 0AAl	-ti.	0al	-ti.
 ==	==	==	==
 *-	*-	*-	*-
-!!!system-decoration: [(s1,s2)]
+!!!system-decoration: [(s1)(s2)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END:
-!!!EED: Emiliano Ricciardi
+!!!EED: Ricciardi, Emiliano
 !!!EEV: 2019/02/22
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2019/02/22 and edited by Craig Stuart Sapp
