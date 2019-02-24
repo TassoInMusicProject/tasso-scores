@@ -152,7 +152,7 @@
 1.FFl	.	1.FFl	-to.	G
 =:|!	=:|!	=:|!	=:|!	=:|!
 *-	*-	*-	*-	*-
-!!!system-decoration: s1[(s2)]
+!!!system-decoration: [(s1)(s2)]
 !!!RDF**kern: < = below
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
