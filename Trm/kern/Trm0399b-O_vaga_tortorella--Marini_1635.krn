@@ -11,145 +11,147 @@
 !!!SCT: Trm0399b
 !!!SCA: Trm0399b
 !!!voices: 1+bc+alfabeto
-**kern	**kern	**text
-*part2	*part1	*part1
-*staff2	*staff1	*staff1
-*I"B.C.	*	*
-*oclefF4	*oclefF4	*
-*clefF4	*clefF4	*
-*k[b-]	*k[b-]	*
-*F:	*F:	*
-*omet(C3)	*omet(C3)	*
-*M3/2	*M3/2	*
-=1	=1	=1
-1F	2r	.
-.	2r	.
-2F	2F	O
-=2	=2	=2
-1BB-y	4B-y	va-
-.	4A	.
-.	4B-y	.
-.	4c	.
-2B-y	2B-y	.
-=3	=3	=3
-2A	2A	-gha
-2G	2G	Tor-
-2C	2C	-to-
-=4	=4	=4
-1FF	1F	-rel-
-2FF	2F	-la,
-=5	=5	=5
-2C	2C	Tu
-2D	2D	la
-2E	2E	tua
-=6	=6	=6
-1F	1F	com-
-2G	4G	-pa-
-.	4GG	.
-=7	=7	=7
-1C	1C	-gni-
-2C	2C	-a
-=8	=8	=8
-2r	2r	.
-2AA	2AA	Ed
-2AA	2AA	io
-=9	=9	=9
-1.BBnX	2.BBnX	pian-
-.	4AA	-go
-.	2BBnX	co-
-=10	=10	=10
-2.C	2.C	-lei
-4BB-y	4BB-y	che
-2AA	2AA	non
-=11	=11	=11
-2FF	4FF	fu
-.	4C	mi-
-1C	1FF	-a.
-=12:|!|:	=12:|!|:	=12:|!|:
-2.B-y	2.B-y	Mi-
-4B-y	4B-y	-se-
-2F#X	2F#X	-ra
-=13	=13	=13
-2G	2.G	ve-
-2C	.	.
-.	4C	-do-
-2D	2D	-vel-
-=14	=14	=14
-1.GG	1.GG	-la,
-=15	=15	=15
-2B-y	2.B-y	Tu
-2A	.	.
-.	4A	sov-
-2B-y	2B-y	-ra_il
-=16	=16	=16
-1G	1G	nu-
-2C	2C	-do
-=17	=17	=17
-1F	2F	ra-
-.	2F	-mo,
-2E	2E	A
-=18	=18	=18
-1D	1D	pié
-2C	2C	del
-=19	=19	=19
-1BB-y	1BB-y	sec-
-2AA	2AA	-co
-=20	=20	=20
-2.GG	2.GG	tron-
-4AA	4AA	-co_io
-2BB-y	2BB-y	la
-=21	=21	=21
-2FF	2FF	ric-
-2GG	(<2GG	-chia-
-2AA	2AA)	.
-=22	=22	=22
-1D	1D	-mo:
-2D	2D	Ma
-=23	=23	=23
-1.D	4D	l'au-
-.	4E	.
-.	4F#X	.
-.	4G	.
-.	4A	.
-.	4F#X	.
-=24	=24	=24
-2.G	2.G	.
-4F	4FnXi	-ra
-2E	2E	so-
-=25	=25	=25
-2C	2C	-lo_e'l
-1GG	4G	ven-
-.	4F	.
-.	4G	.
-.	4GG	.
-=26	=26	=26
-1C	1C	-to
-2C	2C	Ri-
-=27	=27	=27
-2BB-y	2BB-y	-spon-
-4AA	4AA	-de
-2BB-y	2BB-y	mor-
-4GG	4GG	-mo-
-=28	=28	=28
-1FF	2FF	-ran-
-.	2FF	-do,
-2F	2F	Ri-
-=29	=29	=29
-2E-X	2E-X	-spon-
-4D	4D	-de
-2E-i	2E-i	mor-
-4C	4C	-mo-
-=30	=30	=30
-2BB-y	2BB-y	-ran-
-2D	2D	-do_al
-2AA	2AA	mio
-=31	=31	=31
-2FF	2FF	la-
-1C	1C	-men-
-=32	=32	=32
-1.FFl	1.FFl	-to.
-=:|!	=:|!	=:|!
-*-	*-	*-
+**kern	**fb	**kern	**text	**blank
+*part2	*	*part1	*part1	*
+*staff2	*	*staff1	*staff1	*
+*I"B.C.	*	*	*	*
+*oclefF4	*	*oclefF4	*	*
+*clefF4	*	*clefF4	*	*
+*k[b-]	*	*k[b-]	*	*
+*F:	*	*F:	*	*
+*omet(C3)	*	*omet(C3)	*	*
+*M3/2	*	*M3/2	*	*
+=1	=1	=1	=1	=1
+1F	.	2r	.	.
+.	.	2r	.	.
+2F	.	2F	O	G
+=2	=2	=2	=2	=2
+1BB-y	.	4B-y	va-	H
+.	.	4A	.	.
+.	.	4B-y	.	.
+.	.	4c	.	.
+2B-y	.	2B-y	.	.
+=3	=3	=3	=3	=3
+2A	.	2A	-gha	G
+2G	.	2G	Tor-	A
+2C	.	2C	-to-	B
+=4	=4	=4	=4	=4
+1FF	.	1F	-rel-	G
+2FF	.	2F	-la,	.
+=5	=5	=5	=5	=5
+2C	.	2C	Tu	B
+2D	.	2D	la	E
+2E	.	2E	tua	+
+=6	=6	=6	=6	=6
+1F	.	1F	com-	G
+2G	.	4G	-pa-	A
+.	.	4GG	.	.
+=7	=7	=7	=7	=7
+1C	.	1C	-gni-	B
+2C	.	2C	-a	.
+=8	=8	=8	=8	=8
+2r	.	2r	.	.
+2AA	.	2AA	Ed	D
+2AA	.	2AA	io	.
+=9	=9	=9	=9	=9
+1.BBnX	.	2.BBnX	pian-	A
+.	.	4AA	-go	.
+.	.	2BBnX	co-	.
+=10	=10	=10	=10	=10
+2.C	.	2.C	-lei	B
+4BB-y	.	4BB-y	che	.
+2AA	.	2AA	non	D
+=11	=11	=11	=11	=11
+2FF	.	4FF	fu	G
+.	.	4C	mi-	B
+1C	.	1FF	-a.	G
+=12:|!|:	=12:|!|:	=12:|!|:	=12:|!|:	=12:|!|:
+2.B-y	.	2.B-y	Mi-	H
+4B-y	.	4B-y	-se-	.
+2F#X	.	2F#X	-ra	C
+=13	=13	=13	=13	=13
+2G	.	2.G	ve-	O
+2C	.	.	.	.
+.	.	4C	-do-	B
+2D	.	2D	-vel-	C
+=14	=14	=14	=14	=14
+1.GG	.	1.GG	-la,	A
+=15	=15	=15	=15	=15
+2B-y	.	2.B-y	Tu	H
+2A	.	.	.	.
+.	.	4A	sov-	E
+2B-y	.	2B-y	-ra_il	H
+=16	=16	=16	=16	=16
+1G	.	1G	nu-	A
+2C	.	2C	-do	B
+=17	=17	=17	=17	=17
+1F	.	2F	ra-	G
+.	.	2F	-mo,	.
+2E	.	2E	A	+
+=18	=18	=18	=18	=18
+1D	.	1D	pié	E
+2C	.	2C	del	B
+=19	=19	=19	=19	=19
+1BB-y	.	1BB-y	sec-	H
+2AA	.	2AA	-co	D
+=20	=20	=20	=20	=20
+2.GG	.	2.GG	tron-	O
+4AA	.	4AA	-co_io	.
+2BB-y	.	2BB-y	la	H
+=21	=21	=21	=21	=21
+2FF	.	2FF	ric-	G
+2GG	.	(<2GG	-chia-	A
+2AA	.	2AA)	.	I
+=22	=22	=22	=22	=22
+1D	.	1D	-mo:	D
+2D	.	2D	Ma	.
+=23	=23	=23	=23	=23
+1.D	#	4D	l'au-	C
+.	.	4E	.	.
+.	.	4F#X	.	.
+.	.	4G	.	.
+.	.	4A	.	.
+.	.	4F#X	.	.
+=24	=24	=24	=24	=24
+2.G	.	2.G	.	A
+4F	.	4FnXi	-ra	.
+2E	.	2E	so-	+
+=25	=25	=25	=25	=25
+2C	.	2C	-lo_e'l	B
+1GG	.	4G	ven-	A
+.	.	4F	.	.
+.	.	4G	.	.
+.	.	4GG	.	.
+=26	=26	=26	=26	=26
+1C	.	1C	-to	B
+2C	.	2C	Ri-	.
+=27	=27	=27	=27	=27
+2BB-y	.	2BB-y	-spon-	H
+4AA	.	4AA	-de	.
+2BB-y	.	2BB-y	mor-	.
+4GG	.	4GG	-mo-	.
+=28	=28	=28	=28	=28
+1FF	.	2FF	-ran-	G
+.	.	2FF	-do,	.
+2F	.	2F	Ri-	.
+=29	=29	=29	=29	=29
+2E-X	.	2E-X	-spon-	M
+4D	.	4D	-de	.
+2E-i	.	2E-i	mor-	.
+4C	.	4C	-mo-	.
+=30	=30	=30	=30	=30
+2BB-y	.	2BB-y	-ran-	H
+2D	.	2D	-do_al	E
+2AA	.	2AA	mio	C
+=31	=31	=31	=31	=31
+*col	*	*col	*	*
+2FF	.	2FF	la-	G
+1C	.	1C	-men-	B
+*Xcol	*	*Xcol	*	*
+=32	=32	=32	=32	=32
+1.FFl	.	1.FFl	-to.	G
+=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-
 !!!system-decoration: s1[(s2)]
 !!!RDF**kern: < = below
 !!!RDF**kern: i = editorial accidental
