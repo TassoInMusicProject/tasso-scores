@@ -11,9 +11,13 @@
 !!!SCT: Trm0354a
 !!!SCA: Trm0354a
 !!!voices: 3
+!!!OMD: Aria &agrave; 3. [Alto or Tenore missing]
 **kern	**text	**kern	**text
 *part2	*part2	*part1	*part1
 *staff2	*staff2	*staff1	*staff1
+*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]
+*>norep[A,B,B2]	*>norep[A,B,B2]	*>norep[A,B,B2]	*>norep[A,B,B2]
+*>A	*>A	*>A	*>A
 *I"Basso	*	*I"Canto	*
 *oclefF4	*	*oclefC1	*
 *clefF4	*	*clefG2	*
@@ -39,6 +43,7 @@
 .	.	[4ee	-gio-
 8E	-n'o-	.	.
 =4!|:	=4!|:	=4!|:	=4!|:
+*>B	*>B	*>B	*>B
 4.F	-gn'or	8eeL]	.
 .	.	8aJ	-n'o-
 .	.	2cc	-gn'or
@@ -80,6 +85,7 @@
 =12	=12	=12	=12
 1D	-do-	1a	-do-
 =13	=13	=13	=13
+*>B1	*>B1	*>B1	*>B1
 8GGL	-glio.	4g	-glio.
 8G	A	.	.
 8F	gran	8r	.
@@ -89,6 +95,7 @@
 .	.	(>4ee)	-gio
 8E	-n'o	.	.
 =14:|!	=14:|!	=14:|!	=14:|!
+*>B2	*>B2	*>B2	*>B2
 1GG;l	glio.	1g;l	glio.
 ==	==	==	==
 *-	*-	*-	*-
@@ -102,3 +109,14 @@
 !!!EEV: 2019/02/06
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2019/02/06 and edited by Craig Stuart Sapp
+!!
+!! Second verse:
+!!	Per voi sol, che mirate,
+!!	I' son ferito da lo stral d'amore,
+!!	E per voi se ne va veloce al core.
+!!
+!! Third verse:
+!!	Dunque voi nel mirare
+!!	Siate pi&ugrave; accorti, per che non conviene,
+!!	Ch'io di vostro gioir porti le pene.
+!!
