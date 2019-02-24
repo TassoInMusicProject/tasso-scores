@@ -14,6 +14,9 @@
 **kern	**text	**kern	**text
 *part2	*part2	*part1	*part1
 *staff2	*staff2	*staff1	*staff1
+*>[A,A1,A,A2,B,B1,B,B2,C,C]	*>[A,A1,A,A2,B,B1,B,B2,C,C]	*>[A,A1,A,A2,B,B1,B,B2,C,C]	*>[A,A1,A,A2,B,B1,B,B2,C,C]
+*>norep[A,A2,B,B2,C]	*>norep[A,A2,B,B2,C]	*>norep[A,A2,B,B2,C]	*>norep[A,A2,B,B2,C]
+*>A	*>A	*>A	*>A
 *I"Basso	*	*I"Canto	*
 *oclefC4	*	*oclefC1	*
 *clefGv2	*	*clefG2	*
@@ -39,16 +42,19 @@
 .	.	[4a	so-
 8e	mio	.	.
 =3	=3	=3	=3
+*>A1	*>A1	*>A1	*>A1
 (>4d	so-	4a]	.
 4e)	.	4g#X	.
 2A	-le,	2a	-le,
 =4:|!	=4:|!	=4:|!	=4:|!
+*>A2	*>A2	*>A2	*>A2
 (>4d	so-	(<4a)	.
 4e)	.	4g#X	.
 2A	-le,	4a	le,
 .	.	8aL	Vis-
 .	.	8ccJ	-si
 =5!|:	=5!|:	=5!|:	=5!|:
+*>B	*>B	*>B	*>B
 2r	.	8bL	lie-
 .	.	8g	-to
 .	.	8a	del
@@ -72,16 +78,19 @@
 2G	mio ar-	4b	mio ar-
 .	.	[4cc	-do-
 =8	=8	=8	=8
+*>B1	*>B1	*>B1	*>B1
 2G	-do-	4cc]	.
 .	.	4b	.
 2C	-re,	4cc	-re,
 .	.	8aL	Vis-
 .	.	8ccJ	-si
 =9:|!	=9:|!	=9:|!	=9:|!
+*>B2	*>B2	*>B2	*>B2
 2G	do-	(>4cc)	.
 .	.	4b	.
 2C	-re,	2cc	re,
 =10!|:	=10!|:	=10!|:	=10!|:
+*>C	*>C	*>C	*>C
 4r	.	4r	.
 8cL	Hor	8gL	Hor
 8AJ	che	8aJ	che
@@ -147,3 +156,20 @@
 !!!EEV: 2019/02/06
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2019/02/06
+!!
+!! Second verse:
+!!	Tu pur vedi il dolor mio,
+!!	O mia gioia,
+!!	Sai ch'io t'amo, ch'io t'adoro,
+!!	Ch'io mi moro,
+!!	E mi sei crudele,
+!!	Quest`&egrave; merc&eacute; de l'amor mio fedele?
+!!
+!! Third verse:
+!!	Poiche godi del mio male,
+!!	O mio bene,
+!!	Son contento di languire,
+!!	Di morire,
+!!	S'io vedr&ograve;, che poi
+!!	Il mio morir sia caro &agreve; gli occhi tuoi.
+!!
