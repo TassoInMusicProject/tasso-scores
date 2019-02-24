@@ -21,10 +21,9 @@
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
-
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!	!	!	!	!	!	!	!	!LO:TX:t=[Prima parte]	!
+!!LO:TX:a:t=[Prima parte]
 0r	.	0r	.	2A	A-	2r	.	0r	.
 .	.	.	.	2.A	-min-	4r	.	.	.
 .	.	.	.	.	.	4e	A-	.	.
@@ -301,7 +300,7 @@
 .	.	2e	tac-	2A	tac-	2a	tac-	.	.
 1E	-que.	1e	-que.	1B	-que.>	1g#X	-que.	1b	-que.
 =26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||	=26||
-!	!	!	!	!	!	!	!	!LO:TX:t=Seconda parte	!
+!!LO:TX:a:t=Seconda parte
 2A	Co-	2e	Co-	0r	.	2a	Co-	2cc	Co-
 2D	-glie-	2d	-glie-	.	.	2.f	-glie-	2a	-glie-
 2F	-te a-	2c	-te a-	.	.	.	.	2a	-te a-
