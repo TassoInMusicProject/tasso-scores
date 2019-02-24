@@ -11,7 +11,7 @@
 !!!SCT: Trm0399b
 !!!SCA: Trm0399b
 !!!voices: 1+bc+alfabeto
-**kern	**fb	**kern	**text	**blank
+**kern	**fb	**kern	**text	**cdata
 *part2	*	*part1	*part1	*
 *staff2	*	*staff1	*staff1	*
 *I"B.C.	*	*	*	*
