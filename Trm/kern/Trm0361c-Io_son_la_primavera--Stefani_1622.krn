@@ -25,8 +25,8 @@
 *M4/2	*M4/2	*	*
 *>A	*>A	*>A	*>A
 =1	=1	=1	=1
-2r	2r	.	G
-2F	4cc	Io	.
+2r	2r	.	.
+2F	4cc	Io	G
 .	2cc	son	.
 2F	.	.	.
 .	4cc	la	.
@@ -120,7 +120,7 @@
 1.FFl	1.fl	-ri.	G
 ==	==	==	==
 *-	*-	*-	*-
-!!!system-decoration: s1[(s2)]
+!!!system-decoration: [(s1)(s2)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
@@ -139,7 +139,7 @@
 !!
 !! Third verse:
 !!	E voi ancor gioite,
-!1	Godete al mio venir fra risi, e canti:
+!!	Godete al mio venir fra risi, e canti:
 !!	Amate i vostri Amanti.
 !!	Hor ch'il bel viso amato April v'infiora
 !!	Primavera per voi ogn'hor non torna.
