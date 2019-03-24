@@ -14,7 +14,8 @@
 **kern	**fb	**kern	**text	**cdata
 *part2	*	*part1	*part1	*
 *staff2	*	*staff1	*staff1	*
-*I"B.C.	*	*	*	*
+*I"B.C.	*	*I" 	*	*
+*I'B.C.	*	*I' 	*	*
 *oclefF4	*	*oclefF4	*	*
 *clefF4	*	*clefF4	*	*
 *k[b-]	*	*k[b-]	*	*

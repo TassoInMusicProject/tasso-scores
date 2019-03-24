@@ -400,7 +400,7 @@ census:
 ## are added to the database.
 ##
 
-process: refs system original index
+process: refs abbr system original index
 
 ref: refs
 refs:
@@ -408,6 +408,9 @@ refs:
 	bin/fillinrefinfo -a -w Tam/kern/*.krn
 	bin/fillinrefinfo -g -w Tsg/kern/*.krn
 	# need also to do other genres here
+
+abbr:
+	bin/addAbbreviations */kern/*.krn
 
 system:
 	bin/fixsystemdecoration Trm/kern/*.krn
