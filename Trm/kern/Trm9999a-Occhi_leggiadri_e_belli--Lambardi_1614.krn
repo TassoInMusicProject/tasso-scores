@@ -1,0 +1,109 @@
+!!!COM: Lambardi, Francesco
+!!!CDT:
+!!!PTL: Il secondo libro delle villanelle a tre, quattro et a cinque
+!!!PPP: Naples
+!!!PPR: Giovanni Giacomo Carlino
+!!!PDT: 1614
+!!!RISM: L 361
+!!!rime: 9999
+!!!OTL: Occhi leggiadri e belli/ Or che volete più dal petto mio?
+!!!AGN: Madrigal
+!!!SCT: Trm9999a
+!!!SCA: Trm9999a
+!!!voices: 3
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Alto	*	*I"Canto	*
+*oclefF4	*	*oclefC1	*	*oclefC1	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+=1	=1	=1	=1	=1	=1
+1G	Oc-	1g	Oc-	1b-y	Oc-
+=2	=2	=2	=2	=2	=2
+2.D	-chi	2.f#X	-chi	2.a	-chi
+4D	leg-	4f#i	leg-	4a	leg-
+=3	=3	=3	=3	=3	=3
+2.AA	-gia-	2a	-gia-	2.cc	-gia-
+.	.	4e	-dri e	.	.
+4BB-y	-dri e	[4g	be-	4g	-dri e
+=4	=4	=4	=4	=4	=4
+1D	bel-	4g]	.	(>4b-y	bel-
+.	.	8f#XL	.	2.a)	.
+.	.	8eJ	.	.	.
+.	.	2f#X	.	.	.
+=5	=5	=5	=5	=5	=5
+2G	-li,	2g	-li,	2g	-li,
+2BB-y	Hor	2b-y	Hor	2dd	Hor
+=6	=6	=6	=6	=6	=6
+4F	che	4.a	che	4.cc	che
+4D	vo-	.	.	.	.
+.	.	8b-y	vo-	8dd	vo-
+4G	-le-	4.g	-le-	4.b-y	-le-
+4GG	-te	.	.	.	.
+.	.	8g	-te	8b-y	-te
+=7	=7	=7	=7	=7	=7
+2D	più	2f#X	più	2a	più
+2G	dal	4r	.	2b-y	dal
+.	.	[4dd	dal	.	.
+=8	=8	=8	=8	=8	=8
+4F	pet-	4dd]	.	4a	pet-
+4F	-to	2cc	pet-	4a	-to
+[2E-X	mi-	.	.	[2g	mi-
+.	.	4b-y	-to	.	.
+=9	=9	=9	=9	=9	=9
+2E-]	.	(>8b-y	mi-	2g]	.
+.	.	4a)	.	.	.
+.	.	(<8g	.	.	.
+2D	-o?	2a)	-o?	2f#X	-o?
+=10!|:	=10!|:	=10!|:	=10!|:	=10!|:	=10!|:
+*M3/2	*	*M3/2	*	*M3/2	*
+2r	.	2r	.	2r	.
+2G	Il	2b-y	Il	2g	Il
+2A	cor	2cc	cor	2e	cor
+=11	=11	=11	=11	=11	=11
+2B-y	è	2dd	è	2e	è
+1A	vo-	2dd	vo-	1e	vo-
+.	.	2cc#X	.	.	.
+=12	=12	=12	=12	=12	=12
+2D	-stro,	2dd	-stro,	2d	-stro,
+2D	Il	2f#X	Il	2dd	Il
+2EnX	cor	2g#X	cor	2bnX	cor
+=13	=13	=13	=13	=13	=13
+2F	è	2a	è	2bnX	è
+1EnX	vo-	2a	vo-	1bnX	vo-
+.	.	2g#X	.	.	.
+=14	=14	=14	=14	=14	=14
+2AA	-stro,	1.a	-stro,	1.a	-stro,
+2A	è	.	.	.	.
+[2F#X	vo-	.	.	.	.
+=15	=15	=15	=15	=15	=15
+2F#]	.	2r	.	2dd	E
+2G	-stro,	2r	.	1bnX	vo-
+2GG	E	2g	E	.	.
+=16	=16	=16	=16	=16	=16
+2C	vo-	2e	vo-	1cc	-stro il
+2D	-stro il	2f#X	-stro il	.	.
+2E-X	mio	2g	mio	2b-X	mio
+=17	=17	=17	=17	=17	=17
+2C	de-	2g	de-	2a	de-
+1D	-si-	2g	-si-	1a	-si-
+.	.	2f#X	.	.	.
+=18	=18	=18	=18	=18	=18
+1.GG;l	-o.	1.g;l	-o.	1.g;l	-o.
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/03/24
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/03/24
