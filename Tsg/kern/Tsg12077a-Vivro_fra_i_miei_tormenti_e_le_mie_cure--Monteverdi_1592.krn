@@ -1,16 +1,16 @@
-!!!COM:
+!!!COM: Monteverdi, Claudio
 !!!CDT:
-!!!PTL:
-!!!PPP:
-!!!PPR:
-!!!PDT:
-!!!RISM:
+!!!PTL: Il terzo libro de madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: Ricciardo Amadino
+!!!PDT: 1592
+!!!RISM: M 3459
 !!!rime:
 !!!OTL:	Vivrò fra i miei tormenti e le mie cure (Gerusalemme XII/77)
 !!!AGN: Madrigal
 !!!SCT: Tsg12077a
 !!!SCA: Tsg12077a
-!!!voices:
+!!!voices: 5
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -232,7 +232,7 @@
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END:
-!!!EED: Emiliano Ricciardi
+!!!EED: Giles, Roseen
 !!!EEV: 2019/01/21
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2019/01/21

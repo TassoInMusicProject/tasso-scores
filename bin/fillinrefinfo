@@ -13,14 +13,20 @@ my $indexfile = $Trm_indexfile;
 
 my $writeQ = 0;
 my $amintaQ = 0;
+my $gerusalemmeQ = 0;
 Getopt::Long::Configure("bundling");
 GetOptions (
    'w|overwrite' => \$writeQ,
-   'a|aminta' => \$amintaQ
+   'a|aminta' => \$amintaQ,
+   'g|gerusalemme' => \$gerusalemmeQ
 );
 
 if ($amintaQ) {
 	$indexfile = $Tam_indexfile;
+}
+
+if ($gerusalemmeQ) {
+	$indexfile = $Tsg_indexfile;
 }
 
 

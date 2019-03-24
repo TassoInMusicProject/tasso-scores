@@ -1,6 +1,6 @@
 !!!COM: Ricci, Cesarina
 !!!CDT:
-!!!PTL: Di Madonna Cesarina de Tingoli il primo libro de madrigali à cinque voci. Con un Dialogo a otto. Novamente composti et dati in luce
+!!!PTL: Il primo libro de madrigali à cinque voci
 !!!PPP: Venice
 !!!PPR: Angelo Gardano
 !!!PDT: 1597
@@ -10,7 +10,7 @@
 !!!AGN: Madrigal
 !!!SCT: Tsg12097e
 !!!SCA: Tsg12097e
-!!!voices:
+!!!voices: 5
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -268,7 +268,7 @@
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END:
-!!!EED: Emiliano Ricciardi
+!!!EED: Deutsch, Catherine
 !!!EEV: 2018/09/25
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2018/09/25

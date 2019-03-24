@@ -1,5 +1,5 @@
 !!!CDT:
-!!!PTL: L'Armida del Tasso posta in musica a cinque voci, col suo basso per suonare. Opera terza
+!!!PTL: L'Armida del Tasso posta in musica a cinque voci, col suo basso per suonare
 !!!PPP: Venice
 !!!PPR: Alessandro Vincenzi
 !!!PDT: 1629
@@ -8,7 +8,7 @@
 !!!AGN: Madrigal
 !!!SCT: Tsg16056a
 !!!SCA: Tsg16056a
-!!!voices:
+!!!voices: 5+bc
 !!!COM: Eredi, Francesco
 !!!OTL:	Rimanti in pace, io vado: a te non lice
 **kern	**text	**text	**kern	**text	**text	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**text	**kern	**text	**text	**text	**text	**kern	**text
@@ -336,7 +336,7 @@
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END:
-!!!EED: Emiliano Ricciardi
+!!!EED: Mazzetti, Marcello; Ticli, Livio
 !!!EEV: 2018/09/25
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2018/09/25
