@@ -1,0 +1,823 @@
+!!!COM: Marenzio, Luca
+!!!CDT:
+!!!PTL: Il quarto libro de madrigali a sei voci
+!!!PPP: Venice
+!!!PPR: Giacomo Vincenzi
+!!!PDT: 1587
+!!!RISM: M 510
+!!!rime: 107
+!!!OTL: Arsi gran tempo, e del mio foco indegno
+!!!AGN: Madrigal
+!!!SCT: Trm0107a
+!!!SCA: Trm0107a
+!!!voices: 6
+**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Sesto	*	*I"Tenore	*	*I"Quinto	*	*I"Alto	*	*I"Canto	*
+*I'B	*	*I'S	*	*I'T	*	*I'Q	*	*I'A	*	*I'C	*
+*oclefF4	*	*oclefC4	*	*oclefC4	*	*oclefC3	*	*oclefC3	*	*oclefC1	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*d:	*	*d:	*	*d:	*	*d:	*	*d:	*	*d:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+0r	.	0r	.	2r	.	0r	.	1r	.	2.g	Ar-
+.	.	.	.	2.G	Ar-	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4a	.
+.	.	.	.	.	.	.	.	2.d	Ar-	4b-y	.
+.	.	.	.	4A	.	.	.	.	.	4cc	.
+.	.	.	.	4B-y	.	.	.	.	.	4dd	.
+.	.	.	.	4c	.	.	.	4e	.	8ccL	.
+.	.	.	.	.	.	.	.	.	.	8b-yJ	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+0r	.	0r	.	1d	.	0r	.	4f#X	.	4a	.
+.	.	.	.	.	.	.	.	4g	.	2g	.
+.	.	.	.	.	.	.	.	2a	.	.	.
+.	.	.	.	.	.	.	.	.	.	4f#X	.
+.	.	.	.	4BnX	-si	.	.	4d	-si	4g	-si
+.	.	.	.	4c	gran	.	.	4e	gran-	4g	gran
+.	.	.	.	[2F	tem-	.	.	[2fnXi	-tem-	[2a	tem-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+0r	.	0r	.	2F	.	0r	.	2f	.	2a	.
+.	.	.	.	2c	-po, e	.	.	2e	-po, e	2g	-po,
+.	.	.	.	4.B-y	del	.	.	4.d	del	2r	.
+.	.	.	.	8B-y	mio	.	.	8d	mio	.	.
+.	.	.	.	4.A	fo-	.	.	4c	fo-	4r	.
+.	.	.	.	.	.	.	.	[4f	-co in-	4cc	e
+.	.	.	.	8A	-co in-	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!LO:TX:t=Luca Marenzio, "Arsi gran tempo, e del mio foco indegno," 1587 (Trm0107; 21 March 2019)	!	!	!	!	!	!	!	!	!	!	!
+0r	.	0r	.	2G	-de-	0r	.	4f	.	4.b-y	del
+.	.	.	.	.	.	.	.	4e	-de-	.	.
+.	.	.	.	.	.	.	.	.	.	8b-y	mio
+.	.	.	.	2F	-gno	.	.	2f	-gno	4.a	fo-
+.	.	.	.	.	.	.	.	.	.	8a	-co in-
+.	.	.	.	4r	.	.	.	2r	.	2g	-de-
+.	.	.	.	4G	E-	.	.	.	.	.	.
+.	.	.	.	4A	-sca	.	.	4r	.	2f	-gno
+.	.	.	.	4B-y	fù	.	.	4d	E-	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+0r	.	0r	.	4c	sol	0r	.	4e	-sca	4r	.
+.	.	.	.	4d	bel-	.	.	4f	fù	4d	E-
+.	.	.	.	1c	-tà	.	.	4g	sol	4e	-sca
+.	.	.	.	.	.	.	.	4a	bel-	4f	fù
+.	.	.	.	.	.	.	.	4e	-tà	4g	sol
+.	.	.	.	.	.	.	.	4f	ter-	4a	bel-
+.	.	.	.	2G	ter-	.	.	4g	-re-	4b-y	-tà
+.	.	.	.	.	.	.	.	8fL	.	4cc	ter-
+.	.	.	.	.	.	.	.	8eJ	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+0r	.	0r	.	4.B-y	-re-	0r	.	4d	.	4dd	-re-
+.	.	.	.	.	.	.	.	2g	-na e	4b-y	-na e
+.	.	.	.	8c	-na e	.	.	.	.	.	.
+.	.	.	.	2d	fra-	.	.	.	.	2a	fra-
+.	.	.	.	.	.	.	.	4f#X	fra-	.	.
+.	.	.	.	1G	-le,	.	.	1g	-le,	2.bnX	-le,
+.	.	.	.	.	.	.	.	.	.	4cc	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+1G	E	1BnX	E	0r	.	2r	.	2r	.	1dd	.
+.	.	.	.	.	.	2g	E	2d	E	.	.
+2G	qual	2Bni	qual	.	.	2g	qual	2d	qual	1r	.
+2G	pa-	2Bni	pa-	.	.	2d	pa-	2g	pa-	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2.C	-lu-	2.c	-lu-	0r	.	2.e-X	-lu-	2.g	-lu-	1r	.
+4C	-stre au-	4c	-stre au-	.	.	4e-i	-stre au-	4g	-stre au-	.	.
+1G	-gel	2.B-y	-gel	.	.	4d	-gel	1g	-gel	2r	.
+.	.	.	.	.	.	4G	pur	.	.	.	.
+.	.	.	.	.	.	4d	sem-	.	.	2dd	E
+.	.	4c	.	.	.	4enXi	-pre	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+0r	.	1d	.	0r	.	8fL	l'a-	1r	.	2dd	qual
+.	.	.	.	.	.	8e	.	.	.	.	.
+.	.	.	.	.	.	8d	.	.	.	.	.
+.	.	.	.	.	.	8eJ	.	.	.	.	.
+.	.	.	.	.	.	8fL	.	.	.	2a	pa-
+.	.	.	.	.	.	8g	.	.	.	.	.
+.	.	.	.	.	.	8a	.	.	.	.	.
+.	.	.	.	.	.	8fJ	.	.	.	.	.
+.	.	1r	.	.	.	2g	.	4r	.	2.b-y	-lu-
+.	.	.	.	.	.	.	.	4G	pur	.	.
+.	.	.	.	.	.	2G	-le,	4d	sem-	.	.
+.	.	.	.	.	.	.	.	4e	-pre	4b-y	-stre au-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+0r	.	0r	.	0r	.	1r	.	8fL	l'a-	2.a	-gel
+.	.	.	.	.	.	.	.	8e	.	.	.
+.	.	.	.	.	.	.	.	8d	.	.	.
+.	.	.	.	.	.	.	.	8eJ	.	.	.
+.	.	.	.	.	.	.	.	8fL	.	.	.
+.	.	.	.	.	.	.	.	8g	.	.	.
+.	.	.	.	.	.	.	.	8a	.	4f	pur
+.	.	.	.	.	.	.	.	8fJ	.	.	.
+.	.	.	.	.	.	4r	.	2g	.	2b-y	sem-
+.	.	.	.	.	.	4G	pur	.	.	.	.
+.	.	.	.	.	.	4d	sem-	2G	-le	2b-y	-pre
+.	.	.	.	.	.	4e	-pre	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+0r	.	0r	.	0r	.	8fL	l'a-	8dL	Vol-	8aL	l'a-
+.	.	.	.	.	.	8e	.	8e	.	8g	.
+.	.	.	.	.	.	8d	.	8f	.	8f	.
+.	.	.	.	.	.	8eJ	.	8gJ	.	8eJ	.
+.	.	.	.	.	.	8fL	.	4a	.	8dL	.
+.	.	.	.	.	.	8g	.	.	.	8e	.
+.	.	.	.	.	.	8a	.	4d	-si	8f	.
+.	.	.	.	.	.	8fJ	.	.	.	8dJ	.
+.	.	.	.	.	.	2g	.	2c	di	8eL	.
+.	.	.	.	.	.	.	.	.	.	8f	.
+.	.	.	.	.	.	.	.	.	.	8g	.
+.	.	.	.	.	.	.	.	.	.	8aJ	.
+.	.	.	.	.	.	2G	-le	2g	fan-	4b-y	.
+.	.	.	.	.	.	.	.	.	.	4b-y	-le
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+0r	.	0r	.	0r	.	8dL	Vol-	1f	-go	4a	Vol-
+.	.	.	.	.	.	8e	.	.	.	.	.
+.	.	.	.	.	.	8f	.	.	.	8dL	-si
+.	.	.	.	.	.	8gJ	.	.	.	8eJ	.
+.	.	.	.	.	.	4a	.	.	.	8fL	.
+.	.	.	.	.	.	.	.	.	.	8g	.
+.	.	.	.	.	.	4d	-si	.	.	8a	.
+.	.	.	.	.	.	.	.	.	.	8b-yJ	.
+.	.	.	.	.	.	2c	di	2r	.	4cc	.
+.	.	.	.	.	.	.	.	.	.	4g	di
+.	.	.	.	.	.	2g	fan-	4r	.	2b-y	fan-
+.	.	.	.	.	.	.	.	4g	a-	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+0r	.	0r	.	0r	.	2f	-go	4.a	-sper-	2cc	-go
+.	.	.	.	.	.	.	.	8f	-se ad	.	.
+.	.	.	.	.	.	4r	.	4g	hu-	4r	.
+.	.	.	.	.	.	4g	a-	4e	-mil	4c	a-
+.	.	.	.	.	.	4.a	-sper-	2f	se-	1cc	-sper-
+.	.	.	.	.	.	8f	-se ad	.	.	.	.
+.	.	.	.	.	.	4g	hu-	4c	-gno,	.	.
+.	.	.	.	.	.	4e	-mil	4g	a-	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+0r	.	0r	.	0r	.	2f	se-	4.a	-sper-	2cc	-se,
+.	.	.	.	.	.	.	.	8f	-se ad	.	.
+.	.	.	.	.	.	4c	-gno,	4g	hu-	4r	.
+.	.	.	.	.	.	4g	a-	4e	-mil	4cc	a-
+.	.	.	.	.	.	4.a	-sper-	4.f	se-	4.cc	-sper-
+.	.	.	.	.	.	8f	-se ad	8d	.	8dd	-se ad
+.	.	.	.	.	.	4g	hu-	8eL	.	[2cc	hu-
+.	.	.	.	.	.	.	.	8f	.	.	.
+.	.	.	.	.	.	4c	-mil	8g	.	.	.
+.	.	.	.	.	.	.	.	8eJ	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+0r	.	0r	.	0r	.	1d	se-	4f#X	.	4cc	.
+.	.	.	.	.	.	.	.	2g	.	4b-y	-mil
+.	.	.	.	.	.	.	.	.	.	2a	se-
+.	.	.	.	.	.	.	.	4f#X	.	.	.
+.	.	.	.	.	.	1G	-gno.	[1g	-gno.	8gL	-gno.
+.	.	.	.	.	.	.	.	.	.	8f	.
+.	.	.	.	.	.	.	.	.	.	8e	.
+.	.	.	.	.	.	.	.	.	.	8fJ	.
+.	.	.	.	.	.	.	.	.	.	8gL	.
+.	.	.	.	.	.	.	.	.	.	8a	.
+.	.	.	.	.	.	.	.	.	.	8b-y	.
+.	.	.	.	.	.	.	.	.	.	8ccJ]	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2G	Hor	2B-y	Hor	2d	Hor	4r	.	2g	.	1dd	.
+.	.	.	.	.	.	4g	Hor	.	.	.	.
+4G	che	4B-y	che	4d	che	4g	che	2r	.	.	.
+4G	può	4B-y	può	4d	può	4g	può	.	.	.	.
+2G	ge-	2B-y	ge-	2d	ge-	2g	ge-	1r	.	1r	.
+2D	-lo	2A	-lo	2d	-lo	2f#X	-lo	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+4.G	di	4.B-y	di	4.d	di	4.g	di	0r	.	1r	.
+8D	sì	8A	sì	8d	sì	8f#X	sì	.	.	.	.
+4G	giu-	4B-y	giu-	4d	giu-	4g	giu-	.	.	.	.
+4F	-sto	4c	-sto	4f	-sto	4a	-sto	.	.	.	.
+2B-y	sde-	2d	sde-	2f	sde-	2.b-y	sde-	.	.	2dd	Hor
+2BB-y	-gno,	2B-y	-gno,	2d	-gno,	.	.	.	.	4dd	che
+.	.	.	.	.	.	4fnXi	-gno,	.	.	4dd	può
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2B-y	Hor	1r	.	2d	Hor	0r	.	2f	Hor	2dd	ge-
+4B-y	che	.	.	4d	che	.	.	4f	che	2b-y	-lo
+4B-y	può	.	.	4d	può	.	.	4f	può	.	.
+1B-y	ge-	4.d	di	2B-y	ge-	.	.	2f	ge-	4.b-y	di
+.	.	8c	sì	.	.	.	.	.	.	8a	sì
+.	.	4d	giu-	2BB-y	-lo	.	.	2f	-lo	4b-y	giu-
+.	.	4e	-sto	.	.	.	.	.	.	4cc	-sto
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1BB-y	-lo	2f	sde-	4.F	di	2B-y	Hor	4.d	di	2dd	sde-
+.	.	.	.	8E	sì	.	.	8c	sì	.	.
+.	.	2f	-gno,	4F	giu-	4B-y	che	4d	giu-	2b-y	-gno,
+.	.	.	.	4G	-sto	4B-y	può	4e	-sto	.	.
+4.F	di	1r	.	2A	sde-	1c	ge-	2f	sde-	4.a	di
+8E	sì	.	.	.	.	.	.	.	.	8g	sì
+4F	giu-	.	.	2A	-gno,	.	.	2f	-gno,	4a	giu-
+4G	-sto	.	.	.	.	.	.	.	.	4b-y	-sto
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2A	sde-	0r	.	1r	.	1c	-lo	4.e	di	2cc	sde-
+.	.	.	.	.	.	.	.	8d	sì	.	.
+2A	-gno,	.	.	.	.	.	.	4e	giu-	2cc	-gno,
+.	.	.	.	.	.	.	.	4f	-sto	.	.
+4.G	di	.	.	4.B-y	di	4.d	di	4g	sde-	4.b-y	di
+.	.	.	.	.	.	.	.	4d	-gno,	.	.
+8D	sì	.	.	8d	sì	8f#X	sì	.	.	8a	sì
+4G	giu-	.	.	4d	giu-	4g	giu-	2r	.	4b-y	giu-
+4F	-sto	.	.	[4f	-sto	4a	-sto	.	.	4cc	-sto
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+1B-y	sde-	4.d	<di	4f	.	2b-y	sde-	4.f	di	1dd	sde-
+.	.	.	.	4.B-y	sde-	.	.	.	.	.	.
+.	.	8c	sì	.	.	.	.	8e	sì	.	.
+.	.	4d	giu-	.	.	2B-y	-gno	4f	giu-	.	.
+.	.	.	.	8A	.	.	.	.	.	.	.
+.	.	4e	-sto	4G	.	.	.	4g	-sto	.	.
+1F	-gno	2f	sde-	8cL	.	1r	.	2a	sde-	1cc	-gno
+.	.	.	.	8B-y	.	.	.	.	.	.	.
+.	.	.	.	8A	.	.	.	.	.	.	.
+.	.	.	.	8GJ	.	.	.	.	.	.	.
+.	.	2c	-gno>	2A	-gno	.	.	2a	-gno	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+4r	.	4r	.	4r	.	4r	.	1r	.	1r	.
+4.C	Spe-	4.c	Spe-	4.G	Spe-	4.e-X	Spe-	.	.	.	.
+8C	-gner	8c	-gner	8G	-gner	8e-i	-gner	.	.	.	.
+4E-X	nel	4G	nel	4G	nel	4c	nel	.	.	.	.
+2D	cor	2A	cor	1F#X	cor	1d	cor	2r	.	4r	.
+.	.	.	.	.	.	.	.	.	.	4a	l'in-
+2D	l'in-	2A	l'in-	.	.	.	.	4r	.	4.dd	-cen-
+.	.	.	.	.	.	.	.	[4d	l'in-	.	.
+.	.	.	.	.	.	.	.	.	.	8cc	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+8GL	-cen-	2B-y	-cen-	1r	.	2r	.	4d	.	8b-yL	.
+8F	.	.	.	.	.	.	.	.	.	8aJ	.
+8E-X	.	.	.	.	.	.	.	8gL	-cen-	2g	.
+8DJ	.	.	.	.	.	.	.	8fJ	.	.	.
+8CL	.	1c	-dio a-	.	.	4r	.	8e-XL	.	.	.
+8BB-y	.	.	.	.	.	.	.	8d	.	.	.
+8AA	.	.	.	.	.	4e	l'in-	8c	.	4.cc	-dio a-
+8GGJ	.	.	.	.	.	.	.	8B-yJ	.	.	.
+2FF	.	.	.	4r	.	2a	-cen-	8AL	.	.	.
+.	.	.	.	.	.	.	.	8GJ	.	8b-yL	.
+.	.	.	.	4c	l'in-	.	.	2F	.	8a	.
+.	.	.	.	.	.	.	.	.	.	8gJ	.
+2F	-dio a-	[2A	-spre, e	8cL	-cen-	[2a	-dio a-	.	.	2f	.
+.	.	.	.	8B-y	.	.	.	.	.	.	.
+.	.	.	.	8A	.	.	.	[4f	-dio a-	.	.
+.	.	.	.	8GJ	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2D	-spre, e	2A	.	4F	.	4a	.	4f	.	4.ff	-spre, e
+.	.	.	.	4A	-dio a-	2f	-spre, e	2d	-spre, e	.	.
+.	.	.	.	.	.	.	.	.	.	8ee	.
+2BB-y	mor-	1f	mor-	4d	-spre, e	.	.	.	.	4.dd	mor-
+.	.	.	.	4d	mor-	2F	mor-	4B-y	mor-	.	.
+.	.	.	.	.	.	.	.	.	.	16ccL	-ta-
+.	.	.	.	.	.	.	.	.	.	16b-yJ	.
+1F	-ta-	.	.	1f	-ta-	.	.	1c	-ta-	4a	.
+.	.	.	.	.	.	4.f	-ta-	.	.	2b-y	.
+.	.	[2F	-ta-	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16eL	.	.	.	.	.
+.	.	.	.	.	.	16dJ	.	.	.	.	.
+.	.	.	.	.	.	4c	.	.	.	4a	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+1BB-y	-le,	2F	.	1f	-le,	1d	-le,	1.B-y	-le,	1b-y	-le,
+.	.	2F	-le,	.	.	.	.	.	.	.	.
+4r	.	1r	.	2d	Scos-	1r	.	.	.	2r	.
+4B-y	Scos-	.	.	.	.	.	.	.	.	.	.
+4A	-so	.	.	4c	-so	.	.	2r	.	4.f	Scos-
+[4B-y	d'o-	.	.	[4d	d'o-	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8f	-so
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+8B-yL	.	0r	.	8dL	.	1r	.	2r	.	4.g	d'o-
+8GJ	-gni	.	.	8dJ	-gni	.	.	.	.	.	.
+4c	vil	.	.	4e	vil	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8g	-gni
+4F	so-	.	.	4f	so-	.	.	4r	.	2a	vil
+4F	-ma al	.	.	4c	-ma	.	.	4f	Scos-	.	.
+4A	ciel	.	.	1r	.	4.c	Scos-	4e	-so	4.a	so-
+4A	ne	.	.	.	.	.	.	4.f	d'o-	.	.
+.	.	.	.	.	.	8c	-so	.	.	8g	-ma al
+2B-y	sa-	.	.	.	.	4.d	d'o-	.	.	4f	ciel
+.	.	.	.	.	.	.	.	8d	-gni	.	.
+.	.	.	.	.	.	.	.	4g]	vil	4d	ne
+.	.	.	.	.	.	8d	-gni	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+2A	-le	4r	.	1r	.	4e	vil	4c	so-	2a	sa-
+.	.	4A	Con	.	.	2e	so-	4c	-ma al	.	.
+2r	.	4c	pron-	.	.	.	.	4e	ciel	2g	-le,
+.	.	4c	-to	.	.	4g	-ma al	4e	ne	.	.
+2r	.	8FL	vo-	2r	.	4a	ciel	2f	sa-	2r	.
+.	.	8G	.	.	.	.	.	.	.	.	.
+.	.	8A	.	.	.	4a	ne	.	.	.	.
+.	.	8B-yJ	.	.	.	.	.	.	.	.	.
+4r	.	4.c	.	4r	.	8gL	sa-	2e	-le	2cc	al
+.	.	.	.	.	.	8f	.	.	.	.	.
+4AA	Con	.	.	4c	al	8e	.	.	.	.	.
+.	.	16B-yL	.	.	.	8dJ	.	.	.	.	.
+.	.	16AJ]	.	.	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+4C	pron-	2G	.	4e	ciel	1.c	.	1r	.	4cc	ciel
+4C	-to	.	.	4e	ne	.	.	.	.	4g	ne
+8FFL	vo-	2F	-lo,	2f	sa-	.	.	.	.	2a	sa-
+8GG	.	.	.	.	.	.	.	.	.	.	.
+8AA	.	.	.	.	.	.	.	.	.	.	.
+8BB-yJ	.	.	.	.	.	.	.	.	.	.	.
+4.C	.	2r	.	4.e	-le	.	.	4r	.	2g	-le
+.	.	.	.	.	.	.	.	4e	Con	.	.
+16BB-yL	.	.	.	16dL	.	.	.	.	.	.	.
+16AAJ	.	.	.	16cJ	.	.	.	.	.	.	.
+2GG	.	4r	.	2d	.	2BnX	-le,	4g	pron-	2r	.
+.	.	4G	il	.	.	.	.	4g	-to	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+2AA	-lo,	4.E	mio	1r	.	4r	.	8cL	vo-	4r	.
+.	.	.	.	.	.	.	.	8d	.	.	.
+.	.	.	.	.	.	4c	al	8e	.	4a	Con
+.	.	8D	non	.	.	.	.	8fJ	.	.	.
+2r	.	4C	pi-	.	.	4e	ciel	4.g	.	4cc	pron-
+.	.	4C	-gro in-	.	.	4e	ne	.	.	4cc	-to
+.	.	.	.	.	.	.	.	16fL	.	.	.
+.	.	.	.	.	.	.	.	16eJ	.	.	.
+1r	.	2D	-ge-	2r	.	2f	sa-	2d	.	8fL	vo-
+.	.	.	.	.	.	.	.	.	.	8g	.
+.	.	.	.	.	.	.	.	.	.	8a	.
+.	.	.	.	.	.	.	.	.	.	8b-yJ	.
+.	.	2A	-gno	4r	.	2e	-le	4c	.	4.cc	.
+.	.	.	.	4A	Con	.	.	4c	-lo, al	.	.
+.	.	.	.	.	.	.	.	.	.	16b-yL	.
+.	.	.	.	.	.	.	.	.	.	16aJ]	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+0r	.	0r	.	4c	pron-	1r	.	4e	ciel	2g	.
+.	.	.	.	4c	-to	.	.	4e	ne	.	.
+.	.	.	.	8FL	vo-	.	.	2f	sa-	2a	-lo,
+.	.	.	.	8G	.	.	.	.	.	.	.
+.	.	.	.	8A	.	.	.	.	.	.	.
+.	.	.	.	8B-yJ	.	.	.	.	.	.	.
+.	.	.	.	4.c	.	4r	.	4.e	-le,	4r	.
+.	.	.	.	.	.	4e	Con	.	.	4g	al
+.	.	.	.	16B-yL	.	.	.	16dL	.	.	.
+.	.	.	.	16AJ	.	.	.	16cJ	.	.	.
+.	.	.	.	2G	.	4g	pron-	2d	.	4bnX	ciel
+.	.	.	.	.	.	4g	-to	.	.	4bni	ne
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+2r	.	0r	.	2A	-lo	8cL	vo-	0r	.	4.cc	sa-
+.	.	.	.	.	.	8d	.	.	.	.	.
+.	.	.	.	.	.	8e	.	.	.	.	.
+.	.	.	.	.	.	8fJ	.	.	.	8a	.
+4r	.	.	.	2r	.	4.g	.	.	.	4bnX	.
+4E	Con	.	.	.	.	.	.	.	.	4.cc	.
+.	.	.	.	.	.	16fL	.	.	.	.	.
+.	.	.	.	.	.	16eJ	.	.	.	.	.
+4G	pron-	.	.	2r	.	2d	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8bnX	.
+4G	-to	.	.	.	.	.	.	.	.	4bni	.
+8CL	vo-	.	.	4r	.	2e	-lo	.	.	2cc	-le
+8D	.	.	.	.	.	.	.	.	.	.	.
+8E	.	.	.	4G	il	.	.	.	.	.	.
+8FJ	.	.	.	.	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+4.G	.	2r	.	4.B-y	mio	1r	.	4r	.	0r	.
+.	.	.	.	.	.	.	.	4d	Con	.	.
+16FL	.	.	.	8c	non	.	.	.	.	.	.
+16EJ	.	.	.	.	.	.	.	.	.	.	.
+2D	.	4r	.	4d	pi-	.	.	4f	pron-	.	.
+.	.	4A	Con	4d	-gro in-	.	.	4f	-to	.	.
+2C	-lo	4c	pron-	2G	-ge-	2r	.	8eL	vo-	.	.
+.	.	.	.	.	.	.	.	8f	.	.	.
+.	.	4c	-to	.	.	.	.	8g	.	.	.
+.	.	.	.	.	.	.	.	8eJ	.	.	.
+2r	.	8FL	vo-	2c	-gno,	4r	.	2a	.	.	.
+.	.	8G	.	.	.	.	.	.	.	.	.
+.	.	8A	.	.	.	4c	il	.	.	.	.
+.	.	8B-yJ	.	.	.	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+1r	.	4.c	.	4r	.	4.e	mio	2g	-lo	4r	.
+.	.	.	.	4c	il	.	.	.	.	4g	il
+.	.	16B-yL	.	.	.	8f	non	.	.	.	.
+.	.	16AJ	.	.	.	.	.	.	.	.	.
+.	.	2G	.	4.d	mio	4g	pi-	4r	.	4.b-y	mio
+.	.	.	.	.	.	4g	-gro in-	2d	il	.	.
+.	.	.	.	8e	non	.	.	.	.	8cc	non
+4r	.	2D	-lo,	4.f	pi-	2a	-ge-	.	.	2dd	pi-
+4D	il	.	.	.	.	.	.	4.f	mio	.	.
+.	.	.	.	16eL	.	.	.	.	.	.	.
+.	.	.	.	16dJ	.	.	.	.	.	.	.
+4.F	mio	2r	.	4c	.	2f	-gno,	.	.	4a	-gro in-
+.	.	.	.	.	.	.	.	8g	non	.	.
+.	.	.	.	4f	-gro in-	.	.	[4a	pi-	[4dd	-ge-
+8G	non	.	.	.	.	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+4A	pi-	1r	.	4.e	-ge-	1r	.	4a	.	8ddL	.
+.	.	.	.	.	.	.	.	.	.	8ccJ	.
+4A	-gro in-	.	.	.	.	.	.	4e	-gro in-	2cc	.
+.	.	.	.	16dL	.	.	.	.	.	.	.
+.	.	.	.	16cJ	.	.	.	.	.	.	.
+2G	-ge-	.	.	2d	.	.	.	2g	-ge-	.	.
+.	.	.	.	.	.	.	.	.	.	4bnX	.
+[1C	-gno,	2r	.	[1e	-gno,	4r	.	[1g	-gno,	1cc	-gno,
+.	.	.	.	.	.	4e	Con	.	.	.	.
+.	.	4r	.	.	.	4g	pron-	.	.	.	.
+.	.	4G	il	.	.	4g	-to	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+1C	.	4.E	mio	1e	.	8cL	vo-	2g	.	4r	.
+.	.	.	.	.	.	8d	.	.	.	.	.
+.	.	.	.	.	.	8e	.	.	.	4g	Con
+.	.	8D	non	.	.	8fJ	.	.	.	.	.
+.	.	4C	pi-	.	.	4.g	.	2r	.	4cc	pron-
+.	.	4C	-gro in-	.	.	.	.	.	.	4cc	-to
+.	.	.	.	.	.	16fL	.	.	.	.	.
+.	.	.	.	.	.	16eJ	.	.	.	.	.
+1r	.	2D	-ge-	2r	.	2d	.	2r	.	8fL	vo-
+.	.	.	.	.	.	.	.	.	.	8g	.
+.	.	.	.	.	.	.	.	.	.	8a	.
+.	.	.	.	.	.	.	.	.	.	8b-yJ	.
+.	.	2A	-gno,	4r	.	2e	-lo,	4r	.	4.cc	.
+.	.	.	.	4A	Con	.	.	4c	Con	.	.
+.	.	.	.	.	.	.	.	.	.	16b-yL	.
+.	.	.	.	.	.	.	.	.	.	16aJ	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+1r	.	1r	.	4c	pron-	1r	.	4e	pron-	2g	.
+.	.	.	.	4c	-to	.	.	4e	-to	.	.
+.	.	.	.	8FL	vo-	.	.	2f	vo-	2a	-lo
+.	.	.	.	8G	.	.	.	.	.	.	.
+.	.	.	.	8A	.	.	.	.	.	.	.
+.	.	.	.	8B-yJ	.	.	.	.	.	.	.
+2r	.	2r	.	2c	.	4r	.	8eL	-lo	1r	.
+.	.	.	.	.	.	.	.	8d	.	.	.
+.	.	.	.	.	.	4g	il	8e	.	.	.
+.	.	.	.	.	.	.	.	8fJ	.	.	.
+2C	il	4r	.	2c	-lo,	4.e	mio	2g	.	.	.
+.	.	4G	il	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8d	non	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+4.AA	mio	4.A	mio	1r	.	4c	pi-	4r	.	1r	.
+.	.	.	.	.	.	4c	-gro in-	4e	il	.	.
+8GG	non	8B-y	non	.	.	.	.	.	.	.	.
+4FF	pi-	4c	pi-	.	.	4.f	-ge-	4.a	mio	.	.
+4FF	-gro in-	4c	-gro in-	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8e	.	8a	non	.	.
+[1GG	-ge-	4.B-y	-ge-	4r	.	[1d	.	2g	pi-	4r	.
+.	.	.	.	4B-y	il	.	.	.	.	4g	il
+.	.	8A	.	.	.	.	.	.	.	.	.
+.	.	2G	.	4.d	mio	.	.	2g	-gro in-	4.b-y	mio
+.	.	.	.	8c	non	.	.	.	.	8cc	non
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+1GG	.	[1D	-gno.	4B-y	pi-	1d	.	1g	-ge-	4dd	pi-
+.	.	.	.	4A	-gro in-	.	.	.	.	4cc	-gro in-
+.	.	.	.	2G	-ge-	.	.	.	.	2b-y	-ge-
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+*M8/2	*	*M8/2	*	*M8/2	*	*M8/2	*	*M8/2	*	*M8/2	*
+00D	-gno.	00D	.	00A	-gno.	00d	-gno.	00f#X	-gno.	00a	-gno.
+=40||	=40||	=40||	=40||	=40||	=40||	=40||	=40||	=40||	=40||	=40||	=40||
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+0r	.	0r	.	0r	.	2r	.	1d	Las-	2r	.
+.	.	.	.	.	.	2.f	Las-	.	.	2.a	Las-
+.	.	.	.	.	.	.	.	1c	-so,	.	.
+.	.	.	.	.	.	8eL	-so, e	.	.	8gL	-so, e
+.	.	.	.	.	.	8dJ	co-	.	.	8fJ	co-
+.	.	.	.	.	.	4e	-no-	.	.	4g	-no-
+.	.	.	.	.	.	4c	-sco hor	.	.	4a	-sco hor
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+1D	Las-	2r	.	2r	.	4d	ben,	0r	.	4f	ben,
+.	.	.	.	.	.	4e	che	.	.	4g	che
+.	.	2.A	Las-	2.F	Las-	4f	quan-	.	.	4.a	quan-
+.	.	.	.	.	.	4F	-to i	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8b-y	-to i
+1C	-so,	.	.	.	.	2c	dis-	.	.	2cc	dis-
+.	.	8GL	-so, e	8EL	-so, e	.	.	.	.	.	.
+.	.	8FJ	co-	8DJ	co-	.	.	.	.	.	.
+.	.	4G	-no-	4E	-no-	2c	-si	.	.	2cc	-si,
+.	.	4A	-sco hor	4C	-sco hor	.	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+0r	.	4F	ben,	4D	ben,	0r	.	2r	.	2r	.
+.	.	4G	che	4E	che	.	.	.	.	.	.
+.	.	4.A	quan-	4F	quan-	.	.	2.f	Las-	2.a	Las-
+.	.	.	.	4D	-to i	.	.	.	.	.	.
+.	.	8B-y	-to i	.	.	.	.	.	.	.	.
+.	.	2c	dis-	2C	dis-	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	8eL	-so, e	8gL	-so, e
+.	.	.	.	.	.	.	.	8dJ	co-	8fJ	co-
+.	.	2c	-si,	2C	-si,	.	.	4e	-no-	4g	-no-
+.	.	.	.	.	.	.	.	4c	-sco hor	4a	-sco hor
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+1r	.	0r	.	1r	.	0r	.	4d	ben,	4f	ben,
+.	.	.	.	.	.	.	.	4e	che	4g	che
+.	.	.	.	.	.	.	.	4f	quan-	4.a	quan-
+.	.	.	.	.	.	.	.	4d	-to i	.	.
+.	.	.	.	.	.	.	.	.	.	8b-y	-to i
+2r	.	.	.	2r	.	.	.	2c	dis-	2cc	dis-
+4r	.	.	.	4r	.	.	.	2c	-si	2g	-si
+4C]	Fù	.	.	4c	Fù	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+4.F	vo-	1r	.	4.A	vo-	2r	.	1r	.	2r	.
+8G	-ce	.	.	8B-y	-ce	.	.	.	.	.	.
+2A	d'huom,	.	.	2c	d'huom,	4r	.	.	.	4r	.
+.	.	.	.	.	.	4c	Fù	.	.	4cc	Fù
+2r	.	2r	.	1r	.	4.f	vo-	2r	.	4.a	vo-
+.	.	.	.	.	.	8g	-ce	.	.	8b-y	-ce
+4r	.	2A	cui	.	.	2a	d'huom,	4r	.	2cc	d'huom,
+4F	Fù	.	.	.	.	.	.	4c	Fù	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+4.D	vo-	2d	ne	2r	.	2r	.	4.f	vo-	2r	.
+8E	-ce	.	.	.	.	.	.	8g	-ce	.	.
+2F	d'huom	2c	tor-	4r	.	4r	.	2a	d'huom,	4r	.
+.	.	.	.	4F	Fù	4f	Fù	.	.	4a	cui
+1BB-y	cui	[1B-y	-men-	4.B-y	vo-	4.d	vo-	1f	cui	[1dd	ne
+.	.	.	.	8c	-ce	8e	-ce	.	.	.	.
+.	.	.	.	4d	d'huom,	4f	d'huom,	.	.	.	.
+.	.	.	.	4B-y	cui	4d]	cui	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+1.E-X	ne	2B-y	.	2G	ne	2B-y	ne	1g	ne	2dd	.
+.	.	2A	-ti a-	2A	tor-	2c	tor-	.	.	1cc	tor-
+.	.	[1G	-strin-	1B-y	-men-	1d	-men-	1g	tor-	.	.
+2D	tor-	.	.	.	.	.	.	.	.	[2b-y	-men-
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+1C	-men-	2G	.	1c	-ti a-	2g	-ti a-	2e	-men-	2b-y	.
+.	.	2A	-ga,	.	.	1f	-strin-	2f	-ti a-	1a	-ti a-
+1C	-ti a-	2r	.	2c	-strin-	.	.	2.g	-strin-	.	.
+.	.	2G	a-	2c	-ga,	2e	-ga,	.	.	[2g	-strin-
+.	.	.	.	.	.	.	.	4a	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+1D	-strin-	1.d	-strin-	2r	.	2r	.	2b-y	.	2g	.
+.	.	.	.	2A	a-	2d	a-	2a	-ga	2f#X	-ga
+1AA	-ga	.	.	2A	-strin-	2f	-strin-	1r	.	1r	.
+.	.	2c#X	-ga	2A	-ga	2e	-ga	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+4.D	Giu-	0r	.	4.A	Giu-	4.f#X	Giu-	4.d	Giu-	4.a	Giu-
+8D	-di-	.	.	8A	-di-	8f#i	-di-	8d	-di-	8a	-di-
+4D	-ce in-	.	.	2d	-ce in-	4f#i	-ce in-	4d	-ce in-	4a	-ce in-
+2G	-giu-	.	.	.	.	2g	-giu-	2d	-giu-	2bnX	-giu-
+.	.	.	.	4G	-giu-	.	.	.	.	.	.
+4C	-sto a	.	.	4G	-sto a	4g	-sto a	2e	-sto a	4cc	-sto a
+4c	tra-	.	.	4C	tra-	4g	tra-	.	.	4.cc	tra-
+4F	-vi-	.	.	4c	-vi-	4a	-vi-	[4f	tra-	.	.
+.	.	.	.	.	.	.	.	.	.	8a	-vi-
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
+4B-y	-ar	0r	.	4.B-y	-ar	2d	-ar,	8fL	.	4.dd	-ar
+.	.	.	.	.	.	.	.	8dJ	-vi-	.	.
+4G	dal	.	.	.	.	.	.	4g	-ar	.	.
+.	.	.	.	8G	dal	.	.	.	.	8b-y	dal
+4A	ve-	.	.	4c	ve-	2a	a	4e	dal	4cc	ve-
+8FL	-ro,	.	.	8cL	-ro,	.	.	4f	ve-	4a	-ro,
+8DJ	a	.	.	8dJ	a	.	.	.	.	.	.
+4G	tra-	.	.	4d	tra-	4.g	tra-	4d	-ro,	4bnX	a
+4C	-vi-	.	.	4c	-vi-	.	.	4e	a	4.cc	tra-
+.	.	.	.	.	.	8e	-vi-	.	.	.	.
+4F	-ar	.	.	4c	-ar	4.a	-ar	4.f	tra-	.	.
+.	.	.	.	.	.	.	.	.	.	8a	-vi-
+4D	dal	.	.	4F	dal	.	.	.	.	4dd]	-ar,
+.	.	.	.	.	.	8f	dal	8d	-vi-	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
+4E	ve-	4G	a	2c	ve-	2.e	ve-	2g	-ar,	4r	.
+8CL	-ro,	4.c	tra-	.	.	.	.	.	.	4cc	a
+8CJ	a	.	.	.	.	.	.	.	.	.	.
+4c	tra-	.	.	4C	-ro,	.	.	4g	a	4.cc	tra-
+.	.	8c	-vi-	.	.	.	.	.	.	.	.
+4F	-vi-	4A	-ar	4c	a	4a	-ro,	4.f	tra-	.	.
+.	.	.	.	.	.	.	.	.	.	8a	-vi-
+4B-y	-ar	2d	dal	4.B-y	tra-	2r	.	.	.	4.b-y	-ar
+.	.	.	.	.	.	.	.	8d	-vi-	.	.
+4G	dal	.	.	.	.	.	.	4g	-ar	.	.
+.	.	.	.	8G	-vi-	.	.	.	.	8b-y	dal
+8AL	ve-	2c	ve-	4c	-ar	4r	.	4e	dal	4.a	ve-
+8G	.	.	.	.	.	.	.	.	.	.	.
+8F	.	.	.	4A	dal	4c	dal	[4f	ve-	.	.
+8EJ	.	.	.	.	.	.	.	.	.	8g]	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
+4.D	.	0F	-ro.	2d	ve-	1f	ve-	8fL	.	8aL	.
+.	.	.	.	.	.	.	.	8dJ	.	8fJ	.
+.	.	.	.	.	.	.	.	4.f	.	2b-y	.
+8E	.	.	.	.	.	.	.	.	.	.	.
+2F	.	.	.	2c	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16eL	.	.	.
+.	.	.	.	.	.	.	.	16dJ	.	.	.
+.	.	.	.	.	.	.	.	4c	.	4a	.
+1BB-y	-ro.	.	.	1B-y	-ro.	1f	-ro.	1d	-ro.	1b-y	-ro.
+=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53
+4.B-y	Per-	1r	.	1r	.	4.d	Per-	4.f	Per-	1r	.
+8B-y	-fi-	.	.	.	.	8d	-fi-	8f	-fi-	.	.
+2B-y	-da,	.	.	.	.	2d	-da,	2f	-da,	.	.
+1r	.	4.B-y	Per-	4.d	Per-	4.f	Per-	1r	.	4.b-y	Per-
+.	.	8B-y	-fi-	8d	-fi-	8f	-fi-	.	.	8b-y	-fi-
+.	.	2B-y	-da,	2d	-da,	2f	-da,	.	.	2b-y	-da,
+=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
+4.B-y	Per-	1r	.	4.f	Per-	1r	.	4.b-y	Per-	4.dd	Per-
+8B-y	-fi-	.	.	8f	-fi-	.	.	8b-y	-fi-	8dd	-fi-
+2B-y	-da,	.	.	2f	-da,	.	.	2b-y	-da,	2dd	-da,
+4.BB-y	Per-	4.B-y	Per-	4.d	Per-	4.b-y	Per-	4.f	Per-	4.ff	Per-
+8BB-y	-fi-	8B-y	-fi-	8d	-fi-	8b-y	-fi-	8f	-fi-	8ff	-fi-
+2BB-y	-da an-	2B-y	-da	[2d	-da an-	2b-y	-da,	2f	-da,	2ff	-da,
+=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
+2.F	-cor	0r	.	2d	.	0r	.	0r	.	0r	.
+.	.	.	.	2.c	-cor	.	.	.	.	.	.
+4E	ne	.	.	.	.	.	.	.	.	.	.
+4F	la	.	.	.	.	.	.	.	.	.	.
+4D	mia	.	.	4d	ne	.	.	.	.	.	.
+[2G	lin-	.	.	4.B-y	la	.	.	.	.	.	.
+.	.	.	.	8A	mia	.	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
+4G	.	2r	.	4B-y	lin-	0r	.	4.d	Per-	1r	.
+4F	-gua io	.	.	4d	-gua io	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	8d	-fi-	.	.
+2E-X	spe-	4r	.	2c	spe-	.	.	1g	-da an-	.	.
+.	.	4G	io	.	.	.	.	.	.	.	.
+1D	-ro,	2B-y	spe-	1d	-ro,	.	.	.	.	4.dd	Per-
+.	.	.	.	.	.	.	.	.	.	8dd	-fi-
+.	.	2A	-ro,	.	.	.	.	[2f	-cor	2dd	-da, an-
+=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
+0r	.	0r	.	0r	.	0r	.	4f	.	2.cc	-cor
+.	.	.	.	.	.	.	.	4e	ne	.	.
+.	.	.	.	.	.	.	.	4f	la	.	.
+.	.	.	.	.	.	.	.	4d	mia	4dd	ne
+.	.	.	.	.	.	.	.	2.g	lin-	4.b-y	la
+.	.	.	.	.	.	.	.	.	.	8a	mia
+.	.	.	.	.	.	.	.	.	.	4b-y	lin-
+.	.	.	.	.	.	.	.	4f	-gua io	4dd	-gua io
+=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
+2r	.	2r	.	0r	.	2r	.	2e-X	spe-	2cc	spe-
+4r	.	4r	.	.	.	4r	.	2d	-ro,	2dd	-ro,
+4D	Che	4A	Che	.	.	4f	Che	.	.	.	.
+4.G	don-	4.B-y	don-	.	.	4.d	don-	1r	.	2r	.
+8F	-de	8A	-de	.	.	8d	-de	.	.	.	.
+4G	pria	4B-y	pria	.	.	4d	pria	.	.	4r	.
+4A	ti	4c	ti	.	.	4f	ti	.	.	4a	Che
+=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
+1B-y	tras-	2d	tras-	2r	.	8fL	tras-	2r	.	4.f	don-
+.	.	.	.	.	.	8e	.	.	.	.	.
+.	.	.	.	.	.	8d	.	.	.	.	.
+.	.	.	.	.	.	8cJ	.	.	.	8e	-de
+.	.	2d	-se,	4r	.	2B-y	.	4r	.	4f	pria
+.	.	.	.	4B-y	Che	.	.	4d	Che	4g	ti
+[1F	-se,	1r	.	4.A	don-	1c	-se, el-	4.f	don-	1a	tras-
+.	.	.	.	8G	-de	.	.	8e	-de	.	.
+.	.	.	.	4A	pria	.	.	4f	pria	.	.
+.	.	.	.	4B-y	ti	.	.	4g]	ti	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
+1F	.	4r	.	2c	tras-	4.A	-la	2a	tras-	2f	-se,
+.	.	2c	el-	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8G	ti	.	.	.	.
+.	.	.	.	2A	-se el-	2F	spin-	2a	-se,	4r	.
+.	.	4.A	-la	.	.	.	.	.	.	2cc	el-
+2r	.	.	.	4.F	-la	2c	-ga,	2r	.	.	.
+.	.	8G	ti	.	.	.	.	.	.	.	.
+.	.	2F	spin-	.	.	.	.	.	.	4.a	-la
+.	.	.	.	8G	ti	.	.	.	.	.	.
+2F	el-	.	.	[2A	spin-	4r	.	2a	el-	.	.
+.	.	.	.	.	.	.	.	.	.	8g	ti
+.	.	4D]	-ga,	.	.	[4d	el-	.	.	[4f	spin-
+=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61
+4.D	-la	2r	.	2A	.	4d	.	4.f	-la	4f	.
+.	.	.	.	.	.	4.f	-la	.	.	2d	-ga,
+8C	ti	.	.	.	.	.	.	8e	ti	.	.
+2BB-y	spin-	2F	Che	2B-y	-ga,	.	.	2d	spin-	.	.
+.	.	.	.	.	.	8e	ti	.	.	.	.
+.	.	.	.	.	.	2d	spin-	.	.	4f	Che
+1GG	-ga,	4.B-y	don-	2r	.	.	.	1d	-ga,	4.g	don-
+.	.	.	.	.	.	4G	-ga,	.	.	.	.
+.	.	8A	-de	.	.	.	.	.	.	8f	-de
+.	.	4B-y	pria	[2G	Che	2r	.	.	.	4g	pria
+.	.	4c	ti	.	.	.	.	.	.	4a	ti
+=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62
+4r	.	4d	tras-	2G	.	4r	.	1r	.	2b-y	tras-
+4GG	Che	4B-y	-se,	.	.	4d	Che	.	.	.	.
+4.G	don-	2r	.	4.B-y	don-	4.d	don-	.	.	2b-y	-se,
+8F	-de	.	.	8A	-de	8d	-de	.	.	.	.
+4G	pria	1r	.	4B-y	pria	4d	pria	2r	.	2r	.
+4A	ti	.	.	4c	ti	4f	ti	.	.	.	.
+2B-y	tras-	.	.	2d	tras-	2f	tras-	4r	.	4r	.
+.	.	.	.	.	.	.	.	4d	<el-	[4dd	el-
+=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
+2G	-se el-	4r	.	2d	-se	1g	-se, el-	4.B-y	-la	4dd	.
+.	.	2G	el-	.	.	.	.	.	.	4.b-y	-la
+.	.	.	.	.	.	.	.	8A	ti	.	.
+4.E-X	-la	.	.	4r	.	.	.	2G	spin-	.	.
+.	.	.	.	.	.	.	.	.	.	8a	ti
+.	.	4.E-X	-la	2G	el-	.	.	.	.	4g	spin-
+8D	ti	.	.	.	.	.	.	.	.	.	.
+1C	spin-	.	.	.	.	4.e-X	-la	1G	-ga>	1g	-ga
+.	.	8D	ti	.	.	.	.	.	.	.	.
+.	.	2C	spin-	4.E-X	-la	.	.	.	.	.	.
+.	.	.	.	.	.	8d	ti	.	.	.	.
+.	.	.	.	.	.	2c	spin-	.	.	.	.
+.	.	.	.	8D	ti	.	.	.	.	.	.
+.	.	4G]	-ga	4C	spin-	.	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
+4GG	-ga	4r	.	2G	-ga	2d	-ga	4r	.	2b-y	D'un
+4G	D'un	4B-y	D'un	.	.	.	.	4d	D'un	.	.
+4F	cie-	4c	cie-	2r	.	2r	.	4f	cie-	4a	cie-
+4E	-co o-	4c	-co o-	.	.	.	.	4g	-co o-	4g	-co o-
+4D	-blio	4F	-blio	1r	.	1r	.	4a	-blio	4f	-blio
+4C	ne'	4c	ne'	.	.	.	.	4A	ne'	4e	ne'
+4BB-y	più	4F	più	.	.	.	.	4B-y	più	4d	più
+4AA	pro-	4A	pron-	.	.	.	.	4c	pro-	4c	pro-
+=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
+4GG	-fon-	2D	-fon-	1r	.	0r	.	2d	-fon-	4B-y	-fon-
+4GG	-di a-	.	.	.	.	.	.	.	.	4B-y	-di a-
+4.GG	-bis-	2G	-di a-	.	.	.	.	1d	-di a-	4.B-y	-bis-
+16FFL	.	.	.	.	.	.	.	.	.	16AL	.
+16EEJ	.	.	.	.	.	.	.	.	.	16GJ	.
+1DD	.	1A	-bis-	2r	.	.	.	.	.	4F#X	.
+.	.	.	.	.	.	.	.	.	.	2G	.
+.	.	.	.	4r	.	.	.	2D	-bis-	.	.
+.	.	.	.	4A	Che	.	.	.	.	4F#X	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66
+1GG	-si,	0G	-si,	4.B-y	don-	2r	.	1D	-si,	1G	-si,
+.	.	.	.	8A	-de	.	.	.	.	.	.
+.	.	.	.	4B-y	pria	2G	Che	.	.	.	.
+.	.	.	.	4c	ti	.	.	.	.	.	.
+1GG	Che	.	.	2d	tras-	4.B-y	don-	2r	.	2r	.
+.	.	.	.	.	.	8A	-de	.	.	.	.
+.	.	.	.	2d	-se,	4B-y	pria	2d	Che	2g	Che
+.	.	.	.	.	.	4c	ti	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67
+4.G	don-	2r	.	0r	.	4d	tras-	4B-y	don-	4.b-y	don-
+.	.	.	.	.	.	4B-y	-se,	4d	-de	.	.
+8F	-de	.	.	.	.	.	.	.	.	8a	-de
+4G	pria	2d	Che	.	.	2r	.	4d	pria	4b-y	pria
+4A	ti	.	.	.	.	.	.	4f	ti	4cc	ti
+1B-y	tras-	4.d	don-	.	.	1r	.	1f	tras-	1dd	tras-
+.	.	8c	-de	.	.	.	.	.	.	.	.
+.	.	4d	pria	.	.	.	.	.	.	.	.
+.	.	4e	ti	.	.	.	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68
+2B-y	-se, el-	4f	tras-	4r	.	2r	.	1d	-se,	2dd	-se, el-
+.	.	4f	-se,	2d	el-	.	.	.	.	.	.
+4.G	-la	2r	.	.	.	4r	.	.	.	4.b-y	-la
+.	.	.	.	4.B-y	-la	2g	el-	.	.	.	.
+8F	ti	.	.	.	.	.	.	.	.	8a	ti
+2E-X	spin-	2r	.	.	.	.	.	4r	.	2g	spin-
+.	.	.	.	8A	ti	.	.	.	.	.	.
+.	.	.	.	2G	spin-	4.e-X	-la	4g	el-	.	.
+2C	-ga,	2c	el-	.	.	.	.	4.e-X	-la	4g	-ga,
+.	.	.	.	.	.	8d	ti	.	.	.	.
+.	.	.	.	4G	-ga,	4c	spin-	.	.	[4cc	el-
+.	.	.	.	.	.	.	.	8d	ti	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
+2F	el-	4.A	-la	4A	el-	4c	-ga,	2c	spin-	4cc	.
+.	.	.	.	4.F	-la	2f	el-	.	.	4.a	-la
+.	.	8G	ti	.	.	.	.	.	.	.	.
+4.D	-la	1F	spin-	.	.	.	.	4.d	-ga	.	.
+.	.	.	.	8G	ti	.	.	.	.	8g	ti
+.	.	.	.	4A	spin-	4.d	-la	.	.	2f	spin-
+8C	ti	.	.	.	.	.	.	8e	.	.	.
+2BB-y	spin-	.	.	2d	-ga	.	.	2f	.	.	.
+.	.	.	.	.	.	8c	ti	.	.	.	.
+.	.	.	.	.	.	2B-y	spin-	.	.	2d	-ga
+2GG	-ga	2G	-ga	4r	.	.	.	4r	.	.	.
+.	.	.	.	4g	D'un	4G	-ga	4b-y	D'un	4dd	D'un
+=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
+0r	.	0r	.	4f	cie-	0r	.	4a	cie-	4dd	cie-
+.	.	.	.	4e	-co o-	.	.	4g	-co o-	4cc	-co o-
+.	.	.	.	4d	-blio	.	.	4f	-blio	1.dd	-blio
+.	.	.	.	4c	ne'	.	.	4e	ne'	.	.
+.	.	.	.	4B-y	più	.	.	4d	più	.	.
+.	.	.	.	4A	pro-	.	.	4c	pro-	.	.
+.	.	.	.	4G	-fon-	.	.	4B-y	-fon-	.	.
+.	.	.	.	4G	-di a-	.	.	4B-y	-di a-	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
+0r	.	4r	.	2G	-bis-	4r	.	4.B-y	-bis-	1r	.
+.	.	4g	D'un	.	.	4b-y	D'un	.	.	.	.
+.	.	.	.	.	.	.	.	8c	.	.	.
+.	.	4f	cie-	1D	-si,	4a	cie-	2.d	.	.	.
+.	.	4e	-co o-	.	.	4g	-co o-	.	.	.	.
+.	.	4d	-glio	.	.	4f	-blio	.	.	2r	.
+.	.	4c	ne'	.	.	4e	ne'	4e	.	.	.
+.	.	4B-y	più	2r	.	4d	più	2f	.	2b-y	ne'
+.	.	4A	pro-	.	.	4c	pro-	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72
+0r	.	4G	-fon-	2d	ne'	4B-y	-fon-	1g	-si,	4b-y	più
+.	.	4G	-di a-	.	.	4B-y	-di a-	.	.	4b-y	pro-
+.	.	4.G	-bis-	4d	più	4.B-y	-bis-	.	.	4.b-y	-fon-
+.	.	.	.	4d	pro-	.	.	.	.	.	.
+.	.	16FL	.	.	.	8c	.	.	.	16aL	.
+.	.	16EJ	.	.	.	.	.	.	.	16gJ	.
+.	.	1D	.	4d	-fon-	1d	.	1r	.	4f#X	.
+.	.	.	.	4B-y	-di a-	.	.	.	.	2g	-di a-
+.	.	.	.	2A	-bis-	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4f#X	-bis-
+=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
+4r	.	2G	-si,	2B-y	-si,	2d	-si,	4r	.	4g	-si,
+4G	D'un	.	.	.	.	.	.	4B-y	D'un	4b-y	D'un
+4F	cie-	2r	.	4r	.	2r	.	4c	cie-	4a	cie-
+4E	-co o-	.	.	4G	D'un	.	.	4c	-co o-	4g	-co o-
+4D	-blio	2F	ne'	4A	cie-	2r	.	2d	-blio	4f	-blio
+4C	ne'	.	.	4A	-co o-	.	.	.	.	4e	ne'
+4BB-y	più	4F	più	4B-y	-blio	2f	ne'	[2d	ne'	4d	più
+4AA	pro-	4F	pro-	4c	ne'	.	.	.	.	4c	pro-
+=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74
+4GG	-fon-	2B-y	-fon-	4d	più	4g	più	4d	.	4B-y	-fon-
+4GG	-di a-	.	.	4d	pro-	4G	pro-	4.g	più	4b-y	-di a-
+4.GG	-bis-	2G	-di a-	4D	-fon-	4.B-y	-fon-	.	.	4.b-y	-bis-
+.	.	.	.	.	.	.	.	8G	pro-	.	.
+.	.	.	.	4D	-di a-	.	.	2d	-fon-	.	.
+16FFL	.	.	.	.	.	8c	-di a-	.	.	16aL	.
+16EEJ	.	.	.	.	.	.	.	.	.	16gJ	.
+1DD	.	1A	-bis-	1D	-bis-	4.d	-bis-	.	.	4f#X	.
+.	.	.	.	.	.	.	.	4d	-di a-	2g	.
+.	.	.	.	.	.	16cL	.	.	.	.	.
+.	.	.	.	.	.	16B-yJ	.	.	.	.	.
+.	.	.	.	.	.	2A	.	2d	-bis-	.	.
+.	.	.	.	.	.	.	.	.	.	4f#X	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75
+00GGl	-si.	00Gl	-si.	00Dl	-si.	00BnXl	-si.	00dl	-si.	00gl	-si.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2,s3,s4,s5,s6
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Coluzzi, Seth
+!!!EEV: 2019/04/21
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/04/21
