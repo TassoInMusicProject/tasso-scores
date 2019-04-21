@@ -227,7 +227,7 @@
 2Al	-so.	2Al	-so.	2el	-so.	2al	-so.	2cc#Xl	-so.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: s1,s2,s3,s4,s5
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

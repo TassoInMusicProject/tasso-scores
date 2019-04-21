@@ -273,7 +273,7 @@
 00BB-yl	-i.	00B-yl	-i.	00Fl	-i.	00fl	-i.	00ddl	-i.	00b-yl	-i.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: s1,s2,s3,s4,s5,s6
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)(s6)]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
