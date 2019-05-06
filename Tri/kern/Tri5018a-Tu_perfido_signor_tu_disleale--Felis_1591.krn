@@ -1,16 +1,16 @@
-!!!COM:
+!!!COM: Felis, Stefano
 !!!CDT:
-!!!PTL:
-!!!PPP:
-!!!PPR:
-!!!PDT:
-!!!RISM:
+!!!PTL: Il sesto libro de madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: G. Scotto
+!!!PDT: 1591
+!!!RISM: 1591-18
 !!!rime:
 !!!OTL:	Tu perfido Signor, tu disleale (Rinaldo V/18)
 !!!AGN: Madrigal
-!!!SCT:
-!!!SCA:
-!!!voices:
+!!!SCT: Tri5018a
+!!!SCA: Tri5018a
+!!!voices: 5
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -318,7 +318,7 @@
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END:
-!!!EED: Emiliano Ricciardi
+!!!EED: Donnelly, Daniel
 !!!EEV: 2018/10/28
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2018/10/28

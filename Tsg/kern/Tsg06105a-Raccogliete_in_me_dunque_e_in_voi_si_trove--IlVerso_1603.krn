@@ -1,0 +1,306 @@
+!!!CDT:
+!!!PTL: L'ottavo libro de'madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: Ricciardo Amadino
+!!!PDT: 1603
+!!!RISM: I 10
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg06105a
+!!!SCA: Tsg06105a
+!!!voices: 5
+!!!COM: Il Verso, Antonio
+!!!OTL:	Raccogliete me dunque: e in voi si trove (Gerusalemme VI/105)
+**kern	**text	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Quinto	*	*I"Canto	*
+*I'V	*	*I'C	*
+*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*M2/1	*	*M2/1	*
+=1	=1	=1	=1
+!	!	!LO:TX:t=Terza, ed ultima stanza.	!
+0r	.	2r	.
+.	.	2.cc	Rac-
+.	.	4a	-co-
+.	.	[2dd	-glie-
+=2	=2	=2	=2
+0r	.	4dd]	.
+.	.	8ddL	-te
+.	.	8ddJ	me
+.	.	4ff	dun-
+.	.	4ff	-que: e in
+.	.	4.ee	voi
+.	.	8dd	.
+.	.	4cc	.
+.	.	4a	si
+=3	=3	=3	=3
+2r	.	2g	tro-
+1f	Rac-	2a	-ve,
+.	.	2r	.
+2d	-co-	[2b-X	Rac-
+=4	=4	=4	=4
+2.g	-glie-	4b-]	.
+.	.	4g	-co-
+.	.	2.dd	-glie-
+8gL	-te	.	.
+8gJ	me	.	.
+4f	dun-	.	.
+2e	-que: e in	8ccL	-te
+.	.	8ccJ	me
+.	.	4a	dun-
+[4d	voi	4ff	-que: e in
+=5	=5	=5	=5
+4d]	.	4ee	voi
+4c#X	si	4ee	si
+8dL	tro-	2dd	tro-
+8e	.	.	.
+8f	.	.	.
+8dJ	.	.	.
+4e	.	2cc	-ve
+2f	.	.	.
+.	.	2cc	Quel-
+4e	.	.	.
+=6	=6	=6	=6
+2f	-ve	4cc	-la
+.	.	4cc	pie-
+2A	Quel-	1dd	-tà,
+4d	-la	.	.
+4d	pie-	.	.
+2c#X	-tà	2r	.
+=7	=7	=7	=7
+2f	che	1r	.
+4e	mi	.	.
+4e	pro-	.	.
+8dL	-mi-	2r	.
+8eJ	-se A-	.	.
+2f	-mo-	.	.
+.	.	4r	.
+4e	-re,	4a	Quel-
+=8	=8	=8	=8
+2f	Quel-	4a	-la
+.	.	4a	pie-
+4g	-la	2cc	-tà
+4g	pie-	.	.
+4g	-tà	2b	che
+4d	che	.	.
+4f	mi	4dd	mi
+4f	pro-	4dd	pro-
+=9	=9	=9	=9
+2c	-mi-	2ee	-mi-
+4B	-se A-	2gg	-se A-
+2c	-mo-	.	.
+.	.	1gg	-mo-
+8BL	.	.	.
+8AJ	.	.	.
+2B	.	.	.
+=10	=10	=10	=10
+2c	-re,	2ee	-re,
+2g	E	2ee	E
+8fL	ch'io	4ff	ch'io
+8gJ	già	.	.
+2a	vi-	4dd	già
+.	.	2ee	vi-
+4g	-di	.	.
+=11	=11	=11	=11
+4.f	pri-	4cc	-di
+.	.	2ff	pri-
+8e	-gio-	.	.
+4d	-nie-	.	.
+4e	-ra al-	4ee	-gio-
+1f	-tro-	4dd	-nie-
+.	.	4cc	-ra al-
+.	.	2dd	-tro-
+=12	=12	=12	=12
+4f	-ve,	4cc	-ve,
+4c	E	4ff	E
+4c	ch'io	4.ee	ch'io
+4c	già	.	.
+.	.	8ee	già
+4.g	vi-	2dd	vi-
+8g	-di	.	.
+4e	pri-	4cc	-di
+4e	-gio-	[4cc	pri-
+=13	=13	=13	=13
+4c	-nie-	4cc]	.
+4f	-ra al-	4cc	-gio-
+4e	-tro-	4cc	-nie-
+4.f	.	4b	-ra al-
+.	.	2cc	-tro-
+16eLL	.	.	.
+16dJJ	.	.	.
+4e	.	.	.
+2f	-ve,	2cc	-ve,
+=14	=14	=14	=14
+4r	.	4r	.
+4f	Nel	4a	Nel
+4c#X	man-	4a	man-
+4d	-su-	4a	-su-
+4e	-e-	4cc	-e-
+4f	-to	4dd	-to
+4d	mio	4dd	mio
+[4f	dol-	4cc	dol-
+=15	=15	=15	=15
+4f]	.	4cc	-ce
+8eL	-ce	4cc	Si-
+8dJ	Si-	.	.
+2e	-gno-	2cc	-gno-
+2f	-re,	2cc	-re:
+2f	Nel	2r	.
+=16	=16	=16	=16
+4f	man-	0r	.
+4g	-su-	.	.
+4.a	-e-	.	.
+8g	-to	.	.
+4f	mio	.	.
+2e	dol-	.	.
+8dL	-ce	.	.
+8cJ	Si-	.	.
+=17	=17	=17	=17
+2d	-gno-	2r	.
+2c	-re:	4r	.
+.	.	4cc	Né
+4r	.	4b	già
+4a	Né	4a	de-
+4e	già	4cc	-sio
+4f	de-	4cc	di
+=18	=18	=18	=18
+4.c	-sio	4.cc	rac-
+8c	di	8cc	-qui-
+4c	rac-	4cc	-star
+4d	-qui-	4b	mi
+4c	-star	2ee	mo-
+4e	mi	.	.
+2f	mo-	2cc	-ve
+=19	=19	=19	=19
+2e	-ve,	0r	.
+2c	di	.	.
+4A	rac-	.	.
+2B	-qui-	.	.
+[4c	-star	.	.
+=20	=20	=20	=20
+8cL]	.	1r	.
+8cJ	mi	.	.
+4.d	mo-	.	.
+16c#XLL	.	.	.
+16BJJ	.	.	.
+4c#X	.	.	.
+2d	-ve	4r	.
+.	.	4a	Co'l
+2r	.	4a	fa-
+.	.	4b	-vor
+=21	=21	=21	=21
+0r	.	4.cc	vo-
+.	.	8cc	-stro il
+.	.	4dd	mio
+.	.	4cc	re-
+.	.	8eeL	-ga-
+.	.	8dd	.
+.	.	8cc	.
+.	.	8ddJ	.
+.	.	8eeL	.
+.	.	8ffJ	.
+.	.	[4gg	.
+=22	=22	=22	=22
+1r	.	4gg]	.
+.	.	4ee	-le ho-
+.	.	2dd	-no-
+4r	.	2cc	-re,
+4e	il	.	.
+4d	mio	2r	.
+4e	re-	.	.
+=23	=23	=23	=23
+8cL	-gal,	4r	.
+8d	.	.	.
+8e	.	4cc	il
+8fJ	.	.	.
+4g	.	4b	mio
+4e	re-	4cc	re-
+4f	-ga-	8ccL	-ga-
+.	.	8ccJ	-le ho-
+4f	-le ho-	4.ff	-no-
+2g	-no-	.	.
+.	.	16eeLL	.
+.	.	16ddJJ	.
+.	.	4ee	.
+=24	=24	=24	=24
+2f	-re:	2ff	-re:
+2r	.	2r	.
+2r	.	4r	.
+.	.	4cc	Quan-
+4r	.	4b	-do
+4c	Quan-	4ee	ciò
+=25	=25	=25	=25
+4B	-do	4dd	non
+4e	ciò	4cc	a-
+4d	non	4dd	-ven-
+4c	a-	4ee	-ga, as-
+4d	-ven-	8bL	-sai
+.	.	8ccJ	.
+4d	-ga, as-	2dd	.
+4e	-sai	.	.
+4e	fe-	4cc#X	fe-
+=26	=26	=26	=26
+4d	-li-	2dd	-li-
+4A	-ce	.	.
+2r	.	4ccnXi	-ce,
+.	.	2dd	fe-
+1r	.	.	.
+.	.	4.cc	-li-
+.	.	16bLL	.
+.	.	16aJJ	.
+.	.	4b	.
+=27	=27	=27	=27
+4r	.	2cc	-ce
+4c	Io	.	.
+4e	mi	2r	.
+4f	ter-	.	.
+4c	-rò,	1r	.
+4A	sen'	.	.
+4B	voi	.	.
+4A	ser-	.	.
+=28	=28	=28	=28
+2e	-vir,	4r	.
+.	.	4gg	Io
+4r	.	4ff	mi
+4c	sen'	4ee	ter-
+4G	voi	4dd	-rò,
+4B-X	ser-	4ff	sen'
+4A	-vir	4ee	voi
+4d	mi	4dd	ser-
+=29	=29	=29	=29
+2e	li-	4cc	-vir
+.	.	4cc	mi
+2e	-ce,	2b	li-
+2c	Io	2a	-ce,
+4d	mi	4r	.
+4e	ter-	4cc	Io
+=30	=30	=30	=30
+2g	-rò,	4dd	mi
+.	.	4gg	ter-
+2r	.	4ff	-rò,
+.	.	4ff	sen'
+2r	.	4.ff	voi
+.	.	8ee	ser-
+2A	sen'	2dd	-vir
+=31	=31	=31	=31
+2d	voi	1dd	mi
+2d	ser-	.	.
+4e	-vir	1cc	li-
+4c	mi	.	.
+2c	li-	.	.
+=32	=32	=32	=32
+0cl	-ce.	0al	-ce.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2019/05/05
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/05/05
