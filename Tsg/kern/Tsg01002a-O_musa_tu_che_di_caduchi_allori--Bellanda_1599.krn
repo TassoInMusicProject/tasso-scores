@@ -21,7 +21,7 @@
 *F:	*	*F:	*
 *M4/2	*	*M4/2	*
 =1	=1	=1	=1
-!	!	!LO:TX:t=Prima parte.	!
+!	!	!LO:TX:a:t=Prima parte.	!
 1r	.	0cc	O
 [1f	O	.	.
 =2	=2	=2	=2
@@ -189,7 +189,7 @@
 =19	=19	=19	=19
 0F	-na.	0f	-na.
 =20||	=20||	=20||	=20||
-!	!	!LO:TX:t=Seconda parte.	!
+!	!	!LO:TX:a:t=Seconda parte.	!
 2r	.	2cc	Tu
 2f	Tu	8fL	spi-
 .	.	8g	.
