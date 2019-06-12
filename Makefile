@@ -426,4 +426,9 @@ original:
 	bin/addoriginal -w Tri/kern/*.krn
 	# need also to do other genres here
 
+move:
+	-mv Trm*.krn Trm/kern/
+	-mv Tsg*.krn Tsg/kern/
+	-mv Tam*.krn Tam/kern/
+	-mv Tri*.krn Tri/kern/
 
