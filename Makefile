@@ -408,6 +408,8 @@ refs:
 	bin/fillinrefinfo -a -w Tam/kern/*.krn
 	bin/fillinrefinfo -g -w Tsg/kern/*.krn
 	bin/fillinrefinfo -o -w Tri/kern/*.krn
+	bin/fillinrefinfo -o -w Trt/kern/*.krn
+	bin/fillinrefinfo -o -w Tec/kern/*.krn
 	# need also to do other genres here
 
 abbr:
@@ -418,12 +420,16 @@ system:
 	bin/fixsystemdecoration Tam/kern/*.krn
 	bin/fixsystemdecoration Tsg/kern/*.krn
 	bin/fixsystemdecoration Tri/kern/*.krn
+	bin/fixsystemdecoration Trt/kern/*.krn
+	bin/fixsystemdecoration Tec/kern/*.krn
 
 original:
 	bin/addoriginal -w Trm/kern/*.krn
 	bin/addoriginal -w Tam/kern/*.krn
 	bin/addoriginal -w Tsg/kern/*.krn
 	bin/addoriginal -w Tri/kern/*.krn
+	bin/addoriginal -w Trt/kern/*.krn
+	bin/addoriginal -w Tec/kern/*.krn
 	# need also to do other genres here
 
 move:

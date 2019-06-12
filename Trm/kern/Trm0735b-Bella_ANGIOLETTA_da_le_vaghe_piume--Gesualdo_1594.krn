@@ -174,7 +174,7 @@
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 2G	a-	2d	a-	2g	a-	4cc]	.	2dd	a-
 .	.	.	.	.	.	4b	.	.	.
-2C	-mo”,	2c	-mo",	2g	-mo",	2cc	-mo”,	4ee	-mo”,
+2C	-mo,"	2c	-mo,"	2g	-mo,"	2cc	-mo,"	4ee	-mo,"
 .	.	.	.	.	.	.	.	4.gg	Pre-
 4.c	Pre-	4.e	Pre-	4r	.	2r	.	.	.
 .	.	.	.	.	.	.	.	8ee	-sta-
@@ -256,7 +256,7 @@
 4B-X	a-	4g	a-	4d	a-	1r	.	4dd	a-
 4A	-mo, io	4c	-mo, io	4e	-mo, io	.	.	4cc	-mo, io
 2G	a-	2d	a-	2g	a-	.	.	2b	a-
-2C	-mo”,	4e	-mo”,	4g	-mo”,	4r	.	2cc	-mo”,
+2C	-mo,"	4e	-mo,"	4g	-mo,"	4r	.	2cc	-mo,"
 .	.	4c	“io	4e	"io	4g	“io	.	.
 2r	.	4G	a-	4g	a-	4b-X	a-	2r	.
 .	.	4A	-mo, io	4f	-mo, io	4a	-mo, io	.	.
@@ -276,9 +276,7 @@
 .	.	16eLL	.	8eJ	.	8aJ	.	.	.
 .	.	16fJJ	.	.	.	.	.	.	.
 .	.	2g	.	2d	.	2b	.	.	.
-[1Cl	-mo”.	[1gl	-mo”.	[1cl	-mo".	[1ccl	-mo”.	[1eel	-mo”.
-=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-0C]	.	0g]	.	0c]	.	0cc]	.	0ee]	.
+[1Cl	-mo."	[1gl	-mo."	[1cl	-mo."	[1ccl	-mo."	[1eel	-mo."
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
