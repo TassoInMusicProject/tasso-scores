@@ -10,7 +10,7 @@
 !!!SCA: Tsg16064a
 !!!voices: 5+bc
 !!!COM: Eredi, Francesco
-!!!OTL:	Vattene pur crudel con quella pace
+!!!OTL:	Che fa più meco il pianto? Altr'arme, altr'arte
 **kern	**fb	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -36,10 +36,10 @@
 .	.	.	.	.	.	.	.	.	.	8g	al-
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 4C	.	4r	.	4r	.	4r	.	4r	.	4cc	-tr’ar-
-4C	.	4C	Al-	4G	Al-	4c	Al-	4e	Al-	4.cc	-me
+4C	.	4C	Al-	4G	Al-	4c	Al-	4e	Al-	4.cc	-me,
 4F	.	4F	-tr’ar-	4A	-tr’ar-	4c	-tr’ar-	4f	-tr’ar-	.	.
 .	.	.	.	.	.	.	.	.	.	8a	al-
-8F	.	8F	-me	8A	-me	8A	-me	8fnXi	-me	4dd	-tr’ar-
+8F	.	8F	-me,	8A	-me,	8A	-me,	8fnXi	-me,	4dd	-tr’ar-
 8D	#	8D	al-	8A	al-	8d	al-	8f#X	al-	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 4G	.	4G	-tr’ar-	4B-y	-tr’ar-	4d	-tr’ar-	4g	-tr’ar-	2dd	-te
@@ -110,8 +110,8 @@
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 2G	.	4r	.	4r	.	1r	.	8d	lui	1r	.
 .	.	.	.	.	.	.	.	8c	ri-	.	.
-.	.	8G	Né	8B-y	Né	.	.	8B-y	-pos-	.	.
-.	.	8G	l’A-	8B-y	l’A-	.	.	8A	-ta	.	.
+.	.	8G	Né	8B-y	Né	.	.	8B-y	-po-	.	.
+.	.	8G	l’A-	8B-y	l’A-	.	.	8A	-sta	.	.
 4G	.	4G	-bis-	4B-y	-bis-	.	.	4G	par-	.	.
 8F	.	8F	-so	8A	-so	.	.	4D	-te,	.	.
 8E	.	8E	per	8G	per	.	.	.	.	.	.
@@ -126,7 +126,7 @@
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 2DD	.	2DD	-te,	4D]	.	4d	-bis-	4r	.	8a	lui
 .	.	.	.	.	.	.	.	.	.	8g	ri-
-.	.	.	.	4AA	-te,	8c	-so	4A	Né ’l	8f	-po-
+.	.	.	.	4AA	-te,	8c	-so	4A	Né’l	8f	-po-
 .	.	.	.	.	.	8B-y	per	.	.	8e	-sta
 [2D	.	2r	.	2r	.	8A	lui	8d	ciel	2d	par-
 .	.	.	.	.	.	8G	ri-	8e	sa-	.	.
@@ -134,14 +134,14 @@
 .	.	.	.	.	.	8E	-sta	8g	per	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 2D]	.	4r	.	1r	.	2D	par-	2a	lui	4A	-te,
-.	.	4D	Né ’l	.	.	.	.	.	.	4a	Né ’l
+.	.	4D	Né’l	.	.	.	.	.	.	4a	Né’l
 2GG	.	8G	ciel	.	.	2BB-y	-te,	2g	si-	8b-y	ciel
 .	.	8A	sa-	.	.	.	.	.	.	8cc	sa-
 .	.	8B-y	-rà	.	.	.	.	.	.	8dd	-rà
 .	.	8c	per	.	.	.	.	.	.	8ee	per
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 2D	.	2d	lui	4r	.	4r	.	2f	-cu-	4.ff	lui
-.	.	.	.	4d	Né ’l	4D	Né ’l	.	.	.	.
+.	.	.	.	4d	Né’l	4D	Né’l	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	8ee	.
 2GG	.	2G	si-	8B-y	ciel	8G	ciel	2g	-ro,	2dd	.
 .	.	.	.	8c	sa-	8A	sa-	.	.	.	.
@@ -163,7 +163,7 @@
 1BB-y	.	1BB-y	-pio.	1B-y	-pio.	1d	-pio.	1f	-pio.	2b-y	-pio.
 .	.	.	.	.	.	.	.	.	.	4r	.
 .	.	.	.	.	.	.	.	.	.	8r	.
-.	.	.	.	.	.	.	.	.	.	8f	Già ’l
+.	.	.	.	.	.	.	.	.	.	8f	Già’l
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 2BB-y	.	1r	.	1r	.	1r	.	1r	.	4b-y	giun-
 .	.	.	.	.	.	.	.	.	.	4b-y	-go,
@@ -180,9 +180,9 @@
 2GG	.	2r	.	2r	.	2r	.	2r	.	4g	svel-
 .	.	.	.	.	.	.	.	.	.	4g	-lo,
 4C	.	4r	.	4r	.	4r	.	4r	.	8r	.
-.	.	.	.	.	.	.	.	.	.	8g	Già ’l
+.	.	.	.	.	.	.	.	.	.	8g	Già’l
 4C	.	8r	.	8r	.	8r	.	8r	.	4cc	giun-
-.	.	8C	Già ’l	8G	Già ’l	8c	Gia ’l	8e	Già ’l	.	.
+.	.	8C	Già’l	8G	Già’l	8c	Gia’l	8e	Già’l	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 2F	.	4F	giun-	4A	giun-	4c	giun-	4f	giun-	4cc	-go,
 .	.	4F	-go,	4A	-go,	4c	-go,	4f	-go,	8r	.
@@ -217,15 +217,15 @@
 .	.	.	.	.	.	.	.	.	.	8a	-do,
 .	.	.	.	.	.	.	.	.	.	8a	ai
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-2BB-y	.	1r	.	1r	.	1r	.	1r	.	8b-y	dis-
-.	.	.	.	.	.	.	.	.	.	8cc	-pie-
+2BB-y	.	1r	.	1r	.	1r	.	1r	.	8b-y	di-
+.	.	.	.	.	.	.	.	.	.	8cc	-spie-
 .	.	.	.	.	.	.	.	.	.	2dd	-ta-
 2GG	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	8dd	-ti
 .	.	.	.	.	.	.	.	.	.	8g	ai
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
-2FF	.	1r	.	1r	.	1r	.	1r	.	8a	dis-
-.	.	.	.	.	.	.	.	.	.	8b-y	-pie-
+2FF	.	1r	.	1r	.	1r	.	1r	.	8a	di-
+.	.	.	.	.	.	.	.	.	.	8b-y	-spie-
 .	.	.	.	.	.	.	.	.	.	2cc	-ta-
 2FF	.	.	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	4f	-ti es-
