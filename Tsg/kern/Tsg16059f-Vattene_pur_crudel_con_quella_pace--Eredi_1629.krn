@@ -356,8 +356,8 @@
 4BB-y	.	8r	.	8r	.	8r	.	8r	.	8r	.
 .	.	8BB-y	.	8B-y	E	8d	E	8f	E	8b-y	E
 8BB-y	.	8BB-y	.	8B-y	s’è	8d	s’è	8f	s’è	8b-y	s’è
-8BB-y	.	8BB-y	.	8F	de-	8d	de-	8f	des-	8b-y	des-
-4F	.	4F	.	2A	-stin,	4c	-stin	8f	-tin	4a	-tin
+8BB-y	.	8BB-y	.	8F	de-	8d	de-	8f	de-	8b-y	de-
+4F	.	4F	.	2A	-stin,	4c	-stin	8f	-stin	4a	-stin
 .	.	.	.	.	.	.	.	8f	ch’es-	.	.
 4F	.	4F	.	.	.	4c	ch’e-	8f	-ca	4a	ch’es-
 .	.	.	.	.	.	.	.	8f	del	.	.
@@ -417,9 +417,9 @@
 4G	.	8r	.	8r	.	8r	.	8r	.	8r	.
 .	.	8G	.	8G	E	8d	E	8g	E	8b-y	E
 8G	.	8G	.	8B-y	s’è	8d	s’è	8g	s’è	8b-y	s’è
-8G	.	8G	.	8B-y	de-	8d	de-	8g	des-	8b-y	des-
+8G	.	8G	.	8B-y	de-	8d	de-	8g	de-	8b-y	de-
 =60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
-4G	.	4G	.	4G	-stin	4d	-stin	4g	-tin	4b-y	-tin
+4G	.	4G	.	4G	-stin	4d	-stin	4g	-stin	4b-y	-stin
 4D	#	4D	.	4A	ch’e-	4d	ch’e-	4f#X	ch’es-	4a	ch’es-
 4G	.	8G	.	8B-y	-sca	8d	-sca	8g	-ca	8g	-ca
 .	.	8G	.	8B-y	dal	8d	del	8g	dal	8b-y	del
