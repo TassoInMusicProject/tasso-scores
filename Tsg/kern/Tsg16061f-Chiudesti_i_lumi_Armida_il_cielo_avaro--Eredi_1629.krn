@@ -10,7 +10,7 @@
 !!!SCA: Tsg16061f
 !!!voices: 5+bc
 !!!COM: Eredi, Francesco
-!!!OTL:	Vattene pur crudel con quella pace
+!!!OTL:	Chiudesti i lumi Armida: il cielo avaro
 **kern	**fb	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -24,8 +24,8 @@
 !!LO:TX:a:t=Quarta parte
 2G	.	1r	.	1r	.	4r	.	1r	.	1r	.
 .	.	.	.	.	.	4G	Chiu-	.	.	.	.
-2F	.	.	.	.	.	4c	-des-	.	.	.	.
-.	.	.	.	.	.	8cL	-ti,	.	.	.	.
+2F	.	.	.	.	.	4c	-de-	.	.	.	.
+.	.	.	.	.	.	8cL	-sti,	.	.	.	.
 .	.	.	.	.	.	8AJ	<Chiu-	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 2D	.	1r	.	4r	.	4d	-de-	1r	.	1r	.
@@ -37,15 +37,15 @@
 4AA	.	1r	.	4A	-de-	4r	.	1r	.	1r	.
 4D	.	.	.	8A	-sti,>	8r	.	.	.	.	.
 .	.	.	.	8F	<Chiu-	8A	Chiu-	.	.	.	.
-[2GG	.	.	.	[2B-y	-de-	[2d	-des-	.	.	.	.
+[2GG	.	.	.	[2B-y	-de-	[2d	-de-	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 4GG]	.	1r	.	8B-]	.	8dL]	.	1r	.	1r	.
-.	.	.	.	8A	-sti> i	8c	-ti i	.	.	.	.
+.	.	.	.	8A	-sti> i	8c	-sti i	.	.	.	.
 4GG	.	.	.	8A	lu-	8c	lu-	.	.	.	.
 .	.	.	.	8G	-mi Ar-	8B-yJ	-mi Ar-	.	.	.	.
 2FF	.	.	.	2A	-mi-	2c	-mi-	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-2FF	.	2r	.	2A	-da	8cL	-da	1r	.	2r	.
+2FF	.	2r	.	2A	-da:	8cL	-da:	1r	.	2r	.
 .	.	.	.	.	.	8A	il	.	.	.	.
 .	.	.	.	.	.	8B-y	cie-	.	.	.	.
 .	.	.	.	.	.	8cJ	-lo a-	.	.	.	.
@@ -260,19 +260,19 @@
 .	.	.	.	.	.	.	.	8f	Pie-	8a	Pie-
 .	.	.	.	.	.	.	.	8f	-to-	8a	-to-
 .	.	.	.	.	.	.	.	8fJ	-so in	8a	-so in
-8r	.	.	.	8r	.	8r	.	2f	vis-	4b-y	vis-
+8r	.	.	.	8r	.	8r	.	2f	vi-	4b-y	vi-
 8B-yL	.	.	.	8B-y	Pie-	8dL	Pie-	.	.	.	.
-8B-y	.	.	.	8B-y	-to-	8d	-to-	.	.	4b-y	-ta,
+8B-y	.	.	.	8B-y	-to-	8d	-to-	.	.	4b-y	-sta,
 8B-yJ	.	.	.	8B-y	-so in	8dJ	-so in	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
-4B-y	.	1r	.	4B-y	vi-	2d	vi-	2f	-ta	8r	.
+4B-y	.	1r	.	4B-y	vi-	2d	vi-	2f	-sta	8r	.
 .	.	.	.	.	.	.	.	.	.	8b-y	<Pie-
 4B-y	.	.	.	4B-y	-sta	.	.	.	.	8b-y	-to-
 .	.	.	.	.	.	.	.	.	.	8b-y	-so in
-4.G	.	.	.	8G	gl’ul-	2d	-sta	8gL	gl’ul-	4.b-y	vis-
+4.G	.	.	.	8G	gl’ul-	2d	-sta	8gL	gl’ul-	4.b-y	vi-
 .	.	.	.	8G	-ti-	.	.	8g	-ti-	.	.
 .	.	.	.	8G	-mi	.	.	8g	-mi	.	.
-8F#X	.	.	.	8F#X	con-	.	.	8aJ	con-	8a	-ta>
+8F#X	.	.	.	8F#X	con-	.	.	8aJ	con-	8a	-sta>
 =45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
 1A	#	1r	.	1A	-ge-	1r	.	4e	-ge-	8a	gl’ul-
 .	.	.	.	.	.	.	.	.	.	8g	-ti-
@@ -326,10 +326,10 @@
 8E-XL	.	8E-XL	Pie-	.	.	8B-yL	Pie-	8e-XL	Pie-	8g	Pie-
 8E-i	.	8E-i	-to-	4G	-sta	8B-y	-to-	8e-i	-to-	8g	-to-
 8E-iJ	.	8E-iJ	-so in	.	.	8B-yJ	-so in	8e-iJ	-so in	8g	-so in
-[2E-i	.	[2E-i	vi-	[2G	gli ul-	[2B-y	vis-	2e-i	vis-	[2g	vis-
+[2E-i	.	[2E-i	vi-	[2G	gli ul-	[2B-y	vi-	2e-i	vi-	[2g	vi-
 =53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53
-4E-]	.	4E-]	.	4G]	.	4B-]	.	2e-i	-ta	4g]	.
-4E-i	.	4E-i	-sta	4G	-ti-	4B-y	-ta	.	.	4g	-ta
+4E-]	.	4E-]	.	4G]	.	4B-]	.	2e-i	-sta	4g]	.
+4E-i	.	4E-i	-sta	4G	-ti-	4B-y	-sta	.	.	4g	-sta
 8CL	.	8CL	gli ul-	2G	-mi	8cL	gli ul-	8e-iL	gli ul-	2r	.
 8C	.	8C	-ti-	.	.	8c	-ti-	8e-i	-ti-	.	.
 8C	.	8C	-mi	.	.	8c	-mi	8e-i	-mi	.	.
