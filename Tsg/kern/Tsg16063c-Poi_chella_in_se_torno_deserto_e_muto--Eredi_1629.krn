@@ -10,7 +10,7 @@
 !!!SCA: Tsg16063c
 !!!voices: 5+bc
 !!!COM: Eredi, Francesco
-!!!OTL:	Vattene pur crudel con quella pace
+!!!OTL:	Poi ch'ella in sé tornò, deserto e muto
 **kern	**fb	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -158,8 +158,8 @@
 4G	#	4G	-iu-	4BnXi	-iu-	4d	-iu-	4g	-iu-	8r	.
 .	.	.	.	.	.	.	.	.	.	8bnX	Nel
 4G	.	4G	-to	4BnX	-to	4d	-to	4g	-to	8bnX	ca-
-.	.	.	.	.	.	.	.	.	.	8bnXi	-so es-
-2C	.	2r	.	2r	.	2r	.	2r	.	2cc	-tre-
+.	.	.	.	.	.	.	.	.	.	8bnXi	-so e-
+2C	.	2r	.	2r	.	2r	.	2r	.	2cc	-stre-
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 2F	.	1r	.	1r	.	1r	.	1r	.	8cc	-mo
 .	.	.	.	.	.	.	.	.	.	8a	il
@@ -172,18 +172,18 @@
 2GG	.	.	.	.	.	8r	.	.	.	4g	por-
 .	.	.	.	.	.	8G	Nel	.	.	.	.
 .	.	.	.	.	.	8G	ca-	.	.	4g	-se?
-.	.	.	.	.	.	8G	-so es-	.	.	.	.
+.	.	.	.	.	.	8G	-so e-	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-2C	.	8r	.	8r	.	4c	-tre-	8r	.	1r	.
+2C	.	8r	.	8r	.	4c	-stre-	8r	.	1r	.
 .	.	8C	Nel	8G	Nel	.	.	8e	Nel	.	.
 .	.	8C	ca-	8G	ca-	4c	-mo,	8e	ca-	.	.
-.	.	8C	-so es-	8G	-so es-	.	.	8e	-so es-	.	.
-2F	.	2F	-tre-	2A	-tre-	8r	.	2f	-tre-	.	.
+.	.	8C	-so e-	8G	-so e-	.	.	8e	-so e-	.	.
+2F	.	2F	-stre-	2A	-stre-	8r	.	2f	-stre-	.	.
 .	.	.	.	.	.	8c	<Nel	.	.	.	.
 .	.	.	.	.	.	8c	ca-	.	.	.	.
-.	.	.	.	.	.	8c	-so es-	.	.	.	.
+.	.	.	.	.	.	8c	-so e-	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
-2.BB-y	.	2BB-y	-mo	2B-y	-mo	2d	-tre-	2f	-mo	1r	.
+2.BB-y	.	2BB-y	-mo	2B-y	-mo	2d	-stre-	2f	-mo	1r	.
 .	.	2r	.	8r	.	8d	-mo>	2r	.	.	.
 .	.	.	.	8d	il	8f	il	.	.	.	.
 4C	-	.	.	8c	tra-	8e-X	tra-	.	.	.	.
@@ -221,15 +221,15 @@
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
 4BB-]	.	1r	.	1r	.	1r	.	1r	.	8r	.
 .	.	.	.	.	.	.	.	.	.	8dd	e in
-4C	.	.	.	.	.	.	.	.	.	8cc	ques-
-.	.	.	.	.	.	.	.	.	.	8b-y	-to
+4C	.	.	.	.	.	.	.	.	.	8cc	que-
+.	.	.	.	.	.	.	.	.	.	8b-y	-sto
 2D	.	.	.	.	.	.	.	.	.	4a	li-
 .	.	.	.	.	.	.	.	.	.	4a	-do,
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
 4AA	.	1r	.	1r	.	1r	.	1r	.	8r	.
 .	.	.	.	.	.	.	.	.	.	8cc	<e in
-4BB-y	.	.	.	.	.	.	.	.	.	8b-y	ques-
-.	.	.	.	.	.	.	.	.	.	8a	-to
+4BB-y	.	.	.	.	.	.	.	.	.	8b-y	que-
+.	.	.	.	.	.	.	.	.	.	8a	-sto
 4C	.	.	.	.	.	.	.	.	.	4g	li-
 4GG	.	.	.	.	.	.	.	.	.	8g	-do>
 .	.	.	.	.	.	.	.	.	.	8b-y	In-
@@ -251,12 +251,12 @@
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
 8D	.	8r	.	1r	.	8r	.	2r	.	2d	-do
 8B-y	.	8B-y	e in	.	.	8d	e in	.	.	.	.
-8A	.	8A	ques-	.	.	8c	ques-	.	.	.	.
-8G	.	8G	-to	.	.	8B-y	-to	.	.	.	.
+8A	.	8A	que-	.	.	8c	que-	.	.	.	.
+8G	.	8G	-sto	.	.	8B-y	-sto	.	.	.	.
 4F	.	4F	li-	.	.	4A	li-	8r	.	2r	.
 .	.	.	.	.	.	.	.	8f	e in	.	.
-4F	.	8F	-do	.	.	8A	-do	8e-X	ques-	.	.
-.	.	8F	In-	.	.	8A	In-	8d	-to	.	.
+4F	.	8F	-do	.	.	8A	-do	8e-X	que-	.	.
+.	.	8F	In-	.	.	8A	In-	8d	-sto	.	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
 4F	.	8F	-ven-	2r	.	8A	-ven-	4c	li-	1r	.
 .	.	8F	-di-	.	.	8A	-di-	.	.	.	.
@@ -264,22 +264,22 @@
 8D	.	8D	-ta an-	.	.	8F	-ta an-	8d	In-	.	.
 2C	-	2C	-cor	8r	.	2G	-cor	8e-X	-ven-	.	.
 .	.	.	.	8c	e in	.	.	8e-i	-di-	.	.
-.	.	.	.	8B-y	ques-	.	.	8d	-ca-	.	.
-.	.	.	.	8A	-to	.	.	8c	-ta an-	.	.
+.	.	.	.	8B-y	que-	.	.	8d	-ca-	.	.
+.	.	.	.	8A	-sto	.	.	8c	-ta an-	.	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
 2GG	.	1r	.	4G	li-	2r	.	2B-y	-cor,	8r	.
 .	.	.	.	.	.	.	.	.	.	8g	e in
-.	.	.	.	8G	-do	.	.	.	.	8f	ques-
-.	.	.	.	8A	In-	.	.	.	.	8e-i	-to
+.	.	.	.	8G	-do	.	.	.	.	8f	que-
+.	.	.	.	8A	In-	.	.	.	.	8e-i	-sto
 2GG	.	.	.	8B-y	-ven-	8r	.	2r	.	4d	li-
 .	.	.	.	8B-y	-di-	8d	e in	.	.	.	.
-.	.	.	.	8A	-ca-	8c	ques-	.	.	4d	-do,
-.	.	.	.	8G	-ta an-	8B-y	-to	.	.	.	.
+.	.	.	.	8A	-ca-	8c	que-	.	.	4d	-do,
+.	.	.	.	8G	-ta an-	8B-y	-sto	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
 2D	.	4r	.	2F	-cor	8A	li-	2r	.	8r	.
 .	.	.	.	.	.	8B-y	-do In-	.	.	8dd	<e in
-.	.	2D	pian-	.	.	8A	-ven-	.	.	8cc	ques-
-.	.	.	.	.	.	8G	-di-	.	.	8b-y	-to
+.	.	2D	pian-	.	.	8A	-ven-	.	.	8cc	que-
+.	.	.	.	.	.	8G	-di-	.	.	8b-y	-sto
 [2D	.	.	.	2r	.	4F	-ca-	4r	.	4a	li-
 .	.	[4D	-go e	.	.	4D	-ta an-	8r	.	8a	-do>,
 .	.	.	.	.	.	.	.	8f	In-	8a	In-
@@ -309,17 +309,17 @@
 2AA	.	1r	.	1r	.	1r	.	2r	.	2e	-si-
 8D	.	.	.	.	.	.	.	8r	.	8d	-do
 8G	.	.	.	.	.	.	.	8g	e in	8b-y	e in
-8F	.	.	.	.	.	.	.	8f	ques-	8a	ques-
-8E-X	.	.	.	.	.	.	.	8e-X	-to	8g	-to
+8F	.	.	.	.	.	.	.	8f	que-	8a	que-
+8E-X	.	.	.	.	.	.	.	8e-X	-sto	8g	-sto
 =47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
 8D	.	8r	.	1r	.	8r	.	4d	li-	4f	li-
 8B-y	.	8B-y	e in	.	.	8d	e in	.	.	.	.
-8A	.	8A	ques-	.	.	8c	ques-	4d	-do,	4f	-do,
-8G	.	8G	-to	.	.	8B-y	-to	.	.	.	.
+8A	.	8A	que-	.	.	8c	que-	4d	-do,	4f	-do,
+8G	.	8G	-sto	.	.	8B-y	-sto	.	.	.	.
 4F	.	4F	li-	.	.	4A	li-	8r	.	4r	.
 .	.	.	.	.	.	.	.	8f	<e in	.	.
-4F	.	8F	-do	.	.	8A	-do	8e-X	ques-	8r	.
-.	.	8F	In-	.	.	8A	In-	8d	-to	8f	In-
+4F	.	8F	-do	.	.	8A	-do	8e-X	que-	8r	.
+.	.	8F	In-	.	.	8A	In-	8d	-sto	8f	In-
 =48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
 4F	.	8F	-ven-	2r	.	8A	-ven-	4c	li-	8a	-ven-
 .	.	8F	-di-	.	.	8A	-di-	.	.	8a	-di-
@@ -327,13 +327,13 @@
 8D	.	8D	-ta an-	.	.	8F	-ta an-	8d	In-	8b-y	-ta an-
 2C	-	2C	-cor	8r	.	2G	-cor,	8e-X	-ven-	2cc	-cor
 .	.	.	.	8c	e in	.	.	8e-i	-di-	.	.
-.	.	.	.	8B-y	ques-	.	.	8d	-ca-	.	.
-.	.	.	.	8A	-to	.	.	8c	-ta an-	.	.
+.	.	.	.	8B-y	que-	.	.	8d	-ca-	.	.
+.	.	.	.	8A	-sto	.	.	8c	-ta an-	.	.
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
 1E-X	6	1E-X	pian-	4G	li-	8r	.	2g	-cor,	8r	.
 .	.	.	.	.	.	8e-X	e in	.	.	8cc	e in
-.	.	.	.	8G	-do	8d	ques-	.	.	8b-y	ques-
-.	.	.	.	8B-y	In-	8c	-to	.	.	8a	-to
+.	.	.	.	8G	-do	8d	que-	.	.	8b-y	que-
+.	.	.	.	8B-y	In-	8c	-sto	.	.	8a	-sto
 .	.	.	.	8B-y	-ven-	4B-y	li-	2r	.	4g	li-
 .	.	.	.	8B-y	-di-	.	.	.	.	.	.
 .	.	.	.	8A	-ca-	8c	-do	.	.	4g	-do
