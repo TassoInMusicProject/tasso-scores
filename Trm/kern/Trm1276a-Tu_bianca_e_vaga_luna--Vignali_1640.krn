@@ -11,7 +11,7 @@
 !!!voices: 4 + bc
 !!!COM: Vignali, Francesco
 !!!OTL: Tu, bianca e vaga luna 
-**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+**kern	**fb	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso continuo	*	*I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
@@ -103,13 +103,13 @@
 2C	.	2C	Tu,	4c	bian-	2r	.	.	.
 .	.	.	.	4c	-ca	.	.	4e	-ra,
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-2E	65	4E	bian-	8r	.	1r	.	1r	.
+2E	6:	4E	bian-	8r	.	1r	.	1r	.
 .	.	.	.	8d	e	.	.	.	.
-.	.	4E	-ca	8.eL	va-	.	.	.	.
+.	5	4E	-ca	8.eL	va-	.	.	.	.
 .	.	.	.	16BJk	-ga	.	.	.	.
-2C#X	56	8r	.	4c#X	lu-	.	.	.	.
+2C#X	5:	8r	.	4c#X	lu-	.	.	.	.
 .	.	8G	e	.	.	.	.	.	.
-.	.	8.AL	va-	4A	-na,	.	.	.	.
+.	6	8.AL	va-	4A	-na,	.	.	.	.
 .	.	16EJk	-ga	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 2D	.	4F#X	lu-	4d	Ch'hai	2r	.	1r	.
@@ -480,7 +480,7 @@
 .	.	4AA	-gno a-	.	.	4e	-gno a-	4g	-gno a-
 2BB	#	2BB	-spet-	.	.	2d#X	-spet-	2f#X	-spet-
 =87	=87	=87	=87	=87	=87	=87	=87	=87	=87
-1BB	(#)	1BB	-to,	1r	.	1d#i	-to,	1f#X	-to,
+1BB	#J	1BB	-to,	1r	.	1d#i	-to,	1f#X	-to,
 =88	=88	=88	=88	=88	=88	=88	=88	=88	=88
 4D	.	4D	Lu-	4d	Lu-	4f#X	Lu-	4a	Lu-
 8DL	.	8DL	-mi	8dL	-mi	8f#iL	-mi	8aL	-mi
