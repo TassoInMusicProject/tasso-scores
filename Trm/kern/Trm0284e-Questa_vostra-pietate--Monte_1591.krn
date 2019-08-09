@@ -1,0 +1,226 @@
+!!!CDT:
+!!!PTL: Il sesto libro de madrigali a sei voci
+!!!PPP: Venice
+!!!PPR: Angelo Gardano
+!!!PDT: 1591
+!!!RISM: M 3384
+!!!rime: 284
+!!!AGN: Madrigal
+!!!SCT: Trm0284e
+!!!SCA: Trm0284e
+!!!voices: 6
+!!!COM: Monte, Filippo di
+!!!OTL: Questa vostra pietate
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Tenore	*	*I"Quinto	*	*I"Alto	*
+*I'T	*	*I'V	*	*I'A	*
+*oclefC4	*	*oclefC3	*	*oclefC3	*
+*clefGv2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1
+0r	.	1r	.	2g	Que-
+.	.	.	.	4f#X	-sta
+.	.	.	.	4.g	vo-
+.	.	2r	.	.	.
+.	.	.	.	8a	-stra
+.	.	.	.	4fnXi	pie-
+.	.	4r	.	2e	-ta-
+.	.	[4g	Que-	.	.
+=2	=2	=2	=2	=2	=2
+0r	.	4g]	.	2d	-te
+.	.	4f#X	-sta	.	.
+.	.	8gL	vo-	2r	.
+.	.	8aJ	-stra	.	.
+.	.	4fnXi	pie-	.	.
+.	.	2e	-ta-	4r	.
+.	.	.	.	4g	Non
+.	.	4d	-te	4.f#X	re-
+.	.	4d	Non	.	.
+.	.	.	.	8f#i	-fri-
+=3	=3	=3	=3	=3	=3
+0r	.	4.e	re-	4g	-ge-
+.	.	.	.	4c	-rio al
+.	.	8e	-fri-	.	.
+.	.	2.d	-ge-	2d	co-
+.	.	.	.	2G	-re
+.	.	4g	-rio al	.	.
+.	.	2f#X	co-	2r	.
+=4	=4	=4	=4	=4	=4
+2r	.	2g	-re	2r	.
+2G	Ma	2d	Ma	2g	Ma
+[1G	dà	1d	dà	1g	dà
+=5	=5	=5	=5	=5	=5
+2G]	.	1c	for-	1e	for-
+2G	for-	.	.	.	.
+2G	-z'a	2B	-z'a	2d	-z'a
+[2D	l'ar-	2B	l'ar-	2d	l'ar-
+=6	=6	=6	=6	=6	=6
+2D]	.	1A	-do-	1d	-do-
+2d	-do-	.	.	.	.
+2B	-re;	2G	-re;	2d	-re;
+2d	Dun-	2r	.	2B	Dun-
+=7	=7	=7	=7	=7	=7
+4c	-que	0r	.	4e	-que
+4.B	d'es-	.	.	4.d	d'es-
+8B	-ser	.	.	8d	-ser
+4B	pie-	.	.	4d	pie-
+4B	-to-	.	.	4d	-to-
+4c	-sa ho-	.	.	4G	-sa ho-
+2c	-mai	.	.	4.A	-mai
+.	.	.	.	8A	ces-
+=8	=8	=8	=8	=8	=8
+4d	ces-	1r	.	8BL	-sa-
+.	.	.	.	8cJ	.
+4.B	-sa-	.	.	2d	.
+8A	.	.	.	.	.
+4G	.	.	.	4c#i	.
+2A	-te,	2r	.	2d	-te,
+2r	.	2d	Dun-	2f#X	Dun-
+=9	=9	=9	=9	=9	=9
+0r	.	4G	-que	4g	-que
+.	.	4.d	d'es-	4.f#X	d'es-
+.	.	8d	-ser	8f#i	-ser
+.	.	4d	pie-	4f#i	pie-
+.	.	4d	-to-	4f#i	-to-
+.	.	4B	-sa ho-	4g	-sa ho-
+.	.	4c	-mai	4e	-mai
+.	.	4e	ces-	4g	ces-
+=10	=10	=10	=10	=10	=10
+1r	.	2d	-sa-	2f#X	-sa-
+.	.	2G	-te,	2g	-te,
+2F#X	Dun-	2A	Dun-	2r	.
+4G	-que	4B	-que	2d	<Dun-
+[4F#X	d'es-	[4A	d'es-	.	.
+=11	=11	=11	=11	=11	=11
+8F#L]	.	8AL]	.	4A	-que
+8F#iJ	-ser	8AJ	-ser	.	.
+4F#i	pie-	4A	pie-	4.d	d'es-
+4F#i	-to-	4A	-to-	.	.
+.	.	.	.	8d	-ser
+4G	-sa ho-	4B	-sa ho-	4d	pie-
+4E	-mai	4G	-mai	4c	-to-
+4G	ces-	4G	ces-	4B	-sa ho-
+2F#X	-sa-	2A	-sa-	[2d	-mai
+=12	=12	=12	=12	=12	=12
+1G	-te	2G	-te	4d]	.
+.	.	.	.	4e	ces-
+.	.	2r	.	2d	-sa-
+4r	.	2r	.	1c	-te,>
+4G	In	.	.	.	.
+4A	co-	4r	.	.	.
+4G	-sì	4c	In	.	.
+=13	=13	=13	=13	=13	=13
+2A	stra-	4f	co-	0r	.
+.	.	4e	-sì	.	.
+4A	-na	4d	stra-	.	.
+2c	gui-	4c	-na	.	.
+.	.	2f	gui-	.	.
+4B	-sa	.	.	.	.
+4c	Che	4e	-sa	.	.
+[4c	ne	[4e	Che	.	.
+=14	=14	=14	=14	=14	=14
+8cL]	.	8eL]	.	0r	.
+8BJ	ne	8f#XJ	ne	.	.
+4G	sia	4g	sia	.	.
+4A	l'al-	4c	l'al-	.	.
+4c	-m'uc-	4c	-m'uc-	.	.
+2B	-ci-	2d	-ci-	.	.
+2c	-sa;	2e	-sa;	.	.
+=15	=15	=15	=15	=15	=15
+2G	Dun-	0r	.	2d	Dun-
+4C	-que	.	.	4e	-que
+4.G	d'es-	.	.	4.d	d'es-
+8G	-ser	.	.	8d	-ser
+4G	pie-	.	.	4d	pie-
+4G	-to-	.	.	4d	-to-
+4E	-sa ho-	.	.	4e	-sa ho-
+=16	=16	=16	=16	=16	=16
+4F	-mai	0r	.	4c	-mai
+4A	ces-	.	.	4c	ces-
+2G	-sa-	.	.	2d	-sa-
+4G	-te	.	.	2d	-te
+4G	In	.	.	.	.
+4c	co-	.	.	4r	.
+4B	-sì	.	.	4B	In
+=17	=17	=17	=17	=17	=17
+4A	stra-	0r	.	4c	co-
+4G	-na	.	.	4d	-sì
+4.c	gui-	.	.	4.e	stra-
+8B	.	.	.	8d	-na
+2A	.	.	.	2c	gui-
+4G	-sa	.	.	4d	-sa
+[4G	Che	.	.	[4g	Che
+=18	=18	=18	=18	=18	=18
+8GL]	.	1r	.	8gL]	.
+8AJ	ne	.	.	8eJ	ne
+4B	sia	.	.	4d	sia
+4c	l'al-	.	.	4e	l'al-
+4e	-m'uc-	.	.	2g	-m'uc-
+2d	-ci-	2r	.	.	.
+.	.	.	.	4f#X	-ci-
+2G	-sa;	4r	.	4g	-sa;
+.	.	4B	Per-	4d	Per-
+=19	=19	=19	=19	=19	=19
+0r	.	4.B	-ch'el-	4.d	-ch'el-
+.	.	8A	-la	8d	-la
+.	.	4B	vi	4G	vi
+.	.	4c	de-	4g	de-
+.	.	2A	-si-	2f#X	-si-
+.	.	4A	-a	4f#i	-a
+.	.	[4B	O in	[4g	O in
+=20	=20	=20	=20	=20	=20
+0r	.	8BL]	.	8gL]	.
+.	.	8BJ	e-	8gJ	e-
+.	.	4B	-ste-	4d	-stre-
+.	.	4A	-mo	4d	-mo
+.	.	4B	cru-	4d	cru-
+.	.	4.c	-del	4.e	-del
+.	.	8c	o in	8e	o in
+.	.	4A	tut-	4d	tut-
+.	.	4B-X	-to	4d	-to
+=21	=21	=21	=21	=21	=21
+2r	.	2A	pi-	2c#X	pi-
+4r	.	4F#X	-a,	4d	-a,
+4B	Per-	4d	Per-	4G	Per-
+4.B	-ch'el-	4.d	-ch'el-	4.g	-ch'el-
+8A	-la	8d	-la	8a	-la
+4B	vi	4G	vi	4g	vi
+4c	de-	4G	de-	4g	de-
+=22	=22	=22	=22	=22	=22
+2A	-si-	2d	-si-	2f#X	-si-
+4A	-a	4d	-a	4f#i	-a
+4.A	O in	4.fnXi	O in	4.a	O in
+8A	e-	8f	e-	8a	e-
+4A	-stre-	4f	-stre-	4a	-stre-
+4A	-mo	4e	-mo	4a	-mo
+4A	cru-	4d	cru-	4A	cru-
+=23	=23	=23	=23	=23	=23
+1G	-del	2d	-del	2B	-del
+.	.	2e	o in	2c	o in
+2r	.	2d	tut-	2A	tut-
+2E	o in	2B	-to	2G	-to
+=24	=24	=24	=24	=24	=24
+2F#X	tut-	0d	pi-	2.d	pi-
+2G	-to	.	.	.	.
+.	.	.	.	8cL	.
+.	.	.	.	8BJ	.
+2A	pi-	.	.	1A	.
+2D	.	.	.	.	.
+=25	=25	=25	=25	=25	=25
+0Dl	-a.	0dl	-a.	0Gl	-a.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/08/08
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2019/08/08
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/08/08 and edited by Craig Stuart Sapp
