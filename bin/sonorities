@@ -1,0 +1,84 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Tue Aug  6 10:14:55 EDT 2019
+# Last Modified: Fri Aug  9 09:40:59 EDT 2019
+# Filename:      https://github.com/TassoInMusicProject/tasso-scores/bin/sonorities
+# Syntax:        perl 5
+#
+# Description:   Extract vertical sonorities from Tasso in Music Project
+#                scores.  The website is https://www.tassomusic.org, and
+#                data-only is at https://github.com/TassoInMusicProject/tasso-scores.
+#                A spreadsheet with the extracted data can be found at:
+#                   https://bit.ly/tasso-sonorities.
+#
+
+use strict;
+my @files = @ARGV;
+foreach my $file (@files) {
+	processFile($file);
+}
+
+sub processFile {
+	my ($file) = @_;
+	print STDERR "PROCESSING FILE $file\n";
+	open (FILE, $file) or die "Cannot read $file\n";
+	my @contents = <FILE>;
+	close FILE;
+	my $catalog = $file;
+	$catalog =~ s/\.krn$//;
+	$catalog =~ s/-.*//;
+	$catalog =~ s/.*\///;
+	my $ovoices = getOriginalVoices(@contents);
+	my $evoices = getExtantVoices(@contents);
+	if ($ovoices != $evoices) {
+		return;
+	}
+	my $measure = "1";  # could be 0 (probably no pickups)
+	my $command = "cat $file";
+	my @raw = `$command`;
+	$command .= " | metlev -a | beat -a | tntype -a | sonority -a | tntype -da | extractx -I text,kern,fb ";
+	my @results = `$command`;
+	my $mensuration = "none";
+	my $meter = "none";
+	# my @results = split(/\n/, $result);
+	for (my $i=0; $i<@results; $i++) {
+		my $line = $results[$i];
+		my $rline = $raw[$i];
+		chomp $line;
+		chomp $rline;
+		$mensuration = $1 if $rline =~ /^\*M(\d+[^\t]*)/;
+		$meter = $1 if $rline =~ /^\*o?met\(([^\t]*)\)/;
+		next if $line =~ /^\s*$/;
+		next if $line =~ /^\!/;
+		if ($line =~ /=+(\d+)/) {
+			$measure = $1;
+			next;
+		}
+		next if $line =~ /^=/;
+		next if $line =~ /^\*/;
+		$line =~ s/\(?d--\)?/r/g;
+		print "$catalog\t$ovoices\t$evoices\t$meter\t$mensuration\t$measure\t$line\n";
+	}
+}
+
+
+sub getOriginalVoices {
+	my @contents = @_;
+	foreach my $line (@contents) {
+		return $1 if $line =~ /^\!\!\!voices\s*:\s*(\d+)/;
+	}
+	return -1;
+}
+
+
+sub getExtantVoices {
+	my @contents = @_;
+	foreach my $line (@contents) {
+		my @matches = ($line =~ /\*\*kern/g);
+		return scalar @matches if @matches > 0;
+	}
+	return -1;
+}
+
+
