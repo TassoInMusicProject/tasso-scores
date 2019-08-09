@@ -1,0 +1,29 @@
+#!/usr/bin/perl
+
+use strict;
+
+# Trm0275a	8	110	13.8	Recalchi, Giovanni Battista
+
+my %sum;
+my %count;
+
+my @contents = <>;
+foreach my $line (@contents) {
+	chomp $line;
+	my @data = split(/\t/, $line);
+	my $dur = $data[3];
+	my $composer = $data[4];
+	$sum{$composer} += $dur;
+	$count{$composer}++;
+}
+
+
+my @keys = keys %sum;
+
+for my $key (@keys) {
+	my $newval = $sum{$key} / $count{$key};
+	$newval = int($newval * 10.0 + 0.5)/10.0;
+	print "$newval\t$count{$key}\t$key\n";
+}
+
+

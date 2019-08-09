@@ -438,3 +438,7 @@ move:
 	-mv Tam*.krn Tam/kern/
 	-mv Tri*.krn Tri/kern/
 
+
+lyriclist:
+	bin/lyriclist */kern/*.krn
+
