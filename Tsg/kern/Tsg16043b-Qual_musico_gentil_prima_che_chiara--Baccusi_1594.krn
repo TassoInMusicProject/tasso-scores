@@ -1,0 +1,285 @@
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a tre voci
+!!!PPP: Venice
+!!!PPR: Ricciardo Amadino
+!!!PDT: 1594
+!!!RISM: B 41
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg16043b
+!!!SCA: Tsg16043b
+!!!voices: 3
+!!!COM: Baccusi, Ippolito
+!!!OTL:	Qual Musico gentil, prima che chiara (Gerusalemme XVI/43)
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Canto	*
+*I'B	*	*I'T	*	*I'C	*
+*clefGv2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*
+*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=Prima stanza.
+2r	.	2r	.	2e	Qual
+2A	Qual	2c#X	Qual	2.e	Mu-
+2.A	Mu-	2.c#i	Mu-	.	.
+.	.	.	.	4f	-si-
+.	.	.	.	4e	-co
+4B-y	-si-	4d	-si-	4d	gen-
+=2	=2	=2	=2	=2	=2
+4A	-co	4cnXi	-co	2.e	-til,
+4G	gen-	4B-y	gen-	.	.
+2A	-til,	2c	-til,	.	.
+.	.	.	.	2f	pri-
+2B-y	pri-	2d	pri-	.	.
+.	.	.	.	2g	-ma
+4G	-ma	4e	-ma	.	.
+4F	che	4f	che	4a	che
+=3	=3	=3	=3	=3	=3
+2c	chia-	2e	chia-	2g	chia-
+2c	-ra	2e	-ra	4g	-ra
+.	.	.	.	2cc	Al-
+4r	.	4r	.	.	.
+2f	Al-	2a	Al-	4cc	-ta-
+.	.	.	.	2cc	-men-
+4f	-ta-	4a	-ta-	.	.
+=4	=4	=4	=4	=4	=4
+2f	-men-	2d	-men-	4b-y	-te
+.	.	.	.	4a	la
+4d	-te	4f	-te	2dd	vo-
+4e	la	4g	la	.	.
+2.f	vo-	2.a	vo-	2cc	-ce
+.	.	.	.	4r	.
+4e	-ce al	4g	-ce al	4cc	al
+=5	=5	=5	=5	=5	=5
+4d	can-	4f	can-	4b-y	can-
+4c	-to	4e	-to	4cc	-to
+4B-y	sno-	4d	sno-	4f	sno-
+8AL	.	4e	.	4g	.
+8GJ	.	.	.	.	.
+4F	.	4f	.	4a	.
+4G	.	8eL	.	4b-y	.
+.	.	8dJ	.	.	.
+4A	.	4c	.	4cc	.
+4B-y	.	4d	.	8b-yL	.
+.	.	.	.	8aJ	.
+=6	=6	=6	=6	=6	=6
+4c	.	4e	.	4g	.
+8B-yL	.	4f	.	4a	.
+8AJ	.	.	.	.	.
+4G	.	4g	.	4b-y	.
+4A	.	8fL	.	4cc	.
+.	.	8eJ	.	.	.
+4B-y	.	4d	.	4dd	.
+4c	.	4e	.	8ccL	.
+.	.	.	.	8b-yJ	.
+4d	.	4f	.	4a	.
+8cL	.	4g	.	4bnXi	.
+8B-yJ	.	.	.	.	.
+=7	=7	=7	=7	=7	=7
+1A	.	4a	.	4cc#X	.
+.	.	8gL	.	2dd	.
+.	.	8fJ	.	.	.
+.	.	2e	.	.	.
+.	.	.	.	4cc#X	.
+1D	-di,	1d	-di,	1dd	-di,
+=8	=8	=8	=8	=8	=8
+2r	.	2r	.	2r	.
+2d	A	2f	A	2a	A
+2d	l'ar-	2f	l'ar-	2a	l'ar-
+2d	-mo-	2f	-mo-	2a	-mo-
+=9	=9	=9	=9	=9	=9
+2G	-nia	2d	-nia	2b-y	-nia
+2.c	gli a-	2.e	gli a-	2.g	gli a-
+4c	-ni-	4e	-ni-	4g	-ni-
+2F	-mi al-	2f	-mi al-	2a	-mi al-
+=10	=10	=10	=10	=10	=10
+2B-y	-trui	4d	-trui	2dd	-trui
+.	.	4e	pre-	.	.
+2A	pre-	2.f	-pa-	2cc	pre-
+1G	-pa-	.	.	1b-y	-pa-
+.	.	8eL	.	.	.
+.	.	8dJ	.	.	.
+.	.	2e	.	.	.
+=11	=11	=11	=11	=11	=11
+2F	-ra	2.f	-ra	2a	-ra
+2B-y	Con	.	.	2dd	Con
+.	.	4g	Con	.	.
+2.f	dol-	8aL	dol-	8ccL	dol-
+.	.	8g	.	8b-y	.
+.	.	8a	.	8cc	.
+.	.	8b-yJ	.	8ddJ	.
+.	.	4a	.	4cc	.
+4d	-ci	4f	-ci	4dd	-ci
+=12	=12	=12	=12	=12	=12
+2.e	ri-	8gL	ri-	8b-yL	ri-
+.	.	8f	.	8a	.
+.	.	8g	.	8b-y	.
+.	.	8aJ	.	8ccJ	.
+.	.	4g	.	4b-y	.
+4c	-cer-	4e	-cer-	4cc	-cer-
+2.d	-ca-	8fL	-ca-	8aL	-ca-
+.	.	8e	.	8g	.
+.	.	8f	.	8a	.
+.	.	8gJ	.	8b-yJ	.
+.	.	4f	.	4a	.
+4B-y	-te in	4d	-te in	4b-y	-te in
+=13	=13	=13	=13	=13	=13
+4c	bas-	4e	bas-	4g	bas-
+4d	-si	4f	-si	4f	-si
+2c	mo-	4f	mo-	2g	mo-
+.	.	4e	.	.	.
+2F	-di,	2f	-di,	2a	-di,
+2F	Con	4r	.	2a	Con
+.	.	4f	Con	.	.
+=14	=14	=14	=14	=14	=14
+8cL	dol-	8eL	dol-	2.g	dol-
+8B-y	.	8d	.	.	.
+8c	.	8e	.	.	.
+8dJ	.	8fJ	.	.	.
+4c	.	4e	.	.	.
+4A	-ci	4c	-ci	4a	-ci
+8B-yL	ri-	8dL	ri-	2.f	ri-
+8A	.	8c	.	.	.
+8B-y	.	8d	.	.	.
+8cJ	.	8e-XJ	.	.	.
+4B-y	.	4d	.	.	.
+4G	-cer-	4B-y	-cer-	4g	-cer-
+=15	=15	=15	=15	=15	=15
+8AL	-ca-	8cL	-ca-	2.e	-ca-
+8G	.	8B-y	.	.	.
+8A	.	8c	.	.	.
+8B-yJ	.	8dJ	.	.	.
+4A	.	4c	.	.	.
+4F	-te in	4A	-te in	4f	-te in
+4G	bas-	4B-y	bas-	4d	bas-
+4A	-si	4c	-si	4c	-si
+2G	mo-	4c	mo-	2d	mo-
+.	.	4B-y	.	.	.
+=16	=16	=16	=16	=16	=16
+2C	-di:	4c	-di:	4.e	.
+.	.	4g	Co-	.	.
+.	.	.	.	8f	.
+4r	.	4e	-sì	2g	-di:
+4c	Co-	4e	co-	.	.
+4A	-sì	2c	-stei,	4r	.
+4A	co-	.	.	4cc	Co-
+2F	-stei,	4r	.	4a	-sì
+.	.	4cc	Co-	4a	co-
+=17	=17	=17	=17	=17	=17
+4r	.	4a	-sì	4f	-stei,
+4f	Co-	4a	co-	4cc	Co-
+4d	-sì	2f	-stei,	4b-y	-sì
+4d	co-	.	.	4a	co-
+4B-y	-stei,	4r	.	2dd	-stei,
+4d	che	4f	che	.	.
+4e	nel-	4g	nel-	4r	.
+4f	-la	4a	-la	4cc	che
+=18	=18	=18	=18	=18	=18
+2.d	do-	2.f	do-	4b-y	nel-
+.	.	.	.	4a	-la
+.	.	.	.	1dd	do-
+8cL	.	4g	.	.	.
+8B-yJ	.	.	.	.	.
+2f	.	2a	.	.	.
+2f	-glia a-	[2a	-glia a-	[2cc	-glia a-
+=19	=19	=19	=19	=19	=19
+1e-X	-ma-	2a]	.	2cc]	.
+.	.	1g	-ma-	1b-y	-ma-
+1d	-ra	.	.	.	.
+.	.	2f#X	-ra	2a	-ra
+=20	=20	=20	=20	=20	=20
+4r	.	4r	.	4r	.
+4G	Già	4d	Già	4g	Già
+4.c	tut-	4.e	tut-	4.g	tut-
+8A	-te	8c	-te	8cc	-te
+4B-y	non	4d	non	4b-y	non
+4c	o-	4e	o-	4g	o-
+2F	-blia	4fnXi	-blia	4a	-blia
+.	.	[4a	l'ar-	[4cc	l'ar-
+=21	=21	=21	=21	=21	=21
+2f	l'ar-	4a]	.	4cc]	.
+.	.	2d	-ti e	2a	-ti e
+2d	-ti e	.	.	.	.
+.	.	4a	le	4f	le
+2B-y	le	8gL	fro-	4.b-y	fro-
+.	.	8fJ	.	.	.
+.	.	2f	.	.	.
+.	.	.	.	8a	.
+2c	fro-	.	.	2g	.
+.	.	4e	.	.	.
+=22	=22	=22	=22	=22	=22
+2F	-di,	4f	-di,	4a	-di,
+.	.	2a	Fa	2cc	Fa
+4r	.	.	.	.	.
+4f	Fa	4a	di	4cc	di
+4f	di	4r	.	4r	.
+4e	so-	4g	so-	4cc	so-
+2f	-spir	2a	-spir	2cc	-spir
+=23	=23	=23	=23	=23	=23
+4F	bre-	4a	bre-	4cc	bre-
+8FL	-ve	8aL	-ve	8ccL	-ve
+8FJ	con-	8aJ	con-	8ccJ	con-
+4G	-cen-	4g	-cen-	4b-y	-cen-
+4A	-to in	4e	-to in	4a	-to in
+2B-y	pri-	2d	pri-	4a	pri-
+.	.	.	.	4g	.
+2A	-ma,	2e	-ma,	2a	-ma,
+=24	=24	=24	=24	=24	=24
+4r	.	4r	.	4r	.
+4A	Per	4c	Per	4e	Per
+4B-y	di-	4d	di-	4g	di-
+4c	-spor	4e	-spor	4g	-spor
+2F	l'al-	2f	l'al-	2a	l'al-
+2c	-ma in	2e	-ma in	4g	-ma in
+.	.	.	.	[4a	cui
+=25	=25	=25	=25	=25	=25
+2d	cui	2f	cui	4a]	.
+.	.	.	.	4f	le
+4B-y	le	4d	le	2g	vo-
+2c	vo-	2e	vo-	.	.
+.	.	.	.	4a	-ci im-
+4d	-ci im-	4f	-ci im-	2f	-pri-
+2c	-pri-	2g	-pri-	.	.
+.	.	.	.	4e	.
+=26	=26	=26	=26	=26	=26
+2F	-ma,	2a	-ma,	4f	-ma,
+.	.	.	.	4cc	in
+2G	in	4d	in	8b-yL	cui
+.	.	.	.	8a	.
+.	.	2e	cui	8g	.
+.	.	.	.	8fJ	.
+2A	cui	.	.	2e	.
+.	.	4c	le	.	.
+4F	le	2d	vo-	4f	le
+[4G	vo-	.	.	[4d	vo-
+=27	=27	=27	=27	=27	=27
+4G]	.	4BnXi	-ci im-	4d]	.
+4A	-ci im-	2c	-pri-	4c	-ci im-
+2G	-pri-	.	.	2d	-pri-
+.	.	4BnX	.	.	.
+2C	-ma,	2c	-ma,	2e	-ma,
+2F	le	2c	le	2a	le
+=28	=28	=28	=28	=28	=28
+2F	vo-	2f	vo-	2a	vo-
+2C	-ci im-	1e	-ci im-	2g	-ci im-
+1D	-pri-	.	.	1f	-pri-
+.	.	[2d	-pri-	.	.
+=29	=29	=29	=29	=29	=29
+0Al	-ma.	2d]	.	0el	-ma.
+.	.	4c#i	.	.	.
+.	.	4BnXi	.	.	.
+.	.	1c#Xl	-ma.	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/08
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2019/08/23
+!!!YEC: Copyright 2019 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/08/23 and edited by Craig Stuart Sapp

@@ -1,0 +1,209 @@
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a tre voci
+!!!PPP: Venice
+!!!PPR: Ricciardo Amadino
+!!!PDT: 1594
+!!!RISM: B 41
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg19106b
+!!!SCA: Tsg19106b
+!!!voices: 3
+!!!COM: Baccusi, Ippolito
+!!!OTL:	Misera, non credea ch'a gli occhi miei (Gerusalemme XIX/106)
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto secondo	*	*I"Canto	*
+*I'B	*	*I'C secondo	*	*I'C	*
+*clefGv2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Prima parte.]
+2.e	Mi-	2r	.	2r	.
+.	.	2.g#X	Mi-	2.b	Mi-
+4e	-se-	.	.	.	.
+1e	-ra,	.	.	.	.
+.	.	4g#X	-se-	4b	-se-
+.	.	2g#X	-ra,	2b	-ra,
+=2	=2	=2	=2	=2	=2
+2a	non	2a	non	2cc#X	non
+2g	cre-	2b	cre-	2dd	cre-
+2.c	-dea	2cc	-dea	2.ee	-dea
+.	.	2gnXi	ch'a	.	.
+4c	ch'a	.	.	4ee	ch'a
+=3	=3	=3	=3	=3	=3
+2c	gli oc-	2cc	gli	2ee	gli
+2G	-chi	1b	oc-	2dd	oc-
+1A	mie-	.	.	1ccnXi	-chi
+.	.	[2a	-chi	.	.
+=4	=4	=4	=4	=4	=4
+1e	-i	2a]	.	2b	miei
+.	.	2g#X	miei	4r	.
+.	.	.	.	4ee	Po-
+4r	.	4r	.	4ee	-tes-
+4a	Po-	4ee	Po-	4ee	-si in
+4a	-tes-	4ee	-tes-	4cc	al-
+4a	-si in	4ee	-si in	4cc	-cun
+=5	=5	=5	=5	=5	=5
+4f	al-	4dd	al-	1a	tem-
+4f	-cun	4cc	-cun	.	.
+1d	tem-	4.ff	tem-	.	.
+.	.	8ee	.	.	.
+.	.	2dd	.	2.b	-po es-
+[2e	-po es-	[2gnXi	-po es-	.	.
+.	.	.	.	4b	-ser
+=6	=6	=6	=6	=6	=6
+4e]	.	4g]	.	2cc	no-
+4e	-ser	4g	-ser	.	.
+2f	no-	2a	no-	2.a	-io-
+1e	-io-	1b	-io-	.	.
+.	.	.	.	8g#iL	.
+.	.	.	.	8f#iJ	.
+.	.	.	.	2g#i	.
+=7	=7	=7	=7	=7	=7
+2A	-so:	2cc#X	-so:	2a	-so:
+4r	.	4r	.	4r	.
+4e	Hor	4b	Hor	4g#X	Hor
+4a	cie-	4ccnXi	cie-	4a	cie-
+4g	-ca	2b	-ca	4b	-ca
+2a	far-	.	.	2cc	far-
+.	.	[4a	far-	.	.
+=8	=8	=8	=8	=8	=8
+2e	-mi	4a]	.	4b	-mi
+.	.	4g#X	-mi	2cc	vo-
+2.f	vo-	4a	vo-	.	.
+.	.	4b	-len-	4b	-len-
+.	.	2cc	-tier,	4a	-tier
+4e	-len-	.	.	4gnXi	tor-
+4d	-tier	4ff	vo-	8aL	-re-
+.	.	.	.	8b	.
+4c	tor-	4ee	-len-	8cc	.
+.	.	.	.	8aJ	.
+=9	=9	=9	=9	=9	=9
+1g	-re-	4dd	-tie	4b	.
+.	.	4cc	tor-	2cc	.
+.	.	2dd	-re-	.	.
+.	.	.	.	4b	.
+2c	-i	2ee	-i	4cc	-i
+.	.	.	.	4cc	Per
+4r	.	4r	.	4cc	non
+4c	Per	4ee	Per	4g	ve-
+=10	=10	=10	=10	=10	=10
+4c	non	4ee	non	4a	-der-
+4G	ve-	4dd	ve-	4b	-ti, e
+2A	-der-	4cc	-der-	2ee	ri-
+.	.	4cc	-ti e	.	.
+2B	-ti e	8bL	ri-	2dd	-guar-
+.	.	8a	.	.	.
+.	.	8g	.	.	.
+.	.	8fJ	.	.	.
+4c	ri-	4e	.	2cc	-dar
+4d	-guar-	4f	-guar-	.	.
+=11	=11	=11	=11	=11	=11
+4e	-dar	4g	-dar	4b	non
+4f	non	4a	non	2a	o-
+2e	o-	2b	o-	.	.
+.	.	.	.	4g#i	.
+2A	-so.	2cc#X	-so.	2a	-so.
+2a	Oi-	[2a	Oi-	2cc	Oi-
+=12	=12	=12	=12	=12	=12
+1e	-mè,	2a]	.	1b	-mè,
+.	.	2g#X	-mè,	.	.
+2r	.	2r	.	2r	.
+2c	Oi-	2ccnXi	Oi-	2ee	Oi-
+=13	=13	=13	=13	=13	=13
+4g	-mè!	4b	-mè!	4dd	-mè!
+4e	da	4cc	da	4ee	da
+4f	gli oc-	4a	gli oc-	4cc	gli oc-
+4d	-chi	4a	-chi	4dd	-chi
+4e	già	4gnXi	già	4b	già
+4c	siì	4e	sì	4cc	sì
+4d	dol-	4f	dol-	4a	dol-
+4A	-ci e	4a	-ci e	4cc	-ci e
+=14	=14	=14	=14	=14	=14
+2e	re-	2g#X	re-	2b	re-
+2e	-i	2g#X	-i	2b	-i
+2r	.	4a	O-	4cc	O-
+.	.	8aL	-v'è	8ccL	-v'è
+.	.	8bJ	la	8ddJ	la
+4A	O-	[2cc	fiam-	[2ee	fiam-
+8AL	-v'è	.	.	.	.
+8BJ	la	.	.	.	.
+=15	=15	=15	=15	=15	=15
+4c	fiam-	4cc]	.	4ee]	.
+4G	-ma? o-	4b	-ma? o-	4dd	-ma? o-
+4A	-v'è il	4a	-v'è il	4cc	-v'è il
+4B	bel	4gnXi	bel	4dd	bel
+4c	lu-	4g	lu-	4ee	lu-
+4e	-me a-	4g	-me a-	4gg	-me a-
+2d	-sco-	2a	-sco-	2ff#X	-sco-
+=16	=16	=16	=16	=16	=16
+4G	-so?	4b	-so?	4gg	-so?
+4g	De	4b	De	4dd	De
+4g	le	4b	le	4dd	le
+4g	fio-	4b	fio-	4dd	fio-
+4g	-ri-	4b	-ri-	4dd	-ri-
+4g	-te	4b	-te	4dd	-te
+[2g	guan-	[2b	guan-	[2dd	guan-
+=17	=17	=17	=17	=17	=17
+4g]	.	4b]	.	4dd]	.
+4g	-cie il	4e	-cie il	4b	-cie il
+4f	bel	4a	bel	4cc	bel
+4f	ver-	4a	ver-	4a	ver-
+2e	-mi-	2g#X	-mi-	2b	-mi-
+2e	-glio	2g#i	-glio	2b	-glio
+=18	=18	=18	=18	=18	=18
+4e	O-	1r	.	2r	.
+8eL	-ve è	.	.	.	.
+8dJ	fug-	.	.	.	.
+4.c	-gi-	.	.	4ee	O-
+.	.	.	.	8eeL	-ve è
+8B	-to? o-	.	.	8ddJ	fug-
+4A	-v'è il	4ee	O-	4.cc	-gi-
+4G#X	se-	8eeL	-ve è	.	.
+.	.	8ddJ	fug-	8b	-to? o-
+4A	-ren	4.cc	-gi-	4a	-v'è il
+4e	del	.	.	4g#X	se-
+.	.	8b	-to? o-	.	.
+=19	=19	=19	=19	=19	=19
+4f	ci-	4a	-v'è il	4a	-ren
+4e	-glio,	4g	se-	4b	del
+4r	.	4a	-ren	4cc	ci-
+4e	del	4b	del	4.b	.
+2A	ci-	2cc	ci-	.	.
+.	.	.	.	8a	.
+.	.	.	.	2a	.
+2e	-glio,	2b	-glio,	.	.
+.	.	.	.	4g#X	-glio,
+=20	=20	=20	=20	=20	=20
+4c	O-	4cc	O-	4ee	O-
+8cL	-ve è	8ccL	-ve è	8eeL	-ve è
+8GJ	fug-	8bJ	fug-	8ddJ	fug-
+4A	-gi-	4a	-gi-	4cc	-gi-
+4e	-to? o-	4g	-to? o-	4b	-to? o-
+8cL	-v'è il	4cc	-v'è il	4ee	-v'è il
+8d	.	.	.	.	.
+8e	.	4cc	se-	4ee	se-
+8fJ	.	.	.	.	.
+4g	.	8bL	-ren	8ddL	-ren
+.	.	8cc	.	8cc	.
+4G	se-	8dd	.	8b	.
+.	.	8bJ	.	8ddJ	.
+=21	=21	=21	=21	=21	=21
+4c	-ren	4ee	.	4cc	.
+4G	del	4dd	del	4b	del
+2A	ci-	2cc	ci-	2a	ci-
+1el	-glio?	1bl	-glio?	1g#Xl	-glio?
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/08
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2019/08/23
+!!!YEC: Copyright 2019 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/08/23 and edited by Craig Stuart Sapp
