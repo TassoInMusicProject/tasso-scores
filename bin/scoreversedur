@@ -1,0 +1,100 @@
+#!/usr/local/bin/perl
+
+use strict;
+
+my @versefiles = @ARGV;
+
+foreach my $file (@versefiles) {
+	processFile($file);
+
+}
+
+
+exit(0);
+
+
+###########################################################################
+
+sub processFile {
+	my ($file) = @_;
+	open (FILE, $file) or die "Cannot open $file\n";
+	my @contents = <FILE>;
+	close FILE;
+	my $catalog = "";
+	my $active = 0;
+	my $counter = 0;
+	for (my $i = 0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		chomp $line;
+		if ($line =~ /^\@CATALOGNUM\s*:\s*([^\s]*)\s*$/) {
+			$catalog = $1;
+			$counter = 0;
+			next;
+		}
+		if ($line =~ /^\@VERSE:\s*(.*)\s*/) {
+			$active = 1;
+			my $post = $1;
+			if ($post !~ /^\s*$/) {
+				$counter++;
+			}
+			next;
+		} elsif ($line =~ /^\@/) {
+			$active = 0;
+		} elsif ($active) {
+			$counter++;
+		}
+
+		if ($line =~ /^\@\@END\s*:\s*VERSES\s*$/) {
+			printAnalysis($catalog, $counter);
+			$counter = 0;
+			$catalog = "";
+		}
+	}
+}
+
+
+
+##############################
+##
+## printAnalysis --
+##
+
+sub printAnalysis {
+	my ($catalog, $counter) = @_;
+	$catalog =~ /(^[A-Z][a-z][a-z])/;
+	my $genre = $1;
+	if ($genre =~ /^\s*$/) {
+		return;
+	}
+	my @files = glob("$genre/kern/$catalog*.krn");
+	foreach my $file (@files) {
+		doAnalysis($file, $catalog, $counter);
+	}
+}
+
+
+
+##############################
+##
+## doAnalysis --
+##
+
+sub doAnalysis {
+	my ($file, $catalog, $counter) = @_;
+	$file =~ /^([A-Z][a-z][a-z][^-]*)-/;
+	my $newcat = $1;
+	$newcat =~ s/.*\///;
+	my $duration = `scordur $file`;
+	$duration = $duration / 4.0;
+	my @composer = `grep '^\!\!\!COM:' $file`;
+	my $com = $composer[0];
+	chomp $com;
+	$com =~ s/^\!\!\!COM:\s*//;
+	chomp $duration;
+	my $factor = $duration / $counter;
+	$factor = int($factor * 10 + 0.5) / 10.0;
+	print "$newcat\t$counter\t$duration\t$factor\t$com\n";
+}
+
+
+

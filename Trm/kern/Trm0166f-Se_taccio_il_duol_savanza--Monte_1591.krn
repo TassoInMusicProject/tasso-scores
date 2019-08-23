@@ -1,0 +1,246 @@
+!!!CDT:
+!!!PTL: Il sesto libro de madrigali a sei voci
+!!!PPP: Venice
+!!!PPR: Angelo Gardano
+!!!PDT: 1591
+!!!RISM: M 3384
+!!!rime: 166
+!!!AGN: Madrigal
+!!!SCT: Trm0166f
+!!!SCA: Trm0166f
+!!!voices: 6
+!!!COM: Monte, Filippo di
+!!!OTL: Se taccio, il duol s'avanza
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Quinto	*	*I"Tenore	*	*I"Alto	*
+*I'V	*	*I'T	*	*I'A	*
+*oclefC3	*	*oclefC3	*	*oclefC2	*
+*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1
+0r	.	0r	.	2g	Se
+.	.	.	.	2e	tac-
+.	.	.	.	4c	-cio, il
+.	.	.	.	2cc	duol
+.	.	.	.	4a	s'a-
+=2	=2	=2	=2	=2	=2
+1r	.	0r	.	1g	-van-
+2r	.	.	.	2c	-za;
+2g	Se	.	.	2r	.
+=3	=3	=3	=3	=3	=3
+2e	tac-	4r	.	0r	.
+.	.	4g	Se	.	.
+4c	-cio, il	4e	tac-	.	.
+2f	duol	4c	-cio, il	.	.
+.	.	4d	duol	.	.
+4e	s'a-	2c	s'a-	.	.
+2d	-van-	.	.	.	.
+.	.	4B	-van-	.	.
+=4	=4	=4	=4	=4	=4
+1g	-za;	1c	-za;	2r	.
+.	.	.	.	1cc	Don-
+1r	.	1g	Don-	.	.
+.	.	.	.	2b	-na
+=5	=5	=5	=5	=5	=5
+0r	.	2c	-na	0a	bel-
+.	.	1d	bel-	.	.
+.	.	2c#X	-la e	.	.
+=6	=6	=6	=6	=6	=6
+2r	.	2d	cru-	2b	-la e
+1g	che	2e	-del	2cc	cru-
+.	.	1r	.	2a	-del,
+2f#X	mi	.	.	[2b	che
+=7	=7	=7	=7	=7	=7
+2g	mar-	2r	.	2b]	.
+1a	-ti-	2c	che	1cc	mi
+.	.	2A	mi	.	.
+[2g	.	2d	mar-	2b	mar-
+=8	=8	=8	=8	=8	=8
+2g]	.	1d	-ti-	1a	-ti-
+2f#i	.	.	.	.	.
+2g	-ra.	4d	-ra.	2g	-ra.
+.	.	4e	Ma	.	.
+2r	.	4d	pur	2r	.
+.	.	[4c	pren-	.	.
+=9	=9	=9	=9	=9	=9
+4r	.	8cL]	.	0r	.
+.	.	8cJ	-do	.	.
+4e	Ma	4g	spe-	.	.
+4d	pur	2a	-ran-	.	.
+4.c	pren-	.	.	.	.
+.	.	4g	-za	.	.
+8c	-do	.	.	.	.
+4g	spe-	4e	Che	.	.
+2a	-ran-	4d	l'hu-	.	.
+.	.	4c	-mil-	.	.
+=10	=10	=10	=10	=10	=10
+4g	-za	4c	-tà	0r	.
+4e	Che	4g	vi	.	.
+4d	l'hu-	2a	pie-	.	.
+4c	-mil-	.	.	.	.
+4c	-tà	2g	-ghi,	.	.
+4g	vi	.	.	.	.
+2a	pie-	2r	.	.	.
+=11	=11	=11	=11	=11	=11
+2g	-ghi,	0r	.	2r	.
+4r	.	.	.	4r	.
+4g	Ché	.	.	4e	Ché
+4.g	nel	.	.	4.d	nel
+8g	si-	.	.	8e	si-
+4c	-len-	.	.	4f	-len-
+4g	-tio an-	.	.	4d	-tio an-
+=12	=12	=12	=12	=12	=12
+4g	-cor	1r	.	4.e	-cor
+4G	son	.	.	.	.
+.	.	.	.	8d	son
+4c	vo-	.	.	4f	vo-
+4B	-ti e	.	.	2e	-ti e
+2A	prie-	2r	.	.	.
+.	.	.	.	4d	prie-
+4B	-ghi.	4r	.	4e	-ghi.
+4c	E	[4c	E	4g	E
+=13	=13	=13	=13	=13	=13
+2A	pre-	4c]	.	2a	pre-
+.	.	2c	pre-	.	.
+2d	-go a-	.	.	2g	-go a-
+.	.	4B	-go a-	.	.
+4c	-mor	4c	-mor	4e	-mor
+4G	che	4c	che	4e	che
+2d	spie-	2A	spie-	2a	spie-
+=14	=14	=14	=14	=14	=14
+2d	-ghi,	4G	-ghi	2b	-ghi
+.	.	4d	Nel	.	.
+2r	.	2e	mio	4r	.
+.	.	.	.	4g	Nel
+1r	.	4d	do-	4.g	mio
+.	.	2g	-glio-	.	.
+.	.	.	.	8c	do-
+.	.	.	.	4cc	-glio-
+.	.	4f#X	-so a-	4a	-so a-
+=15	=15	=15	=15	=15	=15
+2r	.	2g	-spet-	2b-X	-spet-
+4r	.	4e	-to,	2a	-to,
+2d	<E	4f#X	E	.	.
+.	.	2g	pre-	1r	.
+2d	pre-	.	.	.	.
+.	.	2e	-go a-	.	.
+4c#X	-go a-	.	.	.	.
+=16	=16	=16	=16	=16	=16
+4d	-mor	4d	-mor	1r	.
+4d	che	4A	che	.	.
+2B	spie-	2e	spie-	.	.
+4A	-ghi>	2e	-ghi	2r	.
+4e	Nel	.	.	.	.
+2f#X	mio	2r	.	4r	.
+.	.	.	.	4a	Nel
+=17	=17	=17	=17	=17	=17
+4g	do-	0r	.	4d	mio
+2g	-glio-	.	.	4g	do-
+.	.	.	.	4cc	-glio-
+4f#X	-so a-	.	.	4a	-so a-
+2g	-spet-	.	.	2b-X	-spet-
+2e	-to	.	.	2a	-to
+=18	=18	=18	=18	=18	=18
+1r	.	4r	.	0r	.
+.	.	4d	Con	.	.
+.	.	2.a	let-	.	.
+2r	.	.	.	.	.
+.	.	4g	-tre	.	.
+4d	Con	4f	di	.	.
+[4a	let-	4f	pie-	.	.
+=19	=19	=19	=19	=19	=19
+4a]	.	2e	-tà,	2r	.
+4g	-tre	.	.	.	.
+4f	di	2r	.	2a	Con
+4f	pie-	.	.	.	.
+4e	-tà	4r	.	2.cc	let-
+4e	l'oc-	4A	<Con	.	.
+4A	-cul-	[2e	let-	.	.
+4B	-to af-	.	.	4b	-tre
+=20	=20	=20	=20	=20	=20
+4c	-fet-	4e]	.	4a	di
+4A	-to,	4d	-tre	4d	pie-
+4r	.	4c	di	2e	-tà
+4e	Con	4B	pie-	.	.
+2.a	let-	2d	-tà>	1r	.
+.	.	4r	.	.	.
+4g	-tre	4G	l'oc-	.	.
+=21	=21	=21	=21	=21	=21
+4f	di	2c	-cul-	4r	.
+4f	pie-	.	.	4c	l'oc-
+4c	-tà	2A	-to af-	2.f	-cul-
+4f	l'oc-	.	.	.	.
+4d	-cul-	1G	-fet-	.	.
+4g	-to af-	.	.	4e	-to af-
+2g	-fet-	.	.	2d	-fet-
+=22	=22	=22	=22	=22	=22
+4e	-to,	4G	-to,	2g	-to,
+4e	E	4c	E	.	.
+4d	pre-	4B	pre-	2r	.
+4c	-go a-	4A	-go a-	.	.
+4f	-mor	4.d	-mor	1r	.
+4f	che	.	.	.	.
+.	.	8c	che	.	.
+2e	spie-	2B	spie-	.	.
+=23	=23	=23	=23	=23	=23
+2e	-ghi	4A	-ghi	2r	.
+.	.	4e	Nel	.	.
+2r	.	2f#X	mio	4r	.
+.	.	.	.	4a	Nel
+1r	.	4g	do-	4d	mio
+.	.	2g	-glio-	4g	do-
+.	.	.	.	4cc	-glio-
+.	.	4f#X	-so a-	4a	-so a-
+=24	=24	=24	=24	=24	=24
+0r	.	2g	-spet-	2b-X	-spet-
+.	.	2e	-to	2a	-to
+.	.	4r	.	1r	.
+.	.	4d	Con	.	.
+.	.	[2a	let-	.	.
+=25	=25	=25	=25	=25	=25
+2r	.	4a]	.	1r	.
+.	.	4g	-tre	.	.
+4d	Con	4f	di	.	.
+2a	let-	4f	pie-	.	.
+.	.	2e	-tà,	2r	.
+4g	-tre	.	.	.	.
+4f	di	2r	.	2a	Con
+4f	pie-	.	.	.	.
+=26	=26	=26	=26	=26	=26
+4e	-tà	4r	.	2.cc	let-
+4e	l'oc-	4A	Con	.	.
+4A	-cul-	2.e	let-	.	.
+4B	-to af-	.	.	4b	-tre
+4c	-fet-	.	.	4a	di
+4A	-to,	4d	-tre	4d	pie-
+4r	.	4c	di	2e	-tà
+4e	<Con	4B	pie-	.	.
+=27	=27	=27	=27	=27	=27
+2.a	let-	2d	-tà	1r	.
+.	.	4r	.	.	.
+4g	-tre	4G	l'oc-	.	.
+4f	di	2c	-cul-	4r	.
+4f	pie-	.	.	4c	l'oc-
+4c	-tà	2A	-to af-	[2f	-cul-
+4f	l'oc-	.	.	.	.
+=28	=28	=28	=28	=28	=28
+4d	-cul-	1G	-fet-	4f]	.
+4g	-to af-	.	.	4e	-to af-
+2g	-fet-	.	.	2d	-fet-
+1el	-to.>	1Gl	-to.	1cl	-to.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/08/08
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2019/08/08
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/08/08 and edited by Craig Stuart Sapp

@@ -1,0 +1,64 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Fri Aug  9 11:32:09 EDT 2019
+# Last Modified: Fri Aug  9 11:32:11 EDT 2019
+# Filename:      https://github.com/TassoInMusicProject/tasso-scores/bin/lyriclist
+# Syntax:        perl 5
+#
+# Description:   Extract list of words in lyrics of TiMP scores.
+#                Output is used to do repertory-wide text searchs on 
+#                TiMP website (http://www.tassomusic.org)
+#
+
+use strict;
+
+chomp(my $lyrics = `which lyrics`);
+if (!$lyrics) {
+	die "Cannot find lyrics tool.  Install Humudmrum Extras\n"
+}
+
+my @files = @ARGV;
+
+foreach my $file (@files) {
+	processFile($file);
+}
+
+
+sub processFile {
+	my ($file) = @_;
+	my $catalog = $file;
+	$catalog =~ s/\.krn//;
+	$catalog =~ s/.*\///;
+	$catalog =~ s/-.*//;
+	my @lyrics = `$lyrics $file`;
+	my %words;
+	foreach my $line (@lyrics) {
+		chomp $line;
+		next if $line =~ /==/;
+		next if $line =~ /^\s*$/;
+		my @data = split(/\s+/, $line);
+		foreach my $datum (@data) {
+			next if $datum =~ /^\s*$/;
+			$datum =~ tr/A-Z/a-z/;
+			$datum =~ s/\&[gl]t;//g;
+			$datum =~ s/[\!?":;.,]$//;
+			$words{$datum}++;
+		}
+	}
+	my @keys = keys %words;
+	my @list;
+	foreach my $key (@keys) {
+		my $item = "$words{$key} $key";
+		$list[@list] = $item;
+	}
+	@list = sort { $b <=> $a } @list;
+	print "$catalog";
+	for (my $i=0; $i<@list; $i++) {
+		print "\t$list[$i]";
+	}
+	print "\n";
+}
+
+
+

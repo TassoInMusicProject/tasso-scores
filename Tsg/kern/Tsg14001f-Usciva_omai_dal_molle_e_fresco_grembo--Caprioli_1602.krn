@@ -1,0 +1,176 @@
+!!!CDT:
+!!!PTL: Canzonette a tre voci. Libro primo
+!!!PPP: Venice
+!!!PPR: Giacomo Vincenzi
+!!!PDT: 1602
+!!!RISM: C 943
+!!!AGN: Madrigal
+!!!SCT: Tsg14001f
+!!!SCA: Tsg14001f
+!!!voices: 3
+!!!COM: Caprioli, Giovanni Paolo
+!!!OTL:	Usciva omai del molle e fresco grembo (i.e., "Usciva omai dal molle e fresco grembo," Gerusalemme XIV/1)
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Canto	*
+*I'B	*	*I'T	*	*I'C	*
+*clefGv2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*
+*M2/2	*	*M2/2	*	*M2/2	*
+=1	=1	=1	=1	=1	=1
+4G	U-	4b-y	U-	2r	.
+8GL	-sci-	8b-yL	-sci-	.	.
+8AJ	-va o-	8ccJ	-va o-	.	.
+4B-y	-mai	4dd	-mai	4dd	U-
+4G	del	4b-y	del	8ddL	-sci-
+.	.	.	.	8eeJ	-va o-
+=2	=2	=2	=2	=2	=2
+2.F	mol-	2.a	mol-	4ff	-mai
+.	.	.	.	4dd	del
+.	.	.	.	[2cc	mol-
+4F	-le e	4a	-le e	.	.
+=3	=3	=3	=3	=3	=3
+4F	fre-	4a	fre-	4cc]	.
+4G	-sco	4g	-sco	4b-y	-le e
+2E-X	grem-	[2gg	grem-	4b-y	fre-
+.	.	.	.	4g	-sco
+=4	=4	=4	=4	=4	=4
+1D	-bo	2gg]	.	2b-y	grem-
+.	.	2ff#X	-bo	2a	-bo
+=5	=5	=5	=5	=5	=5
+4d	De	2r	.	4ff	De
+8dL	la	.	.	8ffL	la
+8dJ	gran	.	.	8ffJ	gran
+4d	ma-	4aa	De	4ff	ma-
+4d	-dre	8aaL	la	4ff	-dre
+.	.	8aaJ	gran	.	.
+=6	=6	=6	=6	=6	=6
+2.c	sua	4aa	ma-	1ee	su-
+.	.	4aa	-dre	.	.
+.	.	[2gg	su-	.	.
+4c	la	.	.	.	.
+=7	=7	=7	=7	=7	=7
+4.B-y	not-	2gg]	.	4dd	-a,
+.	.	.	.	8ddL	De
+8c	.	.	.	8ddJ	la
+4.d	.	2ff	-a,	4dd	gran
+.	.	.	.	4dd	ma-
+8e	.	.	.	.	.
+=8	=8	=8	=8	=8	=8
+2f	.	4a	De	2.cc	-dre
+.	.	8aL	la	.	.
+.	.	8aJ	gran	.	.
+2F	-t'o-	4a	ma-	.	.
+.	.	4a	-dre	4cc	su-
+=9	=9	=9	=9	=9	=9
+4.G	-scu-	4g	su-	4.b-y	-a
+.	.	4g	-a	.	.
+8A	.	.	.	8cc	la
+4.B-y	.	4f	la	4.dd	not-
+.	.	4b-y	not-	.	.
+8c	.	.	.	8ee	-t'o-
+=10	=10	=10	=10	=10	=10
+1d	.	4a	-t'o-	4ff	-scu-
+.	.	2g	-scu-	4gg	.
+.	.	.	.	2aa	.
+.	.	4f#X	.	.	.
+=11	=11	=11	=11	=11	=11
+1G	-ra;-	1g	-ra;-	1gg	-ra;-
+=12:|!	=12:|!	=12:|!	=12:|!	=12:|!	=12:|!
+1G	-ra;	1g	-ra;	2gg	-ra;
+.	.	.	.	4dd	Au-
+.	.	.	.	4dd	-re
+=13!|:	=13!|:	=13!|:	=13!|:	=13!|:	=13!|:
+4d	Au-	2r	.	4dd	lie-
+4d	-re	.	.	8ddL	-vi,
+.	.	.	.	8eeJ	por-
+4d	lie-	4a	Au-	4ff	-tan-
+8dL	-vi	4a	-re	4dd	-do e
+8eJ	por-	.	.	.	.
+=14	=14	=14	=14	=14	=14
+4f	-tan-	4a	lie-	4cc	lar-
+4d	-do, e	8aL	-vi	4dd	-go
+.	.	8b-yJ	por-	.	.
+4c	lar-	4cc	-tan-	4ee-X	nem-
+4d	-go	4a	-do, e	8ddL	.
+.	.	.	.	8ccJ	.
+=15	=15	=15	=15	=15	=15
+4e-X	nem-	4g	lar-	8b-yL	.
+.	.	.	.	8cc	.
+8dL	.	4a	-go	8dd	.
+8cJ	.	.	.	8eenXiJ	.
+8B-yL	.	4b-y	nem-	[2ff	.
+8c	.	.	.	.	.
+8d	.	8aL	.	.	.
+8enXiJ	.	8gJ	.	.	.
+=16	=16	=16	=16	=16	=16
+1f	.	4a	.	4ff]	.
+.	.	2b-y	.	8eeL	.
+.	.	.	.	8ddJ	.
+.	.	.	.	2cc	.
+.	.	4a	.	.	.
+=17	=17	=17	=17	=17	=17
+1B-y	-bo	1b-y	-bo	1dd	-bo
+=18	=18	=18	=18	=18	=18
+2.f	Di	2r	.	1r	.
+.	.	[2cc	Di	.	.
+8e-XL	sua	.	.	.	.
+8dJ	ru-	.	.	.	.
+=19	=19	=19	=19	=19	=19
+2e-i	-gia-	4cc]	.	1r	.
+.	.	8b-yL	sua	.	.
+.	.	8aJ	ru-	.	.
+4e-i	-da	2b-y	-gia-	.	.
+8B-yL	pre-	.	.	.	.
+8cJ	-ci-	.	.	.	.
+=20	=20	=20	=20	=20	=20
+2d	-o-	4b-y	-da	2.ff	Di
+.	.	8fL	pre-	.	.
+.	.	8gJ	-ci-	.	.
+2c	-sa e	2a	-o-	.	.
+.	.	.	.	8ee-XL	sua
+.	.	.	.	8ddJ	ru-
+=21	=21	=21	=21	=21	=21
+8cL	pu-	2g	-sa e	2ee-i	-gia-
+8B-y	.	.	.	.	.
+8c	.	.	.	.	.
+8dJ	.	.	.	.	.
+4.e-X	.	8gL	pu-	4ee-i	-da
+.	.	8f	.	.	.
+.	.	8g	.	8b-yL	pre-
+16dLL	.	8aJ	.	8ccJ	-ci-
+16cJJ	.	.	.	.	.
+=22	=22	=22	=22	=22	=22
+8B-yL	.	8b-yL	.	4dd	-o-
+8c	.	8a	.	.	.
+8d	.	8f	.	4dd	-sa e
+8B-yJ	.	8gJ	.	.	.
+8cL	.	8eL	.	[2cc	pu-
+8d	.	8f	.	.	.
+8e-X	.	8g	.	.	.
+8cJ	.	8eJ	.	.	.
+=23	=23	=23	=23	=23	=23
+!	!	!	!	!LO:TX:a:t=E scotendo del vel l'humido lembo	!
+1d	.	4f#X	.	4cc]	.
+.	.	2g	.	4b-y	.
+.	.	.	.	2a	.
+.	.	4f#X	.	.	.
+=24	=24	=24	=24	=24	=24
+1G	-ra.-	1g	-ra.-	2g	-ra.
+.	.	.	.	4dd	Au-
+.	.	.	.	4dd	-re-
+=25:|!	=25:|!	=25:|!	=25:|!	=25:|!	=25:|!
+1Gl	-ra.	1gl	-ra.	1gl	-ra.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)(s3)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/08/08
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2019/08/08
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/08/08 and edited by Craig Stuart Sapp

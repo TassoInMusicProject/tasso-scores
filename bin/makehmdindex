@@ -7,19 +7,16 @@ print <<"EOT";
 **file	**sort	**available	**pdf	**description
 EOT
 
-my @trmfiles = glob("Trm/kern/*.krn"); # rime
-my @tamfiles = glob("Tam/kern/*.krn"); # aminta
-@trmfiles = sort @trmfiles;
-@tamfiles = sort @tamfiles;
-
-my @files = @trmfiles;
-push(@files, @tamfiles);
+my @files = glob("*/kern/*.krn");
 
 foreach my $file (@files) {
 	next if $file !~ /(.*)\/([^\/]+)\.krn/;
 	my $directory = $1;
 	my $filebase = $2;
-	next if $filebase !~ /([A-Z][a-z][a-z]\d\d\d\d+[a-z][a-z]?)-/;
+	if ($filebase !~ /([A-Z][a-z][a-z]\d\d\d\d+[a-z][a-z]?)-/) {
+		print STDERR "Warning: filebase is poorly formatted: $filebase\n";
+		next;
+	}
 	my $catalog = $1;
 	my $title = `grep '^...OTL:' $file | head -n 1`;
 	chomp $title;
@@ -48,7 +45,6 @@ foreach my $file (@files) {
 		print ")";
 	}
 	print "</link>\n";
-
 }
 
 print <<"EOT";

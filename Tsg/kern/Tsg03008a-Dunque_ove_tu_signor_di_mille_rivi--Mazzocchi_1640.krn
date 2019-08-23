@@ -1,0 +1,249 @@
+!!!CDT:
+!!!PTL: Musiche sacre e morali a una, due e tre voci
+!!!PPP: Rome
+!!!PPR: Lodovico Grignani
+!!!PDT: 1640
+!!!RISM: M 1676
+!!!AGN: Madrigal
+!!!SCT: Tsg03008a
+!!!SCA: Tsg03008a
+!!!voices: 1+bc
+!!!COM: Mazzocchi, Domenico
+!!!OTL:	Dunque ove tu, Signor, di mille rivi (Gerusalemme III/8)
+**kern	**text	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"[Basso continuo]	*	*I"[Tenore]	*
+*I'Bc	*	*I'T	*
+*clefF4	*	*clefC4	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*M2/2	*	*M2/2	*
+=1	=1	=1	=1
+!	!	!LO:TX:t=OTTAVA. Compuntione nel veder Gierusalemme, o rammentarsi la morte di CHRISTO.	!
+[1D	.	1F	Dun-
+=2	=2	=2	=2
+1D_	.	2F	-que
+.	.	4r	.
+.	.	8FL	o-
+.	.	8FJ	-ve
+=3	=3	=3	=3
+2D]	.	2.G	tu,
+[2C#X	.	.	.
+.	.	4A	Si-
+=4	=4	=4	=4
+4C#]	.	2A	-gnor,
+4D	.	.	.
+2D	.	8r	.
+.	.	8A	di
+.	.	8AL	mil-
+.	.	8BJ	-le
+=5	=5	=5	=5
+1AA	.	8.cL	ri-
+.	.	16G#XJk	-vi
+.	.	8G#iL	San-
+.	.	8AJ	-gui-
+.	.	2A	-no-
+=6	=6	=6	=6
+1AA	.	4A	-si
+.	.	8EL	il
+.	.	8EJ	ter-
+.	.	4.E	-ren
+.	.	8E	la-
+=7	=7	=7	=7
+2D	.	4F	-scia-
+.	.	8FL	-sti
+.	.	8EJ	a-
+[2C	.	4G	-sper-
+.	.	4G	-so,
+=8	=8	=8	=8
+4C]	.	8r	.
+.	.	8c	D'a-
+4BB	.	8.cL	-ma-
+.	.	16cJk	-ro
+2AA	.	4c#X	pian-
+.	.	8c#iL	-to
+.	.	8BJ	al-
+=9	=9	=9	=9
+2FF#X	.	8.dL	-men
+.	.	16dJk	due
+.	.	8cnXiL	fon-
+.	.	8BJ	-ti
+2GG	.	4B	vi-
+.	.	4B	-vi
+=10	=10	=10	=10
+1GG	.	4r	.
+.	.	8BL	In
+.	.	8BJ	sì
+.	.	4A	a-
+.	.	4B	-cer-
+=11	=11	=11	=11
+2GG	5:6	8GL	-ba
+.	.	8GJ	me-
+.	.	4.e	-mo-
+[2F	7:6	.	.
+.	.	8eL	-ria hog-
+.	.	8d	-gi io
+.	.	8G#XJ	non
+=12	=12	=12	=12
+2F]	.	8.AL	ver-
+.	.	16BJk	.
+.	.	16cLL	.
+.	.	16B	.
+.	.	16B	.
+.	.	(>16AJJ	-so?
+2E	4:3	2B)	.
+=13	=13	=13	=13
+2AA	.	4r	.
+.	.	8c#XL	Ag-
+.	.	8c#iJ	-ghiac-
+[2BB-X	.	(>4c#i	-cia-
+.	.	[4d)	.
+=14	=14	=14	=14
+2BB-]	.	4d]	.
+.	.	8GL	-to
+.	.	8FJ	mio
+2AA	.	2A	cor,
+=15	=15	=15	=15
+1AA	.	8r	.
+.	.	8e	ché
+.	.	8c#XL	non
+.	.	8BJ	de-
+.	.	4A	-ri-
+.	.	8AL	-vi
+.	.	8GJ	Per
+=16	=16	=16	=16
+2AA	.	8F#XL	gli oc-
+.	.	8EJ	-chi,
+.	.	8r	.
+.	.	8E	e
+[2D	.	4F#i	stil-
+.	.	8F#iL	-li
+.	.	8AJ	in
+=17	=17	=17	=17
+1D]	6:4	(>4.G#X	la-
+.	.	8A)	.
+.	.	4.B	.
+.	.	8B	-gri-
+=18	=18	=18	=18
+1C	7:6	2B	-me
+.	.	16AKL	con-
+.	.	8.BJ	.
+.	.	16cKL	.
+.	.	8.AJ	.
+=19	=19	=19	=19
+2BB	7	16dKL	-ver-
+.	.	8.BJ	.
+.	.	16cKL	.
+.	.	8.dJ	.
+2GG#X	.	16eKL	.
+.	.	8.dJ	.
+.	.	16cKL	.
+.	.	8.BJ	.
+=20	=20	=20	=20
+2AA	.	16cKL	.
+.	.	8.BJ	.
+.	.	16AKL	.
+.	.	8.GJ	.
+2C	.	16AKL	.
+.	.	8.F#XJ	.
+.	.	16GKL	.
+.	.	8.EJ	.
+=21	=21	=21	=21
+2BB	.	4F#X	.
+.	.	4F#i	-so?
+2r	.	2r	.
+=22	=22	=22	=22
+1BB	#5	4d	Du-
+.	.	8dL	-ro
+.	.	8dJ	mio
+.	.	2d	cor,
+=23	=23	=23	=23
+1BB	.	8r	.
+.	.	8f#X	ché
+.	.	8dL	non
+.	.	8cJ	ti
+.	.	4B	spe-
+.	.	4F#X	-tri,
+=24	=24	=24	=24
+2GG#X	5	8r	.
+.	.	8e	ché
+.	.	8cL	non
+.	.	8BJ	ti
+[2AA	.	4c	spe-
+.	.	4A	-tri,
+=25	=25	=25	=25
+2AA]	.	8r	.
+.	.	8G	e
+.	.	4D#X	fran-
+2BB	.	4D#i	-gi?
+.	.	4r	.
+=26	=26	=26	=26
+2BB	.	4B	Pian-
+.	.	8BL	-ger
+.	.	8BJ	ben
+2C	.	4B	mer-
+.	.	8BL	-ti
+.	.	8AJ	o-
+=27	=27	=27	=27
+2.GG#X	.	2B	-gn'hor,
+.	.	4e	<Pian-
+4AA	.	8eL	-ger
+.	.	8eJ	ben
+=28	=28	=28	=28
+2FF	.	4e	mer-
+.	.	8eL	-ti
+.	.	8dJ	o-
+2EE	.	4e	-gn'hor,>
+.	.	[4B	s'ho-
+=29	=29	=29	=29
+2D	.	4B]	.
+.	.	8cL	-ra
+.	.	8dJ	non
+2E	.	4.c	pian-
+.	.	(>8B	-gi,
+=30	=30	=30	=30
+1AA	.	2A)	.
+.	.	2r	.
+=31	=31	=31	=31
+2AA	6	4A	Pian-
+.	.	8AL	-ger
+.	.	8AJ	ben
+2BB-X	.	4A	mer-
+.	.	8AL	-ti
+.	.	8GJ	o-
+=32	=32	=32	=32
+2AA	.	4A	-gn'hor,
+.	.	2F	s'ho-
+2GG	.	.	.
+.	.	8GL	-ra
+.	.	8B-XJ	non
+=33	=33	=33	=33
+2AA	.	2E	pian-
+2D	.	2D	-gi,
+=34	=34	=34	=34
+1AA	5:4	4r	.
+.	.	4.c	s'ho-
+.	.	8c	-ra
+.	.	4B-X	non
+=35	=35	=35	=35
+[1AA	4:3	(<4G	pian-
+.	.	4G#X)	.
+.	.	[2A)	.
+=36	=36	=36	=36
+1AA]	.	1A]	.
+=37	=37	=37	=37
+1Dl	.	1Al	-gi.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/08/08
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2019/08/08
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/08/08 and edited by Craig Stuart Sapp
