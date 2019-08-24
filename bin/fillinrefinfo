@@ -119,6 +119,22 @@ sub processFile {
 				$changedQ = 1;
 				next;
 			}
+		} elsif ($key eq "complete") {
+			# Generate complete voice indication
+			my $ovalue = getValue("original-voices", %params);
+			my $evalue = getValue("extant-voices", %params);
+			if ($ovalue =~ /^\s*$/) {
+				$line = "!!!complete: ?\n";
+			} elsif ($evalue =~ /^\s*$/) {
+				$line = "!!!complete: ?\n";
+			} elsif ($ovalue eq $evalue) {
+				$line = "!!!complete: Y\n";
+			} else {
+				$line = "!!!complete: N\n";
+			}
+			$contents[$i] = $line;
+			$changedQ = 1;
+			next;
 		}
 		my $newvalue = getValue($key, %params);
 		if ($newvalue eq $value) {
@@ -159,19 +175,21 @@ sub processFile {
 ##
 ## Index to Humdrum parameter mappings:
 ##
-## COMDATES      --> CDT          (composer birth/death dates)
-## COMPOSER      --> COM          (composer name)
-## PRINCEPSTITLE --> PTL          ([short] title of publication first printed in)
-## NORMLOC       --> PPP          (location of first publisher)
-## NORMPUB       --> PPR          (name of first publisher)
-## PRINCEPSYEAR  --> PDT          (year of first publication)
-## RIMETITLE     --> OTL          (title of rime (usually of setting))
-## PRINCEPSRISM  --> RISM         (RISM number of first publication)
-##               --> rime         (rime number of poem used in musical setting)
-##               --> AGN          (genre of music)
-## CATALOGNUM    --> SCT          (Tasso catalog number)
-## CATALOGNUM    --> SCA          (Tasso catalog number)
-## OVOICES       --> voices       (numer of original voices)
+## COMDATES      --> CDT             (composer birth/death dates)
+## COMPOSER      --> COM             (composer name)
+## PRINCEPSTITLE --> PTL             ([short] title of publication first printed in)
+## NORMLOC       --> PPP             (location of first publisher)
+## NORMPUB       --> PPR             (name of first publisher)
+## PRINCEPSYEAR  --> PDT             (year of first publication)
+## RIMETITLE     --> OTL             (title of rime (usually of setting))
+## PRINCEPSRISM  --> RISM            (RISM number of first publication)
+##               --> rime            (rime number of poem used in musical setting)
+##               --> AGN             (genre of music)
+## CATALOGNUM    --> SCT             (Tasso catalog number)
+## CATALOGNUM    --> SCA             (Tasso catalog number)
+## FINAL         --> final           (Root/note of final)
+## OVOICES       --> original-voices (Number of original voices)
+## EXTANTVOICES  --> extant-voices   (Number of existing voices)
 ##
 
 sub getValue {
@@ -186,12 +204,18 @@ sub getValue {
 	$ikey = "PRINCEPSTITLE" if $hkey eq "PTL";
 	$ikey = "NORMLOC"       if $hkey eq "PPP";
 	$ikey = "NORMPUB"       if $hkey eq "PPR";
+	$ikey = "FINAL"         if $hkey eq "final";
 	$ikey = "PRINCEPSYEAR"  if $hkey eq "PDT";
 	$ikey = "PRINCEPSRISM"  if $hkey eq "RISM";
 	$ikey = "CATALOGNUM"    if $hkey eq "SCT";
 	$ikey = "CATALOGNUM"    if $hkey eq "SCA";
-	$ikey = "OVOICES"       if $hkey eq "voices";
+	$ikey = "OVOICES"       if $hkey eq "original-voices";
+	$ikey = "EXTANTVOICES"  if $hkey eq "extant-voices";
 	$ikey = "TIMPEDITOR"    if $hkey eq "EED";
+
+	my $value = $params{$ikey};
+	$value =~ s/\s+//g if $ikey eq "OVOICES";
+	$value =~ s/\s+//g if $ikey eq "EXTANTVOICES";
 
 	return $params{$ikey};
 }

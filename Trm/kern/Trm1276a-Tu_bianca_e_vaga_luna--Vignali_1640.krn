@@ -8,7 +8,10 @@
 !!!AGN: Madrigal
 !!!SCT: Trm1276a
 !!!SCA: Trm1276a
-!!!voices: 4 + bc
+!!!original-voices: 4 + bc
+!!!extant-voices: 4 + bc
+!!!complete: Y
+!!!final: G
 !!!COM: Vignali, Francesco
 !!!OTL: Tu, bianca e vaga Luna
 **kern	**fb	**kern	**text	**kern	**text	**kern	**text	**kern	**text

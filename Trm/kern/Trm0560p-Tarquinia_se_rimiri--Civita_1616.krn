@@ -10,7 +10,10 @@
 !!!AGN: Madrigal
 !!!SCT: Trm0560p
 !!!SCA: Trm0560p
-!!!voices: 3+bc
+!!!original-voices: 3+bc
+!!!extant-voices: 2+bc
+!!!complete: N
+!!!final: F
 **kern	**kern	**text	**kern	**text
 *part3	*part2	*part2	*part1	*part1
 *staff3	*staff2	*staff2	*staff1	*staff1

@@ -7,7 +7,10 @@
 !!!AGN: Madrigal
 !!!SCT: Tsg16065b
 !!!SCA: Tsg16065b
-!!!voices: 5+bc
+!!!original-voices: 5+bc
+!!!extant-voices: 5+bc
+!!!complete: Y
+!!!final: (G)G
 !!!COM: Eredi, Francesco
 !!!OTL:	Misera Armida, all'hor dovevi
 **kern	**fb	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text

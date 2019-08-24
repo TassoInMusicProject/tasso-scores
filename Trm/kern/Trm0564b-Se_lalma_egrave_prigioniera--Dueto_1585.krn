@@ -9,7 +9,10 @@
 !!!AGN: Madrigal
 !!!SCT: Trm0564b
 !!!SCA: Trm0564b
-!!!voices: 5
+!!!original-voices: 5
+!!!extant-voices: 2
+!!!complete: N
+!!!final: G
 **kern	**text	**kern	**text
 *staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*

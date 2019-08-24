@@ -9,7 +9,10 @@
 !!!AGN: Madrigal
 !!!SCT: Trm0047c
 !!!SCA: Trm0047c
-!!!voices: 5
+!!!original-voices: 5
+!!!extant-voices: 1
+!!!complete: N
+!!!final: A?
 **kern	**text
 *staff1	*staff1
 *Ivox	*

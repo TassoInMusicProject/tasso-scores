@@ -10,7 +10,10 @@
 !!!AGN: Madrigal
 !!!SCT: Trm0418v
 !!!SCA: Trm0418v
-!!!voices: 3
+!!!original-voices: 3
+!!!extant-voices: 2
+!!!complete: N
+!!!final: A
 !!!ONB: Basso not extant
 **kern	**text	**kern	**text
 *part2	*part2	*part1	*part1

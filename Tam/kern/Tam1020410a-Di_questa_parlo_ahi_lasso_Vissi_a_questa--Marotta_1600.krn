@@ -12,7 +12,10 @@
 !!!AGN: 
 !!!SCT: Tam1020410a
 !!!SCA: Tam1020410a
-!!!voices: 5
+!!!original-voices: 5
+!!!extant-voices: 3
+!!!complete: N
+!!!final: (A)D
 **kern	**text	**kern	**text	**kern	**text
 *part3	*part3	*part2	*part2	*part1	*part1
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1

@@ -10,7 +10,10 @@
 !!!AGN: Madrigal
 !!!SCT: Trm0353a
 !!!SCA: Trm0353a
-!!!voices: 3
+!!!original-voices: 3
+!!!extant-voices: 2
+!!!complete: N
+!!!final: D
 **kern	**text	**kern	**text
 *part2	*part2	*part1	*part1
 *staff2	*staff2	*staff1	*staff1

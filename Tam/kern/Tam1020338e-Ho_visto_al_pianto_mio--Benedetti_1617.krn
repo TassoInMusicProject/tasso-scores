@@ -9,7 +9,10 @@
 !!!AGN: Madrigal
 !!!SCT: Tam1020338e
 !!!SCA: Tam1020338e
-!!!voices: 1+ bc
+!!!original-voices: 1+ bc
+!!!extant-voices: 1 + bc
+!!!complete: N
+!!!final: G
 **kern	**kern	**text
 *part2	*part1	*part1
 *staff2	*staff1	*staff1

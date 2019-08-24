@@ -10,7 +10,10 @@
 !!!AGN: Madrigal
 !!!SCT: Trm0335f
 !!!SCA: Trm0335f
-!!!voices: 2
+!!!original-voices: 2
+!!!extant-voices: 2
+!!!complete: Y
+!!!final: A
 **kern	**text	**kern	**text
 *part2	*part2	*part1	*part1
 *staff2	*staff2	*staff1	*staff1

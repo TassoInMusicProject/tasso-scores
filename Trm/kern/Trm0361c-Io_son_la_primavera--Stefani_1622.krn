@@ -10,7 +10,10 @@
 !!!AGN: Madrigal
 !!!SCT: Trm0361c
 !!!SCA: Trm0361c
-!!!voices: 1+bc+alfabeto
+!!!original-voices: 1+bc+alfabeto
+!!!extant-voices: 1+bc+alfabeto
+!!!complete: Y
+!!!final: F
 **kern	**kern	**text	**cdata
 *part2	*part1	*part1	*
 *staff2	*staff1	*staff1	*

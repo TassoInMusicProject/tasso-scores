@@ -7,7 +7,10 @@
 !!!AGN: Madrigal
 !!!SCT: Tsg16064a
 !!!SCA: Tsg16064a
-!!!voices: 5+bc
+!!!original-voices: 5+bc
+!!!extant-voices: 5+bc
+!!!complete: Y
+!!!final: (D)G
 !!!COM: Eredi, Francesco
 !!!OTL:	Che fa più meco il pianto? Altr'arme, altr'arte
 **kern	**fb	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text

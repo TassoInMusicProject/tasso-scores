@@ -10,7 +10,10 @@
 !!!AGN: Madrigal
 !!!SCT: Trm0354a
 !!!SCA: Trm0354a
-!!!voices: 3
+!!!original-voices: 3
+!!!extant-voices: 2
+!!!complete: N
+!!!final: G
 !!!OMD: Aria &agrave; 3. [Alto or Tenore missing]
 **kern	**text	**kern	**text
 *part2	*part2	*part1	*part1

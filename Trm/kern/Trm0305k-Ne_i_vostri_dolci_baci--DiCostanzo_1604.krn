@@ -11,7 +11,10 @@
 !!!AGN: Madrigal
 !!!SCT: Trm0305k
 !!!SCA: Trm0305k
-!!!voices: 4
+!!!original-voices: 4
+!!!extant-voices: 1
+!!!complete: N
+!!!final: G
 **kern	**text
 *I"Basso	*
 *I'B	*
