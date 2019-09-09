@@ -217,7 +217,12 @@ sub getValue {
 	$value =~ s/\s+//g if $ikey eq "OVOICES";
 	$value =~ s/\s+//g if $ikey eq "EXTANTVOICES";
 
-	return $params{$ikey};
+	if (($ikey eq "RIMETITLE") && ($params{$ikey} =~ /^\s*/)) {
+		$ikey = "TITLE";
+		$value = $params{$ikey};
+	}
+
+	return $value;
 }
 
 
