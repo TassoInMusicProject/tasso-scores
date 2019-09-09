@@ -23,6 +23,9 @@ my @keys = keys %sum;
 for my $key (@keys) {
 	my $newval = $sum{$key} / $count{$key};
 	$newval = int($newval * 10.0 + 0.5)/10.0;
+	if ($count{$key} < 2) {
+		next;
+	}
 	print "$newval\t$count{$key}\t$key\n";
 }
 
