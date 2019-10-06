@@ -1,17 +1,17 @@
 !!!CDT:
-!!!PTL: Scherzi et arie a une, due, tre, et quattro voci per cantare nel clavicembalo ò altro simile istromento
+!!!PTL: L'Armida del Tasso posta in musica a cinque voci, col suo basso per suonare
 !!!PPP: Venice
-!!!PPR: Giacomo Vincenzi
-!!!PDT: 1614
-!!!RISM: C 2216
+!!!PPR: Alessandro Vincenzi
+!!!PDT: 1629
+!!!RISM: E 741
 !!!AGN: Madrigal
-!!!SCT: Tsg20131a
-!!!SCA: Tsg20131a
-!!!original-voices: 2+bc
-!!!extant-voices: 2+bc
+!!!SCT: Tsg20131b
+!!!SCA: Tsg20131b
+!!!original-voices: 5+bc
+!!!extant-voices: 5+bc
 !!!complete: Y
-!!!final: (G)(G)G
-!!!COM: Cifra, Antonio
+!!!final: (D)G
+!!!COM: Eredi, Francesco
 !!!OTL: O sempre, e quando parti e quando torni
 **kern	**fb	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
@@ -404,7 +404,7 @@
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END: 2019/08/08
-!!!EED: Ricciardi, Emiliano
+!!!EED: Mazzetti, Marcello; Ticli, Livio
 !!!EEV: 2019/08/08
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2019/08/08 and edited by Craig Stuart Sapp
