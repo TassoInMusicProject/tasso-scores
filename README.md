@@ -7,8 +7,8 @@ which allows online searching and browsing, conversions into other
 data formats, such as MIDI and graphical notation, as well as
 interfaces to some online analysis tools.  These scores are a
 collection madrigals by various composers who set the poems of
-Torquato Tasso to music, mostly from the 1570's to the 1620's ([see
-this histogram of publication dates](https://plot.ly/~craigsapp/2/)).
+Torquato Tasso to music, mostly from the 1570's to the 1640's ([see
+these histograms of publication dates](https://www.tassomusic.org/analysis/publication-date)).
 
 The `Trm/kern` directory contains the primary format for the digital
 scores in the Humdrum data format.  The makefile can create or
