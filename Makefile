@@ -150,7 +150,7 @@ clean:
 
 ##############################
 #
-# make kern-notext -- Remove titles from filenames and store in a
+# make kern-notext -- Remove lyric text from filenames and store in a
 #     directory called kern-notext within each composer directory.
 #
 
@@ -401,6 +401,12 @@ census:
 ##
 
 process: refs abbr system original index
+
+
+##############################
+## 
+## refs -- Add reference record updates to files from online data.
+##
 
 ref: refs
 refs:

@@ -179,6 +179,7 @@ sub processFile {
 ## COMPOSER      --> COM             (composer name)
 ## PRINCEPSTITLE --> PTL             ([short] title of publication first printed in)
 ## NORMLOC       --> PPP             (location of first publisher)
+## PRINCEPSFORMAT --> PUB-format     (format of publication "anthology" or nothing)
 ## NORMPUB       --> PPR             (name of first publisher)
 ## PRINCEPSYEAR  --> PDT             (year of first publication)
 ## RIMETITLE     --> OTL             (title of rime (usually of setting))
@@ -202,6 +203,7 @@ sub getValue {
 	$ikey = "COMPOSER"      if $hkey eq "COM";
 	$ikey = "RIMETITLE"     if $hkey eq "OTL";
 	$ikey = "PRINCEPSTITLE" if $hkey eq "PTL";
+	$ikey = "PRINCEPSFORMAT" if $hkey eq "PUB-format";
 	$ikey = "NORMLOC"       if $hkey eq "PPP";
 	$ikey = "NORMPUB"       if $hkey eq "PPR";
 	$ikey = "FINAL"         if $hkey eq "final";
