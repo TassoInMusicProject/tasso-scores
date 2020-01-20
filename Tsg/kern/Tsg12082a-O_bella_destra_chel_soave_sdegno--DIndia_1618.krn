@@ -1,0 +1,160 @@
+!!!CDT:
+!!!PTL: Le Musiche del Sig.r Sigismondo d'India. Libro Terzo a una e due voci
+!!!PPP: Milan
+!!!PPR: Filippo Lomazzo
+!!!PDT: 1618
+!!!RISM: I 31
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg12082a
+!!!SCA: Tsg12082a
+!!!voices:
+!!!COM: D'India, Sigismondo
+!!!OTL: O bella destra che 'l soave pegno
+**kern	**kern	**text
+*part2	*part1	*part1
+*staff2	*staff1	*staff1
+*I"[Basso continuo]	*I"[Canto]	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M4/4	*M4/4	*
+=1	=	=
+2E	2.ee	O
+[2G#X	.	.
+.	8bL	bel-
+.	8bJ	-la
+=2	=2	=2
+1G#X]	2b	de-
+.	2b	-stra,
+=3	=3	=3
+1A	4r	.
+.	8ccL	che'l
+.	8ccJ	so-
+.	4.cc	-a-
+.	8g	-ve
+=4	=4	=4
+1AA	2a	pe-
+.	2a	-gno
+=5	=5	=5
+1AA	4cc	D'a-
+.	4cc	-mi-
+.	4cc	-ci-
+.	8ccL	-tia e
+.	8ccJ	di
+=6	=6	=6
+1AA	4cc	pa-
+.	4b	-ce a
+.	4.b	me
+.	8a	por-
+=7	=7	=7
+1E	2b	-ge-
+.	2b	-sti;
+=8	=8	=8
+1BB	4r	.
+.	8r	.
+.	8b	Qua-
+.	4b	-l'hor,
+.	[4dd	las-
+=9	=9	=9
+1E	4dd]	.
+.	8g#XL	-so,
+.	8g#XJ	vi
+.	4.g#X	tro-
+.	8ee	-vo? e
+=10	=10	=10
+[1E	4.ee	qual
+.	8b	ne
+.	2b	ve-
+=11	=11	=11
+1E]	1b	-gno?
+=12	=12	=12
+1F#X	4r	.
+.	4dd	E
+.	8ddL	voi,
+.	8dd	leg-
+.	8dd	-gia-
+.	8ddJ	-dre
+=13	=13	=13
+1G#X	4dd	mem-
+.	2ee	-bra, hor
+.	8cc#XL	non
+.	8bJ	son
+=14	=14	=14
+1A	4cc#X	que-
+.	4cc#i	-ste
+.	4r	.
+.	4dd	Del
+=15	=15	=15
+1AA	4dd	mio
+.	4dd	fe-
+.	[2dd	-ri-
+=16	=16	=16
+1AA	8ddL]	.
+.	8cc	-no e
+.	8cc	sce-
+.	8bJ	-le-
+.	8bL	-ra-
+.	8a	-to
+.	8a	sde-
+.	[8gJ	-gno
+=17	=17	=17
+[1AA	4g]	.
+.	4g	Ve-
+.	8gL	-sti-
+.	8g	-gi
+.	8g	mi-
+.	8gJ	-se-
+=18	=18	=18
+2AA]	4.g	-ra-
+.	8f#X	-bi-
+2BB	4.f#X	-li e
+.	8e	fu-
+=19	=19	=19
+1E	2g#X	-ne-
+.	2g#X	-sti?
+=20	=20	=20
+[1G	1r	.
+=21	=21	=21
+1G]	2.dd	O,
+.	4b	di
+=22	=22	=22
+[1G	4b	par
+.	8bL	con
+.	8bJ	la
+.	4b	man,
+.	[4ee	lu-
+=23	=23	=23
+2G]	4ee]	.
+.	8ddL	-ci
+.	8ccJ	spie-
+2G	2dd	-ta-
+=24	=24	=24
+2G	4dd	-te!
+.	2.ee	Es-
+[2D	.	.
+=25	=25	=25
+1D_	8aL	-sa
+.	8a	le
+.	8a	pia-
+.	8aJ	-ghe
+.	4a	fè,
+.	[4ff	voi
+=26	=26	=26
+2D]	4ff]	.
+.	8bL	le
+.	8bJ	mi-
+2E	2b	-ra-
+=27	=27	=27
+1AAl	1al	-te.
+==	==	==
+*-	*-	*-
+!!!system-decoration: [(s1,s2)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/01/19
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/01/19

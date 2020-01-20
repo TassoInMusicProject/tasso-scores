@@ -1,0 +1,180 @@
+!!!CDT:
+!!!PTL: Le Musiche del Cavalier Sigismondo D'India a una et due voci da cantarsi nel chitarrone, clavicembalo, arpa doppia et altri stromenti da corpo
+!!!PPP: Venice
+!!!PPR: Alessandro Vincenzi
+!!!PDT: 1621
+!!!RISM: I 33
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg12068b
+!!!SCA: Tsg12068b
+!!!voices:
+!!!COM: D'India, Sigismondo
+!!!OTL: Non morì già: ché sue virtuti accolse
+**kern	**fb	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Basso continuo	*	*I"Canto	*
+*clefF4	*	*clefG2	*
+*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*
+*M4/4	*	*M4/4	*
+=1	=	=	=
+!	!	!LO:TX:a:t=Terza parte.	!
+1C	.	4r	.
+.	.	4.ee-X	Non
+.	.	8bnX	mo-
+.	.	4cc	-rì
+=2	=2	=2	=2
+[1C	.	2cc	già:
+.	.	8r	.
+.	.	8cc	ché
+.	.	8b-iL	sue
+.	.	8b-yJ	vir-
+=3	=3	=3	=3
+2C]	.	4.b-y	-tu-
+.	.	8a	-di ac-
+2G	11	2g	-col-
+=4	=4	=4	=4
+1GG	1110	4g	-se
+.	.	2g	Tut-
+.	.	8eL	-te in
+.	.	8dJ	quel
+=5	=5	=5	=5
+[1D	.	2.f	pun-
+.	.	4g	-to, e in
+=6	=6	=6	=6
+2D]	.	4g	guar-
+.	.	4f	-dia al
+2GG	.	2b-y	cor
+=7	=7	=7	=7
+1AA	#:11:#	4r	.
+.	.	4e	le
+.	.	2e	mi-
+=8	=8	=8	=8
+2D	.	2d	-se;
+2AA	b	4r	.
+.	.	8ccL	E,
+.	.	8ccJ	pre-
+=9	=9	=9	=9
+1D	#:11	2.cc	-men-
+.	.	8b-yL	-do il
+.	.	8aJ	suo af-
+=10	=10	=10	=10
+2D	.	8fL	-fan-
+.	.	8g	-no, a
+.	.	8g	dar
+.	.	8fJ	si
+2F	.	8aL	vol-
+.	.	8aJ	-se
+.	.	[4dd	Vi-
+=11	=11	=11	=11
+2E-X	7:6	4dd]	.
+.	.	8f#XL	-ta
+.	.	8eJ	con
+2D	#	[2f#X	l'ac-
+=12	=12	=12	=12
+1C	.	8f#L]	.
+.	.	8e	-qua a
+.	.	8e	chi
+.	.	8eJ	col
+.	.	2a	fer-
+=13	=13	=13	=13
+1D	#:11:#	4f#X	-ro uc-
+.	.	2g	-ci-
+.	.	(<4f#X	-se.
+=14	=14	=14	=14
+1GG	.	1g)	.
+=15	=15	=15	=15
+1GG	.	2.g	Men-
+.	.	8gL	-tr'e-
+.	.	8gJ	-gli il
+=16	=16	=16	=16
+1GG	.	2g	suon
+.	.	8r	.
+.	.	8g	de'
+.	.	8gL	sa-
+.	.	8gJ	-cri
+=17	=17	=17	=17
+4GG	.	4.g	det-
+4D	.	.	.
+.	.	8d	-ti
+2D	.	8dL	sciol-
+.	.	8e	.
+.	.	8f	.
+.	.	8gJ	.
+=18	=18	=18	=18
+1D	.	8aL	.
+.	.	8b-yJ	.
+.	.	2cc	.
+.	.	(>4bnX	-se,
+=19	=19	=19	=19
+4C	.	4cc)	.
+4F	.	8r	.
+.	.	8f	Co-
+4E	.	8gL	-lei
+.	.	8a	di
+4D	.	8b-i	gio-
+.	.	8gJ	-ia
+=20	=20	=20	=20
+4D	.	8aL	tra-
+.	.	8b-yJ	-smu-
+4C	.	2cc	-tos-
+[2D	#:11	.	.
+.	.	4b-y	-si, e
+=21	=21	=21	=21
+2D]	11:#	2a	ri-
+2GG	.	2g	-se;
+=22	=22	=22	=22
+1GG	.	4r	.
+.	.	4b-y	E in
+.	.	[2b-y	at-
+=23	=23	=23	=23
+[1AA	11:#	4b-]	.
+.	.	4e	-to
+.	.	4e	di
+.	.	4e	mo-
+=24	=24	=24	=24
+2AA]	.	8eL	-rir
+.	.	8g	lie-
+.	.	8f#X	-to e
+.	.	8eJ	vi-
+[2D	.	2f#X	-va-
+=25	=25	=25	=25
+2D]	.	4f#i	-ce
+.	.	8eL	Dir
+.	.	8f#iJ	pa-
+2E	.	4g	-rea:
+.	.	[4cc	s'a-
+=26	=26	=26	=26
+2F#X	.	4cc]	.
+.	.	4a	-pre il
+2G	.	4bnX	Ciel,
+.	.	8r	.
+.	.	8dd	io
+=27	=27	=27	=27
+4G	.	[1dd	va-
+8FnXiL	.	.	.
+8EJ	.	.	.
+4D	.	.	.
+4E	.	.	.
+=28	=28	=28	=28
+4F#X	.	4.dd]	.
+4BBnX	.	.	.
+.	.	8g	-do in
+2D	11:#	2g	pa-
+=29	=29	=29	=29
+1GGl	.	1gl	-ce.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/01/19
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/01/19

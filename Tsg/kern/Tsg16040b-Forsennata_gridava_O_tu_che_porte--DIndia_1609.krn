@@ -1,0 +1,97 @@
+!!!CDT:
+!!!PTL: Musiche di Sigismondo d' India 
+!!!PPP: Milan
+!!!PPR: Simon Tini & Filippo Lomazzo
+!!!PDT: 1609
+!!!RISM: I 24
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg16040b
+!!!SCA: Tsg16040b
+!!!voices:
+!!!COM: D'India, Sigismondo
+!!!OTL: Forsennata gridava: "O tu che porte
+**kern	**fb	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Basso continuo	*	*I"Canto	*
+*clefF4	*	*clefG2	*
+*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*
+*M4/4	*	*M4/4	*
+=1	=	=	=
+!	!	!LO:TX:a:t=Aria da cantar ottave.	!
+[1G	.	4g	For-
+.	.	4g	-sen-
+.	.	4g	-na-
+.	.	8gL	-ta
+.	.	8gJ	gri-
+=2	=2	=2	=2
+2G]	.	4.g	-da-
+.	.	16aLL	.
+.	.	16b-yJJ	.
+[2GG	.	2g	-va:
+=3	=3	=3	=3
+4GG]	.	8r	.
+.	.	8dd	"O
+4F#X	.	8.ddL	tu,
+.	.	16aJk	che
+2G	.	8bnXL	por-
+.	.	8bnXJ	-te
+.	.	8.bnXL	Par-
+.	.	16ccJk	-te
+=4	=4	=4	=4
+2E	.	4cc	te-
+.	.	8bnXL	-co,
+.	.	8bniJ	di
+2D	#	4dd	me
+.	.	[4ee	par-
+=5	=5	=5	=5
+2C	.	4ee]	.
+.	.	8aL	-te
+.	.	8aJ	ne
+2D	4:3	2a	las-
+=6	=6	=6	=6
+1GG	.	1g	-si;
+=7	=7	=7	=7
+2C	.	8r	.
+.	.	8ee-X	O
+.	.	8ee-iL	pren-
+.	.	8ee-iJ	-di
+2GG	11:10	8.ee-iL	l'u-
+.	.	16ddJk	-no, o
+.	.	8ddL	ren-
+.	.	8ccJ	-di
+=8	=8	=8	=8
+1GG	.	8.ccL	l'al-
+.	.	16b-yJk	-tro, o
+.	.	8b-yL	mor-
+.	.	8aJ	-te
+.	.	8aL	Da' in-
+.	.	8gJ	-sie-
+.	.	8.gL	-m'ad am-
+.	.	16fJk	-bi: Ar-
+=9	=9	=9	=9
+1AA	#:11:#	8.fL	-re-
+.	.	16eJk	-st'ar-
+.	.	8eL	-re-
+.	.	8eJ	-st'i
+.	.	2e	pas-
+=10	=10	=10	=10
+1DDl	.	1dl	-si."
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/01/19
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/01/19
+!!!ONB: LYRICS FOR ANOTHER VERSE: Sol che ti sian le voci ultime porte,Non dico i baci altra più degna havrassi,Quelli da te che temi empio se resti,Potrai negar, poiche fuggir potesti.
+
+
+
+
