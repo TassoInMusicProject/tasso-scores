@@ -13,9 +13,12 @@
 !!!OTL: Se taccio, il duol s'avanza 
 **kern	**text
 *I"Canto	*
+*I'C	*
+*oclefC1	*
 *clefG2	*
 *k[]	*
 *C:	*
+*omet(C|)	*
 *M2/1	*
 =1	=
 4r	.
