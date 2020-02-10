@@ -23,8 +23,10 @@
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Quinto	*	*I"Canto	*
 *I'B	*	*I'T	*	*I'A	*	*I'Q	*	*I'C	*
+*oclefC4	*	*oclefC3	*	*oclefC2	*	*oclefG2	*	*oclefG2	*
 *clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 [1C	O	2r	.	2.g	O	2r	.	2.ee	O

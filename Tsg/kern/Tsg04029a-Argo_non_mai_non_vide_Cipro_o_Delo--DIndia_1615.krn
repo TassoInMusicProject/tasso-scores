@@ -16,9 +16,11 @@
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso continuo	*	*I"Canto II	*	*I"Canto I	*
 *I'Bc	*	*I'C II	*	*I'C I	*
+*oclefF4	*	*oclefC1	*	*oclefC1	*
 *clefF4	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/4	*	*M4/4	*	*M4/4	*
 =1	=1	=1	=1	=1	=1
 !!LO:TX:a:t=Ottave Passeggiate. [Prima parte]

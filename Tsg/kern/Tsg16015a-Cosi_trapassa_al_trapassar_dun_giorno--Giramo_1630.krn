@@ -16,9 +16,11 @@
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"[Basso]	*	*I"[Tenore]	*	*I"[Canto II]	*	*I"[Canto I]	*
 *I'B	*	*I'T	*	*I'C II	*	*I'C I	*
+*oclefF4	*	*oclefC4	*	*oclefC1	*	*oclefC1	*
 *clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*F:	*	*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
 =1	=1	=1	=1	=1	=1	=1	=1
 !!LO:TX:a:t=Partita Quinta sopra la Romana.

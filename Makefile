@@ -432,6 +432,7 @@ system:
 original:
 	bin/addoriginal -w Trm/kern/*.krn
 	bin/addoriginal -w Tam/kern/*.krn
+	bin/addoriginal -w Tbv/kern/*.krn
 	bin/addoriginal -w Tsg/kern/*.krn
 	bin/addoriginal -w Tri/kern/*.krn
 	bin/addoriginal -w Trt/kern/*.krn

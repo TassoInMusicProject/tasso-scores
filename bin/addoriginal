@@ -17,13 +17,19 @@ GetOptions (
 
 my @files = @ARGV;
 
-my $rimeaton = "../tasso-website/data/indexes/rime-settings.aton";
+my $rimeaton        = "../tasso-website/data/indexes/rime-settings.aton";
+my $gerusalemmeaton = "../tasso-website/data/indexes/gerusalemme-settings.aton";
+my $amintaaton      = "../tasso-website/data/indexes/aminta-settings.aton";
+my $otheraton       = "../tasso-website/data/indexes/other-settings.aton";
 
 my %MENS;
 my %OCLEFS;
 my %EVOICES;
 
 fillInLookupData($rimeaton);
+fillInLookupData($gerusalemmeaton);
+fillInLookupData($amintaaton);
+fillInLookupData($otheraton);
 
 foreach my $file (@files) {
 	processFile($file);

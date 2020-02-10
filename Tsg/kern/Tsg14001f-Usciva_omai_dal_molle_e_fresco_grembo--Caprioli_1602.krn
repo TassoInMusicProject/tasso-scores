@@ -19,9 +19,11 @@
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Tenore	*	*I"Canto	*
 *I'B	*	*I'T	*	*I'C	*
+*oclefC3	*	*oclefG2	*	*oclefG2	*
 *clefGv2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M2/2	*	*M2/2	*	*M2/2	*
 =1	=1	=1	=1	=1	=1
 4G	U-	4b-y	U-	2r	.

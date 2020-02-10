@@ -19,8 +19,10 @@
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Canto secondo	*	*I"Canto	*
 *I'B	*	*I'C secondo	*	*I'C	*
+*oclefC3	*	*oclefG2	*	*oclefG2	*
 *clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1
 !!LO:TX:a:t=[Prima parte.]
