@@ -1,0 +1,189 @@
+!!!CDT:
+!!!PTL: Musiche: Libro secondo a voce sola e basso continuo 
+!!!PPP: Venice
+!!!PPR: Ricciardo Amadino
+!!!PDT: 1613
+!!!RISM: B 1916
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg12096f
+!!!SCA: Tsg12096f
+!!!voices:
+!!!COM: Benedetti, Piero
+!!!OTL: Giunto a la tomba ove al suo spirto vivo
+**kern	**fb	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"[Basso continuo]	*	*I"[Canto]	*
+*I'Bc	*	*I'C	*
+*oclefF4	*	*oclefC1	*
+*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*omet(C)	*	*omet(C)	*
+*M4/4	*	*M4/4	*
+=1	=1	=1	=1
+!!LO:TX:a:t=Aria per Ottave.
+1GG	.	8r	.
+.	.	8dd	Giun-
+.	.	8gL	-t'al-
+.	.	8aJ	-la
+.	.	2b	tom-
+=2	=2	=2	=2
+2G	.	2b	-ba
+2GG	.	8r	.
+.	.	8b	ov'al
+.	.	8bL	suo
+.	.	8bJ	spir-
+=3	=3	=3	=3
+2G	.	4dd	-to
+.	.	16gLL	.
+.	.	16a	.
+.	.	16b	.
+.	.	16aJJ	.
+2E	.	16bKL	.
+.	.	8.aJ	.
+.	.	16bKL	.
+.	.	8.gJ	.
+=4	=4	=4	=4
+1D	#	2a	vi-
+.	.	2a	-vo
+=5	=5	=5	=5
+1D	.	4r	.
+.	.	8aL	Do-
+.	.	8f#XJ	-lo-
+.	.	4f#X	-ro-
+.	.	8f#XL	-sa
+.	.	8eJ	pri-
+=6	=6	=6	=6
+2D	.	4.f#X	-gion
+.	.	8a	il
+2AA	.	4.cc	Ciel
+.	.	8ee	pre-
+=7	=7	=7	=7
+1E	#	2b	-scris-
+.	.	2b	-se,
+=8	=8	=8	=8
+1C	.	4ee	Pal-
+.	.	8ccL	-li-
+.	.	8ccJ	-do,
+.	.	4.cc	fred-
+.	.	8b	-do,
+=9	=9	=9	=9
+1C	.	2cc	mu-
+.	.	2cc	-to,
+=10	=10	=10	=10
+2C	.	4cc	e
+.	.	8.ccL	qua-
+.	.	16bJk	-si
+2GG	.	2dd	pri-
+=11	=11	=11	=11
+2G	.	2dd	-vo
+2GG	.	8r	.
+.	.	8b	Di
+.	.	8aL	mo-
+.	.	8gJ	-vi-
+=12	=12	=12	=12
+1D	#	2a	-men-
+.	.	4a	-to,
+.	.	8r	.
+.	.	8b	al
+=13	=13	=13	=13
+2BB	.	4.b	mar-
+.	.	8a	-mo
+2C#X	.	4a	gl'oc-
+.	.	8aL	-chi af-
+.	.	16bL	.
+.	.	16ccJJ	.
+=14	=14	=14	=14
+(2D	4	1a	-fis-
+2D)	#	.	.
+=15	=15	=15	=15
+1GG	.	1g	-se.
+=16	=16	=16	=16
+2G	.	8r	.
+.	.	8dd	Al
+.	.	8gL	fin
+.	.	8aJ	sgor-
+2GG	.	2b	-gan-
+=17	=17	=17	=17
+2G	.	2b	-do
+2E	.	8r	.
+.	.	8b	un
+.	.	8bL	la-
+.	.	8bJ	-gri-
+=18	=18	=18	=18
+1D	#	4dd	-mo-
+.	.	16gLL	-so
+.	.	16a	.
+.	.	16b	.
+.	.	16aJJ	.
+.	.	16bKL	.
+.	.	8.aJ	.
+.	.	16bKL	.
+.	.	8.gJ	.
+=19	=19	=19	=19
+1D	.	2a	ri-
+.	.	2a	-vo,
+=20	=20	=20	=20
+2D	.	4r	.
+.	.	8aL	In
+.	.	8f#XJ	un
+2AA	.	4f#X	lan-
+.	.	8f#XL	-gui-
+.	.	8aJ	-do hoi-
+=21	=21	=21	=21
+1E	#	4.f#X	-mè
+.	.	8a	pro-
+.	.	4.cc	-rup-
+.	.	8ee	-pe e
+=22	=22	=22	=22
+1C	.	2b	dis-
+.	.	2b	-se:
+=23	=23	=23	=23
+1C	.	8r	.
+.	.	8ee	"O
+.	.	8.ccL	sas-
+.	.	16bJk	-'sa-
+.	.	2cc	-ma-
+=24	=24	=24	=24
+2G	.	4cc	-to
+.	.	8r	.
+.	.	8cc	ed
+2GG	.	8ccL	ho-
+.	.	8ccJ	-no-
+.	.	8.ccL	-ra-
+.	.	16bJk	-to
+=25	=25	=25	=25
+2G	.	2dd	tan-
+2D	.	4.dd	-to
+.	.	8b	Che
+=26	=26	=26	=26
+4D	.	8bL	.
+.	.	8b	den-
+4BB	.	8a	-tr'hai
+.	.	8gJ	le
+2C#X	.	2a	fiam-
+=27	=27	=27	=27
+(2D	4	4a	-me
+.	.	8r	.
+.	.	8b	e
+2D)	3	4b	fo-
+.	.	8aL	-ra il
+.	.	16bL	.
+.	.	16ccJJ	.
+=28	=28	=28	=28
+1GGl	.	1a	pian-
+=29	=29	=29	=29
+1r	.	1gl	-to."
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/02/23
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/02/23

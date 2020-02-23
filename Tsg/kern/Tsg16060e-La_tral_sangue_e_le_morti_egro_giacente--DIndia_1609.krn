@@ -1,0 +1,180 @@
+!!!CDT:
+!!!PTL: Musiche di Sigismondo d' India 
+!!!PPP: Milan
+!!!PPR: Simon Tini & Filippo Lomazzo
+!!!PDT: 1609
+!!!RISM: I 24
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg16060e
+!!!SCA: Tsg16060e
+!!!voices:
+!!!COM: D'India, Sigismondo
+!!!OTL: Là tra 'l sangue e le morti egro giacente
+**kern	**fb	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"[Basso continuo]	*	*I"[Canto]	*
+*I'Bc	*	*I'C	*
+*oclefF4	*	*oclefC1	*
+*clefF4	*	*clefG2	*
+*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*
+*M4/4	*	*M4/4	*
+=1	=1	=1	=1
+!	!	!LO:TX:a:t=Ottava in stile recitativo.	!
+1GG	#	2.dd	Là
+.	.	4bnX	tra'l
+=2	=2	=2	=2
+2GG	#	2bnX	san-
+2GG	-	4b-X	-gue e
+.	.	4b-X	le
+=3	=3	=3	=3
+1GG	#:11	4b-X	mor-
+.	.	2a	-ti e-
+.	.	8gL	-gro
+.	.	8gJ	gia-
+=4	=4	=4	=4
+1GG	11:#	2g	-cen-
+.	.	2g	-te
+=5	=5	=5	=5
+1GG	11:#	8r	.
+.	.	8dd	Mi
+.	.	8ddL	pa-
+.	.	8ddJ	-ghe-
+.	.	4dd	-rai
+.	.	4cc	le
+=6	=6	=6	=6
+4C	.	4ee	pe-
+2AA	6#	2ff#X	-ne, em-
+4AA	.	8ddL	-pio
+.	.	8ccJ	guer-
+=7	=7	=7	=7
+1GG	#:11:#	4bnX	-rie-
+.	.	2cc	.
+.	.	4bnX	.
+=8	=8	=8	=8
+2C	.	4cc	-ro.
+.	.	8r	.
+.	.	8cc	Per
+[2FF	.	8ccL	no-
+.	.	8ccJ	-m'Ar-
+.	.	[4ff	-mi-
+=9	=9	=9	=9
+2FF]	.	4ff]	.
+.	.	4dd	-da
+2FF	.	4r	.
+.	.	8ccL	chia-
+.	.	8ddJ	-me-
+=10	=10	=10	=10
+2C	.	4.ee-X	-rai
+.	.	8dd	so-
+2GG	11:#	[2dd	-ven-
+=11	=11	=11	=11
+1GG	.	4dd]	.
+.	.	8ccL	-te
+.	.	8bnXJ	ne
+.	.	[2bnX	gl'ul-
+=12	=12	=12	=12
+1GG	.	8bL]	.
+.	.	8f#X	-ti-
+.	.	8f#X	-mi
+.	.	8f#XJ	sin-
+.	.	[2f#X	-gul-
+=13	=13	=13	=13
+1AA	#:11:#	4f#]	.
+.	.	4e	-ti; u-
+.	.	4.e	-dir
+.	.	8d	ciò
+=14	=14	=14	=14
+1D	.	2d	spe-
+.	.	2d	-ro.
+=15	=15	=15	=15
+2G	.	2r	.
+2C	.	[2cc	Hor
+=16	=16	=16	=16
+1GG	#	4cc]	.
+.	.	8bnXL	qui
+.	.	8bnXJ	man-
+.	.	(2bnX	-cò
+=17	=17	=17	=17
+2.GG	-	2.b-X)	.
+4GG	11	4g	lo
+=18	=18	=18	=18
+1GG	11:#	[2g	spir-
+.	.	8gL]	.
+.	.	8e-X	-to al-
+.	.	8e-X	-la
+.	.	8e-XJ	do-
+=19	=19	=19	=19
+1C	.	2e-X	-len-
+.	.	2e-X	-te;
+=20	=20	=20	=20
+1FF	11:10	4cc	Né
+.	.	4cc	que-
+.	.	4cc	-st'ul-
+.	.	8ccL	-ti-
+.	.	8ccJ	-mo
+=21	=21	=21	=21
+1FF	.	4.cc	suo-
+.	.	8dd	-no e-
+.	.	8b-yL	-spres-
+.	.	8fJ	-s'in-
+.	.	[4a	-te-
+=22	=22	=22	=22
+2C	4:3	4a]	.
+.	.	4g	-ro:
+2C	-	8r	.
+.	.	8ee-X	E
+.	.	8ccL	cad-
+.	.	8aJ	-de
+=23	=23	=23	=23
+2C	-	8fL	tra-
+.	.	8enXiJ	-mor-
+.	.	2d	-ti-
+2D	11:#	.	.
+.	.	[4d	-ta,
+=24	=24	=24	=24
+2DD	#	4d]	.
+.	.	4r	.
+2D	.	4r	.
+.	.	4f	e
+=25	=25	=25	=25
+1D	-	4f	si
+.	.	4f	dif-
+.	.	2f	-fu-
+=26	=26	=26	=26
+1D	-	1f	-se
+=27	=27	=27	=27
+1BBnX	.	4f#X	di
+.	.	4f#X	ge-
+.	.	2f#X	-la-
+=28	=28	=28	=28
+1BBnX	.	2.g	-to
+.	.	4d	su-
+=29	=29	=29	=29
+(1C	-	(1e-X	-dor,
+=30	=30	=30	=30
+1C#X)	.	2.enX)	.
+.	.	4a	e i
+=31	=31	=31	=31
+2C#X	.	2.a	lu-
+2BB-y	7:5	.	.
+.	.	4d	-mi
+=32	=32	=32	=32
+1AA	11:#	2.d	chiu-
+.	.	4c#X	.
+=33	=33	=33	=33
+1DDl	.	1dl	-se.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/02/23
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/02/23

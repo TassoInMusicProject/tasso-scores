@@ -1,0 +1,216 @@
+!!!CDT:
+!!!PTL: Terze musiche a una voce
+!!!PPP: Venice
+!!!PPR: Alessandro Vincenti
+!!!PDT: 1620
+!!!RISM: S 912
+!!!rime: 433
+!!!AGN: Madrigal
+!!!SCT: Trm0433j
+!!!SCA: Trm0433j
+!!!voices:
+!!!COM: Saracini, Claudio
+!!!OTL: Se tu mi lasci, perfida e crudele (i.e., "Se tu mi lasci, perfida, tuo danno," Rime 433)
+**kern	**fb	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"[Basso continuo]	*	*I"[Canto]	*
+*I'Bc	*	*I'C	*
+*oclefF4	*	*oclefC1	*
+*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*omet(C)	*	*omet(C)	*
+*M4/4	*	*M4/4	*
+=1	=1	=1	=1
+!!LO:TX:a:t=Intitolato Al Molto Illustre Signor Gio. Battista Rapani.
+[1AA	n	1cc	Se
+=2	=2	=2	=2
+1AA]	.	2.b	tu
+.	.	4a	mi
+=3	=3	=3	=3
+[1AA	.	1a	la-
+=4	=4	=4	=4
+1AA]	.	1a	-sci,
+=5	=5	=5	=5
+[1FF#X	.	2.dd	per-
+.	.	4dd	-fi-
+=6	=6	=6	=6
+1FF#]	.	2.cc#X	-da e
+.	.	4cc#i	cru-
+=7	=7	=7	=7
+[1GG#X	.	1b	-de-
+=8	=8	=8	=8
+1GG#]	.	1b	-le,
+=9	=9	=9	=9
+1GGnXi	-	8r	.
+.	.	8b-X	Non
+.	.	8b-iL	ti
+.	.	8b-iJ	pen-
+.	.	4.b-i	-sar
+.	.	8a	che
+=10	=10	=10	=10
+1FF	.	2cc	si-
+.	.	2cc	-a
+=11	=11	=11	=11
+2.AA	.	8r	.
+.	.	8cc#X	Mi-
+.	.	8cc#iL	-se-
+.	.	8cc#iJ	-ra
+.	.	8cc#iL	sen-
+.	.	8cc#iJ	-ta
+4D	.	4dd	te,
+=12	=12	=12	=12
+1D	n	8r	.
+.	.	8f	<Mi-
+.	.	8fL	-se-
+.	.	8fJ	-ra
+.	.	8fL	sen-
+.	.	8fJ	-za
+.	.	4f	te>
+=13	=13	=13	=13
+[1AA	.	2.a	la
+.	.	8fL	vi-
+.	.	8eJ	-ta
+=14	=14	=14	=14
+1AA]	.	1e	mi-
+=15	=15	=15	=15
+1D	.	1d	-a.
+=16:|!|:	=16:|!|:	=16:|!|:	=16:|!|:
+2.E	.	4g#X	Mi-
+.	.	8g#iL	-se-
+.	.	8g#iJ	-ra
+.	.	8g#iL	ben
+.	.	8g#iJ	sa-
+[4C#X	.	4a	-re-
+=17	=17	=17	=17
+4C#]	.	4.a	-i
+2.G#X	.	.	.
+.	.	8b	Se
+.	.	8bL	mi-
+.	.	8b	-se-
+.	.	8b	-ria
+.	.	8bJ	sti-
+=18	=18	=18	=18
+2G#X	.	2.b	-mas-
+[2C#X	.	.	.
+.	.	4a	-si e
+=19	=19	=19	=19
+1C#]	.	2.a	non
+.	.	4e	ven-
+=20	=20	=20	=20
+2D	.	2f#X	-tu-
+2DD	.	2f#i	-ra
+=21	=21	=21	=21
+1D	.	2.dd	Per-
+.	.	8f#XL	-der
+.	.	8f#iJ	chi
+=22	=22	=22	=22
+[1E	.	2.g#X	non
+.	.	4a	mi
+=23	=23	=23	=23
+1E]	.	1b	cu-
+=24	=24	=24	=24
+1AA	.	1a	-ra
+=25	=25	=25	=25
+1GG	.	8r	.
+.	.	8b	E
+.	.	8bL	ri-
+.	.	8bJ	-cu-
+.	.	8.bL	-sar
+.	.	16bJk	quel
+.	.	8bL	che
+.	.	8bJ	di
+=26	=26	=26	=26
+1C	.	2.cc	me
+.	.	4g	per-
+=27	=27	=27	=27
+1FF	.	2a	-de-
+.	.	2a	-i.
+=28	=28	=28	=28
+2EE	.	8g#XL	Mi-
+.	.	8g#iJ	-se-
+.	.	8g#i	-ra-
+.	.	2a	-te,
+2AA	.	.	.
+.	.	8r	.
+=29	=29	=29	=29
+2GG#X	.	8r	.
+.	.	8b	Mi-
+.	.	8bL	-se-
+.	.	8bJ	-ra
+2AA	#	2cc#X	te,
+=30	=30	=30	=30
+2.BB	.	8r	.
+.	.	8b	che
+.	.	8bL	per
+.	.	8ccnXiJ	no-
+.	.	8ddL	-vel-
+.	.	8g	-l'A-
+4D	.	8a	-mo-
+.	.	8aJ	-re
+=31	=31	=31	=31
+2BB	.	8ddL	Per-
+.	.	8ccJ	-di
+.	.	4r	.
+2C	.	2r	.
+=32	=32	=32	=32
+1D	.	1r	.
+=33	=33	=33	=33
+1GG	.	1g	re
+=34	=34	=34	=34
+1GG	.	8dL	Ch'e-
+.	.	8d	-ri
+.	.	8d	più
+.	.	8gJ	mi-
+.	.	8gL	-o
+.	.	8g	che
+.	.	8g	tu
+.	.	8gJ	di
+=35	=35	=35	=35
+2FF	.	2.a	te
+2EE	#	.	.
+.	.	4b	non
+=36	=36	=36	=36
+1E	.	2g#X	se-
+.	.	2g#i	-i;
+=37	=37	=37	=37
+4GG	.	8bL	Il
+.	.	8bJ	tuo
+2D	.	4dd	già
+.	.	8aL	non
+.	.	8gnXiJ	per
+4D	.	4a	Di-
+=38	=38	=38	=38
+4C	.	4a	-o,
+2E	.	8ccL	<Il
+.	.	8ccJ	tuo
+.	.	4ee	già
+4EE	.	8g#XL	non
+.	.	8f#XJ	per
+=39	=39	=39	=39
+2E	.	4g#X	Di-
+.	.	4.g#i	-o>
+[2BB	.	.	.
+.	.	8bL	Poi
+.	.	8b	che
+.	.	8ccJ	non
+=40	=40	=40	=40
+2BB]	.	2.dd	fu
+2EE	.	.	.
+.	.	4cc	mai
+=41	=41	=41	=41
+1E	.	1b	mi-
+=42	=42	=42	=42
+1AAl	.	1al	-o.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/02/23
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/02/23

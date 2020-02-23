@@ -444,6 +444,7 @@ move:
 	-mv Tsg*.krn Tsg/kern/
 	-mv Tam*.krn Tam/kern/
 	-mv Tri*.krn Tri/kern/
+	-mv Tco*.krn Tco/kern/
 
 
 lyriclist:

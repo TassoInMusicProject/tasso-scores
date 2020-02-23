@@ -1,0 +1,220 @@
+!!!CDT:
+!!!PTL: Musiche di Sigismondo d' India 
+!!!PPP: Milan
+!!!PPR: Simon Tini & Filippo Lomazzo
+!!!PDT: 1609
+!!!RISM: I 24
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg19107c
+!!!SCA: Tsg19107c
+!!!voices:
+!!!COM: D'India, Sigismondo
+!!!OTL: Ma che? squallido e scuro anco mi piaci
+**kern	**fb	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"[Basso continuo]	*	*I"[Canto]	*
+*I'Bc	*	*I'C	*
+*oclefF4	*	*oclefG2	*
+*clefF4	*	*clefG2	*
+*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*
+*M4/4	*	*M4/4	*
+=1	=1	=1	=1
+1C	.	4r	.
+.	.	4cc	Ma
+.	.	2e	che?
+=2	=2	=2	=2
+1C	-	2e-X	squal-
+.	.	4.d	-li-
+.	.	8d	-d'e o-
+=3	=3	=3	=3
+1BBnX	.	4d	-scu-
+.	.	2g	-ro an-
+.	.	8gL	-co
+.	.	8dJ	mi
+=4	=4	=4	=4
+2C	.	2e	pia-
+(2AA	#	2e	-ci;
+=5	=5	=5	=5
+2AA)	#	2r	.
+2FF	.	4f	A-
+.	.	8eL	-ni-
+.	.	8dJ	-ma
+=6	=6	=6	=6
+2C	4:3	8eL	bel-
+.	.	8e	-la,
+.	.	8e	se
+.	.	8fJ	qui in-
+2GG	.	16gKL	-tor-
+.	.	8.fJ	.
+.	.	16gKL	.
+.	.	8e	.
+.	.	16eJk	.
+=7	=7	=7	=7
+1D	#:11	8fL	.
+.	.	8d	.
+.	.	8e	.
+.	.	8fJ	.
+.	.	8gL	.
+.	.	8e	.
+.	.	8a	.
+.	.	8gJ	.
+=8	=8	=8	=8
+2D	#:11	4.f#X	.
+.	.	8g	-no
+2DD	11:#	2a	gi-
+=9	=9	=9	=9
+1GG	.	1g	-re,
+=10	=10	=10	=10
+1GG	-	4r	.
+.	.	2g	S'o-
+.	.	8gL	-di il
+.	.	8aJ	mio
+=11	=11	=11	=11
+2G	.	4b-y	pian-
+.	.	4a	-to, e
+2D	4:3	4a	le
+.	.	4b-y	mie
+=12	=12	=12	=12
+(4G	.	4.b-y	vo-
+4G)	6	.	.
+.	.	8cc	-glie au-
+2F	4:3	4cc	-da-
+.	.	4cc	-ci,
+=13	=13	=13	=13
+(2BB-y	.	4r	.
+.	.	4dd	Per-
+4BB-y)	6	[2dd	-do-
+4C	4:3	.	.
+=14	=14	=14	=14
+1D	.	2dd]	.
+.	.	2a	-na il
+=15	=15	=15	=15
+1GG	.	2.g	fur-
+.	.	4g	-to, e'l
+=16	=16	=16	=16
+2G	.	4g	te-
+.	.	4a	-me-
+[2D	6	16b-yLL	-ra-
+.	.	16f	.
+.	.	16g	.
+.	.	16aJJ	.
+.	.	16b-yLL	.
+.	.	16cc	.
+.	.	16dd	.
+.	.	16eeJJ	.
+=17	=17	=17	=17
+4D]	.	4.ff	.
+4F	.	.	.
+.	.	8b-y	-rio ar-
+2FF	11:10	2cc	-di-
+=18	=18	=18	=18
+1BB-y	.	1b-y	-re.
+=19	=19	=19	=19
+1D	.	2r	.
+.	.	4f	Da
+.	.	4f	le
+=20	=20	=20	=20
+1D	.	2.f	pal-
+.	.	8eL	-li-
+.	.	8eJ	-de
+=21	=21	=21	=21
+2AA	11:10	4e	la-
+.	.	4f	-bra i
+2D	.	4.f	fred-
+.	.	8g	-di
+=22	=22	=22	=22
+1C	4:3	4g	ba-
+.	.	4g	-ci,
+.	.	4r	.
+.	.	8gL	Che
+.	.	8gJ	sì
+=23	=23	=23	=23
+2C	.	4g	cal-
+.	.	8aL	-di
+.	.	8b-yJ	spe-
+2AA	6	8ccL	-rai,
+.	.	8b-yJ	vò
+.	.	[4a	pur
+=24	=24	=24	=24
+1C	3:4:3	4a]	.
+.	.	4g	ra-
+.	.	2g	-pi-
+=25	=25	=25	=25
+1FF	.	1f	-re.
+=26	=26	=26	=26
+2.BB-y	.	2r	.
+.	.	4dd	Par-
+8BB-yL	.	8ddL	-te
+8BB-yJ	.	8ddJ	tor-
+=27	=27	=27	=27
+2.BB-y	.	2.dd	-rò
+4BB-y	.	4ff	di
+=28	=28	=28	=28
+4BB-y	.	4ff	sue
+4C	.	4ee	ra-
+4D	.	4.dd	-gio-
+4E	.	.	.
+.	.	8cc	-ni a
+=29	=29	=29	=29
+2F	4:3	2cc	mor-
+2FF	.	4cc	-te,
+.	.	4dd	Ba-
+=30	=30	=30	=30
+4GG	.	4dd	-cian-
+4AA	.	4cc	-do
+4BB-y	6	4.b-y	que-
+4C	.	.	.
+.	.	8a	-ste
+=31	=31	=31	=31
+1D	4:3	1a	la-
+=32	=32	=32	=32
+(1G	-	(1b-y	-bra es-
+=33	=33	=33	=33
+2G)	#	1bnX)	.
+2F	(natural)	.	.
+=34	=34	=34	=34
+2E	6	[1cc	-san-
+2D	.	.	.
+=35	=35	=35	=35
+2C	.	(1cc]	.
+2BB-y	.	.	.
+=36	=36	=36	=36
+[1AA	#:11:#	2cc#X)	.
+.	.	2f	-gui e
+=37	=37	=37	=37
+1AA]	.	1e	smor-
+=38	=38	=38	=38
+1D	.	1d	-te,
+=39	=39	=39	=39
+1BBnX	.	1r	.
+=40	=40	=40	=40
+2C	.	(1e-X	es-
+2BB-i	.	.	.
+=41	=41	=41	=41
+2AA	.	1enX)	.
+2GG	.	.	.
+=42	=42	=42	=42
+2FF	.	(1f	-san-
+2EE	.	.	.
+=43	=43	=43	=43
+1DD	.	2f#X)	.
+.	.	2b-y	-gui e
+=44	=44	=44	=44
+1DD	#:11	1a	smor-
+=45	=45	=45	=45
+1GGl	11:#	1gl	-te.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [(s1)(s2)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/02/23
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/02/23

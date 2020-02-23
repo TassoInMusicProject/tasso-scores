@@ -1,0 +1,315 @@
+!!!CDT:
+!!!PTL: Musiche di Sigismondo d' India 
+!!!PPP: Milan
+!!!PPR: Simon Tini & Filippo Lomazzo
+!!!PDT: 1609
+!!!RISM: I 24
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg19106c
+!!!SCA: Tsg19106c
+!!!voices:
+!!!COM: D'India, Sigismondo
+!!!OTL: Misera, non credea ch'a gli occhi miei
+**kern	**kern	**text
+*part2	*part1	*part1
+*staff2	*staff1	*staff1
+*I"[Basso continuo]	*I"[Canto]	*
+*I'Bc	*I'C	*
+*oclefF4	*oclefG2	*
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*omet(C)	*omet(C)	*
+*M4/4	*M4/4	*
+=1	=1	=1
+1D	2r	.
+.	[2dd	Mi-
+=2	=2	=2
+[1F#X	2dd]	.
+.	8aL	-se-
+.	8a	-ra,
+.	8a	non
+.	8aJ	cre-
+=3	=3	=3
+2F#]	4.a	-dea
+.	8b-y	ch'a
+(4G	8b-yL	gl'oc-
+.	16ccL	.
+.	16ddJJ	.
+4G)	16ccLL	.
+.	16ccJ	.
+.	8b-yJ	.
+=4	=4	=4
+1FnXi	8ccL	.
+.	16ddL	.
+.	16eeJJ	.
+.	16ddLL	.
+.	16ddJ	.
+.	8ccJ	.
+.	8ddL	.
+.	16eeL	.
+.	16ffJJ	.
+.	16eeLL	.
+.	16ee	.
+.	16ee	.
+.	32ddL	.
+.	32eeJJJ	.
+=5	=5	=5
+1FF	4.ff	.
+.	8b-y	-chi
+.	2cc	mie-
+=6	=6	=6
+1FF	1cc	-i
+=7	=7	=7
+1F	4r	.
+.	4cc	Po-
+.	8ccL	-tes-
+.	8cc	-si in
+.	8cc	al-
+.	8ccJ	-cun
+=8	=8	=8
+1F	4cc	tem-
+.	2dd	-po es-
+.	8b-yL	-ser
+.	8aJ	no-
+=9	=9	=9
+[1E-X	8aL	-io-
+.	16b-yL	.
+.	16ccJJ	.
+.	(8f#XL	.
+.	8f#iJ)	.
+.	8.gL	.
+.	16aJk	.
+.	16gLL	.
+.	16g	.
+.	16g	.
+.	16gJJ	.
+=10	=10	=10
+1E-]	16aLL	.
+.	16b-y	.
+.	16cc	.
+.	16ddJJ	.
+.	16ccLL	.
+.	16cc	.
+.	16cc	.
+.	32b-yL	.
+.	32ccJJJ	.
+.	16ddLL	.
+.	16aJ	.
+.	32b-yLL	.
+.	32g	.
+.	32a	.
+.	32eJJJ	.
+.	16f#XLL	.
+.	16f#i	.
+.	16f#i	.
+.	32eL	.
+.	32f#iJJJ	.
+=11	=11	=11
+2E-i	4.g	.
+.	16aLL	.
+.	16b-yJJ	.
+2D	2a	-so:
+=12	=12	=12
+2D	8r	.
+.	8a	Hor
+.	8b-yL	cie-
+.	8ccJ	-ca
+2BB-y	8ddL	far-
+.	8ff	-mi
+.	8ee	vo-
+.	8ddJ	-len-
+=13	=13	=13
+1F	4.cc	-tier
+.	8b-y	tor-
+.	2cc	-re-
+=14	=14	=14
+1F	2cc	-i
+.	8r	.
+.	8dd	Per
+.	8b-yL	non
+.	8aJ	ve-
+=15	=15	=15
+2.E-X	4.g	-der-
+.	8cc	-ti, e
+.	16ccLL	ri-
+.	16cc	.
+.	16cc	.
+.	32b-yL	.
+.	32ccJJJ	.
+4D	4dd	.
+=16	=16	=16
+2D	16aLL	-guar-
+.	16a	.
+.	16a	.
+.	32gL	.
+.	32aJJJ	.
+.	4b-y	.
+2D	16f#XLL	-dar
+.	16f#i	.
+.	16f#i	.
+.	32eL	.
+.	32f#iJJJ	.
+.	4g	.
+=17	=17	=17
+2D	8r	.
+.	16dLL	non
+.	16eJJ	.
+.	16fnXiLL	.
+.	16g	.
+.	16a	.
+.	16b-yJJ	.
+2D	16ccLL	.
+.	16g	.
+.	16a	.
+.	16eJJ	.
+.	4f	.
+=18	=18	=18
+1D	4r	.
+.	16ddLL	o-
+.	16cc	.
+.	16b-y	.
+.	16aJJ	.
+.	8b-yL	.
+.	8aJ	.
+.	16ccLL	.
+.	16b-y	.
+.	16a	.
+.	16gJJ	.
+=19	=19	=19
+1EE	8b-yL	.
+.	8a	.
+.	8a	.
+.	8gJ	.
+.	2a	.
+=20	=20	=20
+1GG	1g	-so.
+=21	=21	=21
+1G	2r	.
+.	[2dd	Ohi-
+=22	=22	=22
+1E	2dd]	.
+.	[2bnX	-mè,
+=23	=23	=23
+2E	8bL]	.
+.	8bnXi	da
+.	8cc	gl'oc-
+.	8ddJ	-chi
+2C	4.ee	già
+.	8cc	sì
+=24	=24	=24
+4F	4.cc	dol-
+4E	.	.
+.	8dd	-ci e
+2G	2dd	re-
+=25	=25	=25
+1G	1dd	-i
+=26	=26	=26
+1G	8r	.
+.	8gg	O-
+.	8ffL	-v'è
+.	8eeJ	la
+.	8ddL	fiam-
+.	8dd	-ma? o-
+.	8cc	-v'è il
+.	8b-yJ	bel
+=27	=27	=27
+2E	4.a	lu-
+.	8g	-me a-
+2E	8gL	-sco-
+.	16aL	.
+.	16b-yJJ	.
+.	4cc	.
+=28	=28	=28
+1E	8r	.
+.	8e	.
+.	8fL	.
+.	8gJ	.
+.	4.a	.
+.	8g	.
+=29	=29	=29
+1D	2a	-so?
+.	8r	.
+.	8a	De
+.	8aL	le
+.	8aJ	fio-
+=30	=30	=30
+4D	8aL	-ri-
+.	8bnXJ	-te
+4AA	8.ccL	guan-
+.	16bnXJk	-cie il
+2E	4.bnX	bel
+.	8a	ver-
+=31	=31	=31
+1AA	2a	-mi-
+.	2a	-glio
+=32	=32	=32
+2AA	8r	.
+.	8e	O-
+.	8fL	-v'è
+.	8gJ	fug-
+2FF#X	8.aL	-gi-
+.	16dJk	-to? o-
+.	8dL	-v'è il
+.	8dJ	se-
+=33	=33	=33
+2GG	4d	-ren-
+.	16eLL	.
+.	16f	.
+.	16g	.
+.	32aL	.
+.	32bnXiJJJ	.
+2AA	16cc#XLL	.
+.	16cc#i	.
+.	16cc#i	.
+.	16cc#iJJ	.
+.	16bniLL	.
+.	16cc#iJ	.
+.	8cc#iJ	.
+=34	=34	=34
+1AA	16fLL	-del
+.	16e	.
+.	16f	.
+.	16dJJ	.
+.	8eL	.
+.	16fL	.
+.	16gJJ	.
+.	8f	.
+.	4f	.
+.	16eLL	.
+.	16eJJ	.
+=35	=35	=35
+1AA	8fL	.
+.	8e	.
+.	8g	.
+.	8fJ	.
+.	2e	ci-
+=36	=36	=36
+1DD	1d	-glio,
+=37	=37	=37
+2D	8r	.
+.	8a	O-
+.	8b-yL	-v'è
+.	8ccJ	fug-
+[2BBnX	8.ddL	-gi-
+.	16gJk	-to? o-
+.	8gL	-v'è il
+.	8gJ	se-
+=38	=38	=38
+2BB]	4.g	-ren
+.	8a	del
+2D	2a	ci-
+=39	=39	=39
+1GGl	1gl	-glio?
+==	==	==
+*-	*-	*-
+!!!system-decoration: [(s1)(s2)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/02/23
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/02/23

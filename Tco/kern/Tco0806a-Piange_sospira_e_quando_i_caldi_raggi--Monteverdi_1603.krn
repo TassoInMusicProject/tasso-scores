@@ -1,0 +1,493 @@
+!!!CDT:
+!!!PTL:
+!!!PPP:
+!!!PPR:
+!!!PDT:
+!!!RISM:
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT:
+!!!SCA:
+!!!voices:
+!!!COM: Claudio Monteverdi
+!!!OTL: Piagn'e sospira; e quand'i caldi raggi (i.e., "Piange e sospira; e quando i caldi raggi," Gerusalemme conquistata VIII/6)
+**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Quinto	*	*I"Canto	*
+*I'B	*	*I'T	*	*I'A	*	*I'V	*	*I'C	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+0r	.	(1B-X	Pia-	0r	.	0r	.	0r	.
+.	.	1BnX)	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+0r	.	(1c	-gn'e	0r	.	0r	.	0r	.
+.	.	1c#X)	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+0r	.	4r	.	(1f	Pia-	0r	.	0r	.
+.	.	4d	so-	.	.	.	.	.	.
+.	.	2B-X	-spi-	.	.	.	.	.	.
+.	.	1A	-ra;	1f#X)	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+0r	.	4r	.	(1g	-gn'e	0r	.	(1b-X	Pia-
+.	.	4G	e	.	.	.	.	.	.
+.	.	4.G	quan-	.	.	.	.	.	.
+.	.	8F	-d'i	.	.	.	.	.	.
+.	.	4.E	cal-	1g#X)	.	.	.	1bnX)	.
+.	.	8D	-di	.	.	.	.	.	.
+.	.	4E	rag-	.	.	.	.	.	.
+.	.	4E	-gi	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+0r	.	8AL	Fug-	4r	.	0r	.	(1cc	-gn'e
+.	.	8G	.	.	.	.	.	.	.
+.	.	8F	.	4a	so-	.	.	.	.
+.	.	8EJ	.	.	.	.	.	.	.
+.	.	8FL	.	2f	-spi-	.	.	.	.
+.	.	8E	.	.	.	.	.	.	.
+.	.	8F	.	.	.	.	.	.	.
+.	.	8GJ	.	.	.	.	.	.	.
+.	.	2A	.	1e	-ra,	.	.	1cc#X)	.
+.	.	4A	-gon	.	.	.	.	.	.
+.	.	4G	le	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+0r	.	4F	gre-	4r	.	0r	.	4r	.
+.	.	4D	-g'a	4a	so-	.	.	4dd	so-
+.	.	4D	la	1f	-spi-	.	.	2b-X	-spi-
+.	.	4E	dol-	.	.	.	.	.	.
+.	.	4F	-c'om-	.	.	.	.	1a	-ra;
+.	.	4G	-br'as-	.	.	.	.	.	.
+.	.	2A	-si-	2e	-ra;	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+0r	.	4G	-se,	4r	.	0r	.	4r	.
+.	.	2G	Ne	4g	e	.	.	4bnX	e
+.	.	.	.	4.g	quan-	.	.	4.b	quan-
+.	.	4G	la	.	.	.	.	.	.
+.	.	.	.	8f	-d'i	.	.	8a	-d'i
+.	.	2c	scor-	4.e	cal-	.	.	4.g	cal-
+.	.	.	.	8d	-di	.	.	8f	-di
+.	.	4c	-za	4e	rag-	.	.	4g	rag-
+.	.	4c	de'	4e	-gi	.	.	4g	-gi
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+0r	.	2A	pi-	8aL	Fug-	0r	.	8ccL	Fug-
+.	.	.	.	8g	.	.	.	8b-i	.
+.	.	.	.	8f	.	.	.	8a	.
+.	.	.	.	8eJ	.	.	.	8gJ	.
+.	.	2d	-ni o	8fL	.	.	.	8aL	.
+.	.	.	.	8e	.	.	.	8g	.
+.	.	.	.	8f	.	.	.	8a	.
+.	.	.	.	8gJ	.	.	.	8b-iJ	.
+.	.	2c	pur	2a	.	.	.	2cc	.
+.	.	2e	de'	4g	-gon	.	.	4cc	-gon
+.	.	.	.	4g	le	.	.	4g	le
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+0r	.	0d	fag-	4f	gre-	0r	.	4a	gre-
+.	.	.	.	4d	-g'a	.	.	4f#X	-g'a
+.	.	.	.	4d	la	.	.	4f#X	la
+.	.	.	.	4e	dol-	.	.	4g	dol-
+.	.	.	.	4f#X	-c'om-	.	.	4a	-c'om-
+.	.	.	.	4g	-br'as-	.	.	4g	-br'as-
+.	.	.	.	2a	-si-	.	.	4g	-si-
+.	.	.	.	.	.	.	.	4f#i	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+0r	.	2G	-gi	1g	-se,	(1b-X	Pia-	4g	-se,
+.	.	.	.	.	.	.	.	2d	Ne
+.	.	4G	Se-	.	.	.	.	.	.
+.	.	2G	-gnò	.	.	.	.	4d	la
+.	.	.	.	4r	.	1bnX)	.	2g	scor-
+.	.	4E	l'a-	2G	Ne	.	.	.	.
+.	.	4E	-ma-	.	.	.	.	4g	-za
+.	.	4E	-to	4G	la	.	.	4g	de'
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+0r	.	1A	no-	2c	scor-	(1cc	-gn'e	1e	pi-
+.	.	.	.	4c	-za	.	.	.	.
+.	.	.	.	4c	de'	.	.	.	.
+.	.	1F#X	-me in	1A	pi-	1cc#X)	.	[1a	-ni, o
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+0r	.	2F#X	mil-	2d	-ni o	4r	.	2a]	.
+.	.	.	.	.	.	4dd	so-	.	.
+.	.	2G	-le	4d	pur	2b-X	-spi-	2.g	pur
+.	.	.	.	2e	de	.	.	.	.
+.	.	2A	gui-	.	.	1a	-ra,	.	.
+.	.	.	.	2d	fag-	.	.	4f	de'
+.	.	2A	-se:	.	.	.	.	2e	fag-
+.	.	.	.	4c#i	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+0r	.	0r	.	2d	-gi	(1f	Pia-	1d	-gi
+.	.	.	.	4d	Se-	.	.	.	.
+.	.	.	.	2d	-gnò	.	.	.	.
+.	.	.	.	.	.	1f#X)	.	4dd	Se-
+.	.	.	.	4B	l'a-	.	.	2dd	-gnò
+.	.	.	.	4B	-ma-	.	.	.	.
+.	.	.	.	4B	-to	.	.	4b	l'a-
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+0r	.	0r	.	1e	no-	(1g	-gn'e	4b	-ma-
+.	.	.	.	.	.	.	.	4b	-to
+.	.	.	.	.	.	.	.	1ee	no-
+.	.	.	.	1c#X	-me in	1g#X)	.	.	.
+.	.	.	.	.	.	.	.	[2ee	-me in
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+0r	.	1r	.	2c#X	mil-	4r	.	2ee]	.
+.	.	.	.	.	.	4a	so-	.	.
+.	.	.	.	2d	-le	8f#XL	-spi-	2.dd	mil-
+.	.	.	.	.	.	8gnXi	.	.	.
+.	.	.	.	.	.	8a	.	.	.
+.	.	.	.	.	.	8f#XJ	.	.	.
+.	.	2r	.	2e	gui-	4g#X	.	.	.
+.	.	.	.	.	.	4.a	.	4cc	-le
+.	.	[2e	E	2e	-se:	.	.	2b	gui-
+.	.	.	.	.	.	8g#iL	.	.	.
+.	.	.	.	.	.	8g#i	.	.	.
+.	.	.	.	.	.	16f#iL	.	.	.
+.	.	.	.	.	.	16g#iJJ	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+0r	.	4e]	.	2.A	E	4a	.	1a	-se:
+.	.	8eL	de	.	.	4cc	-ra; e	.	.
+.	.	8eJ	la	.	.	.	.	.	.
+.	.	4e	sua	.	.	4.cc	quan-	.	.
+.	.	4e	for-	8AL	de	.	.	.	.
+.	.	.	.	8AJ	la	8b	-d'i	.	.
+.	.	4e	-tu-	4A	sua	4.a	cal-	1r	.
+.	.	4e	-na i	4A	for-	.	.	.	.
+.	.	.	.	.	.	8gnXi	-di	.	.
+.	.	4e	gra-	4A	-tu-	4a	rag-	.	.
+.	.	4e	-vi ol-	4A	-na i	4a	-gi,	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+(1BB-X	Pia-	2d	-trag-	4A	gra-	4r	.	0r	.
+.	.	.	.	4A	-vi ol-	4dd	e	.	.
+.	.	4d	-gi	2G	-trag-	4.dd	quan-	.	.
+.	.	4d	E i	.	.	.	.	.	.
+.	.	.	.	.	.	8cc	-d'i	.	.
+1BBnX)	.	4d	va-	4G	-gi	4.b	cal-	.	.
+.	.	4d	-ri	4G	E i	.	.	.	.
+.	.	.	.	.	.	8a	-di	.	.
+.	.	2d	ca-	2G	va-	4b	rag-	.	.
+.	.	.	.	.	.	4b	-gi	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+(1C	-gne,	1e	-si	2G	-ri	8eeL	Fug-	0r	.
+.	.	.	.	.	.	8dd	.	.	.
+.	.	.	.	.	.	8cc	.	.	.
+.	.	.	.	.	.	8bJ	.	.	.
+.	.	.	.	1A	ca-	8ccL	.	.	.
+.	.	.	.	.	.	8b	.	.	.
+.	.	.	.	.	.	8cc	.	.	.
+.	.	.	.	.	.	8ddJ	.	.	.
+1C#X)	.	2r	.	.	.	2ee	.	.	.
+.	.	[2e	in	2a	-si in	4ee	-gon	.	.
+.	.	.	.	.	.	4dd	le	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+0r	.	2e]	.	2c	du-	4cc	gre-	2.a	E
+.	.	.	.	.	.	4a	-g'a	.	.
+.	.	1d	du-	2d	-ra	4a	la	.	.
+.	.	.	.	.	.	4b	dol-	8aL	de
+.	.	.	.	.	.	.	.	8aJ	la
+.	.	.	.	2e	scor-	4cc	-c'omb-	4a	sua
+.	.	.	.	.	.	4dd	-r'as-	4a	for-
+.	.	2c	-ra	2A	-z'in-	2ee	-si-	4a	-tu-
+.	.	.	.	.	.	.	.	4a	-na i
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+0r	.	2c	scor-	1d	-ci-	1dd	-se,	4a	gra-
+.	.	.	.	.	.	.	.	4a	-vi ol-
+.	.	2B	-z'in-	.	.	.	.	2g	-trag-
+.	.	1c	-ci-	4c	-se,	4r	.	4g	-gi
+.	.	.	.	2e	E	2g	Ne	4g	E i
+.	.	.	.	.	.	.	.	4g	va-
+.	.	.	.	8eL	de	4g	la	4g	-ri
+.	.	.	.	8eJ	la	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+1r	.	2c	-se,	4e	sua	2cc	scor-	2g	ca-
+.	.	.	.	4e	for-	.	.	.	.
+.	.	2.A	E	4e	-tu-	4cc	-za	2a	-si in
+.	.	.	.	4e	-na i	4cc	de'	.	.
+(1F	Pia-	.	.	4e	gra-	2a	pi-	2c	du-
+.	.	8AL	de	4e	-vi ol-	.	.	.	.
+.	.	8AJ	la	.	.	.	.	.	.
+.	.	4A	sua	2d	-trag-	4a	-ni,	2d	-ra
+.	.	4A	for-	.	.	[4a	Ne	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+1F#X)	.	4A	-tu-	4d	-gi	4a]	.	2A	scor-
+.	.	4A	-na i	4d	E i	4a	la	.	.
+.	.	4A	gra-	4d	va-	2dd	scor-	2A	-z'in-
+.	.	4A	-vi ol-	4d	-ri	.	.	.	.
+(1G	-gn'e	2G	-trag-	2d	ca-	4dd	-za	1B	-ci-
+.	.	.	.	.	.	4dd	de'	.	.
+.	.	4G	-gi	[2e	-si	[2b	pi-	.	.
+.	.	4E	E i	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+1G#X)	.	4E	va-	1e]	.	2b]	.	1B	-se,
+.	.	4E	-ri	.	.	.	.	.	.
+.	.	2E	ca-	.	.	1ee	-ni, o	.	.
+4r	.	1A	-si,	1r	.	.	.	2c	in
+4A	so-	.	.	.	.	.	.	.	.
+2FnXi	-spi-	.	.	.	.	[2dd	pur	[2a	du-
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+1E	-ra;	1r	.	1.e	in	4dd]	.	2a]	.
+.	.	.	.	.	.	4cc	de'	.	.
+.	.	.	.	.	.	2b	fag-	2g	-ra
+1r	.	2.A	E	.	.	[1a	-gi	2f	scor-
+.	.	.	.	[2d	du-	.	.	2f	-z'in-
+.	.	8AL	de	.	.	.	.	.	.
+.	.	8AJ	la	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+0r	.	4A	sua	2d]	.	1a]	.	1e	-ci-
+.	.	4A	for-	.	.	.	.	.	.
+.	.	4A	-tu-	2c	-ra	.	.	.	.
+.	.	4A	-na i	.	.	.	.	.	.
+.	.	4A	gra-	2c	scor-	1r	.	2e	-se:
+.	.	4A	-vi ol-	.	.	.	.	.	.
+.	.	2G	-trag-	2B	-z'in-	.	.	[2ee	E
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+4r	.	2E	-gi,	1c	-ci-	4g	Se-	4ee]	.
+4C	e	.	.	.	.	2g	-gnò	8eeL	de
+.	.	.	.	.	.	.	.	8eeJ	la
+4.C	quan-	4r	.	.	.	.	.	4ee	sua
+.	.	2A	<E	.	.	4e	l'a-	4ee	for-
+8BB	-d'i	.	.	.	.	.	.	.	.
+4.AA	cal-	.	.	1c	-se,	4e	-ma-	4ee	-tu-
+.	.	8AL	de	.	.	4e	-to	4ee	-na i
+8GG	-di	8AJ	la	.	.	.	.	.	.
+4AA	rag-	4A	sua	.	.	[2a	no-	4ee	gra-
+4AA	-gi,	4A	for-	.	.	.	.	4ee	-vi ol-
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+4r	.	4A	-tu-	(1F	Pia-	2a]	.	2dd	-trag-
+4D	e	4A	-na i	.	.	.	.	.	.
+4.D	quan-	4A	gra-	.	.	2a	-me,	4dd	-gi
+.	.	4A	-vi ol-	.	.	.	.	4dd	E i
+8C	-d'i	.	.	.	.	.	.	.	.
+4.BB	cal-	2d	-trag-	1F#X)	.	1r	.	4dd	va-
+.	.	.	.	.	.	.	.	4dd	-ri
+8AA	-di	.	.	.	.	.	.	.	.
+4BB	rag-	4d	-gi>	.	.	.	.	2dd	ca-
+4BB	-gi	4d	E i	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+8EL	Fug-	4d	va-	(1G	-gn'e	4g	Se-	1ee	-si
+8D	.	.	.	.	.	.	.	.	.
+8C	.	4d	-ri	.	.	2g	-gnò	.	.
+8BBJ	.	.	.	.	.	.	.	.	.
+8CL	.	2c	ca-	.	.	.	.	.	.
+8BB	.	.	.	.	.	.	.	.	.
+8C	.	.	.	.	.	4e	l'a-	.	.
+8DJ	.	.	.	.	.	.	.	.	.
+2E	.	1B	-si	1G#X)	.	2e	-ma-	1r	.
+4E	-gon	.	.	.	.	2e	-to	.	.
+4D	le	.	.	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+4C	gre-	2r	.	4r	.	1a	no-	1ee	in
+4AA	-g'a	.	.	4A	so-	.	.	.	.
+4AA	la	1e	in	1c	-spi-	.	.	.	.
+4BB	dol-	.	.	.	.	.	.	.	.
+4C	-c'om-	.	.	.	.	1e	-me in	1g	du-
+4D	-br'as-	.	.	.	.	.	.	.	.
+2E	-si-	[2G	du-	2B	-ra;	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+4D	-se,	2G]	.	4r	.	2A	mil-	1a	-ra
+2D	Ne	.	.	4d	e	.	.	.	.
+.	.	2F	-ra	4.d	quan-	2A	-le	.	.
+4D	la	.	.	.	.	.	.	.	.
+.	.	.	.	8d	-d'i	.	.	.	.
+2G	scor-	2E	scor-	4.B	cal-	1e	gui-	1b	scor-
+.	.	.	.	8A	-di	.	.	.	.
+4G	-za	2E	-za,	4B	rag-	.	.	.	.
+4G	de'	.	.	4B	-gi	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+2.E	pi-	2G	in	8eL	Fug-	1e	-se:	1cc	-z'in-
+.	.	.	.	8d	.	.	.	.	.
+.	.	.	.	8c	.	.	.	.	.
+.	.	.	.	8BJ	.	.	.	.	.
+.	.	1e	du-	8cL	.	.	.	.	.
+.	.	.	.	8B	.	.	.	.	.
+2A	-ni o	.	.	8c	.	.	.	.	.
+.	.	.	.	8dJ	.	.	.	.	.
+.	.	.	.	2e	.	2r	.	2b	-ci-
+2G	pur	.	.	.	.	.	.	.	.
+.	.	2B	-ra	4e	-gon	[2e	E	2b	-se,
+4G	de'	.	.	4d	le	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+0A	fag-	2c	scor-	4c	gre-	4e]	.	1r	.
+.	.	.	.	4A	-g'a	8eL	de	.	.
+.	.	.	.	.	.	8eJ	la	.	.
+.	.	2d	-z'in-	4A	la	4e	sua	.	.
+.	.	.	.	4B	dol-	4e	for-	.	.
+.	.	1e	-ci-	4c	-c'om-	4e	-tu-	2.a	E
+.	.	.	.	4d	-br'as-	4e	-na i	.	.
+.	.	.	.	2c#X	-si-	4e	gra-	.	.
+.	.	.	.	.	.	4e	-vi ol-	8aL	de
+.	.	.	.	.	.	.	.	8aJ	la
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+2D	-gi	1f#X	-se,	4d	-se,	2d	-trag-	4a	sua
+.	.	.	.	2A	Ne	.	.	4a	for-
+4D	Se-	.	.	.	.	4d	-gi	4a	-tu-
+2D	-gnò	.	.	4A	la	4d	E i	4a	-na i
+.	.	1r	.	2d	scor-	4d	va-	4a	gra-
+4BB	l'a-	.	.	.	.	4d	-ri	4a	-vi ol-
+4BB	-ma-	.	.	4B	-za	2d	ca-	2g	-trag-
+4BB	-to	.	.	4B	de'	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+2E	no-	0r	.	1B	pi-	1e	-si	4g	-gi
+.	.	.	.	.	.	.	.	4g	E i
+2E	-me in	.	.	.	.	.	.	4g	va-
+.	.	.	.	.	.	.	.	4g	-ri
+2C#X	mil-	.	.	2.e	-ni o	2r	.	2a	ca-
+2D	-le	.	.	.	.	[2a	in	2a	-si
+.	.	.	.	[4d	pur	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+1E	gui-	1r	.	4d]	.	2a]	.	0r	.
+.	.	.	.	4c	de'	.	.	.	.
+.	.	.	.	2B	fag-	1g	du-	.	.
+2AA	-se:	2.c	E	1A	-gi	.	.	.	.
+[2A	E	.	.	.	.	2f	-ra	.	.
+.	.	8cL	de	.	.	.	.	.	.
+.	.	8cJ	la	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+4A]	.	4c	sua	2r	.	2f	scor-	1a	in
+8AL	de	4c	for-	.	.	.	.	.	.
+8AJ	la	.	.	.	.	.	.	.	.
+4A	sua	2c	-tu-	4c	Se-	2e	-z'in-	.	.
+4A	for-	.	.	2c	-gnò	.	.	.	.
+4A	-tu-	4c	-na i	.	.	1f#X	-ci-	1c	du-
+4A	-na i	2c	gra-	4A	l'a-	.	.	.	.
+4A	gra-	.	.	4A	-ma-	.	.	.	.
+4A	-vi ol-	4c	-vi ol-	4A	-to	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+2G	-trag-	2B	-trag-	4.B	no-	1g	-se,	1d	-ra
+.	.	.	.	8c	.	.	.	.	.
+4G	-gi	4B	-gi	2d	.	.	.	.	.
+4G	E i	4B	E i	.	.	.	.	.	.
+4G	va-	4B	va-	2B	-me in	1r	.	1e	scor-
+4G	-ri	4B	-ri	.	.	.	.	.	.
+2G	ca-	2B	ca-	[2e	mil-	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+0A	-si	2c	-si	2e]	.	0r	.	1f	-z'in-
+.	.	2r	.	2d	-le	.	.	.	.
+.	.	2r	.	2d	gui-	.	.	1e	-ci-
+.	.	2A	in	2c#X	-se:	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+2r	.	2C	du-	2.e	E	1r	.	1A	-se,
+2A	in	2D	-ra	.	.	.	.	.	.
+.	.	.	.	8eL	de	.	.	.	.
+.	.	.	.	8eJ	la	.	.	.	.
+2C	du-	2E	scor-	4e	sua	2r	.	1r	.
+.	.	.	.	4e	for-	.	.	.	.
+2D	-ra	2F	-z'in-	4e	-tu-	2a	in	.	.
+.	.	.	.	4e	-na i	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+2E	scor-	2G	-ci-	4e	gra-	2c	du-	1r	.
+.	.	.	.	4e	-vi ol-	.	.	.	.
+2F#i	-z'in-	2A	.	2d	-trag-	2d	-ra	.	.
+2G#X	-ci-	2B	-se,	4d	-gi	2e	scor-	1ee	in
+.	.	.	.	4d	E i	.	.	.	.
+[2A	.	2r	.	4c	va-	2A	-z'in-	.	.
+.	.	.	.	4c	-ri	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+2A]	.	1r	.	1B	ca-	2d	-ci-	1dd	du-
+2G#X	.	.	.	.	.	4c	.	.	.
+.	.	.	.	.	.	4B	.	.	.
+1A	-se:	2r	.	[1e	-si in	2.c	.	[1cc	-ra
+.	.	2A	in	.	.	.	.	.	.
+.	.	.	.	.	.	4B	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+0r	.	2C	du-	1e]	.	2A	.	2cc]	.
+.	.	2D	-ra	.	.	2B	.	1b	scor-
+.	.	2E	scor-	2G	du-	2.c	.	.	.
+.	.	2F	-z'in-	2A	-ra	.	.	2a	-r'in-
+.	.	.	.	.	.	4d	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+0r	.	0E	-ci-	2B	scor-	0e	.	2g#X	-ci-
+.	.	.	.	2c	-z'in-	.	.	1a	.
+.	.	.	.	1B	-ci-	.	.	.	.
+.	.	.	.	.	.	.	.	2g#X	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+1r	.	1A	-se:	1A	-se:	1e	-se:	1a	-se:
+4r	.	1r	.	4r	.	4r	.	4r	.
+4D	E in	.	.	4d	E in	4f	E in	4a	E in
+4D	ri-	.	.	4d	ri-	4f	ri-	4a	ri-
+4D	-le-	.	.	4d	-le-	4f	-le-	4a	-le-
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+4D	-gen-	0r	.	4d	-gen-	4f	-gen-	4a	-gen-
+4D	-do	.	.	4d	-do	4f	-do	4a	-do
+2D	poi	.	.	2d	poi	2f	poi	2a	poi
+4D	le	.	.	4d	le	4f	le	4a	le
+2D	pro-	.	.	2d	pro-	2f	pro-	2a	pro-
+4C	-pire	.	.	4e	-prie	4g	-prie	4cc	-prie
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+2F	no-	2r	.	2f	no-	2a	no-	2cc	no-
+2F	-te,	4r	.	4f	-te,	4a	-te,	4cc	-te,
+.	.	4A	E in	4f	E in	4a	E in	4cc	E in
+1r	.	4A	ri-	4e	ri-	4a	ri-	4cc	ri-
+.	.	4A	-le-	4e	-le-	4a	-le-	4cc	-le-
+.	.	4A	-gen-	4e	-gen-	4a	-gen-	4cc	-gen-
+.	.	4A	-do	4e	-do	4a	-do	4cc	-do
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+0r	.	2A	poi	2e	poi	2a	poi	2cc	poi
+.	.	4A	le	4e	le	4a	le	4cc	le
+.	.	2A	pro-	2e	pro-	2a	pro-	2cc	pro-
+.	.	4G	-prie	4g	-prie	4b	-prie	4dd	-pire
+.	.	2c	no-	2g	no-	2cc	no-	2ee	no-
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+0r	.	2.c	-te	2.g	-te	2.cc	-te	2.ee	-te
+.	.	4F	Spar-	4f	Spar-	4a	Spar-	4cc	Spar-
+.	.	2F	-gea	2f	-gea	2a	-gea	2cc	-gea
+.	.	2A	di	2e	di	2a	di	2cc#X	di
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+0r	.	2.D	pian-	1d	pian-	1f#X	pian-	1a	pian-
+.	.	4D	-to	.	.	.	.	.	.
+.	.	2D	le	2d	-to	2f#X	-to	2a	-to
+.	.	2D	ver-	4d	le	4f#X	le	4a	le
+.	.	.	.	4d	ver-	4f#X	ver-	4a	ver-
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
+0r	.	2.D	-mi-	2d	-mi-	4f#X	-mi-	2b-X	-mi-
+.	.	.	.	.	.	4d	-glie	.	.
+.	.	.	.	2d	-glie	1g	go-	2b-i	-glie
+.	.	4D	-glie	.	.	.	.	.	.
+.	.	1D	go-	1d	go-	.	.	1a	go-
+.	.	.	.	.	.	2f#X	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
+2r	.	2G	-te,	2d	-te,	2g	-te,	2g	-te,
+4r	.	4r	.	4r	.	4r	.	4r	.
+4E	E in	4G#X	E in	4B	E in	4e	E in	4g#X	E in
+4E	ri-	4G#i	ri-	4B	ri-	4e	ri-	4g#i	ri-
+4E	-le-	4G#i	-le-	4B	-le-	4e	-le-	4g#i	-le-
+4E	-gen-	4G#i	-gen-	4B	-gen-	4e	-gen-	4g#i	-gen-
+4E	-do	4G#i	-do	4B	-do	4e	-do	4g#i	-do
+=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
+2E	poi	2B	poi	2B	poi	2e	poi	2g#i	poi
+4E	le	4E	le	4B	le	4e	le	4g#i	le
+2E	pro-	2E	pro-	2B	pro-	2e	pro-	2g#i	pro-
+4D	-prie	4A	-prie	4d	-prie	4f	-prie	4a	-prie
+2G	no-	4.GnXi	no-	2d	no-	2g	go-	2b	go-
+.	.	8A	.	.	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53	=53
+2.G	-te	2B	.	2.d	-te	2.g	-te	2.b	-te
+.	.	4G	-te	.	.	.	.	.	.
+4C	Spar-	4G	Spar-	4c	Spar-	4e	Spar-	4gnXi	Spar-
+2C	-gea	2E	-gea	2c	-gea	2e	-gea	2g	-gea
+2E	di	2E	di	2B	di	2e	di	2g#X	di
+=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
+2.AA	pian-	1E	pian-	1A	pian-	2.c	pian-	1e	pian-
+4AA	-to	.	.	.	.	4c	-to	.	.
+2AA	le	2E	-to	2A	-to	4c	le	2e	-to
+.	.	.	.	.	.	4c	ver-	.	.
+2AA	ver-	4E	le	4A	le	[2c	-mi-	4e	le
+.	.	4E	ver-	4A	ver-	.	.	4e	ver-
+=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
+2.AA	-mi-	2E	-mi-	2.A	-mi-	4c]	.	2f	-mi-
+.	.	.	.	.	.	4A	-glie	.	.
+.	.	2D	-glie	.	.	1d	go-	2f	-glie
+4AA	-glie	.	.	4A	-glie	.	.	.	.
+1AA	go-	1E	no-	1A	go-	.	.	1e	go-
+.	.	.	.	.	.	2c#X	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
+0Dl	-te.	0Dl	-te.	0Al	-te.	0dl	-te.	0f#il	-te.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Emiliano Ricciardi
+!!!EEV: 2020/02/23
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/02/23

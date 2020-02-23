@@ -1,0 +1,288 @@
+!!!CDT:
+!!!PTL: Giardino musicale di varii eccellenti autori
+!!!PPP: Rome
+!!!PPR: Giovanni Battista Robletti
+!!!PDT: 1621
+!!!RISM: 1621/15
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg12077c
+!!!SCA: Tsg12077c
+!!!voices:
+!!!COM: Boschetti, Giovanni Boschetto
+!!!OTL: Vivrò fra i miei tormenti e fra le cure
+**kern	**kern	**text
+*part2	*part1	*part1
+*staff2	*staff1	*staff1
+*I"[Basso continuo]	*I"[Canto]	*
+*I'Bc	*I'C	*
+*oclefF4	*oclefC1	*
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*omet(C)	*omet(C)	*
+*M4/4	*M4/4	*
+=1	=1	=1
+!!LO:TX:a:t=PRIMA Parte.
+4G	4r	.
+4F	4b-y	Vi-
+4E-X	4.b-y	-vrò
+4D	.	.
+.	8b-y	fra
+=2	=2	=2
+4C	4cc	miei
+4F	4cc	tor-
+4BB-y	8.ddL	-men-
+.	16eeJk	.
+4C	8.ddL	.
+.	16eeJk	.
+=3	=3	=3
+4D	2ff	.
+4E	.	.
+4F	4cc	-ti e
+4G	8ccL	le
+.	8b-yJ	mie
+=4	=4	=4
+4F	2cc	pe-
+4FF	.	.
+4BB-y	2b-y	-ne,
+4C	.	.
+=5	=5	=5
+4D	2r	.
+4E	.	.
+2F	4r	.
+.	4cc	Mie
+=6	=6	=6
+4E-X	4cc	giu-
+4D	4b-y	-ste
+4C	2cc	fu-
+4D	.	.
+=7	=7	=7
+4E-X	2b-y	-rie,
+4C	.	.
+4D	4.a	for-
+4BB-y	.	.
+.	8b-y	-sen-
+=8	=8	=8
+4C	4g	-na-
+4D	4f	-to A-
+2C	2g	-man-
+=9	=9	=9
+4FF	2f	-te.
+4GG	.	.
+4AA	2r	.
+4BB-y	.	.
+=10	=10	=10
+2C	4r	.
+.	4ee	Pa-
+2D	4.dd	-ven-
+.	8cc	-ta-
+=11	=11	=11
+4GG	16b-yKL	-rò
+.	8.aJ	.
+4AA	16b-yKL	.
+.	8.ccJ	.
+4BB-y	8ddL	.
+.	8cc	.
+4C	8cc	.
+.	8b-yJ	.
+=12	=12	=12
+4D	2a	l'om-
+4E	.	.
+4F	4a	-bre
+4G	8gL	so-
+.	8fJ	.
+=13	=13	=13
+4A	4e	-lin-
+4B-y	4d	-gh'e
+4G	2e	scu-
+4A	.	.
+=14	=14	=14
+4D	2d	-re
+4E	.	.
+4F	2r	.
+4G	.	.
+=15	=15	=15
+4A	4r	.
+4AA	4cc	Ch'il
+4BB-y	4.b-y	pri-
+4C	.	.
+.	8a	-mo er-
+=16	=16	=16
+4FF	16aLL	-ror
+.	16b-y	.
+.	16cc	.
+.	16ddJJ	.
+4GG	16b-yLL	.
+.	16cc	.
+.	16dd	.
+.	16eeJJ	.
+4AA	16ccLL	.
+.	16b-y	.
+.	16cc	.
+.	16aJJ	.
+4BB-y	16ddLL	.
+.	16cc	.
+.	16b-y	.
+.	16aJJ	.
+=17	=17	=17
+4C	4g	.
+4D	4g	mi
+4E-X	4g	ri-
+4C	4a	-che-
+=18	=18	=18
+4.D	4a	-ran-
+.	4a	-no a-
+8C	.	.
+4D	2a	-van-
+4DD	.	.
+=19	=19	=19
+1GG	1g	-te.
+=20||	=20||	=20||
+!!LO:TX:a:t=SECONDA Parte.
+4G	2r	.
+4F	.	.
+4E-X	4r	.
+4D	8aL	E
+.	8b-yJ	del
+=21	=21	=21
+4C	4cc	sol,
+4F	8b-yL	che
+.	8ccJ	sco-
+4BB-y	8ddL	-prì
+.	16eeL	.
+.	16ffJJ	.
+4C	8ee-XL	.
+.	8ddJ	.
+=22	=22	=22
+4D	8ccL	.
+.	8ddJ	.
+4E	16ee-XLL	.
+.	16dd	.
+.	16cc	.
+.	16b-yJJ	.
+4F	8aL	.
+.	8a	le
+4G	8b-y	mie
+.	8b-yJ	sven-
+=23	=23	=23
+4F	4.b-y	-tu-
+4FF	.	.
+.	8a	.
+4BB-y	2b-y	-re,
+4C	.	.
+=24	=24	=24
+4D	2r	.
+4E	.	.
+2F	4r	.
+.	4a	A
+=25	=25	=25
+4E-X	4.cc	schi-
+4D	.	.
+.	8b-y	-vo ed
+4C	4.b-y	in
+4D	.	.
+.	8a	or-
+=26	=26	=26
+4E-X	8.gL	-ror
+.	16aJk	.
+4C	8.gL	.
+.	16aJk	.
+4D	4.f	.
+4BB-y	.	.
+.	8g	ha-
+=27	=27	=27
+4C	4e	-vrò il
+4D	4f	sem-
+2C	4.f	-bian-
+.	8e	.
+=28	=28	=28
+4FF	2f	-te.
+4GG	.	.
+4AA	2r	.
+4BB-y	.	.
+=29	=29	=29
+2C	4r	.
+.	8gL	Te-
+.	8gJ	-me-
+2D	4g	-rò
+.	8gL	me
+.	8f#XJ	me-
+=30	=30	=30
+4GG	8gL	-de-
+.	8g	-smo,
+4AA	8b-y	<Te-
+.	8b-yJ	-me-
+4BB-y	4b-y	-rò
+4C	8b-yL	me
+.	8aJ	me-
+=31	=31	=31
+4D	16aLL	-de-
+.	16g	.
+.	16a	.
+.	16fJJ	.
+4E	16gLL	.
+.	16e	.
+.	16f	.
+.	16gJJ	.
+4F	16aLL	.
+.	16g	.
+.	16f	.
+.	16eJJ	.
+4G	8dL	-smo,>
+.	8gJ	e
+=32	=32	=32
+4A	4.f	da
+4B-y	.	.
+.	8g	me
+4G	2e	stes-
+4A	.	.
+=33	=33	=33
+4D	2d	-so
+4E	.	.
+4F	2r	.
+4G	.	.
+=34	=34	=34
+4A	4r	.
+4AA	8r	.
+.	8cc	Sem-
+4BB-y	8b-yL	-pre
+.	8a	fug-
+4C	8g	-gen-
+.	8ccJ	-d'ha-
+=35	=35	=35
+4FF	8aL	-vrò,
+.	8a	<Sem-
+4GG	8g	-pre
+.	8fJ	fug-
+4AA	8eL	-gen-
+.	8a	-d'ha-
+4BB-y	8f	-vrò,>
+.	8ddJ	<Sem-
+=36	=36	=36
+4C	8ccL	-pre
+.	8b-y	fug-
+4D	8a	-gen-
+.	8ddJ	-d'ha-
+4E-X	4.b-y	-vrò>
+4C	.	.
+.	8cc	me
+=37	=37	=37
+4.D	4a	sem-
+.	4a	-pre ap-
+8C	.	.
+4D	2a	-pres-
+4DD	.	.
+=38	=38	=38
+1GGl	1gl	-so.
+==	==	==
+*-	*-	*-
+!!!system-decoration: [(s1)(s2)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/02/23
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/02/23
