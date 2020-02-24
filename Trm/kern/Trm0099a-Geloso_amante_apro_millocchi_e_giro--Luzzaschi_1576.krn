@@ -592,6 +592,7 @@
 .	.	1r	.	.	.	1g	-le,	1b	-le,
 =83	=83	=83	=83	=83	=83	=83	=83	=83	=83
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*col	*	*col	*	*col	*	*col	*	*col	*
 0D	Ne	1d	Ne	0f	Ne	0a	Ne	0dd	Ne
 .	.	0A	le	.	.	.	.	.	.
 1AA	le	.	.	1e	le	1a	le	1cc	le
@@ -637,6 +638,7 @@
 1F	be-	1d	be-	1d	be-	0a	-a-	1a	be-
 0E	-a-	1c	-a-	0e	-a-	.	.	0ee	-a-
 .	.	1B	.	.	.	1g#i	.	.	.
+*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*
 =94	=94	=94	=94	=94	=94	=94	=94	=94	=94
 0.AAl	-to.	0.Al	-to.	0.el	-to.	0.al	-to.	0.cc#Xl	-to.
 ==	==	==	==	==	==	==	==	==	==
