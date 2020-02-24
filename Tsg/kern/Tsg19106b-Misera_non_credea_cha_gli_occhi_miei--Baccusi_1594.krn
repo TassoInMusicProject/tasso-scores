@@ -203,7 +203,7 @@
 1el	-glio?	1bl	-glio?	1g#Xl	-glio?
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)]
+!!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

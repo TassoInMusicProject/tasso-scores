@@ -276,7 +276,7 @@
 00GGl	00gl	-te.
 =	=	=
 *-	*-	*-
-!!!system-decoration: [(s1)(s2)]
+!!!system-decoration: [*]
 !!!RDF**kern: > = above
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

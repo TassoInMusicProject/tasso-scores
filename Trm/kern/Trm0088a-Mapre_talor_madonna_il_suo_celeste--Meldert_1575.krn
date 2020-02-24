@@ -479,7 +479,7 @@
 0Gl	-glie?	0Gl	-glie?	0dl	-glie?	0gl	-glie?	0bl	-glie?
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [*]
 !!!YEM:	Leonardo Meldert, "M'apre tal'hor madonna il suo celeste," 1578 (Trm 0088a; 10 Jun 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

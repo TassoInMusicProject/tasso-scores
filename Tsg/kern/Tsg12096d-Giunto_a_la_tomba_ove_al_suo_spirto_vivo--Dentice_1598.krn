@@ -209,7 +209,7 @@
 0Bl	-se.>	0el	-se.>	0al	-se.>	0bl	-se.>
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)]
+!!!system-decoration: [*]
 !!!YEM:	Scipione Dentice, “Giunto a la tomba,” 1598 (Tsg12096d; August 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2016 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

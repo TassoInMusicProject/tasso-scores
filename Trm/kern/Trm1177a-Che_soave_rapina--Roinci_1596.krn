@@ -418,7 +418,7 @@
 1GGl	-ne!>	1BnXl	-ne!	1dl	-ne!>
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)]
+!!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

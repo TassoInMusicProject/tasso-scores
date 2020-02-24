@@ -256,7 +256,7 @@
 0Gl	-re.	0Gl	-re.	0gl	-re.	0ddl	-re.	0bnXl	-re.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [*]
 !!!YEM:	Stefano Felis, "Io non posso gioire," 1591 (Trm 0023c; 25 Sep 2017) Tasso in Music Project (http://www.tassomusic.org) Copyright 2017 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

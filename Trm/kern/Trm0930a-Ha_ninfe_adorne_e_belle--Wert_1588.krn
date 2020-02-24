@@ -544,7 +544,7 @@
 1Cl	-rie.	1cl	-rie.	1Gl	-rie.	1gl	-rie.	1ccl	-rie.	1eel	-rie.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)(s6)]
+!!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

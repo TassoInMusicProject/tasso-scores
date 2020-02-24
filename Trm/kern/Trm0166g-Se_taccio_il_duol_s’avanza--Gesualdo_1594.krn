@@ -216,7 +216,7 @@
 [1AAl	-ghi.	[1Al	-ghi.	[1c#Xl	-ghi.	[1el	-ghi.	[1al	-ghi.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [*]
 !!!YEM:	Carlo Gesualdo, “Se taccio, il duol s’avanza,” 1594 (Trm0166g; August 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2016 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

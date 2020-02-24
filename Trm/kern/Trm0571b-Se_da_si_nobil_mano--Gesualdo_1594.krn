@@ -425,7 +425,7 @@
 0Gl	-ro.	0d]	.	0Bl	-ro.	0gl	-ro.	0ddl	-ro.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [*]
 !!!YEM:	Carlo Gesualdo, “Se da sì nobil mano,” 1594 (Trm0571b; August 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2016 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

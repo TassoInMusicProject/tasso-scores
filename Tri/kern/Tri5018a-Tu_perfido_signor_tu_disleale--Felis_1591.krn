@@ -317,7 +317,7 @@
 0Al	-sce!	0Al	-sce!	0al	-sce!	0el	-sce!	0cc#Xl	-sce!
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [*]
 !!!YEM:	Stefano Felis, "Tu perfido Signor, tu disleale," 1591 (Tri 5018a; 13 Sep 2017) Tasso in Music Project (http://www.tassomusic.org) Copyright 2017 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

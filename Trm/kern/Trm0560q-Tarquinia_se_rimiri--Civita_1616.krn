@@ -171,7 +171,7 @@
 1FFl	1FFl	-le.	1fl	-le.
 ==	==	==	==	==
 *-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)]
+!!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

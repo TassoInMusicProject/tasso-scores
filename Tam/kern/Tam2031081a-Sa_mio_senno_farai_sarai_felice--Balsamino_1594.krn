@@ -345,7 +345,7 @@
 0Cl	-pa.	0cl	-pa.	0Gl	-pa.	0el	-pa.	0ccl	-pa.	0gl	-pa.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)(s6)]
+!!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

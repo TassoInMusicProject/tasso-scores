@@ -306,7 +306,7 @@
 2Dl	-ce.”	2Al	-ce.”	2f#Xl	-ce.”	2ddl	-ce.”	2ddl	-ce.”
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

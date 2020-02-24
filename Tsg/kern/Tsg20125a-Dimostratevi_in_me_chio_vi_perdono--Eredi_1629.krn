@@ -370,7 +370,7 @@
 1GGl	.	1GGl	-re.	1Gl	-re.	1Bl	-re.	1dl	-re	1gl	-re>.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]s6
+!!!system-decoration: [*]s6
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

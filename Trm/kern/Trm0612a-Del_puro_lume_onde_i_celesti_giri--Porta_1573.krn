@@ -533,7 +533,7 @@
 0El	-ti.	0G#Xl	-ti.	0Bl	-ti.	0el	-ti.	0bl	-ti.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [*]
 !!!YEM:	Costanzo Porta, "Del puro lume onde i celesti giri" 1573 (Trm 0612a; 20 Oct 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

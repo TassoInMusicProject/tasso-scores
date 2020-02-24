@@ -332,7 +332,7 @@
 0Gl	-i.	0dl	-i.	0Gl	-i.	0gl	-i.	0bnXl	-i.>	0ddl	-i.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)(s6)]
+!!!system-decoration: [*]
 !!!YEM:	Stefano Felis, "Al vostro dolce azzurro" 1579 (Trm 0614b; 21 Oct 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

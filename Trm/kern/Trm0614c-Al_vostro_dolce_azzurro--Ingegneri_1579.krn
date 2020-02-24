@@ -348,7 +348,7 @@
 1Fl	-i.	1cl	-i.	1fl	-i.	1al	-i.
 ==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)]
+!!!system-decoration: [*]
 !!!YEM:	MArco Antonio Ingegneri, "Al vostro dolce azzurro" 1579 (Trm 0641c; 10 Oct 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

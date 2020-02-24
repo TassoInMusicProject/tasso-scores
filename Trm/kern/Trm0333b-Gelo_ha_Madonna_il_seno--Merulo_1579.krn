@@ -300,7 +300,7 @@
 0AAl	-re.>	0Al	-re.	0c#Xl	-re.	0el	-re.	0al	-re.	0eel	-re.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)(s6)]
+!!!system-decoration: [*]
 !!!YEM:	Claudio Merulo, "Gelo ha Madonn' il seno," 1579 (Trm 333b; 11 Sep 2017) Tasso in Music Project (http://www.tassomusic.org) Copyright 2017 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

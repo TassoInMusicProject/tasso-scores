@@ -371,7 +371,7 @@
 0FFl	-re.	0Cl	-re.>	0Fl	-re.>	0Al	-re.	0fl	-re.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [*]
 !!!YEM:	Leonardo Meldert, "Amor l'alma m'allaccia," 1578 (Trm 0048a; 6 Jun 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

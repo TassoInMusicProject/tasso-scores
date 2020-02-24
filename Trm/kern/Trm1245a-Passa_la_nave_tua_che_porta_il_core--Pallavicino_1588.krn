@@ -1015,7 +1015,7 @@ Cut-Circle3	*	Cut-Circle3	*	Cut-Circle3	*	Cut-Circle3	*	Cut-Circle3	*
 1GGl	-to.	1dl	-to.	1Gl	-to.	1gl	-to.	1bl	-to.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

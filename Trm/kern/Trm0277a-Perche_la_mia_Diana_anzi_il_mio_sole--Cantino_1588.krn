@@ -522,7 +522,7 @@
 0A;l	-ro.	0A;l	-ro.	0e;l	-ro.	0cc#X;l	-ro.	0a;l	-ro.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

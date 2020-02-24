@@ -283,7 +283,7 @@
 0dl	-gi.	0Gl	-gi.
 ==	==	==	==
 *-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)]
+!!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

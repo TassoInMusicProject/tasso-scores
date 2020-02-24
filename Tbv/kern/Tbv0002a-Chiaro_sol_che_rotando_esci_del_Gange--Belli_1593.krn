@@ -503,7 +503,7 @@
 0EEl	-bo.	0el	-bo.	0El	-bo.	0Bl	-bo.	0bl	-bo.	0g#Xl	-bo.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5,s6)]
+!!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

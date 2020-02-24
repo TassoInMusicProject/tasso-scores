@@ -222,7 +222,7 @@
 0AA;l	-to.	0cc#X;l	-to.
 ==	==	==	==
 *-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)]
+!!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

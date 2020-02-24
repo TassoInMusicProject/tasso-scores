@@ -501,7 +501,7 @@
 1AAl	1AAl	-ra.	1Al	-ra.	1Al	-ra.
 =:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
 *-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)]
+!!!system-decoration: [*]
 !!!RDF**kern: > = above
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

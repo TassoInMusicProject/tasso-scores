@@ -377,7 +377,7 @@
 0Al	-da.	0Al	-da.	0el	-da.	0al	-da.	0cc#Xl	-da.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [*]
 !!!YEM:	Carlo Gesualdo, “Non è questa la mano,” 1594 (Trm0047q; August 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2016 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

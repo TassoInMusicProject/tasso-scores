@@ -376,7 +376,7 @@
 1GG;l	.	1GG;l	-ta.	1G;l	-ta.	1G;l	-ta.	1d;l	-ta.	1bnX;l	-ta.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]s6
+!!!system-decoration: [*]s6
 !!!RDF**kern: > = above
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

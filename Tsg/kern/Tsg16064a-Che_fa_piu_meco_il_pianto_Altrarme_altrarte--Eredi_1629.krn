@@ -368,7 +368,7 @@
 1D;l	.	1D;l	-lo?	1D;l	-lo?>	1A;l	-lo?	1d;l	-lo?	1f#X;l	-lo?
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]s6
+!!!system-decoration: [*]s6
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

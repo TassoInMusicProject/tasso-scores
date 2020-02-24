@@ -428,7 +428,7 @@
 1Dl	.	1Dl	-de.	1Dl	-de.	1Al	-de.	1dl	-de.	1f#Xl	-de.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]s6
+!!!system-decoration: [*]s6
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

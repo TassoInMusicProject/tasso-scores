@@ -649,7 +649,7 @@
 .	.	.	.	.	.	1g#Xl	-da.	.	.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]
+!!!system-decoration: [*]
 !!!YEM:	Giovanni Agostino Veggio, "D'aria un tempo nudrimmi e cibo e vita" 1574 (Trm 0159a; 5 Oct Aug 2018) Tasso in Music Project (http://www.tassomusic.org) Copyright 2018 Emiliano Ricciardi
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
