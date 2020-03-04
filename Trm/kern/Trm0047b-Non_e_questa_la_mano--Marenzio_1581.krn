@@ -449,7 +449,7 @@
 0F;l	-da.	0F;l	-da.	0c;l	-da.	0f;l	-da.	0a;l	-da.	0cc;l	-da.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)(s6)]
+!!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
