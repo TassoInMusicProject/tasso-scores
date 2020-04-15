@@ -1,0 +1,161 @@
+!!!CDT:
+!!!PTL: Canzonette a tre, quattro e cinque voci. Libro terzo
+!!!PPP: Naples
+!!!PPR: Vitale
+!!!PDT: 1616
+!!!RISM: 1616-15
+!!!rime: 356
+!!!AGN: Madrigal
+!!!SCT: Trm0356a
+!!!SCA: Trm0356a
+!!!voices:
+!!!COM: Lambardi, Francesco
+!!!OTL: Corret'amanti a le dolcezze nove (i.e., "Correte amanti a le bellezze nove," Rime 356)
+**kern	**text	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto	*
+*clefF4	*	*clefG2	*
+*	*	*	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*M3/1	*	*M3/1	*
+=1	=1	=1	=1
+!!LO:TX:a:t=A 3. [Alto or Tenore missing] Questa Canzone imparticolare [sic] bisogna accompagnarla con l'instrumenti.
+0.r	.	0.r	.
+=2	=2	=2	=2
+0.r	.	1dd	Cor-
+.	.	1dd	-re-
+.	.	1cc	-t'a-
+=3	=3	=3	=3
+0.r	.	0.b	-man-
+=4	=4	=4	=4
+0.r	.	1g	-ti a
+.	.	1a	le
+.	.	1b	dol-
+=5	=5	=5	=5
+*	*	*	*
+0.r	.	0cc	-cez-
+.	.	1b	-ze
+=6	=6	=6	=6
+0.r	.	0.a	no-
+=7	=7	=7	=7
+0.r	.	0.g	-ve:
+=8	=8	=8	=8
+1r	.	1r	.
+0F	Don-	0cc	Don-
+=9	=9	=9	=9
+0F	-na,	0cc	-na,
+1D	c'ha	1b	c'ha
+=10	=10	=10	=10
+*	*	*	*
+0E	sì	0b	sì
+1E	be-	1a	be-
+=11	=11	=11	=11
+[0.AA	-gli oc-	[0.a	-gli oc-
+=12	=12	=12	=12
+1AA]	.	1a]	.
+0BB	-chi e	0g	-chi e
+=13	=13	=13	=13
+1C	sì	1g	sì
+0E	bel	0g	bel
+=14	=14	=14	=14
+0.D	vol-	0.a	vol-
+=15	=15	=15	=15
+0.GG	-to,	0.g	-to,
+=16!|:	=16!|:	=16!|:	=16!|:
+*	*	*	*
+1r	.	0.r	.
+1r	.	.	.
+1G	Che	.	.
+=17	=17	=17	=17
+0.E	sol,	1r	.
+.	.	0ee	Che
+=18	=18	=18	=18
+1r	.	0.cc#X	sol
+1r	.	.	.
+1AA	Che	.	.
+=19	=19	=19	=19
+[0.D	sol	0.r	.
+=20	=20	=20	=20
+*	*	*	*
+1D]	.	1r	.
+0BB	mi	0g	mi-
+=21	=21	=21	=21
+0AA	ran-	0a	-ran-
+1GG	-do ha	1b	-do ha
+=22	=22	=22	=22
+0.AA	tol-	0.cc	tol-
+=23	=23	=23	=23
+1GG	-to	0.b	-to
+0G	L'ar-	.	.
+=24	=24	=24	=24
+1F#X	-co ad	1r	.
+0F#i	A-	[0dd	L'ar-
+=25	=25	=25	=25
+*	*	*	*
+1G	-mo-	1dd]	.
+0E	-r'e	1cc#X	-co ad
+.	.	1cc#i	A-
+=26	=26	=26	=26
+0D	le	1dd	-mo-
+.	.	0a	-r'e
+1D	sa-	.	.
+=27	=27	=27	=27
+0G	-et-	0b	le
+1E	-te a	1g	sa-
+=28	=28	=28	=28
+1.F	Gio-	0a	-et-
+2G	.	.	.
+[1A	.	1cc	-te a
+=29	=29	=29	=29
+*	*	*	*
+(1A]	.	0cc	Gio-
+0G)	.	.	.
+.	.	1b	.
+=30	=30	=30	=30
+1C	-ve,	0.cc	-ve,
+0c	L'ar-	.	.
+=31	=31	=31	=31
+1B	-co ad	0.r	.
+1B	A-	.	.
+1c	-mo-	.	.
+=32	=32	=32	=32
+1A	-re,	1r	.
+0A	L'ar-	0cc	L'ar-
+=33	=33	=33	=33
+*	*	*	*
+1G	-co ad	1b	-co ad
+1G	A-	1b	A-
+1C	-mo-	1cc	-mo-
+=34	=34	=34	=34
+0.D	-r'e	0.a	-r'e
+=35	=35	=35	=35
+0G	le	1.b	le
+.	.	2cc	.
+1F	sa-	[1dd	.
+=36	=36	=36	=36
+0E	-et-	(1dd]	.
+.	.	0ee)	.
+1D	.	.	.
+=37	=37	=37	=37
+1.C	.	1a	sa-
+.	.	0a	-et-
+2D	.	.	.
+1E	.	.	.
+=38	=38	=38	=38
+1C	-te a	1a	-te a
+0D	Gio-	0a	Gio-
+=39	=39	=39	=39
+0.GGl	-ve.	0.gl	-ve.
+=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Schleuse, Paul
+!!!EEV: 2020/04/15
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/04/15
