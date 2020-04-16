@@ -542,7 +542,7 @@
 0Gl	-zo.	0Gl	-zo.	0dl	-zo.	0gl	-zo.	0bl	-zo.	0ddl	-zo.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [(s1,s2,s3,s4,s5,s6)]
+!!!system-decoration: [*]
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
