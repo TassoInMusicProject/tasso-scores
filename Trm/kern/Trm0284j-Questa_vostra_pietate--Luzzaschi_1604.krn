@@ -1,0 +1,214 @@
+!!!CDT:
+!!!PTL: Il settimo libro de madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: Giacomo Vincenzi
+!!!PDT: 1604
+!!!RISM: L 3130
+!!!rime: 284
+!!!AGN: Madrigal
+!!!SCT: Trm0284j
+!!!SCA: Trm0284j
+!!!voices:
+!!!COM: Luzzaschi, Luzzasco
+!!!OTL: Questa vostra pietate 
+**kern	**text	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto	*
+*I'B	*	*I'C	*
+*oclefF4	*	*oclefC1	*
+*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*omet(C|)	*	*omet(C|)	*
+*M2/1	*	*M2/1	*
+=1	=1	=1	=1
+1E	Que-	0r	.
+2C	-sta	.	.
+2D	vo-	.	.
+=2	=2	=2	=2
+2E	-stra	1r	.
+2E	pie-	.	.
+1AA	-ta-	2r	.
+.	.	2ee	Que-
+=3	=3	=3	=3
+2E	-te	2ee	-sta
+2BB	Non	2dd	vo-
+4.C	re-	2cc	-stra
+8C	-fri-	.	.
+4C	-ge-	2cc	pie-
+4C	-rio al	.	.
+=4	=4	=4	=4
+2D	co-	1a	-ta-
+2AA	-re,	.	.
+2r	.	2g#X	-te
+2AA	Non	2a	Non
+=5	=5	=5	=5
+4.E	re-	4.b	re-
+8E	-fri-	8b	-fri-
+4A	-ge-	4cc	-ge-
+4AA	-rio al	4cc	-rio al
+2E	co-	2b	co-
+2AA	-re	2a	-re
+=6	=6	=6	=6
+2.D	Ma	2.a	Ma
+4GG	dà	4b	dà
+2C	for-	2cc	for-
+2C	-za,	2cc	-za,
+=7	=7	=7	=7
+4r	.	4r	.
+2C	Ma	2g	Ma
+4AA	dà	4cc	dà
+1GG	for-	2b	for-
+.	.	2dd	-za a
+=8	=8	=8	=8
+2AA	-za a	2cc	l'ar-
+2BB	l'ar-	2.b	-do-
+2.C	-do-	.	.
+.	.	4a	.
+.	.	[2a	.
+4D	.	.	.
+=9	=9	=9	=9
+1E	.	2a]	.
+.	.	2g#i	.
+1AA	-re;	1a	-re;
+=10	=10	=10	=10
+0r	.	1r	.
+.	.	1f	Dun-
+=11	=11	=11	=11
+0r	.	2e	-que
+.	.	2.e	d'es-
+.	.	4e	-ser
+.	.	2a	pie-
+=12	=12	=12	=12
+0r	.	2g#X	-to-
+.	.	2a	-sa ho-
+.	.	2b	-mai,
+.	.	4r	.
+.	.	4dd	ho-
+=13	=13	=13	=13
+2r	.	2ee	-mai
+2AA	In	2cc	ces-
+4AA	co-	2a	-sa-
+4BB	-sì	.	.
+[2C	stra-	2gnXi	-te
+=14	=14	=14	=14
+4C]	.	2e	In
+4D	-na	.	.
+1E	gui-	4e	co-
+.	.	4f	-sì
+.	.	2.g	stra-
+2E	-sa	.	.
+.	.	4a	-na
+=15	=15	=15	=15
+0r	.	2b	gui-
+.	.	2b	-sa
+.	.	4r	.
+.	.	2b	Che
+.	.	4a	ne
+=16	=16	=16	=16
+2r	.	2b	sia
+4r	.	2cc	l'al-
+2A	Che	.	.
+.	.	2b	-ma uc-
+4G#X	ne	.	.
+2A	sia	2a	-ci-
+=17	=17	=17	=17
+2F	l'al-	2a	-sa;
+2E	-ma uc-	2r	.
+2D	-ci-	1r	.
+2AA	-sa;	.	.
+=18	=18	=18	=18
+1r	.	1r	.
+2r	.	2r	.
+2D	Per-	2a	Per-
+=19	=19	=19	=19
+2.D	-ch'el-	2.a	-ch'el-
+4BB	-la	4dd	-la
+4C	vi	4cc	vi
+4GG	de-	4b	de-
+2D	-si-	2a	-si-
+=20	=20	=20	=20
+1GG	-a	2b	-a
+.	.	1dd	O in
+1r	.	.	.
+.	.	2dd	e-
+=21	=21	=21	=21
+0r	.	1.ee	-stre-
+.	.	2dd	-mo
+=22	=22	=22	=22
+0r	.	2cc#X	cru-
+.	.	2.dd	-de-
+.	.	8cc#iL	.
+.	.	8bJ	.
+.	.	2cc#i	.
+=23	=23	=23	=23
+1.D	O in	1dd	-le
+.	.	1r	.
+2D	e-	.	.
+=24	=24	=24	=24
+1E	-stre-	0r	.
+2E	-mo	.	.
+2E	cru-	.	.
+=25	=25	=25	=25
+1E	-de-	1r	.
+1D	-le	2r	.
+.	.	2a	o in
+=26	=26	=26	=26
+0r	.	1cc	tut-
+.	.	1g	-to
+=27	=27	=27	=27
+0r	.	0f	pi-
+=28	=28	=28	=28
+1AA	o in	1e	-a,
+1C	tut-	1r	.
+=29	=29	=29	=29
+1GG	-to	0r	.
+[1BB-X	pi-	.	.
+=30	=30	=30	=30
+1BB-]	.	1r	.
+1AA	-a,	2r	.
+.	.	[2a	O in
+=31	=31	=31	=31
+0r	.	2a]	.
+.	.	2a	e-
+.	.	[1b	-stre-
+=32	=32	=32	=32
+0r	.	2b]	.
+.	.	2a	-mo
+.	.	2g#X	cru-
+.	.	[2a	-de-
+=33	=33	=33	=33
+0r	.	4a]	.
+.	.	8g#iL	.
+.	.	8f#iJ	.
+.	.	2g#X	.
+.	.	[1a	-le
+=34	=34	=34	=34
+0r	.	1a]	.
+.	.	2r	.
+.	.	2a	o in
+=35	=35	=35	=35
+0r	.	1cc	tut-
+.	.	1g	-to
+=36	=36	=36	=36
+0r	.	0f	pi-
+=37	=37	=37	=37
+1AA	o in	[0el	-a.
+1C	tut-	.	.
+=38	=38	=38	=38
+1AA	-to	0e_	.
+1AA	pi-	.	.
+=39	=39	=39	=39
+0EEl	-a.	0e]	.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/07/28
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/07/28

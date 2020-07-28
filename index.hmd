@@ -81,6 +81,7 @@ Trm/kern/Trm0047c-Non_egrave_questa_la_mano--Serafico_1581.krn	Trm0047c	Y	.	Trm0
 Trm/kern/Trm0047d-Non_e_questa_la_mano--Cortellini_1583.krn	Trm0047d	Y	.	Trm0047d <link>Non è questa la mano(Cortellini, 1583)</link>
 Trm/kern/Trm0047e-Non_e_questa_la_mano--Malvezzi_1584.krn	Trm0047e	Y	.	Trm0047e <link>Non è questa la mano(Malvezzi, 1584)</link>
 Trm/kern/Trm0047f-Non_e_questa_la_mano--Mazza_1584.krn	Trm0047f	Y	.	Trm0047f <link>Non è questa la mano(Mazza, 1584)</link>
+Trm/kern/Trm0047g-Non_e_questa_la_mano--Scozzese_1584.krn	Trm0047g	Y	.	Trm0047g <link>Non è questa la mano(Scozzese, 1584)</link>
 Trm/kern/Trm0047i-Non_e_questa_la_mano--Duc_1586.krn	Trm0047i	Y	.	Trm0047i <link>Non è questa la mano(Duc, 1586)</link>
 Trm/kern/Trm0047l-Non_e_questa_la_mano--Gastoldi_1588.krn	Trm0047l	Y	.	Trm0047l <link>Non è questa la mano(Gastoldi, 1588)</link>
 Trm/kern/Trm0047m-Non_e_questa_la_mano--Giovannelli_1588.krn	Trm0047m	Y	.	Trm0047m <link>Non è questa la mano(Giovannelli, 1588)</link>
@@ -201,6 +202,7 @@ Trm/kern/Trm0284c-Questa_vostra_pietate.krn	Trm0284c	Y	.	Trm0284c <link>Questa v
 Trm/kern/Trm0284e-Questa_vostra-pietate--Monte_1591.krn	Trm0284e	Y	.	Trm0284e <link>Questa vostra pietate(Monte, 1591)</link>
 Trm/kern/Trm0284g-Questa_vostra_pietate--Dentice_1598.krn	Trm0284g	Y	.	Trm0284g <link>Questa vostra pietate(Dentice, 1598)</link>
 Trm/kern/Trm0284i-Questa_vostra_pietate--DiCostanzo_1604.krn	Trm0284i	Y	.	Trm0284i <link>Questa vostra pietate(Di Costanzo, 1604)</link>
+Trm/kern/Trm0284j-Questa_vostra_pietate--Luzzaschi_1604.krn	Trm0284j	Y	.	Trm0284j <link>Questa vostra pietate(Luzzaschi, 1604)</link>
 Trm/kern/Trm0284k-Questa_vostra_pietate--Civita_1616.krn	Trm0284k	Y	.	Trm0284k <link>Questa vostra pietate(Civita, 1616)</link>
 Trm/kern/Trm0288c-Amatemi_ben_mio--Giovannelli_1586.krn	Trm0288c	Y	.	Trm0288c <link>Amatemi, ben mio(Giovannelli, 1586)</link>
 Trm/kern/Trm0288e-Amatemi_ben_mio--Macque_1589.krn	Trm0288e	Y	.	Trm0288e <link>Amatemi, ben mio(Macque, 1589)</link>
@@ -385,7 +387,9 @@ Tsg/kern/Tsg01003a-Sai_che_la_corre_il_mondo_ove_piu_versi--Priuli_1604.krn	Tsg0
 Tsg/kern/Tsg03008a-Dunque_ove_tu_signor_di_mille_rivi--Mazzocchi_1640.krn	Tsg03008a	Y	.	Tsg03008a <link>Dunque ove tu, Signor, di mille rivi(Mazzocchi, 1640)</link>
 Tsg/kern/Tsg04029a-Argo_non_mai_non_vide_Cipro_o_Delo--DIndia_1615.krn	Tsg04029a	Y	.	Tsg04029a <link>Argo non mai, non vide Cipro o Delo(D'India, 1615)</link>
 Tsg/kern/Tsg04030a-Fa_nove_crespe_laura_al_crin_disciolto--Cifra_1615.krn	Tsg04030a	Y	.	Tsg04030a <link>Fa nove crespe l'aura al crin disciolto(Cifra, 1615)</link>
+Tsg/kern/Tsg04030b-Fa_nove_crespe_laura_al_crin_disciolto--DIndia_1615.krn	Tsg04030b	Y	.	Tsg04030b <link>Fa nove crespe l'aura al crin disciolto(D'India, 1615)</link>
 Tsg/kern/Tsg06103a-Era_la_notte_el_suo_stellato_velo--IlVerso_1603.krn	Tsg06103a	Y	.	Tsg06103a <link>Era la notte e 'l suo stellato velo(Il Verso, 1603)</link>
+Tsg/kern/Tsg06103b-Era_la_notte_el_tuo_stellato_velo--Cifra_1614.krn	Tsg06103b	Y	.	Tsg06103b <link>Era la notte e 'l suo stellato velo(Cifra, 1614)</link>
 Tsg/kern/Tsg06104a-Poi_rimirando_il_campo_ella_dicea--IlVerso_1603.krn	Tsg06104a	Y	.	Tsg06104a <link>Poi rimirando il campo ella dicea(Il Verso, 1603)</link>
 Tsg/kern/Tsg06105a-Raccogliete_in_me_dunque_e_in_voi_si_trove--IlVerso_1603.krn	Tsg06105a	Y	.	Tsg06105a <link>Raccogliete me dunque: e in voi si trove(Il Verso, 1603)</link>
 Tsg/kern/Tsg07019b-Sovente_allor_che_su_gli_estivi_ardori--DIndia_1609.krn	Tsg07019b	Y	.	Tsg07019b <link>Sovente, allor che su gli estivi ardori(D'India, 1609)</link>
@@ -420,10 +424,11 @@ Tsg/kern/Tsg12097f-Non_di_morte_sei_tu_ma_di_vivaci--Dentice_1598.krn	Tsg12097f	
 Tsg/kern/Tsg12098b-Dalli_lor_tu_che_se_mai_gli_occhi_gira--Dentice_1598.krn	Tsg12098b	Y	.	Tsg12098b <link>Dalli lor tu ché, se mai gli occhi gira(Dentice, 1598)</link>
 Tsg/kern/Tsg12099b-Ed_amando_morro_felice_giorno-Dentice_1598.krn	Tsg12099b	Y	.	Tsg12099b <link>Ed amando morrò: felice giorno(Dentice, 1598)</link>
 Tsg/kern/Tsg14001f-Usciva_omai_dal_molle_e_fresco_grembo--Caprioli_1602.krn	Tsg14001f	Y	.	Tsg14001f <link>Usciva omai dal molle e fresco grembo(Caprioli, 1602)</link>
+Tsg/kern/Tsg14001g-Usciva_omai_dal_molle_e_fresco_grembo--Cifra_1615.krn	Tsg14001g	Y	.	Tsg14001g <link>Usciva omai dal molle e fresco grembo(Cifra, 1615)</link>
 Tsg/kern/Tsg14062b-O_giovinetti_mentre_aprile_e_maggio--Camarella_1633.krn	Tsg14062b	Y	.	Tsg14062b <link>O giovinetti mentre aprile e maggio(Camarella, 1633)</link>
 Tsg/kern/Tsg16012d-Vezzosi_augelli_infra_le_verdi_fronde--Asola_1588.krn	Tsg16012d	Y	.	Tsg16012d <link>Vezzosi augelli infra le verdi fronde(Asola, 1588)</link>
 Tsg/kern/Tsg16012e-Vezzosi_augelli_infra_le_verdi_fronde--Molinaro_1600.krn	Tsg16012e	Y	.	Tsg16012e <link>Vezzosi augelli infra le verdi fronde(Molinaro, 1600)</link>
-Tsg/kern/Tsg16012f--Vezzosi_augelli_infra_le_verdi_fronde--Cifra_1613.krn	Tsg16012f	Y	.	Tsg16012f <link>Vezzosi augelli infra le verdi fronde(Cifra, 1613)</link>
+Tsg/kern/Tsg16012f-Vezzosi_augelli_infra_le_verdi_fronde--Cifra_1613.krn	Tsg16012f	Y	.	Tsg16012f <link>Vezzosi augelli infra le verdi fronde(Cifra, 1613)</link>
 Tsg/kern/Tsg16013a-Vola_fra_gli_altri_un_che_le_piume_ha_sparte--Molinaro_1600.krn	Tsg16013a	Y	.	Tsg16013a <link>Vola fra gli altri un che le piume ha sparte(Molinaro, 1600)</link>
 Tsg/kern/Tsg16014a-Deh_mira_egli_canto_spuntar_la_rosa--Molinaro_1600.krn	Tsg16014a	Y	.	Tsg16014a <link>"Deh mira," egli cantò, "spuntar la rosa(Molinaro, 1600)</link>
 Tsg/kern/Tsg16014b-Deh_mira_egli_canto_spuntar_la_rosa--Torscianello_1622.krn	Tsg16014b	Y	.	Tsg16014b <link>"Deh mira," egli cantò, "spuntar la rosa(Torscianello, 1622)</link>
@@ -439,13 +444,16 @@ Tsg/kern/Tsg16047b-Sia_questa_pur_tra_le_mie_frodi_e_vaglia--Baccusi_1594.krn	Ts
 Tsg/kern/Tsg16056a-Rimanti_in_pace_i_vado_a_te_non_lice--Eredi_1629.krn	Tsg16056a	Y	.	Tsg16056a <link>Rimanti in pace; i' vado: a te non lice(Eredi, 1629)</link>
 Tsg/kern/Tsg16059a-Vattene_pur_crudel_con_quella_pace--Monteverdi_1592.krn	Tsg16059a	Y	.	Tsg16059a <link>Vattene pur, crudel, con quella pace(Monteverdi, 1592)</link>
 Tsg/kern/Tsg16059b-Vattene_pur_crudel_con_quella_pace--Baccusi_1594.krn	Tsg16059b	Y	.	Tsg16059b <link>Vattene pur, crudel, con quella pace(Baccusi, 1594)</link>
+Tsg/kern/Tsg16059d-Vattene_pur_crudel_con_quella_pace--Cifra_1613.krn	Tsg16059d	Y	.	Tsg16059d <link>Vattene pur, crudel, con quella pace(Cifra, 1613)</link>
 Tsg/kern/Tsg16059f-Vattene_pur_crudel_con_quella_pace--Eredi_1629.krn	Tsg16059f	Y	.	Tsg16059f <link>Vattene pur, crudel, con quella pace(Eredi, 1629)</link>
 Tsg/kern/Tsg16060a-La_tra_l_sangue_e_le_morti_egro_giacente--Monteverdi_1592.krn	Tsg16060a	Y	.	Tsg16060a <link>Là tra 'l sangue e le morti egro giacente(Monteverdi, 1592)</link>
 Tsg/kern/Tsg16060b-La_tral_sangue_e_le_morti_egro_giacente--Baccusi_1594.krn	Tsg16060b	Y	.	Tsg16060b <link>Là tra 'l sangue e le morti egro giacente(Baccusi, 1594)</link>
 Tsg/kern/Tsg16060e-La_tral_sangue_e_le_morti_egro_giacente--DIndia_1609.krn	Tsg16060e	Y	.	Tsg16060e <link>Là tra 'l sangue e le morti egro giacente(D'India, 1609)</link>
+Tsg/kern/Tsg16060f-La_tra_l_sangue_e_le_morti_egro_giacente--Cifra_1613.krn	Tsg16060f	Y	.	Tsg16060f <link>Là tra 'l sangue e le morti egro giacente(Cifra, 1613)</link>
 Tsg/kern/Tsg16060h-La_tral_sangue_e_le_morti_egro_giacente--Eredi_1629.krn	Tsg16060h	Y	.	Tsg16060h <link>Là tra 'l sangue e le morti egro giacente(Eredi, 1629)</link>
 Tsg/kern/Tsg16061a-Chiudesti_i_lumi_Armida_il_cielo_avaro--Baccusi_1594.krn	Tsg16061a	Y	.	Tsg16061a <link>Chiudesti i lumi Armida: il cielo avaro(Baccusi, 1594)</link>
 Tsg/kern/Tsg16061b-Chiudesti_i_lumi_Armida_il_cielo_avaro--IlVerso_1603.krn	Tsg16061b	Y	.	Tsg16061b <link>Chiudesti i lumi Armida: il cielo avaro(Il Verso, 1603)</link>
+Tsg/kern/Tsg16061d-Chiudesti_i_lumi_Armida_il_cielo_avaro--Cifra_1613.krn	Tsg16061d	Y	.	Tsg16061d <link>Chiudesti i lumi Armida: il cielo avaro(Cifra, 1613)</link>
 Tsg/kern/Tsg16061f-Chiudesti_i_lumi_Armida_il_cielo_avaro--Eredi_1629.krn	Tsg16061f	Y	.	Tsg16061f <link>Chiudesti i lumi Armida: il cielo avaro(Eredi, 1629)</link>
 Tsg/kern/Tsg16062a-Or_che_fara_Dee_su_lignuda_arena--Eredi_1629.krn	Tsg16062a	Y	.	Tsg16062a <link>Or che farà? Dee su l'ignuda arena(Eredi, 1629)</link>
 Tsg/kern/Tsg16063a-Poi_chella_in_se_torno_deserto_e_muto--Montverdi_1592.krn	Tsg16063a	Y	.	Tsg16063a <link>Poi ch'ella in sé tornò, deserto e muto(Monteverdi, 1592)</link>
@@ -458,9 +466,11 @@ Tsg/kern/Tsg16066a-Questa_bellezza_mia_sara_mercede--Eredi_1629.krn	Tsg16066a	Y	
 Tsg/kern/Tsg17061a-Signor_non_sotto_lombra_in_piaggia_molle--Mazzocchi_1640.krn	Tsg17061a	Y	.	Tsg17061a <link>Signor, non sotto l'ombra in piaggia molle(Mazzocchi, 1640)</link>
 Tsg/kern/Tsg19106b-Misera_non_credea_cha_gli_occhi_miei--Baccusi_1594.krn	Tsg19106b	Y	.	Tsg19106b <link>Misera, non credea ch'a gli occhi miei(Baccusi, 1594)</link>
 Tsg/kern/Tsg19106c-Misera_non_credea_cha_gli_occhi_miei--DIndia_1609.krn	Tsg19106c	Y	.	Tsg19106c <link>Misera, non credea ch'a gli occhi miei(D'India, 1609)</link>
+Tsg/kern/Tsg19106d-Misera_non_credea_cha_gli_occhi_miei--Cifra_1614.krn	Tsg19106d	Y	.	Tsg19106d <link>Misera, non credea ch'a gli occhi miei(Cifra, 1614)</link>
 Tsg/kern/Tsg19106g-Misera_non_credea_cha_gli_occhi_miei--Negri_1635.krn	Tsg19106g	Y	.	Tsg19106g <link>Misera, non credea ch'a gli occhi miei(Negri, 1635)</link>
 Tsg/kern/Tsg19107b-Ma_che_squallido_e_scuro_anco_mi_piaci--Baccusi_1594.krn	Tsg19107b	Y	.	Tsg19107b <link>Ma che? squallido e scuro anco mi piaci(Baccusi, 1594)</link>
 Tsg/kern/Tsg19107c-Ma_che_squallido_e_scuro_anco_mi_piaci--DIndia_1609.krn	Tsg19107c	Y	.	Tsg19107c <link>Ma che? squallido e scuro anco mi piaci(D'India, 1609)</link>
+Tsg/kern/Tsg19107d-Ma_che_squallido_e_scuro_anco_mi_piaci--Cifra_1614.krn	Tsg19107d	Y	.	Tsg19107d <link>Ma che? squallido e scuro anco mi piaci(Cifra, 1614)</link>
 Tsg/kern/Tsg19107e-Ma_che_squallido_e_scuro_anco_mi_piaci--Negri_1635.krn	Tsg19107e	Y	.	Tsg19107e <link>Ma che? squallido e scuro anco mi piaci(Negri, 1635)</link>
 Tsg/kern/Tsg19108a-Pietosa_bocca_che_solevi_in_vita--Cifra_1613.krn	Tsg19108a	Y	.	Tsg19108a <link>Pietosa bocca che solevi in vita(Cifra, 1613)</link>
 Tsg/kern/Tsg20123a-Piacquele_assai_che_n_quelle_valli_ombrose--Eredi_1629.krn	Tsg20123a	Y	.	Tsg20123a <link>Piacquele assai che 'n quelle valli ombrose(Eredi, 1629)</link>
@@ -472,6 +482,7 @@ Tsg/kern/Tsg20128a-Si_volse_Armida_el_rimiro_improvviso--Cifra_1613.krn	Tsg20128
 Tsg/kern/Tsg20128b-Si_volse_Armida_e_l_rimiro_improvviso--Eredi_1629.krn	Tsg20128b	Y	.	Tsg20128b <link>Si volse Armida, e 'l rimirò improvviso(Eredi, 1629)</link>
 Tsg/kern/Tsg20129a-E_l_bel_volto_e_l_bel_seno_a_la_meschina--Eredi_1629.krn	Tsg20129a	Y	.	Tsg20129a <link>E 'l bel volto e 'l bel seno a la meschina(Eredi, 1629)</link>
 Tsg/kern/Tsg20130a-E_con_man_languidetta_il_forte_braccio--Eredi_1629.krn	Tsg20130a	Y	.	Tsg20130a <link>E con man languidetta il forte braccio(Eredi, 1629)</link>
+Tsg/kern/Tsg20131a-O_sempre_e_quando_parti_e_quando_torni--Cifra_1614.krn	Tsg20131a	Y	.	Tsg20131a <link>O sempre, e quando parti e quando torni(Cifra, 1614)</link>
 Tsg/kern/Tsg20131b-O_sempre_e_quando_parti_e_quando_torni--Eredi_1629.krn	Tsg20131b	Y	.	Tsg20131b <link>O sempre, e quando parti e quando torni(Eredi, 1629)</link>
 Tsg/kern/Tsg20132a-Certo_e_scemo_il_tuo_onor_se_non_saddita--Cifra_1614.krn	Tsg20132a	Y	.	Tsg20132a <link>Certo è scemo il tuo onor, se non s'addita(Cifra, 1614)</link>
 Tsg/kern/Tsg20134a-Cosi_doleasi_e_con_le_flebil_onde--Eredi_1629.krn	Tsg20134a	Y	.	Tsg20134a <link>Così doleasi e con le flebil onde(Eredi, 1629)</link>
