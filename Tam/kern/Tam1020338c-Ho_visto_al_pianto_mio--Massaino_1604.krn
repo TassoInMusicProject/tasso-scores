@@ -32,7 +32,7 @@
 4C	-sto al	4E	-sto al	.	.	4e	-sto al	4a	-sto al	4a	-sto al
 [4BB	pian-	[4B	pian-	.	.	[4d#X	pian-	[4b	pian-	[4g#X	pian-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-4BB]	.	4B]	.	0r	.	4d#i]	.	4b]	.	4g#i]	.
+4BB]	.	4B]	.	0r	.	4d#]	.	4b]	.	4g#]	.
 4AA	-to	4E	-to	.	.	4e	-to	4cc	-to	4a	-to
 2BB	mi-	1B	mi-	.	.	2d#X	mi-	2b	mi-	2f#X	mi-
 2BB	-o	.	.	.	.	1d#i	-o	1b	-o	1f#i	-o
@@ -44,7 +44,7 @@
 4C#X	pie-	4E	-der	.	.	4e	-der	2a	per	.	.
 [4C#i	-ta-	[4E	per	.	.	[4e	per	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-4C#i]	.	4E]	.	0r	.	4e]	.	4a	pie-	0r	.
+4C#iy]	.	4E]	.	0r	.	4e]	.	4a	pie-	0r	.
 4D	-te i	4A	pie-	.	.	4f	pie-	2a	-ta-	.	.
 1D	sas-	4A	-ta-	.	.	2.f	-ta-	.	.	.	.
 .	.	4G#X	-te i	.	.	.	.	4b	-te i	.	.
@@ -106,7 +106,7 @@
 [8BB	-si-	.	.	8d#i	-si-	8f#i	-si-	.	.	[8b	-si-
 8BBJ]	-on	.	.	[8d#iJ	-on	[8f#iJ	-on	.	.	8bJ]	-on
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-8BBL	.	0r	.	8d#iL]	.	8f#iL]	.	8r	.	8bL	.
+8BBL	.	0r	.	8d#iyL]	.	8f#iyL]	.	8r	.	8bL	.
 8E	nel-	.	.	8e	nel-	8e	nel-	8b	nel-	8g#X	nel-
 8E	-la	.	.	8B	-la	8e	-la	8bL	-la	8g#i	-la
 8EJ	cru-	.	.	8BJ	cru-	8eJ	cru-	8bJ	cru-	8g#iJ	cru-
@@ -197,14 +197,14 @@
 4C#i	-gri-	4A	-gr-	4E	-gri-	4a	-gri-	4e	-gri-	4ee	-gri-
 [4C#i	-me	[4A	-me	[4E	-me	[4a	-me	[4e	-me	[4ee	-me
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-4C#i]	.	4A]	.	4E]	.	4a]	.	4e]	.	4ee]	.
+4C#iy]	.	4A]	.	4E]	.	4a]	.	4e]	.	4ee]	.
 4E	si	4B	si	4E	si	4g#X	si	4e	si	4b	si
 2E	pa-	2B	pa-	2E	pa-	2g#i	pa-	2e	pa-	2b	pa-
 2AA	-sce,	2A	-sce,	2E	-sce,	2a	-sce,	2e	-sce,	2cc#X	-sce,
 [2c	Né	2r	.	[2e	Né	4r	.	4r	.	2r	.
 .	.	.	.	.	.	[4g#i	Né	[4cc	Né	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
-4c]	.	0r	.	4e]	.	4g#i]	.	4cc]	.	1r	.
+4c]	.	0r	.	4e]	.	4g#iy]	.	4cc]	.	1r	.
 8GL	se	.	.	8dL	se	8gL	se	8bL	se	.	.
 8AJ	ne	.	.	8cJ	ne	8eJ	ne	8aJ	ne	.	.
 2F	mo-	.	.	2d	mo-	2f	mo-	2a	mo-	.	.
