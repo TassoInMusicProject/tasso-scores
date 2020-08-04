@@ -48,7 +48,7 @@
 .	.	.	.	.	.	[2a	Tir-	.	.
 .	.	.	.	.	.	.	.	4cc	-si
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-0r	.	0r	.	0r	.	4a	.	1cc	sot-
+0r	.	0r	.	0r	.	4a]	.	1cc	sot-
 .	.	.	.	.	.	4a	-si	.	.
 .	.	.	.	.	.	2a	sot-	.	.
 .	.	.	.	.	.	4g	-to un	4b	-to un
@@ -63,7 +63,7 @@
 .	.	.	.	.	.	4a	do-	4cc	do-
 .	.	.	.	.	.	[2g	-lea	[2dd	-lea
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-0r	.	0r	.	0r	.	2g	.	2dd	.
+0r	.	0r	.	0r	.	2g]	.	2dd]	.
 .	.	.	.	.	.	4.f	la-	4.dd	la-
 .	.	.	.	.	.	8e	-gri-	8cc#X	-gri-
 .	.	.	.	.	.	2d	-man-	2.dd	-man-
@@ -82,7 +82,7 @@
 2r	.	2r	.	2r	.	2r	.	2r	.
 [2C	O	[2g	O	[2c	O	[2cc	O	[2ee	O
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-4C	.	4g	.	4c	.	4cc	.	4ee	.
+4C]	.	4g]	.	4c]	.	4cc]	.	4ee]	.
 4C	ce-	4g	ce-	4c	ce-	4cc	ce-	4ee	ce-
 1C	-le-	1g	-le-	1c	-le-	1cc	-le-	1ee	-le-
 4G	-sti	4g	-sti	4d	-sti	4b	-sti	4dd	-sti
@@ -94,14 +94,14 @@
 1G	lei	1d	lei	2g	lei	1b	lei	2dd	lei
 .	.	.	.	[2d	ch'a-	.	.	[2gg	ch'a-
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-1D	ch'a-	2r	.	2d	.	1a	ch'a-	2gg	.
+1D	ch'a-	2r	.	2d]	.	1a	ch'a-	2gg]	.
 .	.	2.A	ch'a-	2f	-mo et	.	.	1ff	-mo et
 2F	-mo et	.	.	2c	a-	2a	-mo et	.	.
 .	.	2c	-mo et	.	.	.	.	.	.
 2C	a-	.	.	[2g	-do-	2cc	a-	4ee	a-
 .	.	4e	a-	.	.	.	.	[4gg	-do-
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-1G	-do-	1d	-do-	1g	.	1b	-do-	4gg	.
+1G	-do-	1d	-do-	1g]	.	1b	-do-	4gg]	.
 .	.	.	.	.	.	.	.	16ffL	.
 .	.	.	.	.	.	.	.	16ee	.
 .	.	.	.	.	.	.	.	16dd	.
@@ -120,7 +120,7 @@
 8CJ	-mi-	8cJ	-mi-	.	.	.	.	.	.
 4BB	-glia-	4d	-glia-	2r	.	.	.	4gg	Ras-
 4C	-te	4c	-te	.	.	.	.	8ffL	-so-
-.	.	.	.	.	.	.	.	8eeJ]	-mi-
+.	.	.	.	.	.	.	.	8eeJ	-mi-
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 1G	voi	1B	voi	4g	Ras-	2.b	gli oc-	4.dd	-glia-
 .	.	.	.	8fL	-so-	.	.	.	.
@@ -136,7 +136,7 @@
 8EL	-chi	8gL	-chi	.	.	4g	.	.	.
 8DJ	lu-	8fJ	lu-	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-1A	-cen-	4e	-cen-	4c#X	-chi	1a	.	4aa	.
+1A	-cen-	4e	-cen-	4c#X	-chi	1a	.	4aa]	.
 .	.	2d	.	4d	lu-	.	.	8ggL	-chi
 .	.	.	.	.	.	.	.	8ffJ	lu-
 .	.	.	.	2e	-cen-	.	.	2ee	-cen-
@@ -157,7 +157,7 @@
 .	.	8dL	.	.	.	8bJ	.	8ddL	.
 .	.	8c	.	.	.	8ccL	.	8ee	.
 16GL	.	8dJ	.	.	.	16b	.	8ffJ	.
-16FJ	.	.	.	.	.	16aJ]	.	.	.
+16FJ	.	.	.	.	.	16aJ	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 4.E	.	8eL	.	4c	-te,	8gL	.	4.gg	.
 .	.	8fJ	.	.	.	8cJ	.	.	.
@@ -170,7 +170,7 @@
 .	.	4d	.	4g	lie-	4b	.	.	.
 1C	-te,	1c	-te,	[1g	-te,	1cc	-te,	1ee	-te,
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-4c	Sen-	4e	Sen-	1g	.	1r	.	1r	.
+4c	Sen-	4e	Sen-	1g]	.	1r	.	1r	.
 8BL	-to	8dL	-to	.	.	.	.	.	.
 8AJ	la	8cJ	la	.	.	.	.	.	.
 4G	fiam-	4B	fiam-	.	.	.	.	.	.
@@ -179,7 +179,7 @@
 .	.	.	.	.	.	8ccL	-to	8eeL	-to
 .	.	.	.	.	.	8bJ	la	8ddJ	la
 2r	.	4f	Sen-	4a	Sen-	4a	fiam-	4cc	fiam-
-.	.	8eL	-to	8gL]	-to	4b	-ma,	4dd	-ma,
+.	.	8eL	-to	8gL	-to	4b	-ma,	4dd	-ma,
 .	.	8dJ	la	8fJ	la	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 0r	.	4c	fiam-	4e	fiam-	4cc	Sen-	4ee	<Sen-
@@ -208,7 +208,7 @@
 2r	.	2r	.	2r	.	2r	.	2r	.
 [2C	Lu-	[2c	Lu-	[2g	Lu-	[2e	Lu-	[2ee	Lu-
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-2C	.	2c	.	2g	.	2e	.	2ee	.
+2C]	.	2c]	.	2g]	.	2e]	.	2ee]	.
 4E	-ci	4B	-ci	4e	-ci	4g#X	-ci	4b	-ci
 4E	se-	4B	se-	4e	se-	4g#i	se-	4b	se-
 1E	-re-	2.B	-re-	1e	-re-	1g#i	-re-	1b	-re-
@@ -250,7 +250,7 @@
 .	.	.	.	.	.	8aJ	la	8ccJ	la
 .	.	4g	<Sen-	4e	Sen-	4g	fiam-	4b	fiam-
 .	.	8fL	-to	8dL	-to	4a	-ma,	4cc	-ma,>
-.	.	8eJ	la	8cJ]	la	.	.	.	.
+.	.	8eJ	la	8cJ	la	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
 0r	.	2d	fiam-	4B	fiam-	4bnX	<Sen-	4dd	Sen-
 .	.	.	.	4c	-ma	8aL	-to	8ccL	-to
@@ -273,7 +273,7 @@
 .	.	.	.	8cJ	splen-	.	.	.	.
 2G	splen-	.	.	4B	-de-	2r	.	.	.
 .	.	8gL	-tre	4B	-te,	.	.	8eeL	-tre
-.	.	8fJ	splen-	.	.	.	.	8ddJ]	splen-
+.	.	8fJ	splen-	.	.	.	.	8ddJ	splen-
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29
 1A	-de-	1e	-de-	1r	.	4a	Sen-	4cc#X	-de-
 .	.	.	.	.	.	8gL	-to	2dd	.
@@ -286,14 +286,14 @@
 .	.	[2a	men-	4A	fiam-	.	.	.	.
 .	.	.	.	4B	-ma	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30
-1AA	men-	2a	.	1c	lor	2r	.	2r	.
+1AA	men-	2a]	.	1c	lor	2r	.	2r	.
 .	.	4g	-tre	.	.	1cc	men-	1ee	men-
 .	.	4f	splen-	.	.	.	.	.	.
 2C	-tre	[1e	-de-	1r	.	.	.	.	.
 2D	splen-	.	.	.	.	4b	-tre	4dd	-tre
 .	.	.	.	.	.	4a	splen-	4cc	splen-
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31
-1E	-de-	1e	.	4e	men-	4g#X	-de-	1b	-de-
+1E	-de-	1e]	.	4e	men-	4g#X	-de-	1b	-de-
 .	.	.	.	8dL	-tre	2a	.	.	.
 .	.	.	.	8cJ	splen-	.	.	.	.
 .	.	.	.	2B	-de-	.	.	.	.

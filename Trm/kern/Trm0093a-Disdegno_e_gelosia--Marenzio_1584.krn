@@ -42,7 +42,7 @@
 2D	-sde-	.	.	2f	-gno e	.	.	.	.
 .	.	4F	-gno e	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-2BB-y	-gno,	4B-y	ge-	4d	ge-	2f	.	2dd	Don-
+2BB-y	-gno,	4B-y	ge-	4d	ge-	2f]	.	2dd	Don-
 .	.	4A	-lo-	4f	-lo-	.	.	.	.
 2C	Di-	2G	-si-	1e	-si-	4r	.	2cc	-na,
 .	.	.	.	.	.	2c	Di-	.	.
@@ -66,13 +66,13 @@
 .	.	2A	-si-	2f#X	-si-	.	.	.	.
 .	.	2G	-a,	2g	-a,	[2d	Don-	[2b-i	Don-
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-2r	.	1B-y	Don-	1f	Don-	2d	.	2b-y	.
+2r	.	1B-y	Don-	1f	Don-	2d]	.	2b-y]	.
 1BB-y	Don-	.	.	.	.	2d	-na,	2f	-na,
 .	.	1F	-na,	2d	-na,	2f	vo-	2r	.
-2FF	-na,	.	.	2a	Don-	4f	-stri	[2cc	Don-
+2FF	-na,	.	.	2a	Don-	[4f	-stri	[2cc	Don-
 .	.	.	.	.	.	4f]	cu-	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-2C	vo-	4r	.	1g	-na,	4.e	-sto-	2cc	.
+2C	vo-	4r	.	1g	-na,	4.e	-sto-	2cc]	.
 .	.	4E	vo-	.	.	.	.	.	.
 .	.	.	.	.	.	8d	-di e	.	.
 4C	-stri	4E	-stri	.	.	4.c	miei	2g	-na,
@@ -102,7 +102,7 @@
 [2F	-ci e	2A	-ci e	4.a	-me-	4.f	-me-	2cc	miei,
 .	.	.	.	8g	-li-	8g	-li-	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-4F	.	4c	men-	4f	-ci e	4a	-ci e	1r	.
+4F]	.	4c	men-	4f	-ci e	4a	-ci e	1r	.
 4C	men-	2c	-di-	4e	men-	4g	men-	.	.
 2G	-di-	.	.	2d	-di-	2g	-di-	.	.
 .	.	4BnX	.	.	.	.	.	.	.
@@ -113,7 +113,7 @@
 2AA	-me il	2A	-me il	2c#X	-me il	2e	-me il	2a	-me il
 [1AA	dol-	[1A	dol-	[1c#i	dol-	[1e	dol-	[1a	dol-
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-2AA	.	2A	.	2c#i	.	2e	.	2a	.
+2AA]	.	2A]	.	2c#i]	.	2e]	.	2a]	.
 2GG	-ce	2D	-ce	2d	-ce	2g	-ce	2bnX	-ce
 1C	rag-	1E	rag-	2r	.	8gL	rag-	2cc	rag-
 .	.	.	.	.	.	8f	.	.	.
@@ -133,7 +133,7 @@
 .	.	.	.	8e	.	.	.	8e	.
 .	.	.	.	8dJ	.	8d	.	8fJ	.
 .	.	1r	.	2c	.	2e	.	2g	.
-.	.	.	.	2c	-gio	4e	-gio	4g	-gio
+.	.	.	.	2c	-gio	[4e	-gio	4g	-gio
 .	.	.	.	.	.	4e]	De'	4g	De'
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 0r	.	0r	.	4r	.	4.f	gli oc-	1a	gli oc-
@@ -175,7 +175,7 @@
 .	.	1c	det-	4.e	bei	2e	det-	4.g	bei
 .	.	.	.	8f	cor-	.	.	8f	cor-
 .	.	.	.	4g	-te-	2c	-ti	4e	-te-
-.	.	.	.	4f	-si	.	.	4a]	-si
+.	.	.	.	4f	-si	.	.	4a	-si
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 1r	.	1c	-ti	2e	det-	1r	.	2g	det-
 .	.	.	.	2e	-ti	.	.	2g	-ti
@@ -201,7 +201,7 @@
 .	.	8B-yJ	.	8dJ	.	.	.	.	.
 1r	.	4A	.	4c	.	1f	d'af-	1r	.
 .	.	2B-y	-ti e	2d	-ti e	.	.	.	.
-.	.	4A]	d'af-	4c#X]	d'af-	.	.	.	.
+.	.	4A	d'af-	4c#X	d'af-	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 1r	.	4BnX	-fet-	4d	-fet-	2g	-fet-	1r	.
 .	.	2c	.	2e	.	.	.	.	.
@@ -212,7 +212,7 @@
 .	.	.	.	.	.	8eL	spir-	8eenXL	spir-
 .	.	.	.	.	.	8f	.	8dd	.
 .	.	.	.	.	.	8g	.	8cc	.
-.	.	.	.	.	.	8eJ	.	8b-J]	.
+.	.	.	.	.	.	8eJ	.	8b-J	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 1D	di	2r	.	0r	.	4f#X	.	4a	.
 .	.	.	.	.	.	2g	-ti e	2b-y	-ti e
@@ -234,14 +234,14 @@
 .	.	[2f	<e	.	.	.	.	.	.
 .	.	.	.	4c	d'af-	4A	d'af-	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-2G	-fet-	4f	.	1g	-fet-	4BnX	-fet-	1r	.
+2G	-fet-	4f]	.	1g	-fet-	4BnX	-fet-	1r	.
 .	.	4e	d'af-	.	.	2c	.	.	.
 2G	-ti	2d	-fet-	.	.	.	.	.	.
 .	.	.	.	.	.	4BnX	.	.	.
 2E	Mi	2e	-ti>	2g	-ti	2c	-ti	2r	.
 [2F	to-	[2c	Mi	2f	Mi	2A	Mi	2cc	Mi
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-2F	.	2c	.	2f	to-	2F	to-	2a	to-
+2F]	.	2c]	.	2f	to-	2F	to-	2a	to-
 2BB-y	-glie	2B-y	to-	2d	-glie	2f	-glie	2b-y	-glie
 2B-y	de'	2G	-glie	4r	.	1r	.	1r	.
 .	.	.	.	2g	de'	.	.	.	.
@@ -318,7 +318,7 @@
 .	.	2A	che,	.	.	2c	che,	.	.
 .	.	[2d	las-	.	.	[2f	las-	2b-y	che,
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35
-0r	.	2d	.	0r	.	2f	.	[0a	las-
+0r	.	2d]	.	0r	.	2f]	.	[0a	las-
 .	.	4c#X	-so	.	.	4e	-so,	.	.
 .	.	4c#i	d'in-	.	.	4e	d'in-	.	.
 .	.	8dL	-tor-	.	.	8fL	-tor-	.	.
@@ -330,7 +330,7 @@
 .	.	8d	.	.	.	8f	.	.	.
 .	.	8c#iJ	.	.	.	8eJ	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36
-0r	.	4d	.	0r	.	4f	.	1a	.
+0r	.	4d	.	0r	.	4f	.	1a]	.
 .	.	8cL	.	.	.	8eL	.	.	.
 .	.	8B-yJ	.	.	.	8dJ	.	.	.
 .	.	4A	.	.	.	4c	.	.	.
@@ -340,9 +340,9 @@
 .	.	.	.	.	.	4e	-no,	8gL	-tor-
 .	.	.	.	.	.	.	.	8f	.
 .	.	.	.	.	.	4e	d'in-	8g	.
-.	.	.	.	.	.	.	.	8aJ]	.
+.	.	.	.	.	.	.	.	8aJ	.
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37
-0r	.	1c	.	1r	.	8eL	-tor-	8gL	.
+0r	.	1c]	.	1r	.	8eL	-tor-	8gL	.
 .	.	.	.	.	.	8d	.	8f	.
 .	.	.	.	.	.	8c	.	8e	.
 .	.	.	.	.	.	8dJ	.	8fJ	.
@@ -420,7 +420,7 @@
 .	.	.	.	8AL	-di	.	.	.	.
 .	.	.	.	8B-yJ	D'er-	.	.	.	.
 =45	=45	=45	=45	=45	=45	=45	=45	=45	=45
-4r	.	2F	-ra	4c	-ran-	4r	.	2cc	.
+4r	.	2F	-ra	4c	-ran-	4r	.	2cc]	.
 4A	i	.	.	4F	-te	4c	i	.	.
 4.A	bo-	2r	.	2c	fe-	4.F	bo-	2a	-ra,
 8G	-sche-	.	.	.	.	8G	-sche-	.	.
@@ -456,7 +456,7 @@
 .	.	.	.	.	.	8cJ	.	.	.
 4FF	-te	.	.	.	.	[4f	.	.	.
 =48	=48	=48	=48	=48	=48	=48	=48	=48	=48
-2F	fe-	1A	-ra	2r	.	4f	.	2cc	-ra
+2F	fe-	1A	-ra	2r	.	4f]	.	2cc	-ra
 .	.	.	.	.	.	8eL	.	.	.
 .	.	.	.	.	.	8dJ	.	.	.
 2F	-ra	.	.	2f	i	2c	.	4r	.
@@ -467,7 +467,7 @@
 .	.	.	.	8eJ	-ci	.	.	.	.
 .	.	.	.	[4f	ni-	.	.	4a	-ci
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49
-0r	.	4r	.	8fL	.	4r	.	2g	ni-
+0r	.	4r	.	8fL]	.	4r	.	2g	ni-
 .	.	.	.	16e	.	.	.	.	.
 .	.	.	.	16dJ	.	.	.	.	.
 .	.	4c	i	4e	.	4g	i	.	.
@@ -493,17 +493,17 @@
 1C	-ra	1G	-ra	2c	-ra	1e	-ra	2g	-ra
 .	.	.	.	2c	Che	.	.	[2cc	Che
 =53	=53	=53	=53	=53	=53	=53	=53	=53	=53
-1F	Che	1A	Che	2c	sen-	1f	Che	2cc	.
+1F	Che	1A	Che	2c	sen-	1f	Che	2cc]	.
 .	.	.	.	2c	-za	.	.	2a	sen-
 2D	sen-	2F	sen-	1d	pe-	1f	sen-	2a	-za
 2D	-za	2F	-za	.	.	.	.	[2b-y	pe-
 =54	=54	=54	=54	=54	=54	=54	=54	=54	=54
-2E-X	pe-	2G	pe-	1c	-na	1e-X	-za	2b-y	.
+2E-X	pe-	2G	pe-	1c	-na	1e-X	-za	2b-y]	.
 2F	-na in-	2A	-na in-	.	.	.	.	2a	-na in-
 [1G	-vo-	2BnX	-vo-	1r	.	2d	pe-	[1g	-vo-
 .	.	[2c	.	.	.	2c	-na in-	.	.
 =55	=55	=55	=55	=55	=55	=55	=55	=55	=55
-1G	.	4c	.	1r	.	1d	-vo-	1g	.
+1G]	.	4c]	.	1r	.	1d	-vo-	1g]	.
 .	.	8BnXL	.	.	.	.	.	.	.
 .	.	8AJ	.	.	.	.	.	.	.
 .	.	2BnX	.	.	.	.	.	.	.
@@ -529,7 +529,7 @@
 .	.	.	.	[2f	se-	.	.	2a	-cier
 .	.	4B-y	.	.	.	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58
-1r	.	1c	.	4f	.	1r	.	1g	se-
+1r	.	1c	.	4f]	.	1r	.	1g	se-
 .	.	.	.	8eL	.	.	.	.	.
 .	.	.	.	8dJ	.	.	.	.	.
 .	.	.	.	2e	.	.	.	.	.
@@ -538,7 +538,7 @@
 4.D	-de	2r	.	2r	.	4.f	-de	.	.
 8C	di-	.	.	.	.	8e	di-	.	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59	=59
-4D	-ve-	1r	.	1r	.	4f	-ve-	1a	.
+4D	-ve-	1r	.	1r	.	4f	-ve-	1a]	.
 4E	-gno	.	.	.	.	4g	-gno	.	.
 4F	Pre-	.	.	.	.	4a	Pre-	.	.
 8FL	-da	.	.	.	.	8aL	-da	.	.
@@ -557,7 +557,7 @@
 1FF	d'ar-	.	.	4a	Pre-	1A	-tor,	4cc	Pre-
 .	.	.	.	8aL	-da	.	.	8ccL	-da
 .	.	.	.	8gJ	di	.	.	8b-yJ	di
-.	.	4C	e	4f	pre-	.	.	4a	pre-
+.	.	4C	e	4f	pre-	.	.	[4a	pre-
 .	.	4D	d'ar-	4f	-da-	.	.	4a]	-da-
 =61	=61	=61	=61	=61	=61	=61	=61	=61	=61
 1C	-cier	1.E	-cier	2e	-tor,	4c	e	1g	-tor,
@@ -570,7 +570,7 @@
 4BB-y	.	.	.	.	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62	=62	=62	=62
 *M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
-1C	.	4c	.	4f	.	1c	.	1g	se-
+1C	.	4c]	.	4f]	.	1c]	.	1g	se-
 .	.	8B-yL	.	8eL	.	.	.	.	.
 .	.	8AJ	.	8dJ	.	.	.	.	.
 .	.	2G	.	2e	.	.	.	.	.
