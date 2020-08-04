@@ -39,19 +39,19 @@
 2AA	.	.	.	.	.
 [1A	.	.	.	.	.
 =4	=4	=4	=4	=4	=4
-1A	.	0r	.	1r	.
+1A]	.	0r	.	1r	.
 1E	-cii,	.	.	[1b	Do-
 =5	=5	=5	=5	=5	=5
-0r	.	1E	Do-	1b	.
+0r	.	1E	Do-	1b]	.
 .	.	2.e	-lor,	2.cc	-lor,
-.	.	4d	che	4b]	che
+.	.	4d	che	4b	che
 =6	=6	=6	=6	=6	=6
 1A	<Do-	1.c	sì	2a	sì
 .	.	.	.	2g	mi
 [1D	-lor,	.	.	1f	cru-
 .	.	2B-X	mi	.	.
 =7	=7	=7	=7	=7	=7
-2D	.	1A	cru-	2f	-cii,
+2D]	.	1A	cru-	2f	-cii,
 2D	che	.	.	2d	<Do-
 2D	sì	1A	-cii,	2.dd	-lor
 2D	mi	.	.	.	.
@@ -62,19 +62,19 @@
 1E	.	.	.	2g#X	cru-
 .	.	.	.	[2a	.
 =9	=9	=9	=9	=9	=9
-0E	-cii,>	1r	.	2a	.
+0E	-cii,>	1r	.	2a]	.
 .	.	.	.	2g#X	.
 .	.	2r	.	1g#X	-cii,>
 .	.	[2e	Ché	.	.
 =10	=10	=10	=10	=10	=10
-1.E	Ché	2e	.	1r	.
+1.E	Ché	2e]	.	1r	.
 .	.	4B	non	.	.
 .	.	4B	m'uc-	.	.
 .	.	2B	-ci-	[1ee	Ché
 4AA	non	2c	-di o-	.	.
 4AA	m'uc-	.	.	.	.
 =11	=11	=11	=11	=11	=11
-1.AA	-ci-	2A	-mai?	2ee	.
+1.AA	-ci-	2A	-mai?	2ee]	.
 .	.	4r	.	4a	non
 .	.	4E	<Ché	4a	m'uc-
 .	.	4A	non	2a	-ci-
@@ -90,7 +90,7 @@
 [2D	sei	.	.	.	.
 .	.	4A	pur	.	.
 =13	=13	=13	=13	=13	=13
-2D	.	1.F	len-	0r	.
+2D]	.	1.F	len-	0r	.
 2D	pur	.	.	.	.
 1BB-X	len-	.	.	.	.
 .	.	4E	.	.	.
@@ -100,7 +100,7 @@
 .	.	2r	.	[1e	For-
 .	.	[2A	For-	.	.
 =15	=15	=15	=15	=15	=15
-1AA	For-	2A	.	2e	.
+1AA	For-	2A]	.	2e]	.
 .	.	2A	-se	2e	-se
 1AA	-se	2e	la-	2cc	la-
 .	.	4d	-sci	4b	-sci
@@ -153,7 +153,7 @@
 4E	Poi	[2e	Poi	4b	Poi
 4E	che	.	.	4b	che
 =22	=22	=22	=22	=22	=22
-2A	tu	2e	.	1cc	tu
+2A	tu	2e]	.	1cc	tu
 4c	la	2e	che	.	.
 4B	ri-	.	.	.	.
 4A	-cu-	2e	tu	2cc	la
@@ -161,7 +161,7 @@
 4F	che	[2f	la	2cc	ri-
 4E	non	.	.	.	.
 =23	=23	=23	=23	=23	=23
-2D	puo-	2f	.	4dd	-cu-
+2D	puo-	2f]	.	4dd	-cu-
 .	.	.	.	4a	-si o
 2C	.	2e	ri-	2.cc	che
 1G	.	1d	-cu-	.	.
@@ -173,7 +173,7 @@
 1r	.	.	.	2r	.
 .	.	2A	che	[2a	Poi
 =25	=25	=25	=25	=25	=25
-0r	.	2c	tu	4a	.
+0r	.	2c	tu	4a]	.
 .	.	.	.	4a	che
 .	.	4c	la	2cc	tu
 .	.	4d	ri-	.	.
@@ -191,7 +191,7 @@
 0A	Ohi-	0r	.	1r	.
 .	.	.	.	[1a	Ohi-
 =28	=28	=28	=28	=28	=28
-1E	-mè,	1r	.	2a	.
+1E	-mè,	1r	.	2a]	.
 .	.	.	.	2g#X	-mè,
 1r	.	1E	Ohi-	1r	.
 =29	=29	=29	=29	=29	=29
@@ -216,7 +216,7 @@
 1r	.	.	.	4a	-ca
 .	.	.	.	4dd	A
 .	.	.	.	4cc	la
-.	.	.	.	4a]	cer-
+.	.	.	.	4a	cer-
 =32	=32	=32	=32	=32	=32
 0r	.	2B	se	4b	-tez-
 .	.	.	.	4cc	-za o-
@@ -236,7 +236,7 @@
 .	.	.	.	8f#XJ	.
 2E	E	[2e	-i,	2g#X	.
 =34	=34	=34	=34	=34	=34
-4C#X	nul-	2e	.	1a	-i,
+4C#X	nul-	2e]	.	1a	-i,
 4C#X	-la	.	.	.	.
 1D	man-	2r	.	.	.
 .	.	1r	.	1r	.
@@ -247,10 +247,10 @@
 4F#X	De	.	.	.	.
 4G#X	la	.	.	2r	.
 4G#X	mi-	.	.	.	.
-4A	-se-	.	.	[2a	E
+[4A	-se-	.	.	[2a	E
 4A]	-ria	.	.	.	.
 =36	=36	=36	=36	=36	=36
-2F	mi-	1r	.	2a	.
+2F	mi-	1r	.	2a]	.
 2E	-a,	.	.	4g#X	nul-
 .	.	.	.	4g#X	-la
 1r	.	2A	E	2a	man-
@@ -273,12 +273,12 @@
 .	.	.	.	4cc	.
 .	.	.	.	[2dd	.
 =39	=39	=39	=39	=39	=39
-2r	.	0A	-a,	2dd	.
+2r	.	0A	-a,	2dd]	.
 2A	Che	.	.	2cc#X	-a,
 [1D	ba-	.	.	2r	.
 .	.	.	.	2a	Che
 =40	=40	=40	=40	=40	=40
-1D	.	0r	.	1a	ba-
+1D]	.	0r	.	1a	ba-
 1E	-do?	.	.	1g#X	-do?
 =41	=41	=41	=41	=41	=41
 4r	.	0r	.	4r	.
@@ -334,18 +334,18 @@
 1AA	A	2A	-ro,	1a	-ro,
 .	.	2E	A	.	.
 2.E	que-	2.G	que-	1r	.
-4D]	-sto	4F	-sto	.	.
+4D	-sto	4F	-sto	.	.
 =49	=49	=49	=49	=49	=49
 2C	fi-	2E	fi-	2r	.
 2BB	-ne a-	2B	-ne a-	2b	A
 [1AA	-ma-	2.c	-ma-	2.ee	que-
 .	.	4B	.	4dd	-sto
 =50	=50	=50	=50	=50	=50
-0AA	.	2A	.	2cc	fi-
+0AA]	.	2A	.	2cc	fi-
 .	.	2B	.	2b	-ne a-
 .	.	1c	.	[1a	-ma-
 =51	=51	=51	=51	=51	=51
-0El	-ro.	0Bl	-ro.	2a	.
+0El	-ro.	0Bl	-ro.	2a]	.
 .	.	.	.	4g#X	.
 .	.	.	.	4f#X	.
 .	.	.	.	1g#Xl	-ro.

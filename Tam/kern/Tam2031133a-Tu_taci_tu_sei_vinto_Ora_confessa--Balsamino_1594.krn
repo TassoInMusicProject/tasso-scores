@@ -29,7 +29,7 @@
 0r	.	1F	Tu	1c	Tu	0r	.	1f	Tu	1a	Tu
 .	.	[1B-y	ta-	[1d	ta-	.	.	[1f	ta-	[1b-y	ta-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-1r	.	1B-y	.	1d	.	1r	.	1f	.	1b-y	.
+1r	.	1B-y]	.	1d]	.	1r	.	1f]	.	1b-y]	.
 2r	.	2F	-ci:	2c	-ci:	2r	.	2f	-ci:	2a	-ci:
 4BB-y	Tu	4F	tu	4d	tu	4d	Tu	4f	tu	4b-y	tu
 4F	sei	4F	sei	4c	sei	4f	sei	4a	sei	4cc	sei
@@ -40,7 +40,7 @@
 4r	.	4r	.	4r	.	4r	.	4r	.	4r	.
 4.C	O-	4.G	O-	4.c	O-	4.e	O-	4.g	O-	4.cc	O-
 8C	-ra	8G	-ra	8c	-ra	8e	-ra	8g	-ra	8cc	-ra
-4FF	con-	4A	con-	4c	con-	4c	con-	4f]	con-	4a	con-
+4FF	con-	4A	con-	4c	con-	4c	con-	4f	con-	4a	con-
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 4.BB-y	-fes-	4.F	-fes-	4.B-y	-fes-	4.d	-fes-	4.f	-fes-	4.b-y	-fes-
 8BB-y	-sa,	8F	-sa,	8B-y	-sa,	8d	-sa,	8f	-sa,	8b-y	-sa,
@@ -84,7 +84,7 @@
 1r	.	4F	-spet-	1r	.	4c	-spet-	1r	.	4a	-spet-
 .	.	4F	-ta,"	.	.	4c	-ta,"	.	.	4a	-ta,"
 .	.	4.A	Che	.	.	4.A	Che	.	.	4.cc	Che
-.	.	8G	"A-	.	.	8B-y	"A-	.	.	8b-]	"A-
+.	.	8G	"A-	.	.	8B-y	"A-	.	.	8b-	"A-
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 0r	.	2F	-spet-	0r	.	2c	-spet	0r	.	2a	-spet-
 .	.	2F	-ta"?	.	.	2c	ta"?	.	.	2a	-ta"?
@@ -93,7 +93,7 @@
 .	.	[2G	ben	.	.	[2d	ben	.	.	4.b-y	ben
 .	.	.	.	.	.	.	.	.	.	8b-y	che'l
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-0r	.	4G	.	0r	.	4d	.	0r	.	4.b-y	tem-
+0r	.	4G]	.	0r	.	4d]	.	0r	.	4.b-y	tem-
 .	.	4G	che'l	.	.	4d	che'l	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	8a	-po
 .	.	4c	tem-	.	.	4e-X	tem-	.	.	8gL	fug-
@@ -122,7 +122,7 @@
 4F	dee	.	.	4c	dee	.	.	4a	dee	.	.
 [2F	far-	.	.	[2c	far-	.	.	[2a	far-	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-4F	.	0r	.	4c	.	0r	.	4a	.	1r	.
+4F]	.	0r	.	4c]	.	0r	.	4a]	.	1r	.
 4F	-si, e	.	.	4A	-si, e	.	.	4a	-si, e	.	.
 1E-X	co-	.	.	1G	co	.	.	1b-y	co-	.	.
 .	.	.	.	.	.	.	.	.	.	2r	.
@@ -157,7 +157,7 @@
 .	.	[2c	pen-	.	.	[2e	pen-	.	.	4g	co-
 .	.	.	.	.	.	.	.	.	.	4a	-se
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-1r	.	2c	.	1r	.	2e	.	1r	.	2g	pen-
+1r	.	2c]	.	1r	.	2e]	.	1r	.	2g	pen-
 .	.	4F	-sa.	.	.	4f	-sa.	.	.	4f	-sa.
 .	.	4F	An-	.	.	4f	An-	.	.	4a	An-
 2r	.	2c	-dian-	2r	.	2e	-dian-	2r	.	2g	-dian-
@@ -203,7 +203,7 @@
 .	.	8FL	fug-	4A	tem-	.	.	4a	ben	4cc	.
 .	.	8G	.	.	.	.	.	.	.	.	.
 4FF	che'l	8A	.	4F	-po	.	.	4cc	che'l	4cc	-ge,
-.	.	8B-J]	.	.	.	.	.	.	.	.	.
+.	.	8B-J	.	.	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 2.FF	tem-	4c	.	8FL	fug-	4f	non	4a	tem-	2r	.
 .	.	.	.	8G	.	.	.	.	.	.	.
@@ -240,7 +240,7 @@
 2r	.	0r	.	2r	.	0r	.	2r	.	0r	.
 1B-y	Deh,	.	.	1f	Deh,	.	.	1dd	Deh	.	.
 4A	pen-	.	.	4c	pen-	.	.	4cc	pen-	.	.
-4G	-siam	.	.	4d]	-siam	.	.	4b-y	-siam	.	.
+4G	-siam	.	.	4d	-siam	.	.	4b-y	-siam	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
 4.F	pria	1r	.	4d	pria	0r	.	4.a	pria	1r	.
 .	.	.	.	4c	se	.	.	.	.	.	.
@@ -254,7 +254,7 @@
 .	.	.	.	.	.	.	.	.	.	8ccL	pen-
 .	.	.	.	.	.	.	.	.	.	8b-yJ	-siam
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-1D	.	4d	.	2A	.	2.d	Deh,	2f#i	.	4a	pria
+1D]	.	4d]	.	2A]	.	2.d	Deh,	2f#i]	.	4a	pria
 .	.	8cL	pen-	.	.	.	.	.	.	4a	se
 .	.	8B-yJ	-siam	.	.	.	.	.	.	.	.
 .	.	4A	pria	2A	-si,	.	.	2f#i	-si,	4.a	ciò
@@ -313,7 +313,7 @@
 8C	-pe	.	.	8c	-pe	8e	-pe	.	.	.	.
 4.G	co-	.	.	4.B-y	co-	4d	co-	.	.	.	.
 .	.	.	.	.	.	4c	-se	.	.	.	.
-8A	-se	.	.	8A]	-se	.	.	.	.	.	.
+8A	-se	.	.	8A	-se	.	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 2G	pen-	2r	.	2BnX	pen-	2d	pen-	2dd	Ma	0r	.
 2C	-sa,	2G	Ma	2c	-sa,	2e	-sa,	4.cc	nul-	.	.

@@ -33,7 +33,7 @@
 .	.	2c	-vea	2a	-vea
 .	.	[2d	da	[2b	da
 =2	=2	=2	=2	=2	=2
-0r	.	2d	.	2b	.
+0r	.	2d]	.	2b]	.
 .	.	2e	suoi	2cc	suoi
 .	.	1e	lu-	1cc	lu-
 =3	=3	=3	=3	=3	=3
@@ -41,7 +41,7 @@
 .	.	1r	.	2r	.
 .	.	.	.	[2b	U-
 =4	=4	=4	=4	=4	=4
-0r	.	0r	.	2b	.
+0r	.	0r	.	2b]	.
 .	.	.	.	2b	-n'e-
 .	.	.	.	2cc	-stra-
 .	.	.	.	4b	-nea
@@ -50,7 +50,7 @@
 0r	.	0r	.	1b	-cez-
 .	.	.	.	[1a	-za,
 =6	=6	=6	=6	=6	=6
-0r	.	0r	.	0a	.
+0r	.	0r	.	0a]	.
 =7	=7	=7	=7	=7	=7
 0r	.	1r	.	0r	.
 .	.	2r	.	.	.
@@ -110,7 +110,7 @@
 [2F	-ma-	4f	che	4dd	che
 .	.	4g	d'a-	4cc	d'a-
 =14	=14	=14	=14	=14	=14
-2F	.	1a	-ma-	2dd	-ma-
+2F]	.	1a	-ma-	2dd	-ma-
 1E	-ro;	.	.	1ee	-ro;
 .	.	2g#X	-ro;	.	.
 2r	.	4r	.	4r	.
@@ -197,7 +197,7 @@
 1D	-re.	2d	-re.	2r	.
 .	.	2r	.	[2ff	Ben
 =24	=24	=24	=24	=24	=24
-0r	.	1.a	Ben	2ff	.
+0r	.	1.a	Ben	2ff]	.
 .	.	.	.	4ee	me
 .	.	.	.	4dd	n'ac-
 .	.	.	.	4ee	-cor-
@@ -205,7 +205,7 @@
 .	.	4g	me	[2dd	fi-
 .	.	4f	n'ac-	.	.
 =25	=25	=25	=25	=25	=25
-0r	.	2g	-cor-	2dd	.
+0r	.	2g	-cor-	2dd]	.
 .	.	2e	-si al	4ee	-ne, al
 .	.	.	.	4ee	fi-
 .	.	4f	fi-	4cc	-ne;
@@ -217,7 +217,7 @@
 2r	.	1c	-do,	2ee	-do,
 [2c	O-	.	.	[2ee	O-
 =27	=27	=27	=27	=27	=27
-4c	.	0r	.	4ee	.
+4c]	.	0r	.	4ee]	.
 4F	-ra	.	.	4ff	-ra
 4G	m'a-	.	.	4dd	m'a-
 2B-X	-scol-	.	.	2dd	-scol-
@@ -231,20 +231,20 @@
 .	.	4G	m'a-	4gg	m'a-
 .	.	[4c	-scol-	[4gg	-scol-
 =29	=29	=29	=29	=29	=29
-1r	.	4c	.	4gg	.
+1r	.	4c]	.	4gg]	.
 .	.	4d	-ta e	4ff	-ta e
 .	.	2A	no-	2ee	no-
 2r	.	[1A	-ta,	2ee	-ta,>
 2A	e	.	.	2ee	e
 =30	=30	=30	=30	=30	=30
-4d	da	2A	.	4ff	da
+4d	da	2A]	.	4ff	da
 4d	no-	.	.	4ff	no-
 2A	-ta-	2e	e	2ee	-ta-
 2D	-re,	4f	da	2dd	-re,
 .	.	4f	no-	.	.
 2A	<e	[2e	-ta-	2cc	e
 =31	=31	=31	=31	=31	=31
-2F	da	4e	.	2cc	da
+2F	da	4e]	.	2cc	da
 .	.	4d	.	.	.
 2D	no-	2.d	.	2dd	no-
 1A	-ta-	.	.	1ee	-ta-
@@ -256,7 +256,7 @@
 [1A	Ben	2r	.	1r	.
 .	.	[2c	Ben	.	.
 =33	=33	=33	=33	=33	=33
-2A	.	2c	.	0r	.
+2A]	.	2c]	.	0r	.
 4G	me	4B	me	.	.
 4F	n'ac-	4A	n'ac-	.	.
 2G	-cor-	2B	-cor-	.	.
@@ -280,13 +280,13 @@
 .	.	4d	m'a-	4b-X	m'a-
 .	.	[4d	-scol-	[4b-X	-scol-
 =36	=36	=36	=36	=36	=36
-1r	.	4d	.	4b-X	.
+1r	.	4d]	.	4b-X]	.
 .	.	4d	-ta e	4b-X	-ta e
 .	.	2c#X	no-	2a	no-
 2r	.	2c#X	-ta,	2a	-ta,
 [2A	O-	[2e	<O-	[2cc#X	<O-
 =37	=37	=37	=37	=37	=37
-4A	.	4e	.	4cc#i	.
+4A]	.	4e]	.	4cc#i]	.
 4d	-ra	4f	-ra	4dd	-ra
 4G	m'a-	4g	m'a-	4dd	m'a-
 2c	-scol-	2g	-scol-	2ee	-scol-

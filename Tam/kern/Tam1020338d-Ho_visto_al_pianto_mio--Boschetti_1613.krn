@@ -62,7 +62,7 @@
 8EL	so-	.	.	.	.	.	.	.	.
 8FJ	-spi-	.	.	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-2G	-rar,	1r	.	2g	.	8r	.	8r	.
+2G	-rar,	1r	.	2g]	.	8r	.	8r	.
 .	.	.	.	.	.	8g	E	8b	E
 .	.	.	.	.	.	8gL	so-	8bL	so-
 .	.	.	.	.	.	8aJ	-spi-	8ccJ	-spi-
@@ -79,7 +79,7 @@
 .	.	8GL	so-	.	.	.	.	.	.
 .	.	8AJ	-spi-	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-1D	fron-	4.B	-rar	1d	fron-	4f#X	le	4b	.
+1D	fron-	4.B	-rar	1d	fron-	4f#X	le	4b]	.
 .	.	.	.	.	.	2g	fron-	4a	le
 .	.	8c	le	.	.	.	.	.	.
 .	.	2d	fron-	.	.	.	.	2a	fron-
@@ -146,9 +146,9 @@
 .	.	.	.	.	.	.	.	8ddJ	non
 .	.	.	.	.	.	4r	.	4cc#i	sò
 .	.	.	.	.	.	8eeL	Che	8cc#iL	s'io
-.	.	.	.	.	.	8ddJ	non	8bJ]	mi
+.	.	.	.	.	.	8ddJ	non	8bJ	mi
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-2AA	.	4r	.	1e	.	4cc	sò	2a	chia-
+2AA]	.	4r	.	1e]	.	4cc	sò	2a	chia-
 .	.	8eL	Che	.	.	8ccL	s'io	.	.
 .	.	8dJ	non	.	.	8bJ	mi	.	.
 4r	.	4c	sò	.	.	2a	chia-	2cc	-mi,
@@ -159,7 +159,7 @@
 8EJ	mi	.	.	8gJ	non	.	.	.	.
 2D	chia-	.	.	4f	sò	2r	.	4r	.
 .	.	.	.	8fL	s'io	.	.	8ddL	Che
-.	.	.	.	8eJ]	mi	.	.	8ccJ	non
+.	.	.	.	8eJ	mi	.	.	8ccJ	non
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 2GG	-mi,	2B	-mi,	2d	chia-	4r	.	4b	sò
 .	.	.	.	.	.	8ddL	Che	8bL	s'io
@@ -186,7 +186,7 @@
 .	.	.	.	.	.	4cc	-mi ò	4a	-mi ò
 2D	-na, ò	.	.	.	.	[2dd	don-	[2a	don-
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17
-1AA	fe-	1A	.	4e	don-	4dd	.	4a	.
+1AA	fe-	1A]	.	4e	don-	4dd]	.	4a]	.
 .	.	.	.	4d	-na, ò	4dd	-na, ò	4f	-na, ò
 .	.	.	.	2e	fe-	2cc#X	fe-	2e	fe-
 2D	-ra.	2A	-ra.	2d	-ra.	2dd	-ra.	2f#X	-ra.
@@ -201,7 +201,7 @@
 .	.	4c	-na,	4e	-na,	.	.	4g	-na,
 .	.	[4c	poi-	[4e	poi-	.	.	[4g	poi-
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-0r	.	4c	.	4e	.	1r	.	4g	.
+0r	.	4c]	.	4e]	.	1r	.	4g]	.
 .	.	4c	-ché	4e	-ché	.	.	4g	-ché
 .	.	4c	ne-	4e	ne-	.	.	4g	ne-
 .	.	8cL	-ga	8eL	-ga	.	.	8gL	-ga
@@ -218,7 +218,7 @@
 .	.	.	.	.	.	8g	ne-	.	.
 .	.	2c	-ga-	2e	-ga-	2g	-ga-	2cc	-ga-
 .	.	4c	-ro	4e	-ro	4g	-ro	4cc	-ro
-.	.	4A]	Le	4f	Le	4a	Le	4cc	Le
+.	.	4A	Le	4f	Le	4a	Le	4cc	Le
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 0r	.	4.B-X	co-	4.d	co-	4.f	co-	4.b-X	co-
 .	.	8B-i	-se i-	8d	-se i-	8f	-se i-	8b-i	-se i-
@@ -242,7 +242,7 @@
 4C	-ché	4G	-ché	4e	-ché	4g	-ché	4cc	-ché
 4C	ne-	4G	ne-	4e	ne-	4g	ne-	4cc	ne-
 8CL	-ga	8GL	-ga	8eL	-ga	8gL	-ga	8ccL	-ga
-8DJ	pie-	8DJ	pie-	8dJ	pie-	8fJ	pie-	8aJ]	pie-
+8DJ	pie-	8DJ	pie-	8dJ	pie-	8fJ	pie-	8aJ	pie-
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 2AA	-ta-	2A	-ta-	2c#X	-ta-	2e	-ta-	2a	-ta-
 4AA	-te	4A	-te	4c#i	-te	4e	-te	4a	-te

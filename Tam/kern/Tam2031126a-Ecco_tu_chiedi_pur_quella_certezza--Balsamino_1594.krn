@@ -114,7 +114,7 @@
 .	.	8B-yL	.	8GL	.	.	.	.	.	.	.
 .	.	8AJ	.	8FJ	.	.	.	8f	non	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-1r	.	4.G	.	4.E	.	2c	.	2g	de-	4cc	-car
+1r	.	4.G	.	4.E	.	2c]	.	2g	de-	4cc	-car
 .	.	.	.	.	.	.	.	.	.	8b-yL	.
 .	.	8A	non	8F	cer-	.	.	.	.	8aJ	.
 .	.	2B-y	de-	4G	-car	1B-y	cer-	4.d	-i,	4g	.
@@ -148,10 +148,10 @@
 .	.	4.B-y	-cer-	.	.	4.d	-cer-	4.f	-cer-	4.b-y	-cer-
 .	.	8c	-ta an-	.	.	8c	-ta an-	8e	-ta an-	8g	-ta an-
 .	.	2F	-cor	.	.	2c	-cor	2f	-cor	2a	-cor
-.	.	4F	che	.	.	4c	che	4f	che	4a	che
+.	.	4F	che	.	.	[4c	che	4f	che	4a	che
 .	.	[4c	non	.	.	4c]	non	[4e	non	[4g	non
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-0r	.	4c	.	0r	.	4c	.	4e	.	4g	.
+0r	.	4c]	.	0r	.	4c	.	4e]	.	4g]	.
 .	.	4G	sia	.	.	4BnXi	sia	4d	sia	4g	sia
 .	.	1G	ta-	.	.	1BnX	ta-	1d	ta-	1g	ta-
 .	.	2F	-le?	.	.	2c	-le?	2f	-le?	2a	-le?
@@ -160,7 +160,7 @@
 2C	Or	.	.	2c	Or	2e	Or	2g	Or	.	.
 [2F	s'el-	.	.	[2c	s'el-	[2f	s'el-	[2a	s'el-	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
-4F	.	0r	.	4c	.	4f	.	4a	.	0r	.
+4F]	.	0r	.	4c]	.	4f]	.	4a]	.	0r	.
 4F	-la	.	.	4c	-la	4f	-la	4a	-la	.	.
 4BB-y	fos-	.	.	4d	fos-	4f	fos-	4b-y	fos-	.	.
 4BB-y	-se	.	.	4d	-se	4f	-se	4b-y	-se	.	.
@@ -175,7 +175,7 @@
 2FF	E-	.	.	2A	E-	2c	E-	2a	-si?	2f	-gua-
 .	.	[4F	-gua-	.	.	.	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-2BB-y	-gua-	4F	.	2B-y	-gua-	2d	-gua-	4f	E-	2d	-le è'l
+2BB-y	-gua-	4F]	.	2B-y	-gua-	2d	-gua-	4f	E-	2d	-le è'l
 .	.	2D	-le è'l	.	.	.	.	2b-y	-gua-	.	.
 2GG	-le è'l	.	.	2B-y	-le è'l	2d	-le è'l	.	.	2g	dub-
 .	.	2G	dub-	.	.	.	.	2g	-le'è'l	.	.
@@ -184,7 +184,7 @@
 2AA	-bio, e'l	.	.	2c	-bio, e'l	2e	-bio, e'l	.	.	2a	ri-
 .	.	[4A	ri-	.	.	.	.	[4a	-bio e'l	.	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
-2D	ri-	4A	.	2d	ri-	2f	ri-	4a	.	4f	-schio,
+2D	ri-	4A]	.	2d	ri-	2f	ri-	4a]	.	4f	-schio,
 .	.	4F	-schio,	.	.	.	.	2dd	ri-	4f	e'l
 4BB-y	-schio,	4F	e'l	4d	-schio,	4f	-schio,	.	.	2b-y	ri-
 4BB-y	e'l	2B-y	ri-	4d	e'l	4f	e'l	4b-y	-schio,	.	.
@@ -196,7 +196,7 @@
 1F	ri-	1c	-gua-	1c	ri-	1a	ri-	1cc	ri-	1a	ri-
 1F	-schio,	[1c	-le è'l	1F	-schio,	1f	-schio,	1cc	-schio,	1a	-schio,
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-2.FF	E-	2c	.	4C	E-	2.c	E-	2c	E-	2.a	E-
+2.FF	E-	2c]	.	4C	E-	2.c	E-	2c	E-	2.a	E-
 .	.	.	.	2F	-gua-	.	.	.	.	.	.
 .	.	2F	dub-	.	.	.	.	2f	-gua-	.	.
 2BB-y	-gua-	.	.	2D	-le è'l	2d	-gua-	.	.	2b-y	-gua-
@@ -205,16 +205,16 @@
 .	.	2G	ri-	.	.	.	.	2g	dub-	.	.
 [4C	dub-	.	.	[4E	-bio, e'l	[4e	du-	.	.	[4cc	dub-
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-4C	.	2c	-schio,	4E	.	4e	.	2e	-bio e'l	4cc	.
+4C]	.	2c	-schio,	4E]	.	4e]	.	2e	-bio e'l	4cc]	.
 2AA	-bio, e'l	.	.	2A	ri-	2e	-bio e'l	.	.	2cc	-bio e'l
 .	.	2A	e'l	.	.	.	.	2a	ri-	.	.
 2D	ri-	.	.	4F	-schio,	2f	ri-	.	.	2dd	ri-
 .	.	2d	ri-	4F	E-	.	.	4f	-schio,	.	.
 4BB-y	-schio,	.	.	2B-y	-gua-	4f	-schio,	4f	e'l	4dd	-schio,
 4BB-y	e'l	4B-y	-schio,	.	.	4f	e'l	2b-y	ri-	4dd	e'l
-[4E-i	ri-	4B-y	e'l	[4G	-le è'l	[4g	ri-	.	.	[4ee-X	ri-
+4E-i	ri-	4B-y	e'l	[4G	-le è'l	[4g	ri-	.	.	[4ee-X	ri-
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-4EnX	.	2e-X	ri-	4G	.	4g	.	2g	-schio,	4ee-i	.
+4EnX	.	2e-X	ri-	4G]	.	4g]	.	2g	-schio,	4ee-i]	.
 2C	-scio,	.	.	2c	dub-	2g	-schio,	.	.	2ee-i	-schio,
 .	.	4c	-schio,	.	.	.	.	2cc	e'l	.	.
 4F	e'l	4c	e'l	4A	-bio, e'l	4f	e'l	.	.	4cc	e'l
@@ -255,7 +255,7 @@
 .	.	.	.	.	.	8gJ	mo-	8ccJ	mo-	.	.
 .	.	.	.	.	.	4a	-rir,	2dd	-rir,	2d	che
 .	.	.	.	.	.	8gL	.	.	.	.	.
-.	.	.	.	.	.	8fJ]	.	.	.	.	.
+.	.	.	.	.	.	8fJ	.	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
 4C	Co-	4E	Co-	1r	.	2.e	.	0r	.	2g	co-
 4D	-me ar-	4F	-me ar-	.	.	.	.	.	.	.	.
@@ -266,7 +266,7 @@
 .	.	.	.	4G	-me ar-	4e	che	.	.	.	.
 2r	.	.	.	4A	-di-	4e	co-	.	.	.	.
 .	.	4G	mo-	8B-yL	-to	4d	-me	.	.	4d	-le,
-.	.	.	.	8cJ]	mo-	.	.	.	.	.	.
+.	.	.	.	8cJ	mo-	.	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
 1D	che	2A	-rir	2d	-rir	1.d	vi-	4d	Co-	4f	Co-
 .	.	.	.	.	.	.	.	4e	-me ar-	4g	-me ar-
@@ -278,7 +278,7 @@
 2AA	-me	2E	-me	.	.	4c#X	.	2r	.	[2e	co-
 .	.	.	.	.	.	4BnX	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
-0AA	vi-	0E	vi-	2A	.	0c#X	.	2r	.	2e	.
+0AA	vi-	0E	vi-	2A]	.	0c#X	.	2r	.	2e]	.
 .	.	.	.	2A	-me	.	.	4r	.	2e	-me
 .	.	.	.	.	.	.	.	4e	che	.	.
 .	.	.	.	1A	vi-	.	.	4a	co-	1e	vi-

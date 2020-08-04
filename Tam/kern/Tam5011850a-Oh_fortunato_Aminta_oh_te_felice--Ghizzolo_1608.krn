@@ -39,13 +39,13 @@
 .	.	8GL	for-	.	.	.	.	8b-yL	for-
 .	.	8FJ	-tu-	.	.	.	.	8aJ	-tu-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-4C	.	4G	-na-	4E	.	1c	-ta,	4g	-na-
+4C]	.	4G	-na-	4E]	.	1c	-ta,	4g	-na-
 4AA	-to A-	4A	-to A-	4F	-to A-	.	.	4f	-to A-
 2C	-min-	2G	-min-	2E	-min-	.	.	2g	-min-
 2FF	-ta,	2A	-ta,	2F	-ta,	2r	.	1f	-ta,
 [2B-y	<O	2r	.	[2d	<O	[2f	<O	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-4B-y	.	2.d	<O	4d	.	2.f	.	2.ff	<O
+4B-y]	.	2.d	<O	4d]	.	2.f]	.	2.ff	<O
 8AL	for-	.	.	8cL	for-	.	.	.	.
 8GJ	-tu-	.	.	8B-yJ	-tu-	.	.	.	.
 2.F	-na-	.	.	2.A	-na-	.	.	.	.
@@ -75,7 +75,7 @@
 .	.	.	.	.	.	8c#XL	-to	8eL	-to
 .	.	.	.	.	.	8BnXJ	più	8dJ	più
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-0r	.	0r	.	4A	.	4c#X	mi-	4e	mi-
+0r	.	0r	.	4A]	.	4c#X	mi-	4e	mi-
 .	.	.	.	8EL	-se-	8BnXL	-se-	8dL	-se-
 .	.	.	.	8EJ	-ro	8AJ	-ro	8cJ	-ro
 .	.	.	.	2G	fo-	2BnX	fo-	2d	fo-
@@ -83,7 +83,7 @@
 .	.	.	.	4r	.	4r	.	4r	.
 .	.	.	.	[4c	Hor	[4e	Hor	4g	Hor
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-0r	.	0r	.	4c	.	4e	.	4.a	col
+0r	.	0r	.	4c]	.	4e]	.	4.a	col
 .	.	.	.	8cL	col	8eL	col	.	.
 .	.	.	.	8dJ	tuo e-	8dJ	tuo e-	8f	tuo e-
 .	.	.	.	2A	-sem-	2c#X	-sem-	2e	-sem-
@@ -91,7 +91,7 @@
 .	.	.	.	8r	.	8r	.	8r	.
 .	.	.	.	8A	a	8c#i	a	8e	a
 .	.	.	.	8AL	me	8c#iL	me	8eL	me
-.	.	.	.	8dJ]	li-	8dJ	li-	8f#XJ	li-
+.	.	.	.	8dJ	li-	8dJ	li-	8f#XJ	li-
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 0r	.	0r	.	4BnX	-ce	4d	-ce	4.g	-ce
 .	.	.	.	4c	spe-	4e	spe-	.	.
@@ -105,7 +105,7 @@
 .	.	.	.	8cL	-do	.	.	.	.
 .	.	.	.	8cJ	che	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-0r	.	0r	.	[2c	sia	8eL	.	8gL	.
+0r	.	0r	.	[2c	sia	8eL]	.	8gL]	.
 .	.	.	.	.	.	8e	che	8g	che
 .	.	.	.	.	.	8e	quel-	8g	quel-
 .	.	.	.	.	.	8eJ	-la	8gJ	-la
@@ -121,7 +121,7 @@
 .	.	.	.	.	.	[4d	.	8a	.
 .	.	.	.	8c	.	.	.	8fJ	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-1r	.	1r	.	8B-yL	.	8dL	.	1g	-pi-
+1r	.	1r	.	8B-yL	.	8dL]	.	1g	-pi-
 .	.	.	.	8c	.	8eJ	.	.	.
 .	.	.	.	8d	.	2f	.	.	.
 .	.	.	.	8B-yJ	.	.	.	.	.
@@ -131,7 +131,7 @@
 4r	.	4r	.	4r	.	4r	.	4r	.
 [4F	Hor	[4c	Hor	[4A	Hor	[4f	Hor	[4cc	Hor
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-4F	.	4c	.	4A	.	4f	.	4cc	.
+4F]	.	4c]	.	4A]	.	4f]	.	4cc]	.
 8FL	col	8.dL	col	8AL	col	8fL	col	8ccL	col
 8GJ	tuo e-	.	.	8GJ	tuo e-	8dJ	tuo e-	8b-yJ	tuo e-
 .	.	16GJ	tuo e-	.	.	.	.	.	.
@@ -154,7 +154,7 @@
 8FL	-do	.	.	.	.	.	.	.	.
 8FJ	che	.	.	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-[2F	sia	1r	.	8AL	.	4a	.	8ccL	.
+[2F	sia	1r	.	8AL]	.	4a]	.	8ccL]	.
 .	.	.	.	8A	che	.	.	8cc	che
 .	.	.	.	8A	quel-	8aL	-do	8cc	quel-
 .	.	.	.	8AJ	-la	8aJ	che	8ccJ	-la
@@ -169,7 +169,7 @@
 2G	-pi-	[2d	sia	2B-y	-a,	4.a	bel-	2b-y	-pi-
 .	.	.	.	.	.	8g	-la e em-	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-1F	-a	8dL	.	4F	<Quan-	2a	-pi-	2a	-a,
+1F	-a	8dL]	.	4F	<Quan-	2a	-pi-	2a	-a,
 .	.	8d	che	.	.	.	.	.	.
 .	.	8d	quel-	8FL	-do	.	.	.	.
 .	.	8dJ	-la	8FJ	che	.	.	.	.
@@ -185,7 +185,7 @@
 .	.	.	.	.	.	.	.	8dd	quel-
 .	.	.	.	8D	-la e em-	.	.	8ddJ	-la
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-8DL	.	8r	.	2G	-pi-	8aL	.	4.dd	bel-
+8DL]	.	8r	.	2G	-pi-	8aL]	.	4.dd	bel-
 8D	che	8d	che	.	.	8a	che	.	.
 8D	quel-	8dL	quel-	.	.	8a	quel-	.	.
 8DJ	-la	8dJ	-la	.	.	8aJ	-la	8dd	-la e em-
@@ -260,7 +260,7 @@
 2FF	di	2F	-so,>	[2A	di	4r	.	2cc	.
 .	.	.	.	.	.	[4f	di	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-2GG	pie-	4D	di	4A	.	4f	.	2b-y	-so
+2GG	pie-	4D	di	4A]	.	4f]	.	2b-y	-so
 .	.	4d	pie-	4G	pie-	4f	pie-	.	.
 4.AA	-tà	2.c	-tà	4G	-tà	1e	-tà	[1a	di
 .	.	.	.	4F	ri-	.	.	.	.
@@ -290,9 +290,9 @@
 4.F	di	4.A	di	[2d	fe-	4F	-ro	.	.
 .	.	.	.	.	.	.	.	8b-y	sua
 .	.	.	.	.	.	[4f	di	[4dd	fe-
-8D]	sua	8F	sua	.	.	.	.	.	.
+8D	sua	8F	sua	.	.	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-4G	fe-	4B-y	fe-	4d	.	8fL	.	8ddL	.
+4G	fe-	4B-y	fe-	4d]	.	8fL]	.	8ddL]	.
 .	.	.	.	.	.	8dJ	sua	8b-yJ	-ri-
 4E-X	-ri-	4G	-re-	4c	-ri-	4.g	fe-	4cc	-ta-
 2F	-ta-	2A	-ta-	2c	-ta-	.	.	2a	-te,
@@ -301,7 +301,7 @@
 1BB-y	-te,	1B-y	-te,	1d	-te,	1f	-te,	2r	.
 .	.	.	.	.	.	.	.	[2dd	Sa-
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-0r	.	2r	.	0r	.	1r	.	4dd	.
+0r	.	2r	.	0r	.	1r	.	4dd]	.
 .	.	.	.	.	.	.	.	8ddL	-ni
 .	.	.	.	.	.	.	.	8ddJ	le
 .	.	2.d	Sa-	.	.	.	.	8ddL	pia-
@@ -312,10 +312,10 @@
 .	.	8dJ	le	.	.	.	.	.	.
 .	.	8dL	pia-	.	.	.	.	[2a	pie-
 .	.	8dJ	-ghe	.	.	.	.	.	.
-.	.	[4d	mie	.	.	8aL	-ni	.	.
+.	.	[4d	mie	.	.	[8aL	-ni	.	.
 .	.	.	.	.	.	8aJ]	le	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-0r	.	4d	.	0r	.	8aL	pia-	4a	.
+0r	.	4d]	.	0r	.	8aL	pia-	4a]	.
 .	.	.	.	.	.	8aJ	-ghe	.	.
 .	.	4d	con	.	.	2a	mie	4b-y	.
 .	.	1A	pie-	.	.	.	.	1cc	.
@@ -331,7 +331,7 @@
 .	.	[2e-X	fin-	.	.	[2g	fin-	4cc	fin-
 .	.	.	.	.	.	.	.	[4dd	-ta
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
-0r	.	4e-i	.	0r	.	4g	.	4dd	.
+0r	.	4e-i]	.	0r	.	4g]	.	4dd]	.
 .	.	8e-iL	-ta	.	.	8gL	-ta	4g	pie-
 .	.	8e-iJ	pie-	.	.	8gJ	pie-	.	.
 .	.	[2d	-ta-	.	.	8fL	-ta-	[2a	-ta-
@@ -354,7 +354,7 @@
 .	.	.	.	8dJ	-ghe	.	.	.	.
 .	.	.	.	[4d	mie	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-4D	.	4A	.	4d	.	4f	.	2.a	Sa-
+4D]	.	4A]	.	4d]	.	4f]	.	2.a	Sa-
 8DL	-ni	8AL	-ni	4d	con	8fL	-ni	.	.
 8DJ	le	8AJ	le	.	.	8fJ	le	.	.
 8DL	pia-	8AL	pia-	2.A	pie-	8fL	pia-	.	.
@@ -367,7 +367,7 @@
 [2AA	pie-	[2A	pie-	[2c	.	[2e	pie-	.	.
 .	.	.	.	.	.	.	.	4a	con
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-2AA	.	2A	.	2c	.	2e	.	2g	pie-
+2AA]	.	2A]	.	2c]	.	2e]	.	2g	pie-
 2BBnX	-tà	2D	-tà	2A	-tà	2d	-tà	2f	-tà
 2C	ve-	2E	ve-	2G	ve-	2c	ve-	2e	ve-
 2C	-ra	2E	-ra	2G	-ra	2c	-ra	2e	-ra
@@ -384,14 +384,14 @@
 .	.	8A	cor	.	.	.	.	.	.
 .	.	8B-yJ	mi	.	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31
-1r	.	2c	fe-	8AL	.	8eL	.	1r	.
+1r	.	2c	fe-	8AL]	.	8eL]	.	1r	.
 .	.	.	.	8E	-te al	8g	-te al	.	.
 .	.	.	.	8E	cor	8g	cor	.	.
 .	.	.	.	8FJ	mi	8dJ	mi	.	.
 .	.	2BnX	.	2G	fe-	2d	fe-	.	.
 2r	.	2c	-ce,	2C	-ce,	2c	-ce,	2r	.
 4r	.	4r	.	4r	.	4r	.	4r	.
-8FL	Che	8AL	Che	8cL	Che	8aL	<Che	8ccL	Che
+8FL	Che	8AL	Che	[8cL	Che	8aL	<Che	[8ccL	Che
 8FJ	con	8B-iJ	con	8cJ]	con	8aJ	con	8ccJ]	con
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32
 2.E-X	fin-	4c	fin-	4c	fin-	2g	fin-	4cc	fin-
@@ -406,9 +406,9 @@
 8DL]	.	8AL]	.	[2F	fe-	8fL]	.	8ddL]	.
 8AA	-te al	8c	-te al	.	.	8enXi	-te al	8cc	-te al
 8AA	cor	8c	cor	.	.	8e	cor	8cc	cor
-8BBnXJ	mi	8GJ	mi	.	.	8dJ	mi	8ddJ]	mi
+8BBnXJ	mi	8GJ	mi	.	.	8dJ	mi	8ddJ	mi
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33
-1C	fe-	1G	fe-	2F	.	1c	fe-	1g	fe-
+1C	fe-	1G	fe-	2F]	.	1c	fe-	1g	fe-
 .	.	.	.	2E	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 0FFl	-ce.	0Fl	-ce.	0Fl	-ce.	0cl	-ce.	0al	-ce.

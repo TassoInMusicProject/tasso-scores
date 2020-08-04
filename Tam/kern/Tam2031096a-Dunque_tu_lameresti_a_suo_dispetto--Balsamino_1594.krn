@@ -100,7 +100,7 @@
 .	.	.	.	2A	cer-	[2F	Sì,	4.cc	Sì	2f	-to,
 .	.	.	.	.	.	.	.	8b-y	per	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-1FF	Sì,	4.c	Sì	2F	-to,	2F	.	2a	cer-	1f	Sì,
+1FF	Sì,	4.c	Sì	2F	-to,	2F]	.	2a	cer-	1f	Sì,
 .	.	8B-y	per	.	.	.	.	.	.	.	.
 .	.	2A	cer-	4.c	Sì	2f	Sì,	2a	-to,	.	.
 .	.	.	.	8B-y	per	.	.	.	.	.	.
@@ -130,7 +130,7 @@
 [2BB-y	l'a-	[2F	l'a-	4B-y	l'a-	4d	-re-	2f	Dun-	[2dd	Dun-
 .	.	.	.	4B-y	-me-	4d	-sti al	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-4BB-y	.	4F	.	4B-y	-re-	4d	suo	4f	-que	4dd	.
+4BB-y]	.	4F]	.	4B-y	-re-	4d	suo	4f	-que	4dd]	.
 4C	-me-	4c	-me-	4G	-sti al	4e	di-	4e	tu	4cc	-que
 2FF	-re-	2c	-re-	4.A	suo	2f	-spet-	4a	l'a-	2cc	tu
 .	.	.	.	.	.	.	.	4a	-me-	.	.
@@ -141,7 +141,7 @@
 2r	.	4.G	suo	4.B-y	suo	2d	tu	2g	-sti,	[2b-y	-re-
 .	.	8A	di-	8c	di-	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-2r	.	4B-y	-spet-	4d	-spet-	4G	l'a-	1r	.	2b-y	.
+2r	.	4B-y	-spet-	4d	-spet-	4G	l'a-	1r	.	2b-y]	.
 .	.	8GL	-to,	8B-yL	-to,	4g	-me-	.	.	.	.
 .	.	8GJ	al	8B-yJ	al	.	.	.	.	.	.
 2FF	al	4.A	suo	4c	suo	2f	-re-	.	.	2a	-sti al
@@ -150,7 +150,7 @@
 4GG	suo	2G	-spet-	2B-y	-spet-	1d	-sti,	2r	.	4b-y	suo
 4AA	di-	.	.	.	.	.	.	.	.	4cc	di-
 4BB-y	-spet-	4F	-to,	2B-y	-to.	.	.	2d	tu	4dd	-spet-
-8GGL	-to,	4G	tu	.	.	.	.	.	.	8b-yL	-to,
+8GGL	-to,	4G	tu	.	.	.	.	.	.	[8b-yL	-to,
 8GGJ	al	.	.	.	.	.	.	.	.	8b-J]	al
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 4AA	suo	4E	l'a-	0r	.	0r	.	4c	l'a-	4cc	suo
@@ -161,7 +161,7 @@
 4BB-y	suo	4F	suo	.	.	.	.	4d	suo	4b-y	suo
 4C	di-	4E	di-	.	.	.	.	4e	di-	4g	di-
 4D	-spet-	2D	-spet-	.	.	.	.	4f	-spet-	2dd	-spet-
-8BB-yL	-to,	.	.	.	.	.	.	8dL	-to,	.	.
+[8BB-yL	-to,	.	.	.	.	.	.	8dL	-to,	.	.
 8BB-J]	al	.	.	.	.	.	.	8dJ	al	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 4C	suo	2G	-to,	2c	Dun-	1r	.	4e	suo	2cc	-to,
@@ -242,7 +242,7 @@
 4GG	suo	[2d	ma	[2D	ma	4B-y	-spet-	[2b-y	-re-	4g	l'a-
 4AA	di-	.	.	.	.	4c	-to	.	.	4f	-me-
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-4BB-y	-spet-	2d	.	2D	.	2d	no,	2b-y	.	2f	-re-
+4BB-y	-spet-	2d]	.	2D]	.	2d	no,	2b-y]	.	2f	-re-
 4C	-to	.	.	.	.	.	.	.	.	.	.
 4D	no,	4d	l'a-	2.A	l'a-	2f	ma	2a	-i.	4f	-i,
 4D	ma	4d	-me-	.	.	.	.	.	.	4a	ma
@@ -264,16 +264,16 @@
 .	.	.	.	4.c	Sì	[2F	Sì,	.	.	2a	cer-
 .	.	.	.	8B-y	per	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-1FF	Sì,	1F	Sì,	2A	cer-	2F	.	4.cc	Sì	2f	-to,
+1FF	Sì,	1F	Sì,	2A	cer-	2F]	.	4.cc	Sì	2f	-to,
 .	.	.	.	.	.	.	.	8b-y	per	.	.
 .	.	.	.	2F	-to,	1f	Sì,	2a	cer-	4.cc	Sì
 .	.	.	.	.	.	.	.	.	.	8b-y	per
 1F	Sì,	1r	.	4.c	Sì	.	.	2f	-to,	2a	cer-
 .	.	.	.	8B-y	per	.	.	.	.	.	.
 .	.	.	.	2A	cer-	[2F	Sì,	4.cc	Sì	2f	-to,
-.	.	.	.	.	.	.	.	8b-]	per	.	.
+.	.	.	.	.	.	.	.	8b-	per	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-1FF	Sì,	4.c	Sì	2F	-to,	2F	.	2a	cer-	1f	Sì,
+1FF	Sì,	4.c	Sì	2F	-to,	2F]	.	2a	cer-	1f	Sì,
 .	.	8B-y	per	.	.	.	.	.	.	.	.
 .	.	2A	cer-	4.c	Sì	2f	Sì,	2a	-to,	.	.
 .	.	.	.	8B-y	per	.	.	.	.	.	.

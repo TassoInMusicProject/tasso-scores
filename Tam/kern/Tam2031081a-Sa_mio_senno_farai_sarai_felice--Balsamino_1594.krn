@@ -113,7 +113,7 @@
 2r	.	4A	me	[2F	e	2c	for-	4cc	que-	2f	e
 .	.	4G	fu	.	.	.	.	4b-y	-sta a	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-0r	.	1F	for-	2F	.	2c	-za,	4a	me	4cc	que-
+0r	.	1F	for-	2F]	.	2c	-za,	4a	me	4cc	que-
 .	.	.	.	.	.	.	.	4g	fu	4b-y	-sto a
 .	.	.	.	4c	que-	2r	.	2f	for-	4a	me
 .	.	.	.	4B-y	-sto a	.	.	.	.	4g	fu
@@ -121,13 +121,13 @@
 .	.	.	.	4G	fu	.	.	.	.	.	.
 .	.	[2A	For-	2F	for-	.	.	[2cc	For-	2f	-za,
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-0r	.	2A	.	2F	-za,	2c	For-	2cc	.	2f	For-
+0r	.	2A]	.	2F	-za,	2c	For-	2cc]	.	2f	For-
 .	.	4B-y	-za	2r	.	4d	-za	4b-y	-za	4f	-za
 .	.	4B-y	di	.	.	4d	di	4b-y	di	4f	di
 .	.	4G	sua	1r	.	4d	sua	4b-y	sua	4g	sua
 .	.	4A	bel-	.	.	4c	bel-	4cc	bel-	4f	bel-
 .	.	4.B-y	-lez-	.	.	4.d	-lez-	4.b-y	-lez-	4.f	-lez-
-.	.	8A]	-za e	.	.	8e	-za e	8cc]	-za e	8a	-za e
+.	.	8A	-za e	.	.	8e	-za e	8cc	-za e	8a	-za e
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 0r	.	2.c	non	1r	.	2.e	non	2.cc	non	2.g	non
 .	.	4A	mia	.	.	4c	mia	4cc	mia	4f	mia
@@ -271,7 +271,7 @@
 4F	mai	4c	mai	4A	mai	4f	mai	2cc	Fuor	[2a	-mar-
 4F	che	4A	che	4A	che	4f	che	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
-4D	le	4A	le	4F	le	4f	le	2dd	ch'a-	2a	.
+4D	le	4A	le	4F	le	4f	le	2dd	ch'a-	2a]	.
 4E	spia-	4G	spia-	4G	spia-	4g	spia-	.	.	.	.
 4F	-ces-	4.c	-ces-	4A	-ces-	4.f	-ces-	2a	-mar-	2a	-la;
 4F	-se,	.	.	4A	-se,	.	.	.	.	.	.
@@ -288,7 +288,7 @@
 .	.	.	.	.	.	.	.	4b-y	le	4g	le
 .	.	.	.	.	.	.	.	4cc	spia-	4a	spia-
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
-1GG	.	1G	.	1D	.	1d	-la,	2dd	-ces-	2b-y	-ces-
+1GG]	.	1G]	.	1D]	.	1d	-la,	2dd	-ces-	2b-y	-ces-
 .	.	.	.	.	.	.	.	2dd	-se,	2b-y	-se,
 1r	.	4c	Fuor	4F	Fuor	4f	<Four	4cc	Fuor	4a	Fuor
 .	.	4G	ch'a-	4G	ch'a-	4d	ch'a-	4b-y	ch'a-	4g	ch'a-
@@ -303,7 +303,7 @@
 [2GG	for-	.	.	4d	que-	2B-y	me,	4b-y	me	2g	e
 .	.	.	.	4c	-sto a	.	.	4a	fu	.	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
-2GG	.	2G	e	4B-y	me	2r	.	1g	for-	4dd	que-
+2GG]	.	2G	e	4B-y	me	2r	.	1g	for-	4dd	que-
 .	.	.	.	4A	fu	.	.	.	.	4cc	-sto a
 2GG	-za	4d	que-	2G	for-	2B-y	e	.	.	4b-y	me
 .	.	4c	-sto a	.	.	.	.	.	.	4a	fu
@@ -312,7 +312,7 @@
 .	.	[2G	for-	2d	fu	4B-y	me	2dd	fu	4b-y	-za,
 .	.	.	.	.	.	4G	fu	.	.	4b-y	fu
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
-1E-X	for-	2G	.	1B-y	for-	1g	for-	1ee-X	for-	1b-y	for-
+1E-X	for-	2G]	.	1B-y	for-	1g	for-	1ee-X	for-	1b-y	for-
 .	.	2G	-za,	.	.	.	.	.	.	.	.
 2BB-y	-za,	2r	.	2B-y	-za,	2f	-za,	2dd	-za,	2b-y	-za,
 2F	For-	2c	For-	2A	For-	2f	For-	2cc	For-	2a	For-

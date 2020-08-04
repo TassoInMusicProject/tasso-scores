@@ -34,7 +34,7 @@
 4G	ar-	.	.	4B-y	ar-	.	.	.	.	[2e	-so-
 [4A	-dir	.	.	[4c	-dir	.	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-4A	.	0r	.	4c	.	0r	.	0r	.	2e	.
+4A]	.	0r	.	4c]	.	0r	.	0r	.	2e]	.
 8GL	mi	.	.	8B-yL	mi	.	.	.	.	.	.
 8FJ	bi-	.	.	8AJ	bi-	.	.	.	.	.	.
 4E	-so-	.	.	4G	-so-	.	.	.	.	2g	-gna, e 'n-
@@ -57,7 +57,7 @@
 .	.	4c	-na	.	.	4e	-na	4g	-na	.	.
 .	.	[2c	fos-	.	.	[2e	fos-	[2g	fos-	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-0r	.	4c	.	0r	.	4e	.	4g	.	0r	.
+0r	.	4c]	.	0r	.	4e]	.	4g]	.	0r	.
 .	.	4A	-se in	.	.	4e	-se in	4cc	-se in	.	.
 .	.	4B-y	mez-	.	.	4d	mez-	4b-y	mez-	.	.
 .	.	4c	-zo un	.	.	4e	-zo un	4g	-zo un	.	.
@@ -117,7 +117,7 @@
 4F	Più	.	.	4A	Più	.	.	.	.	4cc	Più
 [2F	che	.	.	[2A	che	.	.	.	.	[2cc	che
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
-4F	.	0r	.	4A	.	0r	.	0r	.	4cc	.
+4F]	.	0r	.	4A]	.	0r	.	0r	.	4cc]	.
 4F	di	.	.	4c	di	.	.	.	.	4a	di
 4BB-y	fe-	.	.	4B-y	fe-	.	.	.	.	4b-y	fe-
 4F	-sta	.	.	4A	-sta	.	.	.	.	4cc	-sta
@@ -138,7 +138,7 @@
 4F	-sta	.	.	4A	-sta	.	.	.	.	4cc	-sta
 [2BB-y	vil-	.	.	[2F	vil-	.	.	.	.	[2dd	vil-
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-4BB-y	.	0r	.	4F	.	0r	.	0r	.	4dd	.
+4BB-y]	.	0r	.	4F]	.	0r	.	0r	.	4dd]	.
 4F	-la-	.	.	4A	-la-	.	.	.	.	4cc	-la-
 4G	-nel-	.	.	4G	-nel-	.	.	.	.	4b-y	-nel-
 4F	-la al	.	.	4D	-la al	.	.	.	.	4a	-la al
@@ -168,10 +168,10 @@
 .	.	.	.	.	.	.	.	8b-y	la-	.	.
 .	.	.	.	.	.	.	.	4b-y	-dro-	.	.
 .	.	.	.	.	.	.	.	4a	-ni e	.	.
-.	.	4.c	tra	.	.	4.e	tra	[2g	ar-	.	.
+.	.	[4.c	tra	.	.	[4.e	tra	[2g	ar-	.	.
 .	.	8c]	la-	.	.	8e]	la-	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
-0r	.	4c	-dro-	0r	.	4e	-dro-	2g	.	0r	.
+0r	.	4c	-dro-	0r	.	4e	-dro-	2g]	.	0r	.
 .	.	4B-y	-ni e	.	.	4d	-ni e	.	.	.	.
 .	.	2c	ar-	.	.	2e	ar-	2.g	-mi,	.	.
 .	.	4c	-mi,	.	.	4e	-mi,	.	.	.	.
@@ -193,7 +193,7 @@
 .	.	.	.	.	.	.	.	.	.	8g	-to e
 2F	pron-	.	.	2c	pron-	.	.	.	.	2a	pron-
 4.F	-to,	.	.	4.c	-to,	.	.	.	.	4.a	-to,
-8A	più	.	.	8c	più	.	.	.	.	8cc]	più
+8A	più	.	.	8c	più	.	.	.	.	8cc	più
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 4.G	lie-	0r	.	4d	lie-	0r	.	0r	.	4.b-y	lie-
 .	.	.	.	4B-y	-to e	.	.	.	.	.	.
@@ -203,7 +203,7 @@
 4F	Che	.	.	4A	Che	.	.	.	.	4cc	Che
 [2F	l'as-	.	.	[2A	l'as-	.	.	.	.	[2cc	l'as-
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-4F	.	0r	.	4A	.	0r	.	0r	.	4cc	.
+4F]	.	0r	.	4A]	.	0r	.	0r	.	4cc]	.
 4F	-se-	.	.	4c	-se-	.	.	.	.	4a	-se-
 4BB-y	-ta-	.	.	4B-y	-ta-	.	.	.	.	4b-y	-ta-
 4F	-to	.	.	4A	-to	.	.	.	.	4cc	-to
@@ -240,7 +240,7 @@
 8FFL	lie-	2F	pron-	8AL	lie-	2f	pron-	2a	pron-	.	.
 8GG	.	.	.	8B-y	.	.	.	.	.	.	.
 8AA	.	.	.	8c	.	.	.	.	.	.	.
-8BB-J]	.	.	.	8dJ	.	.	.	.	.	.	.
+8BB-J	.	.	.	8dJ	.	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 4C	.	4E	-to,	4e	.	4c	-to,	8gL	-to	4r	.
 .	.	.	.	.	.	.	.	8a	.	.	.
@@ -285,7 +285,7 @@
 1C	pron-	2c	pron-	1G	pron-	2e	-to e	2g	pron-	1r	.
 .	.	[2c	-to	.	.	2e	pron-	[2g	-to	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
-1C	-to,	4c	.	1G	-to,	4e	-to	4g	.	0r	.
+1C	-to,	4c]	.	1G	-to,	4e	-to	4g]	.	0r	.
 .	.	4c	Che	.	.	4e	Che	4g	Che	.	.
 .	.	2.c	l'as-	.	.	2.e	l'as-	2.g	l'as-	.	.
 1r	.	.	.	1r	.	.	.	.	.	.	.
@@ -308,7 +308,7 @@
 4.F	tu,	1r	.	4.A	tu,	4.c	tu,	1r	.	4.a	tu,
 8D	V'an-	.	.	8A	V'an-	8d	V'an-	.	.	8f	V'an-
 4.E-X	-dre-	.	.	4.G	-dre-	4.B-y	-dre-	.	.	4.g	-dre-
-8C	-sti	.	.	8G	-sti	8c	-sti	.	.	8e]	-sti
+8C	-sti	.	.	8G	-sti	8c	-sti	.	.	8e	-sti
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 2F	tu,	2r	.	2A	tu,	2c	tu,	2r	.	2f	tu,
 2r	.	2C	V'an-	2r	.	2c	V'an-	2g	V'an-	2r	.
@@ -338,7 +338,7 @@
 4F	-to	4F	-to	4c	-to	4f	-to	4cc	-to	4a	-to
 [2BB-y	cer-	[2F	cer-	[2B-y	cer-	[2f	cer-	[2dd	cer-	[2b-y	cer-
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
-4BB-y	.	4F	.	4B-y	.	4f	.	4dd	.	4b-y	.
+4BB-y]	.	4F]	.	4B-y]	.	4f]	.	4dd]	.	4b-y]	.
 4F	-vo a	4A	-vo a	4c	-vo a	4f	-vo a	4cc	-vo a	4a	-vo a
 4G	la	4B-y	la	4G	la	4B-y	la	4b-y	la	4d	la
 4F	fon-	4F	fon-	4A	fon-	4c	fon-	4a	fon-	4f	fon-
@@ -362,7 +362,7 @@
 4C	-ta-	4G	-ta-	4E	-ta-	.	.	4g	-ta-	4e	-ta-
 4FF	.	4A	.	4F	.	.	.	4f	.	4d	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
-0C	.	0G	.	2.E	.	0c	.	8gL	.	8eL	.
+0C	.	0G	.	2.E	.	0c]	.	8gL	.	8eL	.
 .	.	.	.	.	.	.	.	8f	.	8d	.
 .	.	.	.	.	.	.	.	8e	.	8c	.
 .	.	.	.	.	.	.	.	8dJ	.	8dJ	.

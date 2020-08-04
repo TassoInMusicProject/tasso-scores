@@ -32,14 +32,14 @@
 .	16ccJ	-sto al
 .	[2ee-X	pian-
 =2	=2	=2
-2GG	4.ee-i	.
+2GG	4.ee-i]	.
 .	8dd	-to
 8GGL	[2b-y	mi-
 8GG	.	.
 8BB-y	.	.
 8CJ	.	.
 =3	=3	=3
-2E-X	2.b-y	.
+2E-X	2.b-y]	.
 !LO:TX:t=4	!	!
 [4D	.	.
 4D]	4a	-o
@@ -63,7 +63,7 @@
 .	16ccJ	-der
 4B-y	4.dd	per
 4BB-y	.	.
-.	8ee-X]	pie-
+.	8ee-X	pie-
 =7	=7	=7
 4E-X	2.cc	-ta-
 4EnX	.	.
@@ -76,7 +76,7 @@
 8GL	.	.
 8DJ	.	.
 =9	=9	=9
-2E-X	4.dd	.
+2E-X	4.dd]	.
 .	8g	-si e
 2F	8.aL	l'on-
 .	16b-yJ	.
@@ -98,7 +98,7 @@
 .	16a	.
 .	16b-yJ	.
 .	8ccL	.
-.	16dd]	.
+.	16dd	.
 .	16eeJ	.
 =11	=11	=11
 1F	2.ff	.
@@ -109,7 +109,7 @@
 2C	8ee-XL	so-
 .	8dd	-spi-
 .	8cc	-rar
-.	8b-J]	le
+.	8b-J	le
 =13	=13	=13
 1D	2a	fron-
 .	2a	-de
@@ -121,7 +121,7 @@
 .	[2b-y	pian-
 4C	.	.
 =15	=15	=15
-2BBnX	4.b-y	.
+2BBnX	4.b-y]	.
 .	8a	-to
 !LO:TX:t=4	!	!
 [4AA	2e	mi-
@@ -147,19 +147,19 @@
 .	8b-yJ	ve-
 .	[4cc	-der
 =20	=20	=20
-2F	8ccL	.
+2F	8ccL]	.
 .	8ee-X	com-
 .	8ee-X	-pas-
 .	8ee-XJ	-si-
 2C	[2ee-X	-on
 =21	=21	=21
-1C	4.ee-i	.
+1C	4.ee-i]	.
 .	8dd	nel-
 .	8gL	-la
 .	8aJ	cru-
 .	[4b-y	-de-
 =22	=22	=22
-4D	[2.b-y	.
+4D	2.b-y_	.
 4E-X	.	.
 2BBnX	.	.
 .	8b-L]	.
@@ -199,7 +199,7 @@
 .	8eeJ	-ché
 .	4dd	ne-
 .	8ccL	-ga
-.	8b-J]	pie-
+.	8b-J	pie-
 =30	=30	=30
 2BB-y	2.dd	-ta-
 2E-X	.	.
@@ -241,7 +241,7 @@
 .	16ccJ	.
 .	[4dd	.
 =36	=36	=36
-8GGL	[1dd	.
+8GGL	1dd_	.
 8AA	.	.
 8BB-y	.	.
 8CJ	.	.
@@ -250,7 +250,7 @@
 8F	.	.
 8GJ	.	.
 =37	=37	=37
-8AL	[1dd	.
+8AL	1dd_	.
 8B-y	.	.
 8G	.	.
 8EJ	.	.
@@ -259,7 +259,7 @@
 8BBnX	.	.
 8CJ	.	.
 =38	=38	=38
-16BB-yL	2.dd	.
+16BB-yL	2.dd_	.
 16AA	.	.
 8GGJ	.	.
 4D	.	.

@@ -40,7 +40,7 @@
 [1D	.	.
 .	[2a	-o
 =4	=4	=4
-2D	2a	.
+2D]	2a]	.
 2D	4r	.
 .	4a	Ri-
 2.BB-y	4.dd	-spon-
@@ -109,7 +109,7 @@
 2G	2b-y	Ma
 4r	4r	.
 8GL	8b-yL	non
-8DJ]	8fJ	ho
+8DJ	8fJ	ho
 =10	=10	=10
 4E-X	4g	vi-
 4BB-y	16b-yL	-sto
@@ -142,7 +142,7 @@
 .	8eJ	cru-
 2AA	[2f#i	-del
 =13	=13	=13
-2AA	4f#X	.
+2AA	4f#X]	.
 .	4f#X	e
 1GG	2g	bel-
 .	2g	-la,
@@ -159,7 +159,7 @@
 .	8aJ	mai
 2BB-y	[2dd	Chia-
 =15	=15	=15
-2D	4dd	.
+2D	4dd]	.
 .	4dd	-mi
 2AA	4cc#X	Don-
 .	16fL	-na o
@@ -187,7 +187,7 @@
 2F	.	.
 .	16ccL	.
 .	16b-y	.
-.	8aJ]	-ga
+.	8aJ	-ga
 =19	=19	=19
 2G	4bnXi	pie-
 .	2cc	-ta-

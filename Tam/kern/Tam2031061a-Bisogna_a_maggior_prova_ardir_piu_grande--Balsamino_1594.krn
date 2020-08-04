@@ -77,7 +77,7 @@
 [2BB-y	si	[2B-y	si	4F	-do	[2d	si	[2b-y	si	[2f	si
 .	.	.	.	4F	la	.	.	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-4BB-y	.	4B-y	.	4D	ne-	4d	.	4b-y	.	4f	.
+4BB-y]	.	4B-y]	.	4D	ne-	4d]	.	4b-y]	.	4f]	.
 4FF	di-	4A	di-	4F	-ve	4c	di-	4cc	di-	4f	di-
 1BB-y	-scio-	4B-y	-scio-	4D	si	1d	-scio-	8b-yL	-scio-	8fL	-scio-
 .	.	.	.	.	.	.	.	8cc	.	8e	.
@@ -102,7 +102,7 @@
 .	.	.	.	.	.	4d	.	4f	.	8aL	.
 .	.	.	.	.	.	.	.	.	.	8b-yJ	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-1C	.	2G	.	2c	.	4e	.	4g	.	2cc	.
+1C]	.	2G]	.	2c]	.	4e	.	4g	.	2cc	.
 .	.	.	.	.	.	4f	.	8aL	.	.	.
 .	.	.	.	.	.	.	.	8b-yJ	.	.	.
 .	.	2E	Le	2G	-fi	2g	.	2cc	.	2c	-fi
@@ -110,7 +110,7 @@
 4C	Le	4G	-da al	.	.	4e	Le	4g	Le	.	.
 [2BB-y	man-	[2D	ma-	[2F	man-	[2d	man-	[2b-y	man-	[2f	man-
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-2BB-y	.	2D	.	2F	.	2d	.	2b-y	.	2f	.
+2BB-y]	.	2D]	.	2F]	.	2d]	.	2b-y]	.	2f]	.
 2FF	-da al	2F	-re;	2A	-da al	2c	-da al	2a	-da al	2f	-da al
 1GG	ma-	1r	.	1D	ma-	1BnX	ma-	1g	ma-	1d	ma-
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
@@ -122,7 +122,7 @@
 .	.	[2c	mez-	.	.	[2e	mez-	4.g	mez-	.	.
 .	.	.	.	.	.	.	.	8g	-zo, i	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-0r	.	4c	.	0r	.	4e	.	4.g	ra-	0r	.
+0r	.	4c]	.	0r	.	4e]	.	4.g	ra-	0r	.
 .	.	4c	-zo i	.	.	4e	-zo, An-	.	.	.	.
 .	.	.	.	.	.	.	.	8a	-pi-	.	.
 .	.	4B-y	ra-	.	.	4f	-drò	4.b-y	-di	.	.
@@ -220,16 +220,16 @@
 .	.	.	.	.	.	[2c	quan-	4cc	-la	4f	-la
 .	.	4A	-do el-	.	.	.	.	4cc	vi	4f	vi
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-2r	.	4A	-la	2r	.	4c	.	2a	si-	2e	si-
+2r	.	4A	-la	2r	.	4c]	.	2a	si-	2e	si-
 .	.	4A	vi	.	.	4c	-do el-	.	.	.	.
 2.C	quan-	1E	si-	2.c	quan-	4c	-la	2g	-a,	2e	-a,
 .	.	.	.	.	.	4c	vi	.	.	.	.
 .	.	.	.	.	.	1G	si-	1r	.	2.g	quan-
-4C	-do el-	.	.	4c	-do el-	.	.	.	.	.	.
+[4C	-do el-	.	.	4c	-do el-	.	.	.	.	.	.
 4C]	-la	4E	-a,	4c	-la	.	.	.	.	.	.
 4C	vi	[4G	quan-	4c	vi	.	.	.	.	4g	-do el-
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-1GG	si-	4G	.	2B-y	si-	1d	-a,	2r	.	4g	-la
+1GG	si-	4G]	.	2B-y	si-	1d	-a,	2r	.	4g	-la
 .	.	4G	-do el-	.	.	.	.	.	.	4g	vi
 .	.	4G	-la	2B-y	-a,	.	.	2.dd	quan-	2d	si-
 .	.	4G	vi	.	.	.	.	.	.	.	.
@@ -238,7 +238,7 @@
 [2D	quan-	4D	-a,	.	.	[2f	<quan-	4dd	-la	[2dd	<quan-
 .	.	[4A	<quan-	.	.	.	.	4dd	vi	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-4D	.	4A	.	2d	-do el-	4f	.	2a	si-	4dd	.
+4D]	.	4A]	.	2d	-do el-	4f]	.	2a	si-	4dd]	.
 4D	-do el-	4A	-do el-	.	.	4f	-do el-	.	.	4dd	-do el-
 4D	-la	4F	-la	4A	-la	4f	-la	4a	-a,	4dd	-la
 4GG	vi	4G	vi	4B-y	vi	4d	vi	4g	vi	4dd	vi
@@ -257,7 +257,7 @@
 4G	sì	.	.	4d	sì	4g	sì	4b-y	sì	.	.
 2D	bel-	.	.	[2d	bel-	2f#X	bel-	2a	bel-	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
-2GG	-la,	2r	.	2d	.	2g	-la,	2b-y	-la,	2r	.
+2GG	-la,	2r	.	2d]	.	2g	-la,	2b-y	-la,	2r	.
 2D	S'es-	2A	S'es-	2d	-la,	2f	S'es-	2r	.	2a	S'es-
 4D	-ser	4A	-ser	1r	.	4f	-ser	1r	.	4a	-ser
 4BB-y	può in-	4B-y	può in-	.	.	4f	può in-	.	.	4dd	può in-

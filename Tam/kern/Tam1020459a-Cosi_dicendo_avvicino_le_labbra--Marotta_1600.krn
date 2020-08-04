@@ -68,7 +68,7 @@
 [2f	De	.	.	4a	la
 .	.	.	.	4b	sua
 =6	=6	=6	=6	=6	=6
-2f	.	1r	.	4cc	bel-
+2f]	.	1r	.	4cc	bel-
 .	.	.	.	4a	-la e
 1d	la	.	.	4b-X	dol-
 .	.	.	.	4.a	-cis-
@@ -95,7 +95,7 @@
 [2D	la	.	.	4ff	dol-
 .	.	.	.	[4dd	-cis-
 =9	=9	=9	=9	=9	=9
-2D	.	2dd	la	8ddL	.
+2D]	.	2dd	la	8ddL]	.
 .	.	.	.	8ddJ	-si-
 .	.	.	.	4a	-ma
 2C	sua	2ee	sua	1cc	boc-
@@ -183,7 +183,7 @@
 .	.	4cc	-ti	.	.
 .	.	[4b	to-	[4dd	to-
 =21	=21	=21	=21	=21	=21
-0r	.	8bL	.	8ddL	.
+0r	.	8bL]	.	8ddL]	.
 .	.	8bJ	-sto	8ddJ	-sto
 .	.	4b	Ces-	4ee	Ces-
 .	.	4cc	-sar	4ff	-sar
@@ -252,7 +252,7 @@
 2G	o	2r	.	4.b	cre-
 .	.	.	.	16aL	.
 .	.	.	.	16gJ	.
-4.D	co-	2dd	o	2a	.
+[4.D	co-	2dd	o	2a	.
 8D]	-m'io	.	.	.	.
 =29	=29	=29	=29	=29	=29
 2E	cre-	4.gg	co-	2g	-do,
@@ -321,10 +321,10 @@
 8A	.	.	.	.	.
 8GJ	.	.	.	.	.
 =35	=35	=35	=35	=35	=35
-1F	.	4cc	.	[1ff	toc-
+1F	.	4cc]	.	[1ff	toc-
 .	.	4cc	che	.	.
 .	.	2cc	toc-	.	.
-[1Cl	-ca.	[1ccl	-ca.	2ff	.
+[1Cl	-ca.	[1ccl	-ca.	2ff]	.
 .	.	.	.	4ee	.
 .	.	.	.	4dd	.
 =36	=36	=36	=36	=36	=36
