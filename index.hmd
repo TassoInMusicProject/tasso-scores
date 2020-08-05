@@ -144,7 +144,7 @@ Trm/kern/Trm0165e-Vorrei_lagnarmi_a_pieno--Monte_1591.krn	Trm0165e	Y	.	Trm0165e 
 Trm/kern/Trm0166a-Se_taccio_il_duol_savanza--Dueto_1584.krn	Trm0166a	Y	.	Trm0166a <link>Se taccio, il duol s'avanza(Dueto, 1584)</link>
 Trm/kern/Trm0166b-Se_taccio_il_duol_savanza--Mazza_1584.krn	Trm0166b	Y	.	Trm0166b <link>Se taccio, il duol s'avanza(Mazza, 1584)</link>
 Trm/kern/Trm0166f-Se_taccio_il_duol_savanza--Monte_1591.krn	Trm0166f	Y	.	Trm0166f <link>Se taccio, il duol s'avanza(Monte, 1591)</link>
-Trm/kern/Trm0166g-Se_taccio_il_duol_s’avanza--Gesualdo_1594.krn	Trm0166g	Y	.	Trm0166g <link>Se taccio, il duol s'avanza(Gesualdo, 1594)</link>
+Trm/kern/Trm0166g-Se_taccio_il_duol_savanza--Gesualdo_1594.krn	Trm0166g	Y	.	Trm0166g <link>Se taccio, il duol s'avanza(Gesualdo, 1594)</link>
 Trm/kern/Trm0166h-Se_taccio_il_duol_savanza--Pozzo_1600.krn	Trm0166h	Y	.	Trm0166h <link>Se taccio, il duol s'avanza(Pozzo, 1600)</link>
 Trm/kern/Trm0166i-Se_taccio_il_duol_savanza--IlVerso_1600.krn	Trm0166i	Y	.	Trm0166i <link>Se taccio, il duol s'avanza(Il Verso, 1600)</link>
 Trm/kern/Trm0166k-Se_taccio_il_duol_savanza--Nenna_1613.krn	Trm0166k	Y	.	Trm0166k <link>Se taccio, il duol s'avanza(Nenna, 1613)</link>
@@ -388,12 +388,15 @@ Tsg/kern/Tsg03008a-Dunque_ove_tu_signor_di_mille_rivi--Mazzocchi_1640.krn	Tsg030
 Tsg/kern/Tsg04029a-Argo_non_mai_non_vide_Cipro_o_Delo--DIndia_1615.krn	Tsg04029a	Y	.	Tsg04029a <link>Argo non mai, non vide Cipro o Delo(D'India, 1615)</link>
 Tsg/kern/Tsg04030a-Fa_nove_crespe_laura_al_crin_disciolto--Cifra_1615.krn	Tsg04030a	Y	.	Tsg04030a <link>Fa nove crespe l'aura al crin disciolto(Cifra, 1615)</link>
 Tsg/kern/Tsg04030b-Fa_nove_crespe_laura_al_crin_disciolto--DIndia_1615.krn	Tsg04030b	Y	.	Tsg04030b <link>Fa nove crespe l'aura al crin disciolto(D'India, 1615)</link>
-Tsg/kern/Tsg06103a-Era_la_notte_el_suo_stellato_velo--IlVerso_1603.krn	Tsg06103a	Y	.	Tsg06103a <link>Era la notte e 'l suo stellato velo(Il Verso, 1603)</link>
-Tsg/kern/Tsg06103b-Era_la_notte_el_tuo_stellato_velo--Cifra_1614.krn	Tsg06103b	Y	.	Tsg06103b <link>Era la notte e 'l suo stellato velo(Cifra, 1614)</link>
+Tsg/kern/Tsg06103a-Era_la_notte_el_suo_stellato_velo--IlVerso_1603.krn	Tsg06103a	Y	.	Tsg06103a <link>Era la notte, e 'l suo stellato velo(Il Verso, 1603)</link>
+Tsg/kern/Tsg06103b-Era_la_notte_el_tuo_stellato_velo--Cifra_1614.krn	Tsg06103b	Y	.	Tsg06103b <link>Era la notte, e 'l suo stellato velo(Cifra, 1614)</link>
 Tsg/kern/Tsg06104a-Poi_rimirando_il_campo_ella_dicea--IlVerso_1603.krn	Tsg06104a	Y	.	Tsg06104a <link>Poi rimirando il campo ella dicea(Il Verso, 1603)</link>
+Tsg/kern/Tsg06104b-Poi_rimirando_il_campo_ella_dicea--Cifra_1614.krn	Tsg06104b	Y	.	Tsg06104b <link>Poi rimirando il campo ella dicea(Cifra, 1614)</link>
 Tsg/kern/Tsg06105a-Raccogliete_in_me_dunque_e_in_voi_si_trove--IlVerso_1603.krn	Tsg06105a	Y	.	Tsg06105a <link>Raccogliete me dunque: e in voi si trove(Il Verso, 1603)</link>
 Tsg/kern/Tsg07019b-Sovente_allor_che_su_gli_estivi_ardori--DIndia_1609.krn	Tsg07019b	Y	.	Tsg07019b <link>Sovente, allor che su gli estivi ardori(D'India, 1609)</link>
+Tsg/kern/Tsg07019c-Sovente_allor_che_su_gli_estivi_ardori--Cifra_1614.krn	Tsg07019c	Y	.	Tsg07019c <link>Sovente, allor che su gli estivi ardori(Cifra, 1614)</link>
 Tsg/kern/Tsg07020b-Indi_dicea_piangendo_in_voi_serbate--DIndia_1609.krn	Tsg07020b	Y	.	Tsg07020b <link>Indi dicea piangendo: "In voi serbate(D'India, 1609)</link>
+Tsg/kern/Tsg07020c-Indi_dicea_piangendo_In_voi_serbate--Cifra_1614.krn	Tsg07020c	Y	.	Tsg07020c <link>Indi dicea piangendo: "In voi serbate(Cifra, 1614)</link>
 Tsg/kern/Tsg07021a-Forse_avverra_sel_ciel_benigno_ascolta--DIndia_1609.krn	Tsg07021a	Y	.	Tsg07021a <link>Forse avverrà se 'l ciel benigno ascolta(D'India, 1609)</link>
 Tsg/kern/Tsg12065a-Segue_egli_la_vittoria_e_la_trafitta--Massaino_1587.krn	Tsg12065a	Y	.	Tsg12065a <link>Segue egli la vittoria, e la trafitta(Massaino, 1587)</link>
 Tsg/kern/Tsg12066a--Amico_hai_vinto_io_ti_perdon_perdona--Massaino_1587.krn	Tsg12066a	Y	.	Tsg12066a <link>"Amico hai vinto; io ti perdon, perdona(Massaino, 1587)</link>
@@ -416,13 +419,18 @@ Tsg/kern/Tsg12082a-O_bella_destra_chel_soave_sdegno--DIndia_1618.krn	Tsg12082a	Y
 Tsg/kern/Tsg12090a-Lei_nel_partir_lei_nel_tornar_del_sole--Cifra_1615.krn	Tsg12090a	Y	.	Tsg12090a <link>Lei nel partir, lei nel tornar del sole(Cifra, 1615)</link>
 Tsg/kern/Tsg12096c-Giunto_a_la_tomba_ove_al_suo_spirto_vivo--Ricci_1597.krn	Tsg12096c	Y	.	Tsg12096c <link>Giunto a la tomba ove al suo spirto vivo(Ricci, 1597)</link>
 Tsg/kern/Tsg12096d-Giunto_a_la_tomba_ove_al_suo_spirto_vivo--Dentice_1598.krn	Tsg12096d	Y	.	Tsg12096d <link>Giunto a la tomba ove al suo spirto vivo(Dentice, 1598)</link>
+Tsg/kern/Tsg12096e-Giunto_a_la_tomba_ove_al_suo_spirto_vivo--Cifra_1605.krn	Tsg12096e	Y	.	Tsg12096e <link>Giunto a la tomba ove al suo spirto vivo(Cifra, 1605)</link>
 Tsg/kern/Tsg12096f-Giunto_a_la_tomba_ove_al_suo_spirto_vivo--Benedetti_1613.krn	Tsg12096f	Y	.	Tsg12096f <link>Giunto a la tomba ove al suo spirto vivo(Benedetti, 1613)</link>
 Tsg/kern/Tsg12096g-Giunto_a_la_tomba_ove_al_suo_spirto_vivo--DIndia_1618.krn	Tsg12096g	Y	.	Tsg12096g <link>Giunto a la tomba ove al suo spirto vivo(D'India, 1618)</link>
 Tsg/kern/Tsg12096h-Giunto_a_la_tomba_ove_al_suo_spirto_vivo--Cifra_1619.krn	Tsg12096h	Y	.	Tsg12096h <link>Giunto a la tomba ove al suo spirto vivo(Cifra, 1619)</link>
-Tsg/kern/Tsg12097e-Non_di_morte_sei_tu_ma_di_vivaci--Ricci_1597.krn	Tsg12097e	Y	.	Tsg12097e <link>Non di morte sei tu ma di vivaci(Ricci, 1597)</link>
-Tsg/kern/Tsg12097f-Non_di_morte_sei_tu_ma_di_vivaci--Dentice_1598.krn	Tsg12097f	Y	.	Tsg12097f <link>Non di morte sei tu ma di vivaci(Dentice, 1598)</link>
-Tsg/kern/Tsg12098b-Dalli_lor_tu_che_se_mai_gli_occhi_gira--Dentice_1598.krn	Tsg12098b	Y	.	Tsg12098b <link>Dalli lor tu ché, se mai gli occhi gira(Dentice, 1598)</link>
+Tsg/kern/Tsg12097e-Non_di_morte_sei_tu_ma_di_vivaci--Ricci_1597.krn	Tsg12097e	Y	.	Tsg12097e <link>Non di morte sei tu, ma di vivaci(Ricci, 1597)</link>
+Tsg/kern/Tsg12097f-Non_di_morte_sei_tu_ma_di_vivaci--Dentice_1598.krn	Tsg12097f	Y	.	Tsg12097f <link>Non di morte sei tu, ma di vivaci(Dentice, 1598)</link>
+Tsg/kern/Tsg12097h-Non_di_morte_sei_tu_ma_di_vivaci--Cifra_1605.krn	Tsg12097h	Y	.	Tsg12097h <link>Non di morte sei tu, ma di vivaci(Cifra, 1605)</link>
+Tsg/kern/Tsg12098b-Dalli_lor_tu_che_se_mai_gli_occhi_gira--Dentice_1598.krn	Tsg12098b	Y	.	Tsg12098b <link>Dalli lor tu, ché se mai gli occhi gira(Dentice, 1598)</link>
+Tsg/kern/Tsg12098c-Dalli_lor_tu_che_se_mai_gli_occhi_gira--Cifra_1605.krn	Tsg12098c	Y	.	Tsg12098c <link>Dalli lor tu, ché se mai gli occhi gira(Cifra, 1605)</link>
 Tsg/kern/Tsg12099b-Ed_amando_morro_felice_giorno-Dentice_1598.krn	Tsg12099b	Y	.	Tsg12099b <link>Ed amando morrò: felice giorno(Dentice, 1598)</link>
+Tsg/kern/Tsg12099c-Ed_amando_morro_felice_giorno--Cifra_1605.krn	Tsg12099c	Y	.	Tsg12099c <link>Ed amando morrò: felice giorno(Cifra, 1605)</link>
+Tsg/kern/Tsg14001b-Usciva_omai_dal_molle_e_fresco_grembo--Guami_1591.krn	Tsg14001b	Y	.	Tsg14001b <link>Usciva omai dal molle e fresco grembo(Guami, 1591)</link>
 Tsg/kern/Tsg14001f-Usciva_omai_dal_molle_e_fresco_grembo--Caprioli_1602.krn	Tsg14001f	Y	.	Tsg14001f <link>Usciva omai dal molle e fresco grembo(Caprioli, 1602)</link>
 Tsg/kern/Tsg14001g-Usciva_omai_dal_molle_e_fresco_grembo--Cifra_1615.krn	Tsg14001g	Y	.	Tsg14001g <link>Usciva omai dal molle e fresco grembo(Cifra, 1615)</link>
 Tsg/kern/Tsg14062b-O_giovinetti_mentre_aprile_e_maggio--Camarella_1633.krn	Tsg14062b	Y	.	Tsg14062b <link>O giovinetti mentre aprile e maggio(Camarella, 1633)</link>
