@@ -159,8 +159,10 @@
 4D	-ne	4d	-ne	4.A	-ne	4f#X	-ne	4dd	-ne
 4AA	di	4e	di	.	.	4a	di	4cc	di
 .	.	.	.	8E	di	.	.	.	.
+*col	*	*col	*	*col	*	*col	*	*col	*
 3%2BB	mor-	3%2d#X	mor-	3%2B	mor-	3%2f#i	mor-	3%2b	mor-
 3BB	-te	3d#i	-te	3B	-te	3f#i	-te	3b	-te
+*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19
 0r	.	0r	.	4r	.	4r	.	4r	.
 .	.	.	.	4A	Tro-	4a	Tro-	4cc	Tro-
@@ -263,10 +265,12 @@
 2F	ti	1c	-mi?	2f	ti	.	.	2a	-fli-
 2C	con-	.	.	2e	con-	.	.	2g	-gi e
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+*lig	*	*	*	*	*	*	*	*	*
 1F	-su-	0r	.	4d	-su-	0r	.	2f	ti
 .	.	.	.	4c	.	.	.	.	.
 .	.	.	.	2.c	.	.	.	2e	con-
 1G	.	.	.	.	.	.	.	1d	-su-
+*Xlig	*	*	*	*	*	*	*	*	*
 .	.	.	.	8BL	.	.	.	.	.
 .	.	.	.	8AJ	.	.	.	.	.
 .	.	.	.	2B	-mi?	.	.	.	.
