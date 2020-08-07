@@ -23,7 +23,7 @@
 *I"Basso	*	*I"Quinto	*	*I"Canto	*
 *I'B	*	*I'Q	*	*I'C	*
 *oclefC4	*	*oclefG2	*	*oclefG2	*
-*clefF4	*	*clefG2	*	*clefG2	*
+*clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*
 *omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*
@@ -333,10 +333,12 @@
 4B	-si im-	4dd	-si im-	4dd	-si im-
 4c	-pa-	4ee	-pa-	4cc	-pa-
 4d	-zi-	4ff	-zi-	4b	-zi-
+*lig	*	*	*	*	*
 1c	-en-	1ee	-en-	2cc	-en-
 .	.	.	.	2g	-te
 =34	=34	=34	=34	=34	=34
 1G	.	2dd	-te	4gg	De
+*Xlig	*	*	*	*	*
 .	.	.	.	4ff	l'a-
 .	.	2.gg	De	4ee	-cu-
 .	.	.	.	8ddL	-ta
