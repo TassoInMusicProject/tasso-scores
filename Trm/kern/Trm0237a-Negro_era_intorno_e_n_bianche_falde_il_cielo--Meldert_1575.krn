@@ -26,6 +26,8 @@
 *omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=Prima parte.
+*	*	*col	*	*col	*	*col	*	*col	*
 1%3r	.	0A	Ne-	0a	Ne-	0cc	Ne-	0ee	Ne-
 .	.	1B	-gro e-	1d	-gro e-	[1g	-gro e-	1dd	-gro e-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
@@ -37,12 +39,15 @@
 .	.	1e	<Ne-	.	.	.	.	.	.
 .	.	1d	-gro e-	1r	.	1r	.	1r	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*col	*	*	*	*	*	*	*	*	*
 0A	Ne-	1c	-ra in-	0e	<Ne-	0a	<Ne-	0cc	<Ne-
 .	.	0A	-tor-	.	.	.	.	.	.
 1D	-gro e-	.	.	1d	-gro e-	1f#X	-gro e-	1a	-gro e-
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 1E	-ra in-	0G	-no	1c	-ra in-	1g	-ra in-	1ee	-ra in-
+*	*	*Xcol	*	*	*	*	*	*	*
 0G	-tor-	.	.	0B	-tor-	0g	-tor-	0dd	-tor-
+*Xcol	*	*	*	*Xcol	*	*Xcol	*	*Xcol	*
 .	.	1r	.	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
@@ -133,8 +138,8 @@
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19
 2E	sì	2e	.	2g	mio	4d]	.	2r	.
 .	.	.	.	.	.	4c	-lo;	.	.
-2D	mal	2A	-lo;	2f	fo-	2d	Quand'	2a	Quand'
-2A	ce-	1r	.	4e	-co	2A	ec-	2.cc	ec-
+2D	mal	2A	-lo;	2f	fo-	2d	Quan-	2a	Quan-
+2A	ce-	1r	.	4e	-co	2A	-d'ec-	2.cc	-d'ec-
 .	.	.	.	4e	mi-	.	.	.	.
 2A	-lo;	.	.	[2f	-rar	[2a	-co	.	.
 .	.	.	.	.	.	.	.	4cc	-co
@@ -152,8 +157,8 @@
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 2r	.	2r	.	2a	ce-	2cc	.	4ee	-le
 .	.	.	.	.	.	.	.	4ff	di
-2D	Quand'	2A	Quand'	2a	-lo;	2f	stil-	2dd	gie-
-2.A	ec-	2.c	ec-	2r	.	4e	-le	2cc	-lo
+2D	Quan-	2A	Quan-	2a	-lo;	2f	stil-	2dd	gie-
+2.A	-d'ec-	2.c	d'ec-	2r	.	4e	-le	2cc	-lo
 .	.	.	.	.	.	4f	di	.	.
 .	.	.	.	2f	stil-	2a	gie-	2r	.
 4A	-co	4c	-co	.	.	.	.	.	.
@@ -163,10 +168,10 @@
 2B	bei	2d	bei	2d	gie-	2.g	stil-	.	.
 1c	crin	2e	crin	2c	-lo	.	.	.	.
 .	.	.	.	.	.	4e	-le	.	.
-.	.	4r	.	2A	Quand'	2a	di	.	.
+.	.	4r	.	2A	Quan-	2a	di	.	.
 .	.	[4f	stil-	.	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-2r	.	4f]	.	2.c	ec-	2g	gie-	0r	.
+2r	.	4f]	.	2.c	-d'ec-	2g	gie-	0r	.
 .	.	4e	-le	.	.	.	.	.	.
 2F	stil-	8fL	di	.	.	4a	-lo,	.	.
 .	.	8g	.	.	.	.	.	.	.
@@ -294,6 +299,7 @@
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38
 0El	-lo.	0Bl	-lo.	0el	-lo.	0g#Xl	-lo.	0eel	-lo.>
 =39||	=39||	=39||	=39||	=39||	=39||	=39||	=39||	=39||	=39||
+!!LO:TX:a:t=Seconda parte.
 0r	.	0r	.	1f	Deh!	2r	.	2r	.
 .	.	.	.	.	.	1a	Deh!	1cc	Deh!
 .	.	.	.	2.e	quan-	.	.	.	.
@@ -392,9 +398,11 @@
 .	.	2A	-cre-	2A	-te in-	.	.	.	.
 .	.	.	.	.	.	4f#i	-te in-	.	.
 =56	=56	=56	=56	=56	=56	=56	=56	=56	=56
+*lig	*	*	*	*	*	*	*	*	*
 1E	-cre-	2e	-sce,>	2c	-cre-	2g	-cre-	2r	.
 .	.	2e	sì	2B	-sce?>	2g	-sce?>	1ee	Las-
 1F	.	2.A	for-	1r	.	2r	.	.	.
+*Xlig	*	*	*	*	*	*	*	*	*
 .	.	.	.	.	.	[2a	Las-	2dd	-so,
 .	.	4B	-te in-	.	.	.	.	.	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57
