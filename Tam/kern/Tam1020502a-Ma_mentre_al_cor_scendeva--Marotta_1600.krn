@@ -23,7 +23,7 @@
 *I"Basso	*	*I"Quinto	*	*I"Canto	*
 *I'B	*	*I'Q	*	*I'C	*
 *oclefC4	*	*oclefG2	*	*oclefG2	*
-*clefF4	*	*clefG2	*	*clefG2	*
+*clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*
 *omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*
@@ -178,9 +178,11 @@
 .	.	1a	-lor	2dd	di
 .	.	.	.	2dd	quel
 =21	=21	=21	=21	=21	=21
+*	*	*	*	*lig	*
 0r	.	2b	di	1ee	mor-
 .	.	2b	quel	.	.
 .	.	2cc#X	mor-	1ff	.
+*	*	*	*	*Xlig	*
 .	.	[2dd	.	.	.
 =22	=22	=22	=22	=22	=22
 1r	.	2dd]	.	1ee	-so,
