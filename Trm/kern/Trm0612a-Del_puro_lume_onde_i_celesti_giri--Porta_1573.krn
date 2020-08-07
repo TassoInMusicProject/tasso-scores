@@ -26,6 +26,7 @@
 *omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=Prima parte.
 0r	.	0r	.	1E	Del	0r	.	0r	.
 .	.	.	.	2.G	pu-	.	.	.	.
 .	.	.	.	4A	-ro	.	.	.	.
@@ -85,8 +86,8 @@
 2A	Fe-	.	.	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 2D	-ce il	0r	.	2A	-ce il	0r	.	2f	-ce il
-2A	sol'	.	.	2c	sol'	.	.	2e	sol'
-4G	e	.	.	4d	e	.	.	4g	e
+2A	so-	.	.	2c	so-	.	.	2e	so-
+4G	l'e	.	.	4d	-l'e	.	.	4g	l'e
 4F	le	.	.	4d	le	.	.	4a	le
 4E	stel-	.	.	2e	stel-	.	.	4g	stel-
 4C	-le il	.	.	.	.	.	.	4cc	-le il
@@ -229,13 +230,13 @@
 4AA	da	4c	da	4E	da	4e	da	4a	da
 4E	noi	4B	noi	2.G	noi	2e	noi	2b	noi
 4E	la	4G	la	.	.	.	.	.	.
-2D	nott'	4A	nott'	.	.	2r	.	4r	.
-.	.	4A	e'l	4F	la	.	.	4dd	la
-2C	e'l	[2c	ver-	4G	nott'	2e	la	4g	nott'
-.	.	.	.	4G	e'l	.	.	4cc	e'l
+2D	not-	4A	not-	.	.	2r	.	4r	.
+.	.	4A	t'e'l	4F	la	.	.	4dd	la
+2C	t'e'l	[2c	ver-	4G	not-	2e	la	4g	not-
+.	.	.	.	4G	-t'e'l	.	.	4cc	-t'e'l
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
-2F	ver-	2c]	.	2A	ver-	4f	nott'	2cc	ver-
-.	.	.	.	.	.	4c	e'l	.	.
+2F	ver-	2c]	.	2A	ver-	4f	not-	2cc	ver-
+.	.	.	.	.	.	4c	-t'e'l	.	.
 2C	-no	2c	-no	2G	-no	2e	ver-	2cc	-no
 2r	.	2r	.	2G	De	4d	-no	2r	.
 .	.	.	.	.	.	4d	De	.	.
@@ -301,17 +302,20 @@
 4A	-ti	2A	-dri al-	.	.	.	.	[2a	de-
 4AA	de-	.	.	4c	leg-	.	.	.	.
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+*lig	*	*	*	*	*	*	*	*	*
 1E	-si-	4B	-ti	2B	-gia-	2.e	-ti	4a]	.
 .	.	4E	de-	.	.	.	.	8g#XL	.
 .	.	.	.	.	.	.	.	8f#XJ	.
 .	.	1e	-si-	2B	-gri al-	.	.	2g#X	.
 .	.	.	.	.	.	4B	de-	.	.
 1AA	.	.	.	4A	-ti	2c#X	-si-	1a	-si-
+*Xlig	*	*	*	*	*	*	*	*	*
 .	.	.	.	4E	de-	.	.	.	.
 .	.	2d	.	2F	-di-	2d	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37
 0AAl	-ri.	0c#Xl	-ri.	0El	-ri.	0el	-ri.	0al	-ri.
 =38||	=38||	=38||	=38||	=38||	=38||	=38||	=38||	=38||	=38||
+!!LO:TX:a:t=Seconda parte.
 0r	.	1e	La	2r	.	0r	.	2r	.
 .	.	.	.	2A	La	.	.	2a	La
 .	.	4.f	fiam-	4.d	fiam-	.	.	4.a	fiam-
@@ -459,11 +463,14 @@
 .	.	.	.	4A	E	.	.	.	.
 .	.	.	.	2A	son	.	.	.	.
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58
+*col	*	*col	*	*col	*	*col	*	*col	*
 3.C	pian-	3.E	pian-	3.e	pian	3.g	pian	3.cc	pian
 6GG	-ti	6G	-ti	6d	ti	6g	ti	6b	ti
 3AA	di	3C	di	3c	di	3e	di	3a	di
+*	*	*	*	*	*	*	*	*Xcol	*
 3%2D	gio-	3%2F	gio-	3%2A	gio-	3%2d	gio-	1a	gio-
 3AA	-ia i	3E	-ia i	3e	-ia i	3c#X	-ia i	.	.
+*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*	*	*
 =59	=59	=59	=59	=59	=59	=59	=59	=59	=59
 2A	no-	2D	no-	2f	no-	2d	no-	2a	-ia i
 2G#X	-stri	2E	-stri	2e	-stri	2B	-stri	[2ee	no-
@@ -513,12 +520,15 @@
 1D	son	1F	son	4r	.	1d	son	1a	son
 .	.	.	.	4A	E	.	.	.	.
 .	.	.	.	2A	son	.	.	.	.
+*col	*	*col	*	*col	*	*col	*	*col	*
 3.C	pian-	3.E	pian-	3.e	pian	3.g	pian	3.cc	pian
 6GG	-ti	6G	-ti	6d	ti	6g	ti	6b	ti
 3AA	di	3C	di	3c	di	3e	di	3a	di
+*	*	*	*	*	*	*	*	*Xcol	*
 =66	=66	=66	=66	=66	=66	=66	=66	=66	=66
 3%2D	gio-	3%2F	gio-	3%2A	gio-	3%2d	gio-	1a	gio-
 3AA	-ia i	3E	-ia i	3e	-ia i	3c#X	-ia i	.	.
+*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*	*	*
 2A	no-	2D	no-	2f	no-	2d	no-	2a	-ia i
 2G#X	-stri-	2E	-stri	2e	-stri	2B	-stri	[2ee	no-
 =67	=67	=67	=67	=67	=67	=67	=67	=67	=67
