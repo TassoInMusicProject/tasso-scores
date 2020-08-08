@@ -187,8 +187,10 @@
 2D	sta	2F	sta	2d	sta	2A	sta	2f	sta
 2AA	la	2A	la	2c	la	2A	la	2e	la
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+*col	*	*col	*	*col	*	*col	*	*col	*
 3%2C	not-	3%2E	not-	3%2c	not-	3%2G	not-	3%2e	no-
 3D	-te e'l	3F	-te e'l	3A	-te e'l	3d	-te e'l	3a	-te e'l
+*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*
 1AA	gior-	1E	gior-	1A	gior-	4c#X	gior-	1a	gior-
 .	.	.	.	.	.	2d	.	.	.
 .	.	.	.	.	.	4c#X	.	.	.
@@ -593,14 +595,17 @@
 =64||	=64||	=64||	=64||	=64||	=64||	=64||	=64||	=64||	=64||
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 !!LO:TX:a:t=Seconda parte.
+*	*	*col	*	*	*	*	*	*col	*
 0r	.	3%4G	Neb-	0r	.	0r	.	3%2.dd	Neb-
 .	.	.	.	.	.	.	.	3cc	.
 .	.	3%2G	-bia	.	.	.	.	3b	.
 .	.	.	.	.	.	.	.	3a	.
 =65	=65	=65	=65	=65	=65	=65	=65	=65	=65
+*	*	*	*	*col	*	*	*	*	*
 0r	.	3%2G	non	3%2.C	Neb-	3%2r	.	3%2.g	.
 .	.	3%4c	len-	.	.	3%2r	.	.	.
 .	.	.	.	3D	.	.	.	3f	.
+*	*	*	*	*	*	*col	*	*	*
 .	.	.	.	3E	.	[3%2G	Ne-	3%2e	.
 .	.	.	.	3F	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66	=66	=66
@@ -634,6 +639,7 @@
 .	.	.	.	.	.	.	.	6e	.
 .	.	3%2A	.	.	.	.	.	3%2f#X	.
 =72	=72	=72	=72	=72	=72	=72	=72	=72	=72
+*col	*	*	*	*	*	*	*	*	*
 3%2.GG	Neb-	3%4.B	-gni,	3%4G	-gni,	3%4d	-gni,	3%2g	-gni,
 .	.	.	.	.	.	.	.	3%2.d	Neb-
 3AA	.	.	.	.	.	.	.	.	.
@@ -671,9 +677,11 @@
 3%2GG]	.	3%4.d	len-	3%2B	non	3%2.g	len-	3dd	-bia
 .	.	.	.	.	.	.	.	3dd	non
 3%4D	len-	.	.	3%4A	len-	.	.	3%4dd	len-
+*Xcol	*	*Xcol	*	*Xcol	*	*	*	*Xcol	*
 .	.	.	.	.	.	6f#X	.	.	.
 .	.	.	.	.	.	6e	.	.	.
 .	.	.	.	.	.	3%2f#i	.	.	.
+*	*	*	*	*	*	*Xcol	*	*	*
 =78	=78	=78	=78	=78	=78	=78	=78	=78	=78
 2GG	-ta	2d	-ta	1G	-ta	2g	-ta	2b	-ta
 2C	mai	1c	mai	.	.	2.e	mai	2g	mai
