@@ -264,11 +264,6 @@
 !!LO:LB:i:g=z
 ==26	==26	==26	==26	==26	==26	==26	==26
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
-*oclefC4	*	*oclefC3	*	*oclefG2	*	*oclefG2	*
-*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
-*k[]	*	*k[]	*	*k[]	*	*k[]	*
-*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
-*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 !!LO:TX:a:B:t=Seconda parte
 2G	Ma	2d	Ma	0r	.	2b	Ma
 4c	pur	4e	pur	.	.	4cc	pur
@@ -324,6 +319,7 @@
 .	.	4c	si-	4a	son	.	.
 .	.	2B-	-len-	4f	vo-	.	.
 .	.	.	.	4g	-ci e	.	.
+*	*	*	*	*lig	*	*	*
 .	.	4A	-tio an-	1a	pre-	1cc	Ch&eacute;
 .	.	4.A	-cor	.	.	.	.
 .	.	8GL	.	.	.	.	.
@@ -331,6 +327,7 @@
 .	.	8BniJ	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33
 0r	.	2c	.	1g	.	4cc	nel
+*	*	*	*	*Xlig	*	*	*
 .	.	.	.	.	.	4cc	si-
 .	.	2G	son	.	.	2b	-len-
 .	.	2A	vo-	4e	-ghi.	4a	-tio an-
