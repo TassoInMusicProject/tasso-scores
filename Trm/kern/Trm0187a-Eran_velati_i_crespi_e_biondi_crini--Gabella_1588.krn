@@ -261,12 +261,14 @@
 2FF	di-	.	.	2A	di-	4f	-ta-
 .	.	4c	da	.	.	4f	-va, oc-
 =28	=28	=28	=28	=28	=28	=28	=28
+*lig	*	*	*	*	*	*	*
 1C	-vi-	4c	voi	0G	-vi-	2.e	-chi
 .	.	8cL	sa-	.	.	.	.
 .	.	8cJ	-et-	.	.	.	.
 .	.	4c	-ta-	.	.	.	.
 .	.	4c	-va, oc-	.	.	4f	di-
 1GG	.	4d	-chi	.	.	1g	-vi-
+*Xlig	*	*	*	*	*	*	*
 .	.	4d	di-	.	.	.	.
 .	.	2d	-vi-	.	.	.	.
 =29	=29	=29	=29	=29	=29	=29	=29
@@ -351,12 +353,14 @@
 4F	-o	.	.	4c	d'o-	4f	d'o-
 2r	.	.	.	4F	-bli-	4f	-bli-
 .	.	.	.	4c	-o	4e	-o
+*col	*	*col	*	*col	*	*col	*
 3%2F	Non	3%2c	Non	3%2A	Non	3%2f	Non
 3FF	co-	3c	co-	3A	co-	3f	co-
 =39	=39	=39	=39	=39	=39	=39	=39
 3.C	-nob-	3.c	-nob-	3.G	-nob-	3.e	-nob-
 6C	-bi	6c	-bi	6G	-bi	6e	-bi
 3C	lo	3c	lo	3G	lo	3e	lo
+*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*
 2FF	stral	2c	stral	2A	stral	2f	stral
 2F	né	2c	né	2A	né	2f	né
 =40	=40	=40	=40	=40	=40	=40	=40
@@ -395,12 +399,14 @@
 2C	-bli-	2G	-bli-	2c	-bli-	4f	-bli-
 .	.	.	.	.	.	4e	.
 2FF	-o	2A	-o	2c	-o	2f	-o
+*col	*	*col	*	*col	*	*col	*
 3%2F	Non	3%2A	Non	3%2c	Non	3%2f	Non
 3FF	co-	3A	co-	3c	co-	3f	co-
 =45	=45	=45	=45	=45	=45	=45	=45
 3.C	-nob-	3.G	-nob-	3.c	-nob-	3.e	-nob-
 6C	-bi	6G	-bi	6c	-bi	6e	-bi
 3C	lo	3G	lo	3c	lo	3e	lo
+*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*
 2FF	stral	2A	stral	2c	stral	2f	stral
 2F	né	2A	né	2c	né	2f	né
 =46	=46	=46	=46	=46	=46	=46	=46
