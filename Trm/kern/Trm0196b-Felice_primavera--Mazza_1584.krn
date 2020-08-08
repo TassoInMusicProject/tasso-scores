@@ -283,12 +283,14 @@
 2C	-ti a-	2g	-tie a i	4c	-nan	4gg	-nan
 .	.	.	.	4c	le	4ee	le
 =32	=32	=32	=32	=32	=32	=32	=32
+*lig	*	*	*	*	*	*	*
 1G	-mo-	2g	par-	4d	gra-	4dd	gra-
 .	.	.	.	4d	-tie a i	4dd	-tie a i
 .	.	4g	-go-	4d	par-	4.b	par-
 .	.	2d	-let-	4B	-go-	.	.
 .	.	.	.	.	.	8cc	-go-
 1D	.	.	.	4A	-let-	4dd	-let-
+*Xlig	*	*	*	*	*	*	*
 .	.	4d	-ti a-	4G	-ti a-	4dd	-ti a-
 .	.	2d	-mo-	2A	-mo-	2dd	-mo-
 =33	=33	=33	=33	=33	=33	=33	=33
