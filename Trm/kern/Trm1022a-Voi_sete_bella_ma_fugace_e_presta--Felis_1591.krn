@@ -26,7 +26,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!!LO:TX:a:B:t=Prima parte
+!!LO:TX:a:t=Prima parte.
 0r	.	0r	.	1r	.	2r	.	2dd	Voi
 .	.	.	.	.	.	4r	.	4cc	se-
 .	.	.	.	.	.	4g	Voi	4b-	-te
@@ -286,8 +286,8 @@
 .	.	.	.	.	.	2f#X	-si-	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 0GGl	-o.	0Gl	-o.	0dl	-o.	0gl	-o.	0bnl	-o.
-==24	==24	==24	==24	==24	==24	==24	==24	==24	==24
-!!LO:TX:a:B:t=Seconda parte
+=||24	=||24	=||24	=||24	=||24	=||24	=||24	=||24	=||24	=||24
+!!LO:TX:a:t=Seconda parte.
 0r	.	1r	.	4r	.	1r	.	2d	Voi
 .	.	.	.	4d	Voi	.	.	.	.
 .	.	.	.	4c#X	se-	.	.	4e	se-
@@ -559,8 +559,8 @@
 1D]	.	1A	ro-	1d	ro-	1dd	ro-	2g]	.
 .	.	.	.	.	.	.	.	2f#Xi	.
 1GGl	-co.	1Gl	-co.	1dl	-co.	1bnl	-co.	1gl	-co.
-==50	==50	==50	==50	==50	==50	==50	==50	==50	==50
-!!LO:TX:a:B:t=Terza parte
+=||50	=||50	=||50	=||50	=||50	=||50	=||50	=||50	=||50	=||50
+!!LO:TX:a:t=Terza parte.
 0r	.	2r	.	2d	Voi	0r	.	4r	.
 .	.	.	.	.	.	.	.	4a	Voi
 .	.	4r	.	4.c	se-	.	.	8eL	se-
@@ -784,8 +784,8 @@
 .	.	.	.	2f#X	.	.	.	.	.
 =71	=71	=71	=71	=71	=71	=71	=71	=71	=71
 0GGl	-cio.	0Gl	-cio.	0gl	-cio.	0bnl	-cio.	0ddl	-cio.
-==72	==72	==72	==72	==72	==72	==72	==72	==72	==72
-!!LO:TX:a:B:t=Quarta parte
+=||72	=||72	=||72	=||72	=||72	=||72	=||72	=||72	=||72	=||72
+!!LO:TX:a:t=Quarta parte.
 0r	.	0r	.	1B-	Voi	1dd	Voi	2r	.
 .	.	.	.	.	.	.	.	2d	Voi
 .	.	.	.	2A	se-	2cc	se-	4e	se-

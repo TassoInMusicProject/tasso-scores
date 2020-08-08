@@ -28,7 +28,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1
-!!LO:TX:a:B:t=Prima parte
+!!LO:TX:a:t=Prima parte.
 0r	.	2c	Se	2cc	Se	2ee	Se
 .	.	2f	tac-	2cc	tac-	2.ff	tac-
 .	.	2c	-cio,	2cc	-cio,	.	.
@@ -262,9 +262,9 @@
 =25	=25	=25	=25	=25	=25	=25	=25
 0Gl	-ra.>	0dl	-ra.>	0bl	-ra.	0ddl	-ra.
 !!LO:LB:i:g=z
-==26	==26	==26	==26	==26	==26	==26	==26
+=||26	=||26	=||26	=||26	=||26	=||26	=||26	=||26
 *>B	*>B	*>B	*>B	*>B	*>B	*>B	*>B
-!!LO:TX:a:B:t=Seconda parte
+!!LO:TX:a:t=Seconda parte.
 2G	Ma	2d	Ma	0r	.	2b	Ma
 4c	pur	4e	pur	.	.	4cc	pur
 4.F	pren-	4.f	pren-	.	.	4.cc	pren-

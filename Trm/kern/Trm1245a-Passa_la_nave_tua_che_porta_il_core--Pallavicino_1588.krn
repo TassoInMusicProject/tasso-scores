@@ -598,7 +598,7 @@
 *	*	*col	*	*	*	*	*	*col	*
 !!*rscale:3/2	*	*rscale:3/2	*	*	*	*	*	*	*
 *Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*
-!!LO:TX:a:t=Seconda parte [breve-dot] = [breve]
+!!LO:TX:a:t=Seconda parte. [breve-dot] = [breve]
 0r	.	3%4G	Neb-	0r	.	0r	.	3%2.dd	Neb-
 .	.	.	.	.	.	.	.	3cc	.
 .	.	3%2G	-bia	.	.	.	.	3b	.

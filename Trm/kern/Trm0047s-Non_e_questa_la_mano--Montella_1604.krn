@@ -26,7 +26,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1
-!!LO:TX:a:B:t=Prima parte
+!!LO:TX:a:t=Prima parte.
 1r	.	1c	Non	0r	.	0r	.
 1F	Non	2A	è	.	.	.	.
 .	.	[2c	que-	.	.	.	.
@@ -133,8 +133,8 @@
 .	.	.	.	.	.	2a	.
 =15	=15	=15	=15	=15	=15	=15	=15
 0BB-y	-li?	0d	-li?	0f	-li?	0b-y	-li?
-==16	==16	==16	==16	==16	==16	==16	==16
-!!LO:TX:a:B:t=Seconda parte
+=||16	=||16	=||16	=||16	=||16	=||16	=||16	=||16
+!!LO:TX:a:t=Seconda parte.
 2D	Ec-	2d	Ec-	2f#X	Ec-	2a	Ec-
 2D	-co	2d	-co	4f#i	-co	2a	-co
 .	.	.	.	4a	che	.	.

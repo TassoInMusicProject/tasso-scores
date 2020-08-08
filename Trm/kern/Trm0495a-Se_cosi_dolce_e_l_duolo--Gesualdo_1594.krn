@@ -26,7 +26,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!!LO:TX:a:t=Prima parte
+!!LO:TX:a:t=Prima parte.
 2r	.	2.e-X	Se	2r	.	0r	.	0r	.
 2.G	Se	.	.	2.B-y	Se	.	.	.	.
 .	.	4d	co-	.	.	.	.	.	.
@@ -127,8 +127,8 @@
 [1BB-y	-to.	[1d	-to.	[1f	-to.	[1B-y	-to.	[1b-y	-to.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 0BB-]	.	0d]	.	0f]	.	0B-]	.	0b-]	.
-==13	==13	==13	==13	==13	==13	==13	==13	==13	==13
-!!LO:TX:a:t=Seconda parte
+=||13	=||13	=||13	=||13	=||13	=||13	=||13	=||13	=||13	=||13
+!!LO:TX:a:t=Seconda parte.
 0r	.	1r	.	1r	.	1g	Ma	0r	.
 .	.	2r	.	1G	Ma	2.b-y	s’av-	.	.
 .	.	2B-y	Ma	.	.	.	.	.	.
