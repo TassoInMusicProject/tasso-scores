@@ -21,7 +21,7 @@
 *I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
 *I'B	*	*I'Q	*	*I'T	*	*I'A	*	*I'C	*
 *oclefF4	*	*oclefC4	*	*oclefC4	*	*oclefC3	*	*oclefC1	*
-*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *d:	*	*d:	*	*d:	*	*d:	*	*d:	*
 *omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
@@ -106,9 +106,9 @@
 4AA	-ci	.	.	4c	-ci	4e	-ci	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 1BB-y	stam-	1F]	.	1B-y	stam-	1d	stam-	1f]	.
-2FF	-po	1F	-po	1A	-po	[2c	-po	2f	-po>
+2FF	-po	1F	-po	1A	-po	2c	-po	2f	-po>
 2F	Con	.	.	.	.	4r	.	2a	Con
-.	.	.	.	.	.	4c]	Con	.	.
+.	.	.	.	.	.	4c	Con	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 2G	va-	1r	.	1r	.	2g	va-	2bnX	va-
 2A	-go	.	.	.	.	2e	-go	2cc#X	-go
@@ -323,10 +323,14 @@
 .	.	.	.	.	.	4d	.	4f	.
 .	.	.	.	1c	Deh!	1e	.	4g	.
 .	.	.	.	.	.	.	.	4e	.
+*	*	*	*	*	*	*	*	*lig	*
 .	.	.	.	.	.	.	.	[2a	.
 =	=	=	=	=	=	=	=	=	=
 2D	pria	0r	.	2F	pria	2f	-no,	2a]	.
+*	*	*	*	*	*	*	*	*col	*
 2E	che'l	.	.	2G	che'l	4e	.	2.g	.
+*	*	*	*	*	*	*	*	*Xlig	*
+*	*	*	*	*	*	*	*	*Xcol	*
 .	.	.	.	.	.	4d	.	.	.
 1F	ver-	.	.	1A	ver-	1c	.	.	.
 .	.	.	.	.	.	.	.	4f	.
@@ -336,11 +340,15 @@
 .	.	.	.	.	.	.	.	8eL	.
 .	.	.	.	.	.	.	.	8dJ	.
 .	.	.	.	2.c	que-	2G	Deh!	2e	.
-1r	.	2F	pria	.	.	2A	pria	1f	.
+*	*	*	*	*	*	*	*	*lig	*
+1r	.	2F	pria	.	.	2A	pria	1f	-no
 .	.	.	.	4A	-ste	.	.	.	.
 .	.	2G	che'l	[2d	chio-	2B-y	che'l	.	.
 =	=	=	=	=	=	=	=	=	=
-1r	.	1A	ver-	4d]	.	1c	ver-	2.e	-no
+*	*	*	*	*	*	*	*	*col	*
+1r	.	1A	ver-	4d]	.	1c	ver-	2.e	.
+*	*	*	*	*	*	*	*	*Xlig	*
+*	*	*	*	*	*	*	*	*Xcol	*
 .	.	.	.	4c	-me a-	.	.	.	.
 .	.	.	.	2.c	-sper-	.	.	.	.
 .	.	.	.	.	.	.	.	4f	.
@@ -412,6 +420,7 @@
 .	.	.	.	.	.	.	.	1a	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*col	*	*col	*	*col	*	*col	*	*col	*
 0BB-y	Chiu-	0B-y	Chiu-	0d	Chiu-	0f	Chiu-	1b-y	-no
 .	.	.	.	.	.	.	.	1dd	Chiu-
 1FF	-da in	1A	-da in	1f	-da in	1a	-da in	1cc	-da in
@@ -426,6 +435,7 @@
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49
 1AA	-sco	1c	-sco	1A	-sco	1f	-sco	1a	-sco
 0BB-y	lu-	0B-y	lu-	0D	lu-	0d	lu-	0f	lu-
+*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 1FF	-me,	1A	-me,	1F	-me,	2c	-me,	2f	-me,
@@ -516,9 +526,11 @@
 2C	-ghi et	2c	et	2e	-ghi et	2g	et	.	.
 .	.	.	.	.	.	.	.	4a	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61	=61
+*	*	*col	*	*	*	*	*	*	*
 1G	er-	3.B-y	er-	1d	er-	1g	er-	1b-y	.
 .	.	6A	.	.	.	.	.	.	.
 .	.	3G	.	.	.	.	.	.	.
+*	*	*Xcol	*	*	*	*	*	*	*
 1D	-ga	2A	-ga	1d	-ga	1f	-ga	1a	-ga
 .	.	[2d	Da	.	.	.	.	.	.
 =62	=62	=62	=62	=62	=62	=62	=62	=62	=62
