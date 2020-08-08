@@ -86,11 +86,13 @@
 4c	vie	.	.	4c	vie	4ee	.
 4G	più	.	.	4d	più	[4dd	-tra è
 =8	=8	=8	=8	=8	=8	=8	=8
+*lig	*	*	*	*	*	*	*
 1G	cru-	0r	.	4B	cru-	4dd]	.
 .	.	.	.	4c	.	2cc	vie
 .	.	.	.	4d	.	.	.
 .	.	.	.	4G	.	4b	più
 1A	.	.	.	1c	.	1a	cru-
+*Xlig	*	*	*	*	*	*	*
 =9	=9	=9	=9	=9	=9	=9	=9
 2G	-da.	2r	.	2d	-da.	2b	-da.
 2r	.	4r	.	2r	.	4r	.
@@ -136,9 +138,11 @@
 .	.	.	.	2B	ne	.	.
 .	.	.	.	.	.	4ff	.
 =14	=14	=14	=14	=14	=14	=14	=14
+*	*	*	*	*lig	*	*	*
 1C	ne	1e	ne	1c	pe-	2ee	.
 .	.	.	.	.	.	2ee	ne
 1E	pe-	1e	pe-	1B	.	1ee	pe-
+*	*	*	*	*Xlig	*	*	*
 =15	=15	=15	=15	=15	=15	=15	=15
 2AA	-ra?	2e	-ra?	2A	-ra?	2cc#X	-ra?
 2r	.	2f	L'al-	2d	L'al-	2r	.
