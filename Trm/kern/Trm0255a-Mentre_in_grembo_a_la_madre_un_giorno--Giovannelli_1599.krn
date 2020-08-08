@@ -81,9 +81,11 @@
 4CnXi	-te	2r	.	.	.	4e	.	.	.
 4C	dor-	.	.	.	.	4d	.	4g	-ce-
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+*lig	*	*	*	*	*	*	*	*	*
 1GG	-mi-	2r	.	2d]	.	2f	.	1a	-men-
 .	.	2.A	Dol-	2c#X	-ce-	2e	-va,	.	.
 1D	.	.	.	2d	-men-	1r	.	2f	-te
+*Xlig	*	*	*	*	*	*	*	*	*
 .	.	4B-y	-ce-	.	.	.	.	.	.
 .	.	4A	-men-	4cnXi	-te	.	.	2f	dor-
 .	.	[4d	-te	4B-y	dor-	.	.	.	.
@@ -323,8 +325,10 @@
 0Cl	-ma?	0Cl	-ma?"	0Gl	-ma?>	0cl	-ma?"	0el	-ma?"
 =34||	=34||	=34||	=34||	=34||	=34||	=34||	=34||	=34||	=34||
 !!LO:TX:a:t=Seconda parte.
+*	*	*col	*	*	*	*	*	*	*
 1r	.	3%2c	Con	1r	.	0r	.	0r	.
 .	.	3d	ma-	.	.	.	.	.	.
+*col	*	*	*	*col	*	*	*	*	*
 3%2F	Con	3.c	-nie-	3%2A	Con	.	.	.	.
 .	.	6c	-re	.	.	.	.	.	.
 3G	ma-	3B-y	vez-	3B-y	ma-	.	.	.	.
@@ -352,6 +356,7 @@
 .	.	6D	.	6d	-do-	.	.	.	.
 3AA	.	3%2F	.	3c	-lo il	.	.	.	.
 3%2GG	.	.	.	3%2B-y	son-	.	.	.	.
+*Xcol	*	*Xcol	*	*Xcol	*	*	*	*	*
 .	.	3E	.	.	.	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38
 1FF	-no	1F	-no	2A	-no	0r	.	0r	.
@@ -441,22 +446,28 @@
 0BB-y	ter-	1F	ter-	4f]	.	4d]	.	1b-y	ter-
 .	.	.	.	4f	-mi-	4d	-mi-	.	.
 .	.	.	.	2d	-n'in	2f	-n'in	.	.
+*	*	*	*	*lig	*	*	*	*	*
 .	.	1F	-ra	1B-y	ter-	1d	ter-	1f	.
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50
 1FF	-ra	2r	.	1A	.	1c	-ra	1f	-ra
+*	*	*	*	*Xlig	*	*	*	*	*
 .	.	1c	co'l	.	.	.	.	.	.
 [1C	co'l	.	.	2G	-ra	1r	.	[1e	co'l
 .	.	2B-y	tuo	[2g	co'l	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51
 2C]	.	1A	pian-	2g]	.	1.cc	co'l	2e]	.
 2D	tuo	.	.	2f	tuo	.	.	2f	tuo
+*lig	*	*	*	*	*	*	*	*	*
 1E	pian-	1G	-to	2e	pian-	.	.	1g	pian-
 .	.	.	.	[2g	.	2b-y	tuo	.	.
 =52	=52	=52	=52	=52	=52	=52	=52	=52	=52
+*	*	*	*	*	*	*lig	*	*	*
 1F	.	2r	.	4g]	.	1a	pian-	1c	-to
+*Xlig	*	*	*	*	*	*	*	*	*
 .	.	.	.	4f	.	.	.	.	.
 .	.	2c	E'n	1f	.	.	.	.	.
 1C	-to	4c	ciel	.	.	1g	.	2r	.
+*	*	*	*	*	*	*Xlig	*	*	*
 .	.	4.c	de-	.	.	.	.	.	.
 .	.	.	.	2e	-to	.	.	2cc	E'n
 .	.	8c	-sti	.	.	.	.	.	.
@@ -485,12 +496,14 @@
 8B-y	-sti	.	.	.	.	8b-y	-sti	8dd	-sti
 4B-y	gli	.	.	[4f	de-	4b-y	gli	4dd	gli
 =55	=55	=55	=55	=55	=55	=55	=55	=55	=55
+*lig	*	*	*	*	*	*lig	*	*	*
 1F	De-	4r	.	8fL]	.	1a	De-	0cc	De-
 .	.	.	.	8fJ	-sti	.	.	.	.
 .	.	4A	<E'n	4f	gli	.	.	.	.
 .	.	4c	ciel	1f	De-	.	.	.	.
 .	.	4.c	de-	.	.	.	.	.	.
 1C	.	.	.	.	.	1g	.	.	.
+*Xlig	*	*	*	*	*	*Xlig	*	*	*
 .	.	8c	-sti	.	.	.	.	.	.
 .	.	4c	gli	.	.	.	.	.	.
 .	.	2c	De-	2e	.	.	.	.	.
