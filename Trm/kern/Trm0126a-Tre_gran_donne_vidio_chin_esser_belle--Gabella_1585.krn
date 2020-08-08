@@ -39,10 +39,12 @@
 .	.	4e	es-	.	.	.	.	.	.
 .	.	4e	-ser	.	.	.	.	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*	*	*lig	*	*	*	*	*	*	*
 2C	ch'in	1c	bel-	2G	ch'in	2g	ch'in	2cc	ch'in
 4C	es-	.	.	4G	es-	4g	es-	4cc	es-
 4C	-ser	.	.	4G	-ser	4g	-ser	4cc	-ser
 1G	bel-	1d	.	1G	bel-	1g	bel-	1b	bel-
+*	*	*Xlig	*	*	*	*	*	*	*
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 2C	-le	2e	-le	2G	-le	2g	-le	2cc	-le
 2F	Mo-	2c	Mo-	2A	Mo-	2f	Mo-	2a	Mo-
@@ -296,7 +298,7 @@
 4GG	d'A-	.	.	4d	d'A-	2g	d'A-	4b	.
 2D	-mo-	2A	-mo-	2d	-mo-	.	.	2a	.
 .	.	.	.	.	.	4f#X	-mo-	.	.
-1GGl	-re.>	1Gl	-re.	1dl	-re.	1gl	-re.	1bl	-re."
+1GGl	-re.>	1Gl	-re.	1dl	-re.	1gl	-re.	1bl	-re.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]
