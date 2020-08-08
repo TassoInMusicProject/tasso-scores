@@ -1,16 +1,16 @@
 !!!CDT:
-!!!PTL:
-!!!PPP:
-!!!PPR:
-!!!PDT:
-!!!RISM:
+!!!PTL: ll terzo libro de madrigali a cinque voci, in parte ancor concertati co 'l clavicembalo. Opera decimaottava
+!!!PPP: Venice
+!!!PPR: Alessandro Vincenti
+!!!PDT: 1621
+!!!RISM: G 1807
 !!!rime:
 !!!AGN: Madrigal
-!!!SCT:
-!!!SCA:
+!!!SCT: Tsg07020d
+!!!SCA: Tsg07020d
 !!!voices:
-!!!COM: Giovanni Ghizzolo
-!!!OTL: E dicea lagrimando: "In voi serbate (Indi dicea piangendo: "In voi serbate, Gersualemme VII/20)
+!!!COM: Ghizzolo, Giovanni
+!!!OTL: Indi dicea piangendo: "In voi serbate
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -292,7 +292,7 @@
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
 !!!END:
-!!!EED: Emiliano Ricciardi
+!!!EED: Ricciardi, Emiliano
 !!!EEV: 2020/08/08
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2020/08/08
