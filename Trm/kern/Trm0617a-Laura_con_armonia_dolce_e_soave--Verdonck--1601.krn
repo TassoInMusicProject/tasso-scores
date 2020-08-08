@@ -186,7 +186,7 @@
 4D	-ran	4A	-cu-	2d	-gi-	1dd	-gi-
 4F	con	4A	-to,	.	.	.	.
 4G	suo-	2r	.	4B-y	-ran	.	.
-4A	-no a-	.	.	4FnX	con	.	.
+4A	-no a-	.	.	4FnXi	con	.	.
 =21	=21	=21	=21	=21	=21	=21	=21
 2B-y	-cu-	4r	.	4.G	suo	4d	-ran
 .	.	8B-yL	<Si	.	.	4d	con
@@ -221,11 +221,15 @@
 .	.	.	.	4F	con	4cc	-no a-
 .	.	2d	-to e	4B-y	suo-	1dd	-cu-
 .	.	.	.	4c	-no a-	.	.
+*	*	*lig	*	*	*	*	*
 .	.	1D	gra-	4.d	-cu-	.	.
 .	.	.	.	8c	-to e	.	.
 .	.	.	.	[2B-y	gra-	2d	-to> e
 =25	=25	=25	=25	=25	=25	=25	=25
+*	*	*col	*	*	*	*	*
 0FF	.	2.C	.	2B-]	.	0f	gra-
+*	*	*Xlig	*	*	*	*	*
+*	*	*Xcol	*	*	*	*	*
 .	.	.	.	4A	.	.	.
 .	.	8DL	.	4G	.	.	.
 .	.	8EJ	.	.	.	.	.
