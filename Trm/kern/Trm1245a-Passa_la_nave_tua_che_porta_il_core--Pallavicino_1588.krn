@@ -21,7 +21,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*
-*met(O|3)	*	*met(O|3)	*	*met(O|3)	*	*met(O|3)	*	*met(O|3)	*
+*omet(O|3)	*	*omet(O|3)	*	*omet(O|3)	*	*omet(O|3)	*	*omet(O|3)	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 !!LO:TX:a:t=Prima parte.
@@ -593,9 +593,12 @@
 =63	=63	=63	=63	=63	=63	=63	=63	=63	=63
 0GGl	-te.	0Gl	-re.	0Bl	-re.	0dl	-re.	0gl	-re.
 =64||	=64||	=64||	=64||	=64||	=64||	=64||	=64||	=64||	=64||
-*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
-!!LO:TX:a:t=Seconda parte.
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
+*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *	*	*col	*	*	*	*	*	*col	*
+!!*rscale:3/2	*	*rscale:3/2	*	*	*	*	*	*	*
+*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*
+!!LO:TX:a:t=Seconda parte [breve-dot] = [breve]
 0r	.	3%4G	Neb-	0r	.	0r	.	3%2.dd	Neb-
 .	.	.	.	.	.	.	.	3cc	.
 .	.	3%2G	-bia	.	.	.	.	3b	.
@@ -683,6 +686,11 @@
 .	.	.	.	.	.	3%2f#i	.	.	.
 *	*	*	*	*	*	*Xcol	*	*	*
 =78	=78	=78	=78	=78	=78	=78	=78	=78	=78
+*omet(O|3)	*	*omet(O|3)	*	*omet(O|3)	*	*omet(O|3)	*	*omet(O|3)	*
+*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*	*	*col	*	*	*	*	*	*col	*
+*tuplet	*	*tuplet	*	*tuplet	*	*tuplet	*	*tuplet	*
+!!LO:TX:a:t=[breve] = [breve-dot]
 2GG	-ta	2d	-ta	1G	-ta	2g	-ta	2b	-ta
 2C	mai	1c	mai	.	.	2.e	mai	2g	mai
 2AA	di	.	.	2r	.	.	.	2.a	di
