@@ -10,14 +10,14 @@
 !!!SCA: Trm0047p
 !!!voices:
 !!!COM: Ferro, Pier Matheo
-!!!OTL: Non è queta la mano (1584)
+!!!OTL: Non è queta la mano (1594)
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
 *I'B	*	*I'V	*	*I'T	*	*I'A	*	*I'C	*
 *oclefF4	*	*oclefC4	*	*oclefC4	*	*oclefC3	*	*oclefC1	*
-*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*F:	*	*F:	*	*F:	*	*F:	*
 *omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
@@ -303,7 +303,9 @@
 .	.	.	.	.	.	4F	mi	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*col	*	*col	*	*col	*	*col	*	*	*
 1C	diè	1r	.	1G	diè	1E	diè	1r	.
+*	*	*	*	*	*	*	*	*col	*
 1.F	ba-	1.c	ba-	1r	.	1.A	ba-	1.f	ba-
 .	.	.	.	1r	.	.	.	.	.
 2F	-ci	2c	-ci	.	.	2A	-ci	2f	-ci
@@ -317,6 +319,7 @@
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37
 1F	le	1c	le	1F	le	1f	le	1a	le
 0C	ren-	0c	ren-	0G	ren-	0e	ren-	0cc	ren-
+*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38
 0.FFl	-da.	0.cl	-da.	0.Fl	-da.	0.fl	-da.	0.al	-da.
 ==	==	==	==	==	==	==	==	==	==
