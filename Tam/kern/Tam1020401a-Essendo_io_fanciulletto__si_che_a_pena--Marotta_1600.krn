@@ -191,10 +191,10 @@
 .	.	4a	va-	2a	-ni,
 .	.	4a	-va e	.	.
 =19	=19	=19	=19	=19	=19
-1r	.	8AL	ca-	1r	.
+1r	.	8A	ca-	1r	.
 .	.	8B	-ra	.	.
 .	.	8c	ver-	.	.
-.	.	8AJ	-gi-	.	.
+.	.	8A	-gi-	.	.
 .	.	2e	-nel-	.	.
 2r	.	1A	-la	4r	.
 .	.	.	.	4a	De
@@ -203,14 +203,14 @@
 =20	=20	=20	=20	=20	=20
 4G#X	la	1r	.	4b	va-
 4G#X	più	.	.	4b	-ga e
-4A	ca-	.	.	8cc#XL	ca-
+4A	ca-	.	.	8cc#X	ca-
 .	.	.	.	8dd	-ra
 4A	-ra e	.	.	8ee	ver-
-.	.	.	.	8cc#XJ	-gi-
-8DL	va-	2d	Che	2dd	-nel-
+.	.	.	.	8cc#X	-gi-
+8D	va-	2d	Che	2dd	-nel-
 8E	-ga	.	.	.	.
 8F	ver-	.	.	.	.
-8DJ	-gi-	.	.	.	.
+8D	-gi-	.	.	.	.
 2A	-nel-	4c#X	mai	2ee	.
 .	.	4c#X	spie-	.	.
 =21	=21	=21	=21	=21	=21
@@ -229,10 +229,10 @@
 .	.	.	.	4ee	più
 2F	-ro,	1r	.	4ff	va-
 .	.	.	.	4dd	-ga e
-2A	Che	.	.	8cc#XL	ca-
+2A	Che	.	.	8cc#X	ca-
 .	.	.	.	8dd	-ra
 .	.	.	.	8ee	ver-
-.	.	.	.	8cc#XJ	-gi-
+.	.	.	.	8cc#X	-gi-
 =23	=23	=23	=23	=23	=23
 4B-X	mai	4r	.	4dd	-nel-
 4B-X	spie-	4d	<Che	4dd	-la
@@ -263,8 +263,8 @@
 .	.	2e	-glio-	4b	La
 .	.	.	.	4b	fi-
 .	.	4A	-la	4cc	-glio-
-.	.	4A	co-	8ccL	-la
-.	.	.	.	8ddJ	co-
+.	.	4A	co-	8cc	-la
+.	.	.	.	8dd	co-
 .	.	[2a	-no-	[2ee	-no-
 =27	=27	=27	=27	=27	=27
 0r	.	4a]	.	4ee]	.
@@ -293,32 +293,32 @@
 .	.	4A	ho-	.	.
 =31	=31	=31	=31	=31	=31
 1r	.	4a	-nor	1r	.
-.	.	8g#XL	de	.	.
-.	.	8f#XJ	le	.	.
+.	.	8g#X	de	.	.
+.	.	8f#X	le	.	.
 .	.	4g#X	sel-	.	.
 .	.	4a	-ve,	.	.
 2A	Sil-	1r	.	4r	.
 .	.	.	.	4ee	ho-
 2A	-via	.	.	4ff	-nor
-.	.	.	.	8eeL	de
-.	.	.	.	8ddJ	le
+.	.	.	.	8ee	de
+.	.	.	.	8dd	le
 =32	=32	=32	=32	=32	=32
 4r	.	4r	.	4ee	sel-
 4D	ho-	4d	<ho-	4dd	-ve,
 4d	-nor	4f	-nor	2r	.
-8c#XL	de	8eL	de	.	.
-8BJ	le	8dJ	le	.	.
+8c#X	de	8e	de	.	.
+8B	le	8d	le	.	.
 4c#X	sel-	4e	sel-	4r	.
 4d	-ve,	4d	-va,>	4a	<ho-
 2r	.	2r	.	4dd	-nor
-.	.	.	.	8cc#XL	de
-.	.	.	.	8bJ	le
+.	.	.	.	8cc#X	de
+.	.	.	.	8b	le
 =33	=33	=33	=33	=33	=33
 4A	ar-	2r	.	4cc#X	sel-
 2F	-dor	.	.	4dd	-ve, ho-
 .	.	1a	Sil-	4aa	-nor
-4D	de	.	.	8ffL	de
-.	.	.	.	8ggJ	le
+4D	de	.	.	8ff	de
+.	.	.	.	8gg	le
 4A	l'al-	.	.	4ee	sel-
 4D	-me,	.	.	4dd	-ve,>
 [2d	Sil-	2a	-via,	2r	.
@@ -333,13 +333,13 @@
 4d	l'al-	2d]	.	4r	.
 4G	-me,	.	.	4dd	ho-
 2r	.	2d	-via,	4ff	-nor
-.	.	.	.	8eeL	de
-.	.	.	.	8ddJ	le
+.	.	.	.	8ee	de
+.	.	.	.	8dd	le
 4r	.	4r	.	4cc#X	sel-
 4d	ho-	4d	ho-	4dd	-ve,
 4f	-nor	4d	-nor	2r	.
-8eL	de	8c#XL	de	.	.
-8dJ	le	8BJ	le	.	.
+8e	de	8c#X	de	.	.
+8d	le	8B	le	.	.
 =36	=36	=36	=36	=36	=36
 4e	sel-	4c#X	sel-	2r	.
 4d	-ve,	4d	-ve,	.	.
@@ -351,13 +351,13 @@
 .	.	4A	de	.	.
 =37	=37	=37	=37	=37	=37
 4e	ho-	2E	l'al-	2ee	-me
-8dL	-nor	.	.	.	.
-8cJ	de	.	.	.	.
+8d	-nor	.	.	.	.
+8c	de	.	.	.	.
 4B	le	4E	-me,	4r	.
 4A	sel-	4e	ho-	4cc	ho-
 2E	-ve,	4e	-nor	4cc	-nor
-.	.	8dL	de	8bL	de
-.	.	8cJ	le	8aJ	le
+.	.	8d	de	8b	de
+.	.	8c	le	8a	le
 2E	Sil-	2B	sel-	2g#X	sel-
 =38	=38	=38	=38	=38	=38
 4A	-via, ar-	[2A	-ve,	1a	-ve,

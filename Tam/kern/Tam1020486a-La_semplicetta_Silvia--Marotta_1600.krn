@@ -58,13 +58,13 @@
 =5	=5	=5	=5	=5	=5
 0r	.	1ee	-ta	0r	.
 .	.	4r	.	.	.
-.	.	8bL	A	.	.
-.	.	8ccJ	la	.	.
+.	.	8b	A	.	.
+.	.	8cc	la	.	.
 .	.	[2dd	fin-	.	.
 =6	=6	=6	=6	=6	=6
 1r	.	4dd]	.	1r	.
-.	.	8ccL	-ta	.	.
-.	.	8bJ	fe-	.	.
+.	.	8cc	-ta	.	.
+.	.	8b	fe-	.	.
 .	.	2a	-ri-	.	.
 2r	.	2b	-ta,	2r	.
 2G	La	4r	.	2b	La
@@ -209,27 +209,27 @@
 2r	.	2r	.	1ee	-ce,
 2.c	Quan-	2.ee	Quan-	.	.
 .	.	.	.	1r	.
-8BL	-do	8ddL	-do	.	.
-8AJ	le	8ccJ	le	.	.
+8B	-do	8dd	-do	.	.
+8A	le	8cc	le	.	.
 4B	la-	4dd	la-	.	.
 4G	-bra	4b	-bra	.	.
 =27	=27	=27	=27	=27	=27
 1A	su-	1cc	su-	2r	.
 .	.	.	.	2.ee	Quan-
 1G	-e,	1gg	-e,	.	.
-.	.	.	.	8ddL	-do
-.	.	.	.	8ccJ	le
+.	.	.	.	8dd	-do
+.	.	.	.	8cc	le
 .	.	.	.	4dd	la-
 .	.	.	.	4b	-bra
 =28	=28	=28	=28	=28	=28
 2r	.	2r	.	2cc	su-
 4r	.	2.cc	<Quan-	1g	-e
 2e	<Quan-	.	.	.	.
-8dL	-do	8bL	-do	.	.
-8cJ	le	8aJ	le	.	.
+8d	-do	8b	-do	.	.
+8c	le	8a	le	.	.
 4d	la-	4b	la-	4gg	Giun-
-4B	-bra	4dd	-bra	8ggL	-se a
-.	.	.	.	8ffJ	le
+4B	-bra	4dd	-bra	8gg	-se a
+.	.	.	.	8ff	le
 =29	=29	=29	=29	=29	=29
 2c	su-	8ccL	su-	4ee	la-
 .	.	8b	.	.	.
@@ -238,88 +238,88 @@
 2c	-e,>	4ee	.	2cc	mi-
 .	.	4cc	-e,	.	.
 4F	Giu-	2r	.	2cc	-e,
-8FL	-se a	.	.	.	.
-8GJ	le	.	.	.	.
+8F	-se a	.	.	.	.
+8G	le	.	.	.	.
 4A	la-	4r	.	4a	Giun-
-4F	-bra	[4ff	Quan-	8aL	-se a
-.	.	.	.	8bJ	le
+4F	-bra	[4ff	Quan-	8a	-se a
+.	.	.	.	8b	le
 =30	=30	=30	=30	=30	=30
 2c	mi-	4ff]	.	4cc	la-
-.	.	8eeL	-do	4cc	-bra
-.	.	8ddJ	le	.	.
+.	.	8ee	-do	4cc	-bra
+.	.	8dd	le	.	.
 2c	-e,	4ee	la-	2cc	mi-
 .	.	4cc	-bra	.	.
 4G	<Giun-	2dd	su-	2b	-e,
-8GL	-se a	.	.	.	.
-8FJ	le	.	.	.	.
+8G	-se a	.	.	.	.
+8F	le	.	.	.	.
 4E	la-	2ee	-e,>	4r	.
 4C	-bra	.	.	[4cc	Quan-
 =31	=31	=31	=31	=31	=31
 2G	mi-	2r	.	4cc]	.
-.	.	.	.	8bL	-do
-.	.	.	.	8aJ	le
+.	.	.	.	8b	-do
+.	.	.	.	8a	le
 2G	-e,	4gg	Giun-	4b	la-
-.	.	8ggL	-se a	4g	-bra
-.	.	8ffJ	le	.	.
+.	.	8gg	-se a	4g	-bra
+.	.	8ff	le	.	.
 4c	Giun-	4ee	la-	2g	su-
-8cL	-se a	4gg	-bra	.	.
-8BJ	le	.	.	.	.
+8c	-se a	4gg	-bra	.	.
+8B	le	.	.	.	.
 4A	la-	2cc	mi-	2a	-e
 4c	-bra	.	.	.	.
 =32	=32	=32	=32	=32	=32
 2F	mi-	1cc	-e,	4a	Giun-
-.	.	.	.	8aL	-se a
-.	.	.	.	8bJ	le
+.	.	.	.	8a	-se a
+.	.	.	.	8b	le
 4F	-e,>	.	.	4cc	la-
 2f	Quan-	.	.	4cc	-bra
 .	.	2r	.	2cc	mi-
-8eL	-do	.	.	.	.
-8dJ	le	.	.	.	.
+8e	-do	.	.	.	.
+8d	le	.	.	.	.
 4e	la-	4cc	<Giun-	2cc	-e,
-4c	-bra,	8ccL	-se a	.	.
-.	.	8bJ	le	.	.
+4c	-bra,	8cc	-se a	.	.
+.	.	8b	le	.	.
 =33	=33	=33	=33	=33	=33
 4d	Quan-	4a	la-	1r	.
-8cL	-do	4a	-bra	.	.
-8BJ	le	.	.	.	.
+8c	-do	4a	-bra	.	.
+8B	le	.	.	.	.
 4c	la-	4a	mi-	.	.
 4A	-bra	4a	-e,>	.	.
 2B-X	su-	4r	.	4r	.
 .	.	2dd	Quan-	2ff	Quan-
 [2A	-e	.	.	.	.
-.	.	8cc#XL	-do	8eeL	-do
-.	.	8bJ	le	8ddJ	le
+.	.	8cc#X	-do	8ee	-do
+.	.	8b	le	8dd	le
 =34	=34	=34	=34	=34	=34
 2A]	.	4cc#X	la-	4ee	la-
 .	.	4cc#X	-bra	4ee	-bra
 4D	Giun-	2dd	su-	4dd	su-
-8DL	-se a	.	.	2a	-e,
-8EJ	le	.	.	.	.
+8D	-se a	.	.	2a	-e,
+8E	le	.	.	.	.
 4F	la-	4dd	-e,	.	.
 4D	-bra	2ff	<Quan-	2dd	<Quan-
 2A	mi-	.	.	.	.
-.	.	8eeL	-do	8ccL	-do
-.	.	8ddJ	le	8bJ	le
+.	.	8ee	-do	8cc	-do
+.	.	8dd	le	8b	le
 =35	=35	=35	=35	=35	=35
 2A	-e,	4ee	la-	4cc	la-
 .	.	4cc	-bra	4a	-bra
 4G	Giun-	4dd	su-	4b	su-
-8GL	-se a	4b	-e,	4g	-e,>
-8FJ	le	.	.	.	.
+8G	-se a	4b	-e,	4g	-e,>
+8F	le	.	.	.	.
 2E	la-	4cc	Quan-	2r	.
-.	.	8bL	-do	.	.
-.	.	8aJ	le	.	.
+.	.	8b	-do	.	.
+.	.	8a	le	.	.
 2G	-bra	4b	la-	4gg	Giun-
-.	.	4dd	-bra	8ggL	-se a
-.	.	.	.	8ffJ	le
+.	.	4dd	-bra	8gg	-se a
+.	.	.	.	8ff	le
 =36	=36	=36	=36	=36	=36
 [0C	mi-	2cc	su-	4ee	la-
 .	.	.	.	4gg	-bra
 .	.	2g	-e,>	4cc	mi-
 .	.	.	.	4cc	-e,
 .	.	4cc	Giun-	4ee	Giun-
-.	.	8ccL	-se a	8eeL	-se a
-.	.	8ddJ	le	8ffJ	le
+.	.	8cc	-se a	8ee	-se a
+.	.	8dd	le	8ff	le
 .	.	4ee	la-	8ggL	la-
 .	.	.	.	8ff	.
 .	.	4cc	-bra	8ee	.

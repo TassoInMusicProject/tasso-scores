@@ -49,11 +49,11 @@
 .	.	4.d	La-	.	.	4.f	La-	2.a	-mai	.	.
 .	.	8d	-scia o-	.	.	8f	-scia o-	.	.	.	.
 .	.	2.d	-mai	.	.	2.f	-mai	.	.	.	.
-.	.	.	.	.	.	.	.	8fL	que-	.	.
-.	.	.	.	.	.	.	.	8gJ	-sto	.	.
+.	.	.	.	.	.	.	.	8f	que-	.	.
+.	.	.	.	.	.	.	.	8g	-sto	.	.
 .	.	.	.	.	.	.	.	4a	tan-	.	.
-.	.	8AL	que-	.	.	8cL	que-	4a	-to	.	.
-.	.	8B-yJ	-sto	.	.	8dJ	-sto	.	.	.	.
+.	.	8A	que-	.	.	8c	que-	4a	-to	.	.
+.	.	8B-y	-sto	.	.	8d	-sto	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 0r	.	4.c	tan-	0r	.	4e	tan-	2.g	la-	0r	.
 .	.	.	.	.	.	4e	-to	.	.	.	.
@@ -83,15 +83,15 @@
 .	.	.	.	.	.	.	.	.	.	8cc	la
 .	.	.	.	.	.	.	.	.	.	2.dd	vi-
 2BB-y	-ti?	.	.	2F	-ti?	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	.	.	8ccL	-ta o
-.	.	.	.	.	.	.	.	.	.	8b-yJ	la
+.	.	.	.	.	.	.	.	.	.	8cc	-ta o
+.	.	.	.	.	.	.	.	.	.	8b-y	la
 4.F	O	.	.	4.A	O	.	.	.	.	2cc	mor-
 8G	la	.	.	8G	la	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 2.A	vi-	0r	.	2F	vi-	0r	.	0r	.	2cc	-te?
 .	.	.	.	4c	-ta o	.	.	.	.	4cc	O
-8GL	-ta o	.	.	4BnXi	la	.	.	.	.	4dd	la
-8FJ	la	.	.	.	.	.	.	.	.	.	.
+8G	-ta o	.	.	4BnXi	la	.	.	.	.	4dd	la
+8F	la	.	.	.	.	.	.	.	.	.	.
 2G	mor-	.	.	2d	mor-	.	.	.	.	2bnX	mor-
 2C	-te?	.	.	2c	-te?	.	.	.	.	2cc	-te?
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
@@ -198,8 +198,8 @@
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 2D	-po	2F	-po	2d	-po	2f	-po	2dd	-po	2a	-po
 4BB-y	D'es-	4F	D'es-	4d	D'es-	4f	D'es-	4dd	d'es-	4b-y	d'es-
-8BB-yL	-ser	8FL	-ser	8dL	-ser	8fL	-ser	8ddL	-ser	8b-yL	-ser
-8BB-yJ	un	8FJ	un	8dJ	un	8fJ	un	8ddJ	un	8b-yJ	un
+8BB-y	-ser	8F	-ser	8d	-ser	8f	-ser	8dd	-ser	8b-y	-ser
+8BB-y	un	8F	un	8d	un	8f	un	8dd	un	8b-y	un
 2.F	uom,	2.F	uom,	2.A	uom,	2.f	uom,	2.cc	uom,	2.a	uom,
 4C	A-	4G	A-	4c	A-	4e	A-	4cc	A-	4g	A-
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
@@ -265,8 +265,8 @@
 2BB-y	-po	2F	-po	2B-y	-po	2f	-po	2dd	-po	2b-y	-po
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
 4BB-y	D'es-	4F	D'es-	4B-y	D'es-	4f	D'es-	4dd	D'es-	4b-y	d'es-
-8BB-yL	-ser	8FL	-ser	8B-yL	-ser	8fL	-ser	8ddL	-ser	8b-yL	-ser
-8BB-yJ	un	8FJ	un	8B-yJ	un	8fJ	un	8ddJ	un	8b-yJ	un
+8BB-y	-ser	8F	-ser	8B-y	-ser	8f	-ser	8dd	-ser	8b-y	-ser
+8BB-y	un	8F	un	8B-y	un	8f	un	8dd	un	8b-y	un
 4F	uom,	4F	uom,	4c	uom,	4f	uom,	4cc	uom,	4a	uom,
 4BB-y	A-	4A	A-	4F	A-	4f	A-	4dd	A-	4a	A-
 1F	-min-	1A	-min-	1c	-min-	1f	-min-	1cc	-min-	2a	-min-

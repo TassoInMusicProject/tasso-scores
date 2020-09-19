@@ -52,12 +52,12 @@
 4	.	.	4d	qual	4f	qual	4a	qual	.	.	4dd	qual
 =3-	=3-	=3-	=3-	=3-	=3-	=3-	=3-	=3-	=3-	=3-	=3-	=3-
 4	1r	.	4c	co-	4g	co-	4cc	co-	1r	.	4ee	co-
-8	.	.	8cL	-sa è	8gL	-sa è	8ccL	-sa è	.	.	8eeL	-sa è
-8	.	.	8cJ	più	8gJ	più	8ccJ	più	.	.	8eeJ	più
-8	.	.	8cL	pic-	8gL	pic-	8ccL	pic-	.	.	8eeL	pic-
+8	.	.	8c	-sa è	8g	-sa è	8cc	-sa è	.	.	8ee	-sa è
+8	.	.	8c	più	8g	più	8cc	più	.	.	8ee	più
+8	.	.	8c	pic-	8g	pic-	8cc	pic-	.	.	8ee	pic-
 8	.	.	8c	-cio-	8g	-cio-	8cc	-cio-	.	.	8ee	-cio-
 8	.	.	8c	-la	8g	-la	8cc	-la	.	.	8ee	-la
-8	.	.	8cJ	d'A-	8gJ	d'A-	8gJ	d'A-	.	.	8eeJ	d'A-
+8	.	.	8c	d'A-	8g	d'A-	8g	d'A-	.	.	8ee	d'A-
 4	1r	.	4A	-mo-	4f#X	-mo-	4a	-mo-	1r	.	4cc#X	-mo-
 4	.	.	4c	-re,	4g	-re,	4g	-re,	.	.	4ee	-re,
 4	.	.	4r	.	4r	.	4r	.	.	.	4r	.
@@ -71,8 +71,8 @@
 2	.	.	2c	-zio en-	2e	-zio en-	2g	-zio en-	.	.	2cc	-zio en-
 4	.	.	4c	-tra,	4e	-tra,	4g	-tra,	.	.	4cc	-tra,
 4	1r	.	4r	.	4r	.	4r	.	1r	.	4r	.
-8	.	.	8GL	e	8dL	e	8gL	e	.	.	8bL	e
-8	.	.	8AJ	s'a-	8cJ	s'a-	8eJ	s'a-	.	.	8ccJ	s'a-
+8	.	.	8G	e	8d	e	8g	e	.	.	8b	e
+8	.	.	8A	s'a-	8c	s'a-	8e	s'a-	.	.	8cc	s'a-
 4	.	.	4G	-scon-	4B	-scon-	4g	-scon-	.	.	4dd	-scon-
 4	.	.	4G	-de In	4d	-de In	4g	-de In	.	.	4b	-de In
 4	1r	.	4c	o-	4e	o-	4g	o-	1r	.	4cc	o-
@@ -86,8 +86,8 @@
 4	4E	sot-	1r	.	4B	sot-	.	.	4g#i	sot-	.	.
 4	4E	-to a	.	.	4c#i	-to a	.	.	4g#i	-to a	.	.
 4	4F	l'om-	.	.	4c#i	l'om-	1r	.	4a	l'om-	1r	.
-8	8FL	-bra	.	.	8c#iL	-bra	.	.	8aL	-bra	.	.
-8	8FJ	de	.	.	8dJ	de	.	.	8aJ	de	.	.
+8	8F	-bra	.	.	8c#i	-bra	.	.	8a	-bra	.	.
+8	8F	de	.	.	8d	de	.	.	8a	de	.	.
 4	4G	le	1r	.	4e	le	.	.	4b	le	.	.
 4	4G	pal-	.	.	4e	pal-	.	.	4b	pal-	.	.
 2	2A	-pe-	.	.	2e	-pe-	2r	.	2cc	-pe-	2r	.
@@ -99,8 +99,8 @@
 4	.	.	4B	-nu-	.	.	4f#X	-nu-	.	.	4dd	-nu-
 4	.	.	4B	-ti	.	.	4g	-ti	.	.	4dd	-ti
 4	1r	.	4c	ri-	1r	.	4g	ri-	1r	.	4ee	ri-
-8	.	.	8cL	-vi	.	.	8gL	-vi	.	.	8eeL	-vi
-8	.	.	8cJ	D'un	.	.	8aJ	D'un	.	.	8eeJ	D'un
+8	.	.	8c	-vi	.	.	8g	-vi	.	.	8ee	-vi
+8	.	.	8c	D'un	.	.	8a	D'un	.	.	8ee	D'un
 4	.	.	4d	bion-	.	.	4a	bion-	.	.	4dd	bion-
 4	.	.	4d	-do	.	.	4a	-do	.	.	4b	-do
 =7-	=7-	=7-	=7-	=7-	=7-	=7-	=7-	=7-	=7-	=7-	=7-	=7-
@@ -246,8 +246,8 @@
 4	.	.	4A	le	.	.	4e	le	.	.	4cc	le
 2	.	.	2A	sel-	.	.	2e	sel-	.	.	2cc	sel-
 4	1r	.	4A	-ve an-	1r	.	4e	-ve an-	1r	.	4cc	-ve an-
-8	.	.	8AL	-gui,	.	.	8eL	-gui,	.	.	8ccL	-gui,
-8	.	.	8AJ	le-	.	.	8eJ	le-	.	.	8ccJ	le-
+8	.	.	8A	-gui,	.	.	8e	-gui,	.	.	8cc	-gui,
+8	.	.	8A	le-	.	.	8e	le-	.	.	8cc	le-
 4	.	.	4F#X	-o-	.	.	4d	-o-	.	.	4a	-o-
 4	.	.	4G	-ni ed	.	.	4B	-ni ed	.	.	4b	-ni ed
 =22-	=22-	=22-	=22-	=22-	=22-	=22-	=22-	=22-	=22-	=22-	=22-	=22-
@@ -468,16 +468,16 @@
 2	2c	-nar-	2c	-nar-	2e	-nar-	2g	-nar-	2cc	-nar-	2ee	-nar-
 2	2c	-ti	2c	-ti	2e	-ti	2g	-ti	2cc	-ti	2ee	-ti
 4	4G	Co-	4r	.	4B	Co-	4g	Co-	4b	Co-	4dd	Co-
-8	8GL	-sa	2r	.	8dL	-sa	8gL	-sa	8bL	-sa	8ddL	-sa
-8	8GJ	ch'in	.	.	8dJ	ch'in	8gJ	ch'in	8bJ	ch'in	8ddJ	ch'in
+8	8G	-sa	2r	.	8d	-sa	8g	-sa	8b	-sa	8dd	-sa
+8	8G	ch'in	.	.	8d	ch'in	8g	ch'in	8b	ch'in	8dd	ch'in
 4	4G	te	.	.	4d	te	4g	te	4b	te	4dd	te
 4	4G	più	1r	.	4d	più	4g	più	4b	più	4dd	più
 4	4c	bel-	.	.	4c	bel-	4g	bel-	4cc	bel-	4ee	bel-
 4	4G	-la e	.	.	4d	-la e	4g	-la e	4b	-la e	4dd	-la e
 4	4c	dol-	.	.	4c	dol-	4g	dol-	4cc	dol-	4ee	dol-
 =37-	=37-	=37-	=37-	=37-	=37-	=37-	=37-	=37-	=37-	=37-	=37-	=37-
-8	8cL	-ce	1r	.	8cL	-ce	8gL	-ce	8ccL	-ce	8eeL	-ce
-8	8cJ	non	.	.	8cJ	non	8gJ	non	8ccJ	non	8eeJ	non
+8	8c	-ce	1r	.	8c	-ce	8g	-ce	8cc	-ce	8ee	-ce
+8	8c	non	.	.	8c	non	8g	non	8cc	non	8ee	non
 4.	4.G	si-	.	.	4.d	si-	4.g	si-	4.b	si-	4.dd	si-
 8	8G	-a,	.	.	8d	-a,	8g	-a,	8b	-a,	8dd	-a,
 4	2r	.	.	.	2r	.	4r	.	2r	.	2r	.
@@ -548,8 +548,8 @@
 4	2.r	.	.	.	2.r	.	.	.	2.r	.	.	.
 2	.	.	2d	-no:	.	.	2a	-no:	.	.	2ff	-no:
 2.	2.c	Ahi,	2.c	Ahi,	2.e	Ahi,	2.gnXi	Ahi,	2.ee	Ahi,	2.gg	Ahi,
-8	8FL	ché	8cL	ché	8fL	ché	8aL	ché	8ccL	ché	8ffL	ché
-8	8FJ	le	8cJ	le	8fJ	le	8aJ	le	8ccJ	le	8ffJ	le
+8	8F	ché	8c	ché	8f	ché	8a	ché	8cc	ché	8ff	ché
+8	8F	le	8c	le	8f	le	8a	le	8cc	le	8ff	le
 2	2F	vil-	2c	vil-	2f	vil-	2a	vil-	2cc	vil-	2ff	vil-
 2	2F	-le	2c	-le	2f	-le	2a	-le	2cc	-le	2ff	-le
 4	4r	.	4r	.	4r	.	4r	.	4r	.	4r	.
@@ -559,8 +559,8 @@
 4	4F	l'es-	4c	l'es-	4f	l'es-	4a	l'es-	4cc	l'es-	4ff	l'es-
 2	2F	-sem-	2c	-sem-	2f	-sem-	2a	-sem-	2cc	-sem-	2ff	-sem-
 2	2C	-pio	2c	-pio	2g	-pio	2g	-pio	2cc	-pio	2ee	-pio
-8	8GL	de	8dL	de	8dL	de	8gL	de	8bL	de	8ddL	de
-8	8GJ	le	8BJ	le	8dJ	le	8gJ	le	8bJ	le	8ddJ	le
+8	8G	de	8d	de	8d	de	8g	de	8b	de	8dd	de
+8	8G	le	8B	le	8d	le	8g	le	8b	le	8dd	le
 =43-	=43-	=43-	=43-	=43-	=43-	=43-	=43-	=43-	=43-	=43-	=43-	=43-
 2	2G	gran	2d	gran	2d	gran	2g	gran	2b	gran	2dd	gran
 4	4G	cit-	4G	cit-	4d	cit-	4g	cit-	4b	cit-	4dd	cit-
@@ -599,8 +599,8 @@
 4	.	.	.	.	.	.	.	.	.	.	2r	.
 4	4c	chiun-	.	.	4e	chiun-	.	.	4ee	chiun-	.	.
 =46-	=46-	=46-	=46-	=46-	=46-	=46-	=46-	=46-	=46-	=46-	=46-	=46-
-8	8cL	-que	1r	.	8gL	-que	1r	.	8eeL	-que	1r	.
-8	8cJ	tu	.	.	8gJ	tu	.	.	8eeJ	tu	.	.
+8	8c	-que	1r	.	8g	-que	1r	.	8ee	-que	1r	.
+8	8c	tu	.	.	8g	tu	.	.	8ee	tu	.	.
 4	4c	fo-	.	.	4g	fo-	.	.	4ee	fo-	.	.
 4	4c	-sti,	.	.	4g	-sti,	.	.	4ee	-sti,	.	.
 4	4A	che in-	.	.	4f	che in-	.	.	4cc	che in-	.	.
@@ -700,8 +700,8 @@
 4	1r	.	4A	Ma	1r	.	4a	Ma	1r	.	4cc	Ma
 4	.	.	4d	per-	.	.	4f	per-	.	.	4dd	per-
 4	.	.	4c	-ché in	.	.	4g	-ché in	.	.	4ee	-ché in
-8	.	.	8cL	van	.	.	8gL	van	.	.	8eeL	van
-8	.	.	8cJ	mi	.	.	8gJ	mi	.	.	8eeJ	mi
+8	.	.	8c	van	.	.	8g	van	.	.	8ee	van
+8	.	.	8c	mi	.	.	8g	mi	.	.	8ee	mi
 4	1r	.	4A	la-	1r	.	4f#X	la-	1r	.	4cc#X	la-
 4	.	.	4c	-gno?	.	.	4g	-gno?	.	.	4ee	-gno?
 4	.	.	4r	.	.	.	4r	.	.	.	4r	.
@@ -748,8 +748,8 @@
 4	4c	il	1r	.	4g	il	1r	.	4ee	il	1r	.
 4	4c	ba-	.	.	4g	ba-	.	.	4ee	ba-	.	.
 4	4c	-vo-	.	.	4g	-vo-	.	.	4ee	-vo-	.	.
-8	8cL	-so	.	.	8gL	-so	.	.	8eeL	-so	.	.
-8	8cJ	Cin-	.	.	8gJ	Cin-	.	.	8eeJ	Cin-	.	.
+8	8c	-so	.	.	8g	-so	.	.	8ee	-so	.	.
+8	8c	Cin-	.	.	8g	Cin-	.	.	8ee	Cin-	.	.
 =54-	=54-	=54-	=54-	=54-	=54-	=54-	=54-	=54-	=54-	=54-	=54-	=54-
 4	4A	-ghia-	1r	.	4f	-ghia-	1r	.	4cc	-ghia-	1r	.
 4	4c	-le il	.	.	4a	-le il	.	.	4ee	-le il	.	.
@@ -780,23 +780,23 @@
 4	1r	.	4A	Io	1r	.	4e	Io	1r	.	4cc#X	Io
 4	.	.	4d	per-	.	.	4f#X	per-	.	.	4dd	per-
 2	.	.	2c	-ché	.	.	2g	-ché	.	.	2ee	-ché
-8	1r	.	8cL	non	1r	.	8gL	non	1r	.	8eeL	non
+8	1r	.	8c	non	1r	.	8g	non	1r	.	8ee	non
 8	.	.	8c	per	.	.	8g	per	.	.	8ee	per
 8	.	.	8c	mia	.	.	8g	mia	.	.	8ee	mia
-8	.	.	8cJ	sa-	.	.	8gJ	sa-	.	.	8eeJ	sa-
+8	.	.	8c	sa-	.	.	8g	sa-	.	.	8ee	sa-
 4.	.	.	4.c	-lu-	.	.	4.g	-lu-	.	.	4.ee	-lu-
 8	.	.	8A	-te a-	.	.	8a	-te a-	.	.	8cc#X	-te a-
 2	1r	.	2c	-do-	1r	.	2g	-do-	1r	.	2ee	-do-
-8	.	.	8cL	-pro	.	.	8gL	-pro	.	.	8eeL	-pro
+8	.	.	8c	-pro	.	.	8g	-pro	.	.	8ee	-pro
 8	.	.	8c	La	.	.	8g	La	.	.	8ee	La
 8	.	.	8A	vi-	.	.	8a	vi-	.	.	8ccnXi	vi-
-8	.	.	8cJ	-o-	.	.	8gJ	-o-	.	.	8eeJ	-o-
+8	.	.	8c	-o-	.	.	8g	-o-	.	.	8ee	-o-
 4	1r	.	4B	-len-	1r	.	4g	-len-	1r	.	4dd#X	-len-
 4	.	.	4c	-za,	.	.	4g	-za,	.	.	4ee	-za,
-8	.	.	8AL	se	.	.	8eL	se	.	.	8ccL	se
+8	.	.	8A	se	.	.	8e	se	.	.	8cc	se
 8	.	.	8A	mi	.	.	8e	mi	.	.	8cc	mi
 8	.	.	8A	fé	.	.	8e	fé	.	.	8cc	fé
-8	.	.	8AJ	na-	.	.	8eJ	na-	.	.	8ccJ	na-
+8	.	.	8A	na-	.	.	8e	na-	.	.	8cc	na-
 4	1r	.	4A	-tu-	1r	.	4e	-tu-	1r	.	4cc	-tu-
 4	.	.	4A	-ra	.	.	4e	-ra	.	.	4cc	-ra
 2	.	.	2r	.	.	.	2r	.	.	.	2r	.
@@ -804,19 +804,19 @@
 4.	1r	.	4.c	At-	1r	.	4.g	At-	1r	.	4.ee	At-
 8	.	.	8A	-to a	.	.	8f	-to a	.	.	8cc	-to a
 4	.	.	4c	far	.	.	4g	far	.	.	4ee	far
-8	.	.	8AL	vi-	.	.	8aL	vi-	.	.	8ccL	vi-
-8	.	.	8BJ	-o-	.	.	8gJ	-o-	.	.	8ddJ	-o-
+8	.	.	8A	vi-	.	.	8a	vi-	.	.	8cc	vi-
+8	.	.	8B	-o-	.	.	8g	-o-	.	.	8dd	-o-
 2	1r	.	2c	-len-	1r	.	2g	-len-	1r	.	2ee	-len-
 4	.	.	4c	-za ed	.	.	4g	-za ed	.	.	4ee	-za ed
-8	.	.	8AL	a	.	.	8fL	a	.	.	8ccL	a
-8	.	.	8cJ	ra-	.	.	8gJ	ra-	.	.	8eeJ	ra-
+8	.	.	8A	a	.	.	8f	a	.	.	8cc	a
+8	.	.	8c	ra-	.	.	8g	ra-	.	.	8ee	ra-
 4	2r	.	4B	-pi-	2r	.	4g	-pi-	2r	.	4dd#X	-pi-
 4	.	.	4c	-re?	.	.	4g	-re?	.	.	4ee	-re?
 4.	4.c	Sfor-	2r	.	4.g	Sfor-	2r	.	4.ee	Sfor-	2r	.
 8	8A	-ze-	.	.	8f	-ze-	.	.	8cc	-ze-	.	.
 4	4c	-rò,	1r	.	4g	-rò,	1r	.	4ee	-rò,	1r	.
-8	8cL	ra-	.	.	8gL	ra-	.	.	8eeL	ra-	.	.
-8	8BJ	-pi-	.	.	8gJ	-pi-	.	.	8ddJ	-pi-	.	.
+8	8c	ra-	.	.	8g	ra-	.	.	8ee	ra-	.	.
+8	8B	-pi-	.	.	8g	-pi-	.	.	8dd	-pi-	.	.
 4	4c	-rò	.	.	4g	-rò	.	.	4ee	-rò	.	.
 4	4d	quel	.	.	4f	quel	.	.	4ff	quel	.	.
 4	4c	che	1r	.	4g	che	1r	.	4ee	che	1r	.
@@ -873,12 +873,12 @@
 4.	4.A	Que-	.	.	4.a	Que-	.	.	4.ee	Que-	.	.
 8	8d	-sta	.	.	8a	-sta	.	.	8ff	-sta	.	.
 4	4c	ma-	1r	.	4g	ma-	1r	.	4ee	ma-	1r	.
-8	8cL	-no	.	.	8gL	-no	.	.	8eeL	-no	.	.
-8	8AJ	rav-	.	.	8f#XJ	rav-	.	.	8ccJ	rav-	.	.
-8	8cL	-vo-	.	.	8gL	-vo-	.	.	8eeL	-vo-	.	.
+8	8c	-no	.	.	8g	-no	.	.	8ee	-no	.	.
+8	8A	rav-	.	.	8f#X	rav-	.	.	8cc	rav-	.	.
+8	8c	-vo-	.	.	8g	-vo-	.	.	8ee	-vo-	.	.
 8	8c	-glie-	.	.	8g	-glie-	.	.	8ee	-glie-	.	.
 8	8A	-re	.	.	8a	-re	.	.	8cc	-re	.	.
-8	8BJ	nel	.	.	8gJ	nel	.	.	8ddJ	nel	.	.
+8	8B	nel	.	.	8g	nel	.	.	8dd	nel	.	.
 =62-	=62-	=62-	=62-	=62-	=62-	=62-	=62-	=62-	=62-	=62-	=62-	=62-
 4	4c	cri-	2r	.	4g	cri-	2r	.	4ee	cri-	2r	.
 4	4c	-ne,	.	.	4g	-ne,	.	.	4ee	-ne,	.	.

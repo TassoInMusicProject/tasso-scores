@@ -42,8 +42,8 @@
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 0r	.	2d	-glia,	0r	.	2f	-glia,	2a	-glia,	0r	.
 .	.	4c	Pren-	.	.	4e	Pren-	4a	Pren-	.	.
-.	.	8cL	-der-	.	.	8eL	-der-	8gL	-der-	.	.
-.	.	8cJ	-ne	.	.	8eJ	-ne	8gJ	-ne	.	.
+.	.	8c	-der-	.	.	8e	-der-	8g	-der-	.	.
+.	.	8c	-ne	.	.	8e	-ne	8g	-ne	.	.
 .	.	4B-y	quel	.	.	4d	quel	4g	quel	.	.
 .	.	4B-y	che,	.	.	4d	che,	4f	che,	.	.
 .	.	4A	se	.	.	4c	se	4f	se	.	.
@@ -80,8 +80,8 @@
 2r	.	2c	-so?	2r	.	2e	-so?	2g	-so?	2r	.
 2G	Ahi,	2r	.	2G	Ahi,	2r	.	2r	.	2b-y	Ahi,
 4D	Tir-	1r	.	4F#X	Tir-	1r	.	1r	.	4a	Tir-
-8DL	-si,	.	.	8F#XL	-si,	.	.	.	.	8aL	-si,
-8GJ	Ahi,	.	.	8GJ	Ahi,	.	.	.	.	8b-yJ	Ahi,
+8D	-si,	.	.	8F#X	-si,	.	.	.	.	8a	-si,
+8G	Ahi,	.	.	8G	Ahi,	.	.	.	.	8b-y	Ahi,
 4D	Tir-	.	.	4F#X	Tir-	.	.	.	.	4a	Tir-
 4D	-si,	.	.	4F#X	-si,	.	.	.	.	4a	-si,
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
@@ -90,8 +90,8 @@
 4G	-mor	.	.	4d	-mor	.	.	.	.	4b-y	-mor
 4G	ri-	.	.	4d	ri-	.	.	.	.	4b-y	ri-
 4G	-spon-	.	.	4d	-spon-	.	.	.	.	4b-y	-spon-
-8GL	-da	.	.	8dL	-da	.	.	.	.	8b-yL	-da
-8GJ	Per	.	.	8dJ	Per	.	.	.	.	8b-yJ	Per
+8G	-da	.	.	8d	-da	.	.	.	.	8b-y	-da
+8G	Per	.	.	8d	Per	.	.	.	.	8b-y	Per
 2F#X	me:	.	.	2d	me:	.	.	.	.	2a	me:
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 4r	.	0r	.	4r	.	0r	.	0r	.	4r	.
@@ -106,11 +106,11 @@
 4E-X	par-	1r	.	4B-y	par-	1r	.	1r	.	4g	par-
 4E-i	-la,	.	.	4c	-la,	.	.	.	.	4g	-la,
 4F	Non	.	.	2.c	Non	.	.	.	.	2.a	Non
-8E-iL	so	.	.	.	.	.	.	.	.	.	.
-8DJ	ri-	.	.	.	.	.	.	.	.	.	.
+8E-i	so	.	.	.	.	.	.	.	.	.	.
+8D	ri-	.	.	.	.	.	.	.	.	.	.
 1C	-dir.	2r	.	.	.	2r	.	2r	.	.	.
-.	.	.	.	8B-yL	so	.	.	.	.	8gL	so
-.	.	.	.	8AJ	ri-	.	.	.	.	8fJ	ri-
+.	.	.	.	8B-y	so	.	.	.	.	8g	so
+.	.	.	.	8A	ri-	.	.	.	.	8f	ri-
 .	.	4r	.	2G	-dir.	4r	.	4r	.	2e	-dir.
 .	.	4c	Pre-	.	.	4e	Per-	4cc	Per-	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
@@ -132,8 +132,8 @@
 4C	-ché	4E	-ché	4C	-ché	4e	-ché	4cc	-ché	4g	-ché
 [4C	dun-	[4E	dun-	[4G	dun-	[4e	dun-	[4cc	dun-	[4g	dun-
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-8CL]	.	8EL]	.	8GL]	.	8eL]	.	8ccL]	.	8gL]	.
-8CJ	-que	8EJ	-que	8GJ	-que	8eJ	-que	8ccJ	-que	8gJ	-que
+8C]	.	8E]	.	8G]	.	8e]	.	8cc]	.	8g]	.
+8C	-que	8E	-que	8G	-que	8e	-que	8cc	-que	8g	-que
 4C	non	4C	non	4G	non	4e	non	4cc	non	4g	non
 4.GG	o-	4.D	o-	4.G	o-	4.d	o-	4.bnX	o-	4.g	o-
 8GG	-si ol-	8D	-si ol-	8G	-si ol-	8d	-si ol-	8bnX	-si ol-	8g	-si ol-
@@ -144,31 +144,31 @@
 1C	-glia	2C	-glia	1G	-glia	4e	-glia,	4cc	-glia,	1g	-glia,
 .	.	.	.	.	.	4e	ol-	4cc	ol-	.	.
 .	.	4c	Pren-	.	.	4e	-tra	4cc	-tra	.	.
-.	.	8cL	-der-	.	.	4e	sua	4cc	sua	.	.
-.	.	8cJ	-ne	.	.	.	.	.	.	.	.
+.	.	8c	-der-	.	.	4e	sua	4cc	sua	.	.
+.	.	8c	-ne	.	.	.	.	.	.	.	.
 4G	Pren-	4B-y	quel	1r	.	2d	vo-	2dd	vo-	2g	ol-
-8GL	-der-	4B-y	che,	.	.	.	.	.	.	.	.
-8GJ	-ne	.	.	.	.	.	.	.	.	.	.
+8G	-der-	4B-y	che,	.	.	.	.	.	.	.	.
+8G	-ne	.	.	.	.	.	.	.	.	.	.
 4F	quel	4A	se	.	.	2f	-glia	2a	-glia	4c	-tra
 4F	che,	4A	ben	.	.	.	.	.	.	4c	sua
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 4E	se	4G	gra-	1r	.	4g	Pren-	0r	.	2c	vo-
-4E	ben	4G	-va in	.	.	8gL	-der-	.	.	.	.
-.	.	.	.	.	.	8gJ	-ne	.	.	.	.
+4E	ben	4G	-va in	.	.	8g	-der-	.	.	.	.
+.	.	.	.	.	.	8g	-ne	.	.	.	.
 4D	gra-	2A	pri-	.	.	4f	quel	.	.	2d	-glia
 4D	-va in	.	.	.	.	4f	che,	.	.	.	.
 2C	pri-	4A	-ma,	4c	Pren-	4e	se	.	.	1r	.
-.	.	4G	Al	8cL	-der-	4e	ben	.	.	.	.
-.	.	.	.	8cJ	-ne	.	.	.	.	.	.
+.	.	4G	Al	8c	-der-	4e	ben	.	.	.	.
+.	.	.	.	8c	-ne	.	.	.	.	.	.
 2GG	-ma,	4G	fin,	4B-y	quel	4d	gra-	.	.	.	.
 .	.	4G	al	4B-y	che,	4d	-va in	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 2FF	Al	4A	fin	4A	se	2f	pri-	2r	.	4cc	Pren-
-.	.	4A	le	4c	ben	.	.	.	.	8ccL	-der-
-.	.	.	.	.	.	.	.	.	.	8ccJ	-ne
+.	.	4A	le	4c	ben	.	.	.	.	8cc	-der-
+.	.	.	.	.	.	.	.	.	.	8cc	-ne
 4GG	fin,	4B-y	sa-	4G	gra-	2d	-ma,	4dd	Pren-	4b-y	quel
-4GG	Al	4B-y	-rà	4G	-va in	.	.	8ddL	-der-	4b-y	che,
-.	.	.	.	.	.	.	.	8ddJ	-ne	.	.
+4GG	Al	4B-y	-rà	4G	-va in	.	.	8dd	-der-	4b-y	che,
+.	.	.	.	.	.	.	.	8dd	-ne	.	.
 4AA	fin	4c	ca-	2E	pri-	1r	.	4cc	quel	4a	se
 4AA	le	4c	-ro e	.	.	.	.	4cc	che,	4a	ben
 4BB-y	sa-	2d	dol-	4D	-ma,	.	.	4b-y	se	4g	gra-
@@ -177,8 +177,8 @@
 4C	ca-	2G	-ce,	4E	fin,	2r	.	4g	gra-	2e	pri-
 4C	-ro e	.	.	4E	al	.	.	4g	-va in	.	.
 2D	dol-	2r	.	4F	fin	2A	Al	4f	pri-	4d	-ma,
-.	.	.	.	4F	le	.	.	8fL	-ma,	4d	Al
-.	.	.	.	.	.	.	.	8fJ	Al	.	.
+.	.	.	.	4F	le	.	.	8f	-ma,	4d	Al
+.	.	.	.	.	.	.	.	8f	Al	.	.
 2GG	-ce,	2r	.	2G	sa-	4B-y	fin,	4d	fin,	4d	fin,
 .	.	.	.	.	.	4B-y	al	4g	al	4d	al
 2r	.	2C	e	2G	-rà	4c	fin	4g	fin	4e	fin
@@ -205,8 +205,8 @@
 8C	-so?	8c	-so?	8F	-so?	8e	-so?	.	.	.	.
 2G	Ahi,	2d	Ahi,	2G	Ahi,	2d	Ahi,	2b-y	Ahi,	2g	-so?
 4D	Tir-	4d	Tir-	4A	Tir-	4f#X	Tir-	4a	Tir-	1r	.
-8DL	-si,	8dL	-si,	8AL	-si,	8f#iL	-si,	8aL	-si,	.	.
-8GJ	Ahi	8dJ	Ahi,	8GJ	Ahi,	8gJ	Ahi,	8b-yJ	Ahi,	.	.
+8D	-si,	8d	-si,	8A	-si,	8f#i	-si,	8a	-si,	.	.
+8G	Ahi	8d	Ahi,	8G	Ahi,	8g	Ahi,	8b-y	Ahi,	.	.
 [4D	Tir-	[4d	Tir-	4A	Tir-	4f#X	Tir-	4a	Tir-	.	.
 4D]	-si,	4d]	-si,	4A	-si,	4f#i	-si,	4a	-si,	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
@@ -215,11 +215,11 @@
 4G	-mor	4B-y	-mor	4d	-mor	4g	-mor	4b-y	-mor	4r	.
 4G	ri-	4B-y	ri-	4d	ri-	4g	ri-	4b-y	ri-	4dd	A-
 4G	-spon-	4B-y	-spon-	4d	-spon-	4g	-spon-	4b-y	-spon-	4dd	-mor
-8GL	-da	8GL	-da	8dL	-da	8gL	-da	8b-yL	-da	4dd	ri-
-8GJ	Per	8GJ	Per	8dJ	Per	8gJ	Per	8b-yJ	Per	.	.
+8G	-da	8G	-da	8d	-da	8g	-da	8b-y	-da	4dd	ri-
+8G	Per	8G	Per	8d	Per	8g	Per	8b-y	Per	.	.
 2D	me:	2A	me:	2d	me:	2f#X	me:	2a	me:	4dd	-spon-
-.	.	.	.	.	.	.	.	.	.	8ddL	-da
-.	.	.	.	.	.	.	.	.	.	8ddJ	Per
+.	.	.	.	.	.	.	.	.	.	8dd	-da
+.	.	.	.	.	.	.	.	.	.	8dd	Per
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 4r	.	4r	.	4r	.	4r	.	4r	.	4cc	me:
 4D	Che	4A	Che	4f	Che	4f	Che	4a	Che	4dd	Che
@@ -233,14 +233,14 @@
 4E-X	par-	4G	par-	4B-y	cor	4e-X	par-	4g	par-	4b-y	par-
 4E-i	-la,	4G	-la,	4B-y	mi	4g	-la,	4g	-la,	4b-y	-la
 4F	Non	2.c	Non	4F	par-	2.f	Non	4a	Non	2.a	Non
-8E-iL	so	.	.	4c	-la,	.	.	8gL	so	.	.
-8DJ	ri-	.	.	.	.	.	.	8fJ	ri-	.	.
+8E-i	so	.	.	4c	-la,	.	.	8g	so	.	.
+8D	ri-	.	.	.	.	.	.	8f	ri-	.	.
 1C	-dir.	.	.	2.c	Non	.	.	1e	-dir.	.	.
-.	.	8B-yL	so	.	.	8e-iL	so	.	.	8gL	so
-.	.	8AJ	ri-	.	.	8dJ	ri-	.	.	8fJ	ri-
+.	.	8B-y	so	.	.	8e-i	so	.	.	8g	so
+.	.	8A	ri-	.	.	8d	ri-	.	.	8f	ri-
 .	.	2G	-dir.	.	.	2c	-dir.	.	.	2e	-dir.
-.	.	.	.	8B-yL	so	.	.	.	.	.	.
-.	.	.	.	8AJ	ri-	.	.	.	.	.	.
+.	.	.	.	8B-y	so	.	.	.	.	.	.
+.	.	.	.	8A	ri-	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 2C	Tu	0r	.	4G	-dir.	2e	Tu	0r	.	2cc	Tu
 .	.	.	.	4G	Tu	.	.	.	.	.	.
