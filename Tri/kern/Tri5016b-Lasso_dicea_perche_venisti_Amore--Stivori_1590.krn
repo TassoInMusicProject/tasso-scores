@@ -91,8 +91,8 @@
 =8	=8	=8	=8	=8	=8
 4d	le	4.a	.	2f	-o-
 4d	tue	.	.	.	.
-.	.	16gLL	.	.	.
-.	.	16aJJ	.	.	.
+.	.	16gL	.	.	.
+.	.	16aJ	.	.	.
 8GL	fiam-	2b-y	.	2d	-so,
 8A	.	.	.	.	.
 8B-y	.	.	.	.	.
@@ -102,8 +102,8 @@
 8c	.	.	.	.	.
 4.B-y	.	2r	.	4dd	le
 .	.	.	.	4dd	tue
-16ALL	.	.	.	.	.
-16B-yJJ	.	.	.	.	.
+16AL	.	.	.	.	.
+16B-yJ	.	.	.	.	.
 =9	=9	=9	=9	=9	=9
 4c	.	4r	.	8gL	fiam-
 .	.	.	.	8a	.
@@ -215,11 +215,11 @@
 [2c	qual	.	.	2g	-ti, o
 .	.	[4g	qual	.	.
 =20	=20	=20	=20	=20	=20
-4c]	.	8gL]	.	4.cc	qual
+4c]	.	8g]L	.	4.cc	qual
 .	.	8fJ	.	.	.
 4c	tri-	4e	.	.	.
-.	.	.	.	16b-yLL	.
-.	.	.	.	16aJJ	.
+.	.	.	.	16b-yL	.
+.	.	.	.	16aJ	.
 4.G	-on-	4d	tri-	8b-yL	.
 .	.	.	.	8a	.
 .	.	4.d	-on-	8b-y	.
@@ -233,7 +233,7 @@
 .	.	8f	.	[4a	-on-
 .	.	8eJ	.	.	.
 =21	=21	=21	=21	=21	=21
-4r	.	4d	.	8aL]	.
+4r	.	4d	.	8a]L	.
 .	.	.	.	8b-yJ	.
 4.f	al-	4.a	-fo al-	4cc	.
 .	.	.	.	2c	-fo
@@ -246,8 +246,8 @@
 2B-y	.	2d	.	4r	.
 .	.	.	.	[4dd	al-
 =22	=22	=22	=22	=22	=22
-2A	-so,	2e	-so,	8ddL]	.
-.	.	.	.	8ddJ	-to e
+2A	-so,	2e	-so,	8dd]	.
+.	.	.	.	8dd	-to e
 .	.	.	.	4cc#X	pom-
 2D	D'ha-	2f	D'ha-	4dd	-po-
 .	.	.	.	4a	-so,
