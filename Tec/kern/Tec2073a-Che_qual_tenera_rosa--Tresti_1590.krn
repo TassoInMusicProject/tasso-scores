@@ -203,8 +203,8 @@
 4F	bel	4r	.	.	.
 [4F	rag-	4c	E'l	.	.
 =22	=22	=22	=22	=22	=22
-8FL]	.	4c	bel	2r	.
-8FJ	-gio	.	.	.	.
+8F]	.	4c	bel	2r	.
+8F	-gio	.	.	.	.
 4E	del	4.c	rag-	.	.
 4.D	so-	.	.	4r	.
 .	.	8c	-gio	.	.
@@ -248,8 +248,8 @@
 4F	bel	4r	.	.	.
 [4F	rag-	4c	E'l	.	.
 =27	=27	=27	=27	=27	=27
-8FL]	.	4c	bel	2r	.
-8FJ	-gio	.	.	.	.
+8F]	.	4c	bel	2r	.
+8F	-gio	.	.	.	.
 4E	del	4.c	rag-	.	.
 4.D	so-	.	.	4r	.
 .	.	8c	-gio	.	.
@@ -307,8 +307,8 @@
 4A	bel	.	.	.	.
 [4A	rag-	.	.	.	.
 =33	=33	=33	=33	=33	=33
-8AL]	.	2r	.	1r	.
-8AJ	-gio	.	.	.	.
+8A]	.	2r	.	1r	.
+8A	-gio	.	.	.	.
 4G	del	.	.	.	.
 4.F	so-	2c	E'l	.	.
 8G	.	.	.	.	.
@@ -380,8 +380,8 @@
 4E	-tor	4r	.	4g	-tor
 4E	che	[4e	Di	4gg	che
 =44	=44	=44	=44	=44	=44
-2C	lun-	8eL]	.	2gg	lun-
-.	.	8eJ	no-	.	.
+2C	lun-	8e]	.	2gg	lun-
+.	.	8e	no-	.	.
 .	.	4e	-vel-	.	.
 2D	-ge	4d	-l'a-	2ff	-ge
 .	.	4c	-ma-	.	.
@@ -395,8 +395,8 @@
 4C	-ri,	.	.	4r	.
 4C	che	.	.	[4cc	Di
 =46	=46	=46	=46	=46	=46
-2C	lun-	2e	-ri,	8ccL]	.
-.	.	.	.	8ccJ	no-
+2C	lun-	2e	-ri,	8cc]	.
+.	.	.	.	8cc	no-
 .	.	.	.	4cc	-vel-
 2D	-ge	4r	.	4b	-l'a-
 .	.	4B	che	4a	-ma-
