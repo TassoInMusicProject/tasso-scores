@@ -30,12 +30,12 @@
 .	.	.	.	2A	Don-	2cc	.
 .	.	.	.	2d	-na,	1a	-na,
 .	.	.	.	4d	quel-	.	.
-.	.	.	.	8dL	-la	.	.
-.	.	.	.	8cJ	sa-	.	.
+.	.	.	.	8d	-la	.	.
+.	.	.	.	8c	sa-	.	.
 =2	=2	=2	=2	=2	=2	=2	=2
 0r	.	0r	.	4B	-et-	4dd	quel-
-.	.	.	.	4G	-ta	8ddL	-la
-.	.	.	.	.	.	8ccJ	sa-
+.	.	.	.	4G	-ta	8dd	-la
+.	.	.	.	.	.	8cc	sa-
 .	.	.	.	2r	.	4b	-et-
 .	.	.	.	.	.	4g	-ta
 .	.	.	.	2r	.	2r	.
@@ -43,8 +43,8 @@
 .	.	.	.	4c	-de	4cc	-de
 =3	=3	=3	=3	=3	=3	=3	=3
 0r	.	0r	.	4G	già	4b	già
-.	.	.	.	8GL	mi	8bL	mi
-.	.	.	.	8GJ	per-	8bJ	per-
+.	.	.	.	8G	mi	8b	mi
+.	.	.	.	8G	per-	8b	per-
 .	.	.	.	4d	-cos-	8aL	-cos-
 .	.	.	.	.	.	8b	.
 .	.	.	.	4A	-se il	8cc	.
@@ -139,11 +139,11 @@
 =13	=13	=13	=13	=13	=13	=13	=13
 2AA	-te;	2c#X	-te;	2A	-te;	2ee	-te;
 2r	.	4r	.	4r	.	4r	.
-.	.	8dL	Ma	8dL	Ma	8aL	Ma
-.	.	8fnXiJ	la	8dJ	la	8bJ	la
+.	.	8d	Ma	8d	Ma	8a	Ma
+.	.	8fnXi	la	8d	la	8b	la
 1r	.	4e	fiam-	4c	fiam-	4cc	fiam-
-.	.	8eL	-ma	8eL	-ma	8bL	-ma
-.	.	8gnXiJ	de	8eJ	de	8ccJ	de
+.	.	8e	-ma	8e	-ma	8b	-ma
+.	.	8gnXi	de	8e	de	8cc	de
 .	.	2f#X	l'al-	2d	l'al-	2dd	l'al-
 =14	=14	=14	=14	=14	=14	=14	=14
 4r	.	4g	-ma	4G	-ma	4dd	-ma
@@ -153,8 +153,8 @@
 4C	-sio-	4G	si-	4g	-si-	4ee	-si-
 4C	-o	4cnX	-o	4e	-o	4cc	-o
 4G	Già	4B	Già	4d	Già	4dd	Già
-8GL	non	8BL	non	8dL	non	8ddL	non
-8GJ	de-	8BJ	de-	8dJ	de-	8ddJ	de-
+8G	non	8B	non	8d	non	8dd	non
+8G	de-	8B	de-	8d	de-	8dd	de-
 =15	=15	=15	=15	=15	=15	=15	=15
 4G	-ri-	4B	-ri-	4d	-ri-	4dd	-ri-
 4C	-va	4c	-va	4g	-va	4ee	-va
@@ -189,8 +189,8 @@
 4D	-mo	4A	-mo	4d	-mo	4dd	-mo
 =19	=19	=19	=19	=19	=19	=19	=19
 1G	sì,	4B	sì.	2d	sì,	4dd	sì,
-.	.	8BL	ma	.	.	4.b	ma
-.	.	8cJ	ven-	.	.	.	.
+.	.	8B	ma	.	.	4.b	ma
+.	.	8c	ven-	.	.	.	.
 .	.	4d	-det-	4.B	ma	.	.
 .	.	.	.	.	.	8cc	ven-
 .	.	4GnX	-ta,	.	.	4dd	-det-
@@ -201,8 +201,8 @@
 8B	ven-	.	.	.	.	.	.
 4c	-det-	[4gnX	ma	[4c	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20
-4G	-ta,	8gL]	.	8cL]	-det-	4r	.
-.	.	8gJ	ven-	8BJ	.	.	.
+4G	-ta,	8g]	.	8c]L	-det-	4r	.
+.	.	8g	ven-	8BJ	.	.	.
 4r	.	4e	-det-	4c	-ta,	4.cc	ma
 4r	.	4d	-ta,	4G	ma	.	.
 .	.	.	.	.	.	8b	ven-

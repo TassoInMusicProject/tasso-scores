@@ -68,8 +68,8 @@
 2A	-re	2e	-re>	.	.
 =7	=7	=7	=7	=7	=7
 4D	De	4f#X	De	4dd	De
-8DL	la	8f#iL	la	8ddL	la
-8DJ	Far-	8f#iJ	Far-	8ddJ	Far-
+8D	la	8f#i	la	8dd	la
+8D	Far-	8f#i	Far-	8dd	Far-
 4D	-fal-	4f#i	-fal-	4dd	-fal-
 4G	-la	4g	-la	4dd	-la
 2.F	che	8aL	che	2.ff	che
@@ -82,11 +82,11 @@
 8BB-yL	-fiam-	4b-y	-fiam-	8ddL	-fiam-
 8C	.	.	.	8cc	.
 8D	.	4b-y	-ma e	8b-y	.
-8EJ	.	.	.	16aL	.
-.	.	.	.	16gJJ	.
+8EJ	.	.	.	16a	.
+.	.	.	.	16gJ	.
 8FL	.	8aL	mo-	4a	.
-8D	.	16gL	.	.	.
-.	.	16fJJ	.	.	.
+8D	.	16g	.	.	.
+.	.	16fJ	.	.	.
 8E-X	.	2g	.	4g	-ma e
 8DJ	.	.	.	.	.
 4C	.	.	.	8gL	mo-
@@ -130,8 +130,8 @@
 .	.	4d	chia-	4dd	chia-
 .	.	4c	-ro	4ee-X	-ro
 2r	.	2BnX	fo-	4.dd	fo-
-.	.	.	.	16ccLL	.
-.	.	.	.	16ddJJ	.
+.	.	.	.	16ccL	.
+.	.	.	.	16ddJ	.
 4r	.	4c	-co,	4ee-i	.
 4G	L'u-	4G	<L'u-	4dd	-co,
 =13	=13	=13	=13	=13	=13
@@ -145,16 +145,16 @@
 4c	L'u-	.	.	4ee-i	di
 =14	=14	=14	=14	=14	=14
 4B-y	-na	4g	L'u-	4dd	chia-
-4A	di	8gL	-na	4cc	-ro
-.	.	8f#XJ	di	.	.
+4A	di	8g	-na	4cc	-ro
+.	.	8f#X	di	.	.
 4G	chia-	4g	chia-	4b-y	fo-
-4F#X	-ro	8aL	-ro,	4.a	.
-.	.	8aJ	di	.	.
+4F#X	-ro	8a	-ro,	4.a	.
+.	.	8a	di	.	.
 2G	fo-	4.b-X	chia-	.	.
 .	.	.	.	8g	.
 .	.	.	.	2g	.
-.	.	16aLL	.	.	.
-.	.	16gJJ	.	.	.
+.	.	16aL	.	.	.
+.	.	16gJ	.	.	.
 2D	-co	4a	.	.	.
 .	.	4a	-ro	4f#X	.
 =15	=15	=15	=15	=15	=15
@@ -191,9 +191,9 @@
 8F	.	.	.	4cc	.
 8EJ	.	.	.	.	.
 =18	=18	=18	=18	=18	=18
-4F	.	4f]	.	8ccL	-ga,
+4F	.	4f]	.	8cc	-ga,
 .	.	.	.	8cc	è
-4G	.	8eL	.	8cc	va-
+4G	.	8eL	.	8ccL	va-
 .	.	8dJ	.	8b-yJ	.
 4A	.	4c#X	.	8aL	.
 .	.	.	.	8g	.
@@ -203,8 +203,8 @@
 2D	-ga	4f#X	-ga	4a	-ga
 .	.	[4f#i	L'al-	[4a	L'al-
 =19	=19	=19	=19	=19	=19
-0r	.	8f#L]	.	8aL]	.
-.	.	8f#iJ	-tra,	8aJ	-tra,
+0r	.	8f#]	.	8a]	.
+.	.	8f#i	-tra,	8a	-tra,
 .	.	4f#i	che	4a	che
 .	.	4g	vi-	4b-y	vi-
 .	.	4a	-ve	4cc	-ve
@@ -235,8 +235,8 @@
 2r	.	2c	lo-	4.g	lo-
 .	.	.	.	8a	.
 4r	.	2B-y	-co	4b-y	.
-4d	O	.	.	8b-yL	-co,
-.	.	.	.	8b-yJ	O
+4d	O	.	.	8b-y	-co,
+.	.	.	.	8b-y	O
 =23	=23	=23	=23	=23	=23
 4.d	for-	1r	.	4.a	for-
 8c	-tu-	.	.	8a	-tu-
@@ -256,8 +256,8 @@
 =25	=25	=25	=25	=25	=25
 4D	men-	4f	men-	2r	.
 4E	-to e il	4e	-to e il	.	.
-4F	ca-	8dL	ca-	4r	.
-.	.	8cJ	-sto	.	.
+4F	ca-	8d	ca-	4r	.
+.	.	8c	-sto	.	.
 4F	-sto	2f	pet-	4cc	<Tra'l
 2D	pet-	.	.	4dd	men-
 .	.	8eL	.	4ff	-to e il
@@ -318,8 +318,8 @@
 [1D	.	8aL	-let-	8ffL	-let-
 .	.	8g	.	8ee	.
 .	.	8f	.	8dd	.
-.	.	8enXiJ	.	16ccL	.
-.	.	.	.	16b-yJJ	.
+.	.	8enXiJ	.	16cc	.
+.	.	.	.	16b-yJ	.
 .	.	4.f	.	4.a	.
 .	.	8e	.	8g	.
 =32	=32	=32	=32	=32	=32

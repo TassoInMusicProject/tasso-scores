@@ -87,9 +87,9 @@
 4C	mor-	.	.	.	.	[4cc	.	4ee	mor-
 .	.	8c	mor-	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-2G	-ta-	2d	-ta-	2G]	.	8ccL]	.	2dd	-ta-
-.	.	.	.	.	.	16bL	.	.	.
-.	.	.	.	.	.	16aJJ	.	.	.
+2G	-ta-	2d	-ta-	2G]	.	8cc]L	.	2dd	-ta-
+.	.	.	.	.	.	16b	.	.	.
+.	.	.	.	.	.	16aJ	.	.	.
 .	.	.	.	.	.	4b	.	.	.
 2C	-li	2c	-li	2G	-li	4cc	-li	2ee	-li
 .	.	.	.	.	.	2cc	Av-	.	.
@@ -129,16 +129,16 @@
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 2G	-li,	2r	.	2g	-li,	4b	cor	4.dd	stra-
 .	.	.	.	.	.	4g	fiam-	.	.
-.	.	.	.	.	.	.	.	8b	.
-4r	.	4r	.	4r	.	4a	-mel-	8ccL	.
+.	.	.	.	.	.	.	.	8bL	.
+4r	.	4r	.	4r	.	4a	-mel-	8cc	.
 .	.	.	.	.	.	.	.	8ddJ	.
 4E	fiam-	4e	fiam-	4g	fiam-	4bnX	-le e	4.ee	.
 4F	-mel-	4c	-mel-	4fnXi	-mel-	1a	stra-	.	.
 .	.	.	.	.	.	.	.	8dd	.
 4D	-le e	4d	-le e	4f	-le e	.	.	4.dd	.
 2A	stra-	2e	stra-	2e	stra-	.	.	.	.
-.	.	.	.	.	.	.	.	16cc#XLL	.
-.	.	.	.	.	.	.	.	16bJJ	.
+.	.	.	.	.	.	.	.	16cc#XL	.
+.	.	.	.	.	.	.	.	16bJ	.
 .	.	.	.	.	.	.	.	4cc#X	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 0Dl	-li?	0dl	-li?	0f#Xl	-li?	0al	-li?	0ddl	-li?
@@ -199,8 +199,8 @@
 2c	-stret-	[1g	-ta	2e	-stret-	4cc	ri-	4ee	man
 .	.	.	.	.	.	4.cc	-stret-	4cc	ri-
 2G	-ta	.	.	2d	-ta	.	.	2dd	-stret-
-.	.	.	.	.	.	16bLL	.	.	.
-.	.	.	.	.	.	16aJJ	.	.	.
+.	.	.	.	.	.	16bL	.	.	.
+.	.	.	.	.	.	16aJ	.	.	.
 .	.	.	.	.	.	4b	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 2C	Né	1g]	.	4r	.	2cc	-ta	1ee	-ta
@@ -320,8 +320,8 @@
 4G	di-	.	.	.	.	4b	me	.	.
 4.A	-fen-	2c	-da.	.	.	4cc	la	4ee	-da,
 .	.	.	.	4a	me	4a	di-	4ff	di-
-16GLL	.	.	.	.	.	.	.	.	.
-16FJJ	.	.	.	.	.	.	.	.	.
+16GL	.	.	.	.	.	.	.	.	.
+16FJ	.	.	.	.	.	.	.	.	.
 2G	.	1r	.	4g	la	2b	-fen-	2dd	-fen-
 .	.	.	.	4g	di-	.	.	.	.
 2C	-da.	.	.	4g	-fen-	2cc	-da.	2ee	-da.
@@ -391,8 +391,8 @@
 .	.	4.g	ren-	.	.	.	.	.	.
 .	.	.	.	8c	.	.	.	.	.
 2D	bac-	.	.	2d	.	2a	-da,	.	.
-.	.	16f#XLL	.	.	.	.	.	.	.
-.	.	16eJJ	.	.	.	.	.	.	.
+.	.	16f#XL	.	.	.	.	.	.	.
+.	.	16eJ	.	.	.	.	.	.	.
 .	.	4f#X	.	.	.	.	.	.	.
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44
 2E	-ci	2g	-da,	0G	-da,	2g	bac-	2b	-da,
@@ -456,8 +456,8 @@
 .	.	.	.	4.g	ren-	.	.	.	.
 .	.	8c	.	.	.	.	.	.	.
 2D	bac-	2d	.	.	.	2a	-da,	.	.
-.	.	.	.	16f#XLL	.	.	.	.	.
-.	.	.	.	16eJJ	.	.	.	.	.
+.	.	.	.	16f#XL	.	.	.	.	.
+.	.	.	.	16eJ	.	.	.	.	.
 .	.	.	.	4f#X	.	.	.	.	.
 2E	-ci	1G	-da,	2g	-da,	2g	bac-	2b	-da,
 2C	le	.	.	2e	bac-	4cc	-ci	2gg	bac-

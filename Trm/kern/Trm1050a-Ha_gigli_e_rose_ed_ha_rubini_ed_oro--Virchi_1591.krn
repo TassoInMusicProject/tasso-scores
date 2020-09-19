@@ -43,22 +43,22 @@
 .	.	.	.	4d	E	.	.	.	.
 .	.	.	.	4enXi	due	.	.	.	.
 .	.	2r	.	4f	stel-	1r	.	2r	.
-.	.	.	.	8fL	-le	.	.	.	.
-.	.	.	.	8fJ	se-	.	.	.	.
+.	.	.	.	8f	-le	.	.	.	.
+.	.	.	.	8f	se-	.	.	.	.
 2r	.	4G	E	2g	-re-	.	.	4b-y	E
 .	.	4A	due	.	.	.	.	4cc	due
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 1r	.	4B-y	stel-	2f	-ne e	2r	.	4dd	stel-
-.	.	8B-yL	-le	.	.	.	.	8ddL	-le
-.	.	8B-yJ	se-	.	.	.	.	8ddJ	se-
+.	.	8B-y	-le	.	.	.	.	8dd	-le
+.	.	8B-y	se-	.	.	.	.	8dd	se-
 .	.	2c	-re-	4e-X	mil-	4g	E	2ee-X	-re-
 .	.	.	.	4e-i	-le	4a	due	.	.
 4BB-y	E	2B-y	-ne e	2f	ra-	4b-y	stel-	2dd	-ne e
-4C	due	.	.	.	.	8aL	-le	.	.
-.	.	.	.	.	.	8gJ	se-	.	.
+4C	due	.	.	.	.	8a	-le	.	.
+.	.	.	.	.	.	8g	se-	.	.
 4D	stel-	4B-y	mil-	2f	-gi,	2f	-re-	[2dd	mil-
-8DL	-le	4A	-le	.	.	.	.	.	.
-8DJ	se-	.	.	.	.	.	.	.	.
+8D	-le	4A	-le	.	.	.	.	.	.
+8D	se-	.	.	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 2E-X	-re-	2G	rag-	1r	.	4g	-ne e	4dd]	.
 .	.	.	.	.	.	2g	mil-	4cc	-le
@@ -68,8 +68,8 @@
 .	.	.	.	.	.	8dJ	.	.	.
 4GG	-le	.	.	4d	due	2g	.	4b-y	e
 2D	rag-	.	.	4d	stel-	.	.	4a	mil-
-.	.	.	.	8dL	-le	4f#X	.	4a	-le
-.	.	.	.	8dJ	se-	.	.	.	.
+.	.	.	.	8d	-le	4f#X	.	4a	-le
+.	.	.	.	8d	se-	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 1GG	-gi	4r	.	4d	-re-	2g	-gi,	8gL	rag-
 .	.	.	.	.	.	.	.	8a	.
@@ -159,18 +159,18 @@
 .	.	.	.	.	.	4g	-ti	.	.
 .	.	.	.	.	.	.	.	8b-y	-ti
 4D	Lu-	4A	Lu-	2r	.	4g	Mag-	2a	Mag-
-8DL	-ci-	8AL	-ci-	.	.	4f#X	.	.	.
-8DJ	-de	8AJ	-de	.	.	.	.	.	.
+8D	-ci-	8A	-ci-	.	.	4f#X	.	.	.
+8D	-de	8A	-de	.	.	.	.	.	.
 4.G	fiam-	4.B-y	fiam-	4d	Lu-	2g	-gi	2g	-gi
-.	.	.	.	8dL	-ci-	.	.	.	.
-8F	-me	8A	-me	8dJ	-de	.	.	.	.
+.	.	.	.	8d	-ci-	.	.	.	.
+8F	-me	8A	-me	8d	-de	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 4.E-X	son	4G	son	4.g	fiam-	2r	.	4b-y	Lu-
-.	.	2e-i	di	.	.	.	.	8b-yL	-ci-
-8D	.	.	.	8f	-me	.	.	8b-yJ	-de
+.	.	2e-i	di	.	.	.	.	8b-y	-ci-
+8D	.	.	.	8f	-me	.	.	8b-y	-de
 4.C	.	.	.	2e-X	son	4g	Lu-	4.ee-X	fiam-
-.	.	2c	pa-	.	.	8gL	-ci-	.	.
-8BB-y	.	.	.	.	.	8gJ	-de	8dd	-me
+.	.	2c	pa-	.	.	8g	-ci-	.	.
+8BB-y	.	.	.	.	.	8g	-de	8dd	-me
 4AA	.	.	.	2f	di	4.cc	fiam-	4cc	son
 4BB-y	di	4d	-ra-	.	.	.	.	4f	di
 .	.	.	.	.	.	8b-y	-me	.	.
@@ -266,8 +266,8 @@
 8GGL	pal-	4.G	-ro-	2.d	-ro-	2.b-y	pal-	2.g	pal-
 8AA	.	.	.	.	.	.	.	.	.
 8BB-y	.	.	.	.	.	.	.	.	.
-8CJ	.	16FLL	.	.	.	.	.	.	.
-.	.	16EJJ	.	.	.	.	.	.	.
+8CJ	.	16FL	.	.	.	.	.	.	.
+.	.	16EJ	.	.	.	.	.	.	.
 1D	.	4D	.	.	.	.	.	.	.
 .	.	4D	-na e	4d	-na e	8aL	.	8f#iL	.
 .	.	.	.	.	.	8gJ	.	8eJ	.
@@ -329,8 +329,8 @@
 1AA	-ma,	4r	.	4f	.	1a	.	.	.
 .	.	4A	co-	8eL	.	.	.	8cc#XL	.
 .	.	.	.	8dJ	.	.	.	8bnXiJ	.
-.	.	8AL	-ro-	2e	.	.	.	2cc#X	.
-.	.	8EJ	-na e	.	.	.	.	.	.
+.	.	8A	-ro-	2e	.	.	.	2cc#X	.
+.	.	8E	-na e	.	.	.	.	.	.
 .	.	4A	pal-	.	.	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 2r	.	1D	-ma,	1f#X	-ma,	2a	-ma,	2dd	-ma,>

@@ -79,8 +79,8 @@
 1G	.	1G	.	8BL	l'i-	8dL	l'i-	8gL	l'i-
 .	.	.	.	8A	.	8c	.	8f	.
 .	.	.	.	8B	.	8d	.	8g	.
-.	.	.	.	8cJ	.	16eK	.	8aJ	.
-.	.	.	.	.	.	16fJk	.	.	.
+.	.	.	.	8cJ	.	16e	.	8aJ	.
+.	.	.	.	.	.	16fJ	.	.	.
 .	.	.	.	8dL	.	8gL	.	8bL	.
 .	.	.	.	8c	.	8f	.	8a	.
 .	.	.	.	8d	.	8g	.	8b	.
@@ -105,8 +105,8 @@
 4G]	.	4G]	.	4B]	.	2d	-na	4dd]	.
 4F	.	4F	-na	4A	-na	.	.	4a	-na
 4E	.	4E	bel-	4B	bel-	4e	bel-	4g#X	bel-
-8EL	.	8EL	-la e	8BL	-la e	8eL	-la e	8g#XL	-la e
-8AJ	.	8AJ	gen-	8cJ	gen-	8f#XJ	gen-	8aJ	gen-
+8EL	.	8E	-la e	8B	-la e	8e	-la e	8g#X	-la e
+8AJ	.	8A	gen-	8c	gen-	8f#X	gen-	8a	gen-
 1G	.	1G	-til,	2d	-til,	1g	-til,	2b	-til,
 .	.	.	.	2B	che	.	.	2dd	che
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
@@ -132,8 +132,8 @@
 4c]	.	4c]	.	4c	Don-	4g]	.	4ee]	.
 4F	6	4F	-na	4A	-na	4d	-na	4a	-na
 4E	.	4E	bel-	4B	bel-	4e	bel-	4g#X	bel-
-4A	.	8EL	-la e	8BL	-la e	8eL	-la e	8g#XL	-la e
-.	.	8AJ	gen-	8cJ	gen-	8f#XJ	gen-	8aJ	gen-
+4A	.	8E	-la e	8B	-la e	8e	-la e	8g#X	-la e
+.	.	8A	gen-	8c	gen-	8f#X	gen-	8a	gen-
 1G	.	1G	-til,	2d	-til,	1g	-til,	2b	-til,
 .	.	.	.	2B	che	.	.	2dd	che
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15
@@ -150,8 +150,8 @@
 4E	.	4E	pur	4B	pur	4e	pur	4g#X	pur
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 4A	.	4A	pren-	4c	pren-	4e	pren-	4a	pren-
-8GL	.	8GL	-do	8dL	-do	8gL	-do	8bL	-do
-8EJ	.	8EJ	spe-	8eJ	spe-	8gJ	spe-	8ccJ	spe-
+8GL	.	8G	-do	8d	-do	8g	-do	8b	-do
+8EJ	.	8E	spe-	8e	spe-	8g	spe-	8cc	spe-
 1F	.	1F	-ran-	1c	-ran-	1f	-ran-	1a	-ran-
 2F	.	2F	-za	2c	-za	2f	-za	2a	-za
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18
@@ -176,12 +176,12 @@
 2D	#	1D	-ghi,	2A	-ghi,	2d	-ghi,	4f#X	-ghi,
 .	.	.	.	.	.	.	.	2a	Ché
 [2d	#	.	.	4r	.	[2f#X	Ché	.	.
-.	.	.	.	[4d	Ché	.	.	8aL	nel
-.	.	.	.	.	.	.	.	8aJ	si-
+.	.	.	.	[4d	Ché	.	.	8a	nel
+.	.	.	.	.	.	.	.	8a	si-
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 4d]	.	0r	.	4d]	.	4f#]	.	4a	-len-
-8dL	.	.	.	8dL	nel	8f#XL	nel	4a	-tio an-
-8dJ	.	.	.	8dJ	si-	8f#XJ	si-	.	.
+8dL	.	.	.	8d	nel	8f#X	nel	4a	-tio an-
+8dJ	.	.	.	8d	si-	8f#X	si-	.	.
 2d	6	.	.	4d	-len-	4f#X	-len-	2b	-cor
 .	.	.	.	4d	-tio an-	4f#X	-tio an-	.	.
 2e	.	.	.	2e	-cor	2g	-cor	4r	.
@@ -189,37 +189,37 @@
 4r	.	.	.	4r	.	4r	.	4g	vo-
 4c	.	.	.	4c	son	4e	son	4g	-ci e
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
-4c	.	1r	.	4c	vo-	8eL	vo-	1a	prie-
-.	.	.	.	.	.	8fJ	-ci e	.	.
+4c	.	1r	.	4c	vo-	8e	vo-	1a	prie-
+.	.	.	.	.	.	8f	-ci e	.	.
 4c#X	.	.	.	4c#X	-ci e	2g	prie-	.	.
 2d	4	.	.	2d	prie-	.	.	.	.
 .	#3	.	.	.	.	4f#X	.	.	.
 2G	.	2r	.	2G	-ghi,	4g	-ghi,	1g	-ghi,
 .	.	.	.	.	.	2d	Ché	.	.
 [2G	.	[2G	Ché	[2B	Ché	.	.	.	.
-.	.	.	.	.	.	8dL	nel	.	.
-.	.	.	.	.	.	8dJ	si-	.	.
+.	.	.	.	.	.	8d	nel	.	.
+.	.	.	.	.	.	8d	si-	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 4G]	.	4G]	.	4B]	.	4d	-len-	2r	.
-4G	.	8GL	nel	8BL	nel	4d	-tio an-	.	.
-.	.	8GJ	si-	8BJ	si-	.	.	.	.
+4G	.	8G	nel	8B	nel	4d	-tio an-	.	.
+.	.	8G	si-	8B	si-	.	.	.	.
 2G	6	4G	-len-	4B	-len-	2e	-cor	4r	.
 .	.	4G	-tio an-	4B	-tio an-	.	.	2e	Ché
 2A	.	2A	-cor	2c	-cor	4r	.	.	.
-.	.	.	.	.	.	4c	son	8eL	nel
-.	.	.	.	.	.	.	.	8eJ	si-
+.	.	.	.	.	.	4c	son	8e	nel
+.	.	.	.	.	.	.	.	8e	si-
 4r	.	4r	.	4r	.	4c	vo-	4e	-len-
 4F	.	4F	son	4A	son	4c	-ci e	4f	-tio an-
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-4F	6	4F	vo-	8AL	vo-	1d	prie-	2a	-cor
-.	.	.	.	8BJ	-ci e	.	.	.	.
+4F	6	4F	vo-	8A	vo-	1d	prie-	2a	-cor
+.	.	.	.	8B	-ci e	.	.	.	.
 4F#X	.	4F#X	-ci e	2c	prie-	.	.	.	.
 2G	4	2G	prie-	.	.	.	.	4r	.
 .	3	.	.	4B	.	.	.	4g	son
 2C	.	4C	-ghi,	2.c	-ghi,	4e	-ghi,	4g	vo-
 .	.	4C	son	.	.	4e	son	4g	-ci e
-4C	.	4C	vo-	.	.	8eL	vo-	[2a	prie-
-.	.	.	.	.	.	8fJ	-ci e	.	.
+4C	.	4C	vo-	.	.	8e	vo-	[2a	prie-
+.	.	.	.	.	.	8f	-ci e	.	.
 4C#X	.	4C#X	-ci e	4e	e	[4g	prie-	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 2D	4	2D	prie-	2d	prie-	4g]	.	2a]	.
@@ -227,17 +227,17 @@
 2GG	.	2GG	-ghi,	4d	-ghi,	2g	-ghi,	2g	-ghi,
 .	.	.	.	2B	Ché	.	.	.	.
 4r	.	4r	.	.	.	1r	.	4r	.
-2E	.	2E	Ché	8BL	nel	.	.	2g	Ché
-.	.	.	.	8BJ	si-	.	.	.	.
+2E	.	2E	Ché	8B	nel	.	.	2g	Ché
+.	.	.	.	8B	si-	.	.	.	.
 .	.	.	.	4B	-len-	.	.	.	.
-8EL	.	8EL	nel	4B	-tio an-	.	.	8gL	nel
-8EJ	.	8EJ	si-	.	.	.	.	8gJ	si-
+8EL	.	8E	nel	4B	-tio an-	.	.	8g	nel
+8EJ	.	8E	si-	.	.	.	.	8g	si-
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 2E	6	2E	-len-	1c	-cor	2r	.	2g	-len-
 2E	.	2E	-tio an-	.	.	2.c	Ché	2g	-tio an-
 [1F	.	[1F	-cor	2r	.	.	.	1a	-cor
-.	.	.	.	.	.	8cL	nel	.	.
-.	.	.	.	.	.	8cJ	si-	.	.
+.	.	.	.	.	.	8c	nel	.	.
+.	.	.	.	.	.	8c	si-	.	.
 .	.	.	.	2A	son	4c	-len-	.	.
 .	.	.	.	.	.	4c	-tio an-	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27

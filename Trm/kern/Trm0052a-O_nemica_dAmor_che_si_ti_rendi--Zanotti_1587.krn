@@ -30,32 +30,32 @@
 1r	.	2.e	O	1r	.	1r	.	1r	.
 .	.	4d	ne-	.	.	.	.	.	.
 2r	.	4c	-mi-	2.e	O	2r	.	2.cc	O
-.	.	8BL	-ca	.	.	.	.	.	.
-.	.	8AJ	d'a-	.	.	.	.	.	.
+.	.	8B	-ca	.	.	.	.	.	.
+.	.	8A	d'a-	.	.	.	.	.	.
 [2C	O	2G	-mor,	.	.	[2e	O	.	.
 .	.	.	.	4d	ne-	.	.	4b	ne-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 4C]	.	0r	.	4c	-mi-	4e]	.	4a	-mi-
-4D	ne-	.	.	8BL	-ca	4f	ne-	8gL	-ca
-.	.	.	.	8AJ	d'a-	.	.	8fJ	d'a-
+4D	ne-	.	.	8B	-ca	4f	ne-	8g	-ca
+.	.	.	.	8A	d'a-	.	.	8f	d'a-
 4E	-mi-	.	.	2G	-mor,	4g	-mi-	1e	-mor,
-8FL	-ca	.	.	.	.	8aL	-ca	.	.
-8GJ	d'a-	.	.	.	.	8bJ	d'a-	.	.
+8F	-ca	.	.	.	.	8a	-ca	.	.
+8G	d'a-	.	.	.	.	8b	d'a-	.	.
 1A	-mor,	.	.	1r	.	2cc	-mor,	.	.
 .	.	.	.	.	.	[2ee	<O	4c	<O
 .	.	.	.	.	.	.	.	4d	ne-
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 2r	.	2r	.	1r	.	4ee]	.	4e	-mi-
-.	.	.	.	.	.	4dd	ne-	8fL	-ca
-.	.	.	.	.	.	.	.	8gJ	d'a-
+.	.	.	.	.	.	4dd	ne-	8f	-ca
+.	.	.	.	.	.	.	.	8g	d'a-
 2.c	<O	2.e	<O	.	.	4cc	-mi-	2a	-mor,>
-.	.	.	.	.	.	8bL	-ca	.	.
-.	.	.	.	.	.	8aJ	d'a-	.	.
+.	.	.	.	.	.	8b	-ca	.	.
+.	.	.	.	.	.	8a	d'a-	.	.
 .	.	.	.	4e	<O	2g	-mor,>	1r	.
 4B	ne-	4d	ne-	4g	ne-	.	.	.	.
 4A	-mi-	4c	-mi-	4f	-mi-	2r	.	.	.
-8GL	-ca-	8BL	-ca	8eL	-ca	.	.	.	.
-8FJ	-d'a-	8AJ	d'a-	8dJ	d'a-	.	.	.	.
+8G	-ca-	8B	-ca	8e	-ca	.	.	.	.
+8F	-d'a-	8A	d'a-	8d	d'a-	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 4E	-mor,	4G#X	-mor,>	4e	-mor,>	4r	.	0r	.
 4E	che	4B	che	4e	che	4g#X	che	.	.
@@ -65,8 +65,8 @@
 4F	-di	4A	-di	4c	-di	4cc	-di	.	.
 [4F	schi-	[4cnXi	schi-	[4f	schi-	[4a	schi-	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-8FL]	.	8cL]	.	8fL]	.	8aL]	.	0r	.
-8FJ	-va	8cJ	-va	8fJ	-va	8aJ	-va	.	.
+8F]	.	8c]	.	8f]	.	8a]	.	0r	.
+8F	-va	8c	-va	8f	-va	8a	-va	.	.
 4D	Di	4d	Di	4f	Di	4a	Di	.	.
 4E	quel	4c	quel	4e	quel	4a	quel	.	.
 4E	ch'al-	4B	ch'al-	4e	ch'al-	4g#X	ch'al-	.	.
@@ -112,11 +112,11 @@
 8E	-bi ed	8G	-bi ed	.	.	.	.	.	.
 4D	of-	4d	of-	[4B	tur-	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-2F	-fen-	4.c	-fen-	8BL]	.	1r	.	2r	.
-.	.	.	.	8BJ	-bi ed	.	.	.	.
+2F	-fen-	4.c	-fen-	8B]	.	1r	.	2r	.
+.	.	.	.	8B	-bi ed	.	.	.	.
 .	.	.	.	4A	of-	.	.	.	.
-.	.	16BLL	.	.	.	.	.	.	.
-.	.	16AJJ	.	.	.	.	.	.	.
+.	.	16BL	.	.	.	.	.	.	.
+.	.	16AJ	.	.	.	.	.	.	.
 2E	-di,	2B	.	2G#X	-fen-	.	.	4r	.
 .	.	.	.	.	.	.	.	4b	Di-
 1r	.	2A	-di,	4A	-di,	4r	.	2cc	-sper-
@@ -133,11 +133,11 @@
 .	.	.	.	.	.	.	.	8g	-bi ed
 .	.	.	.	[4A	tur-	[4cc	tur-	4f	of-
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-1r	.	1r	.	8AL]	.	8ccL]	.	4.e	-fen-
-.	.	.	.	8AJ	-bi ed	8ccJ	-bi ed	.	.
+1r	.	1r	.	8A]	.	8cc]	.	4.e	-fen-
+.	.	.	.	8A	-bi ed	8cc	-bi ed	.	.
 .	.	.	.	4G	of-	4b	of-	.	.
-.	.	.	.	.	.	.	.	16dLL	.
-.	.	.	.	.	.	.	.	16cJJ	.
+.	.	.	.	.	.	.	.	16dL	.
+.	.	.	.	.	.	.	.	16cJ	.
 .	.	.	.	2B	-fen-	2g	-fen-	2d	.
 2r	.	2r	.	2A	-di,	2a	-di,	2e	-di,
 2AA	Se	2A	Se	4r	.	4r	.	4r	.

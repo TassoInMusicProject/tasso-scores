@@ -112,8 +112,8 @@
 2r	.	1r	.	2c	-stra-	4e	sol	4cc	-me
 .	.	.	.	.	.	4e	mo-	4cc	do-
 2G	al	.	.	2d	-te,	4.g	-stra-	[2b-y	-ra-
-.	.	.	.	.	.	16fLL	.	.	.
-.	.	.	.	.	.	16eJJ	.	.	.
+.	.	.	.	.	.	16fL	.	.	.
+.	.	.	.	.	.	16eJ	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 4B-y	sol	2G	al	2r	.	4d	.	2b-]	.
 4B-y	mo-	.	.	.	.	4e	.	.	.
@@ -125,11 +125,11 @@
 4r	.	2G	-te,	4B-y	-me	4d	-te,	2g	al
 [4G	Voi	.	.	4B-y	do-	[4d	Voi	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-8GL]	.	0r	.	4.d	-ra-	8dL]	.	4b-y	sol
-8GJ	le	.	.	.	.	8dJ	le	.	.
+8G]	.	0r	.	4.d	-ra-	8d]	.	4b-y	sol
+8G	le	.	.	.	.	8d	le	.	.
 4G	chio-	.	.	.	.	4d	chio-	4b-y	mo-
-.	.	.	.	16cLL	.	.	.	.	.
-.	.	.	.	16B-yJJ	.	.	.	.	.
+.	.	.	.	16cL	.	.	.	.	.
+.	.	.	.	16B-yJ	.	.	.	.	.
 4F	-me	.	.	2A	.	4f	-me	2cc	-stra-
 4F	do-	.	.	.	.	4f	do-	.	.
 2B-y	-ra-	.	.	4G	-te	2d	-ra-	2b-y	-te,
@@ -148,8 +148,8 @@
 2G	-rez-	4r	.	2B-y	-te,	4d	sol	4g	al-
 .	.	[4d	Voi	.	.	4d	mo-	4g	-te-
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-2D	-za al	8dL]	.	1r	.	1f	-stra-	2.f	-rez-
-.	.	8dJ	le	.	.	.	.	.	.
+2D	-za al	8d]	.	1r	.	1f	-stra-	2.f	-rez-
+.	.	8d	le	.	.	.	.	.	.
 .	.	4d	chio-	.	.	.	.	.	.
 4F	sol	4c	-me	.	.	.	.	.	.
 4F	mo-	4A	do-	.	.	.	.	4c	-za al
@@ -250,8 +250,8 @@
 2F	col	2A	col	4r	.	2f	col	.	.
 .	.	.	.	[4c	L'al-	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
-1F	vel	4A	vel	8cL]	.	4f	vel	4r	.
-.	.	.	.	8cJ	-ba	.	.	.	.
+1F	vel	4A	vel	8c]	.	4f	vel	4r	.
+.	.	.	.	8c	-ba	.	.	.	.
 .	.	4A	ve-	4c	col	4f	ve-	4.c	L'al-
 .	.	2A	-de-	4.f	vel	2f	-de-	.	.
 .	.	.	.	.	.	.	.	8c	-ba
@@ -259,13 +259,13 @@
 .	.	.	.	8e	.	.	.	.	.
 1G	ve-	2G	-te,	4.d	.	4B-y	-te,	4g	vel
 .	.	.	.	.	.	4.d	L'al-	4g	ve-
-.	.	.	.	8c	.	.	.	.	.
-.	.	4r	.	8B-yL	.	.	.	2d	-de-
+.	.	.	.	8cL	.	.	.	.	.
+.	.	4r	.	8B-y	.	.	.	2d	-de-
 .	.	.	.	8AJ	.	8d	-ba	.	.
 .	.	[4d	L'al-	[4G	.	4B-y	col	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-1D	-de-	8dL]	.	4G]	.	2A	vel	4a	-te,
-.	.	8dJ	-ba	.	.	.	.	.	.
+1D	-de-	8d]	.	4G]	.	2A	vel	4a	-te,
+.	.	8d	-ba	.	.	.	.	.	.
 .	.	4A	col	4F#X	ve-	.	.	4d	col
 .	.	4G	vel	2G	-de-	2d	ve-	4g	vel
 .	.	4G	ve-	.	.	.	.	2g	ve-
@@ -321,8 +321,8 @@
 .	.	.	.	.	.	.	.	8eJ	.
 2D	co-	4.A	-lo-	4r	.	4r	.	4f	.
 .	.	.	.	4d	<E	4f	E	4d	-ri il
-.	.	16GLL	.	.	.	.	.	.	.
-.	.	16FJJ	.	.	.	.	.	.	.
+.	.	16GL	.	.	.	.	.	.	.
+.	.	16FJ	.	.	.	.	.	.	.
 1C	-lo-	1c	.	8GL	l'i-	8eL	l'i-	[1g	suo
 .	.	.	.	8F	.	8d	.	.	.
 .	.	.	.	8G	.	8e	.	.	.

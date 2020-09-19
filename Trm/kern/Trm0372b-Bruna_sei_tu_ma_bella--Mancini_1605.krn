@@ -75,23 +75,23 @@
 2G	-do-	2g	-do-	2b-y	-do-	0r	.	2dd	-do-
 2G	-re	2g	-re>	2b-y	-re>	.	.	2dd	-re>
 4d	Per-	4f#X	Per-	4a	Per-	.	.	1r	.
-8dL	-de	8f#iL	-de	8aL	-de	.	.	.	.
-8dJ	co'l	8f#iJ	co'l	8aJ	co'l	.	.	.	.
+8d	-de	8f#i	-de	8a	-de	.	.	.	.
+8d	co'l	8f#i	co'l	8a	co'l	.	.	.	.
 4d	bru-	4f#i	bru-	4a	bru-	.	.	.	.
 4e	-no	4g	-no	4g	-no	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 2d	tuo,	2a	tuo,	2f#X	tuo,	2r	.	2r	.
 4r	.	4.g	giu-	4r	.	4dd	Per-	4bnX	Per-
-4.G	giu-	.	.	4.g	giu-	8ddL	-de	8bniL	-de
-.	.	8g	-di-	.	.	8ddJ	co'l	8bniJ	co'l
+4.G	giu-	.	.	4.g	giu-	8dd	-de	8bni	-de
+.	.	8g	-di-	.	.	8dd	co'l	8bni	co'l
 .	.	4d	-ce a-	.	.	4dd	bru-	4bni	bru-
 8G	-di-	.	.	8g	-di-	.	.	.	.
 4D	-ce a-	4c	-mo-	4g	-ce a-	4ee-X	-no	4cc	-no
 2G	-mo-	2d	-re,	2g	-mo-	2dd	tuo,	2bnX	tuo,
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 2G	-re,	4r	.	2g	-re,	4r	.	4dd	<Per-
-.	.	4.g	giu-	.	.	4.bnX	giu-	8ddL	-de
-.	.	.	.	.	.	.	.	8ddJ	co'l
+.	.	4.g	giu-	.	.	4.bnX	giu-	8dd	-de
+.	.	.	.	.	.	.	.	8dd	co'l
 2r	.	.	.	2r	.	.	.	4dd	bru-
 .	.	8g	-di-	.	.	8bni	-di-	.	.
 .	.	4c	-ce a-	.	.	4cc	-ce a-	4ee	-no
@@ -101,8 +101,8 @@
 .	.	.	.	8G	-di-	.	.	.	.
 [4G	<giu-	.	.	4g	-ce a-	[4dd	<giu-	[4bnX	giu-
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-8GL]	.	0r	.	1g	-mo-	8ddL]	.	8bL]	.
-8GJ	-di-	.	.	.	.	8ddJ	-di-	8bnXiJ	-di-
+8G]	.	0r	.	1g	-mo-	8dd]	.	8b]	.
+8G	-di-	.	.	.	.	8dd	-di-	8bnXi	-di-
 4D	-ce a-	.	.	.	.	4ee-X	-ce a-	4cc	-ce a-
 2G	-mo-	.	.	.	.	2dd	-mo-	2bnX	-mo-
 2G	-re.>	.	.	1g	-re.	2dd	-re.	2bni	-re.
@@ -146,25 +146,25 @@
 2F	bru-	.	.	2a	bru-	2ff	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 2BB-y	-na,	4d	Pur	2b-y	-na,	1ff	-na,	2r	.
-.	.	8dL	se	.	.	.	.	.	.
-.	.	8dJ	ne	.	.	.	.	.	.
+.	.	8d	se	.	.	.	.	.	.
+.	.	8d	ne	.	.	.	.	.	.
 2r	.	4B-y	ca-	4b-y	Pur	.	.	4dd	Pur
-.	.	4B-y	-de in-	8b-yL	se	.	.	8ddL	se
-.	.	.	.	8b-yJ	ne	.	.	8ddJ	ne
+.	.	4B-y	-de in-	8b-y	se	.	.	8dd	se
+.	.	.	.	8b-y	ne	.	.	8dd	ne
 1r	.	1e-i	-col-	4g	ca-	1r	.	4b-y	ca-
 .	.	.	.	4g	-de in-	.	.	4b-y	-de in-
 .	.	.	.	2g	-col-	.	.	2cc	-col-
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 1r	.	1d	-to	2a	-to,	1r	.	1.dd	-to
 .	.	.	.	4a	<Pur	.	.	.	.
-.	.	.	.	8aL	se	.	.	.	.
-.	.	.	.	8aJ	ne	.	.	.	.
+.	.	.	.	8a	se	.	.	.	.
+.	.	.	.	8a	ne	.	.	.	.
 4d	Pur	1r	.	4f	ca-	2r	.	.	.
-8dL	se	.	.	4f	-de in-	.	.	.	.
-8dJ	ne	.	.	.	.	.	.	.	.
+8d	se	.	.	4f	-de in-	.	.	.	.
+8d	ne	.	.	.	.	.	.	.	.
 4B-y	ca-	.	.	4.b-y	-col-	4dd	Pur	2r	.
-4B-y	-de in-	.	.	.	.	8ddL	se	.	.
-.	.	.	.	8a	.	8ddJ	ne	.	.
+4B-y	-de in-	.	.	.	.	8dd	se	.	.
+.	.	.	.	8a	.	8dd	ne	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 1e-i	-col-	2r	.	1g	.	4b-y	ca-	0r	.
 .	.	.	.	.	.	4b-y	-de in-	.	.

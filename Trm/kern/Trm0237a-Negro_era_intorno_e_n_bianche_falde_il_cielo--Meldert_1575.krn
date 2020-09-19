@@ -152,8 +152,8 @@
 .	.	2d	mal	.	.	.	.	2ff	stil-
 .	.	.	.	.	.	8bL	.	.	.
 .	.	.	.	.	.	8b	.	.	.
-.	.	.	.	.	.	16aL	.	.	.
-.	.	.	.	.	.	16bJJ	.	.	.
+.	.	.	.	.	.	16a	.	.	.
+.	.	.	.	.	.	16bJ	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 2r	.	2a	ce-	2r	.	2cc	.	4ee	-le
 .	.	.	.	.	.	.	.	4ff	di
@@ -191,8 +191,8 @@
 .	.	.	.	.	.	.	.	8cc	-le
 .	.	.	.	[4e	per-	.	.	4cc	su
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-1r	.	1G	-lo	8eL]	.	0r	.	1b	l'o-
-.	.	.	.	8eJ	-le	.	.	.	.
+1r	.	1G	-lo	8e]	.	0r	.	1b	l'o-
+.	.	.	.	8e	-le	.	.	.	.
 .	.	.	.	4e	su	.	.	.	.
 .	.	.	.	2d	l'o-	.	.	.	.
 2r	.	2r	.	1c	-ro	.	.	1cc	-ro
@@ -217,8 +217,8 @@
 4F	ad	.	.	4c	-se;	.	.	2a	ste-
 4F	ar-	4A	-te	1r	.	2r	.	.	.
 4D	-te	4.d	ste-	.	.	.	.	8gL	.
-.	.	.	.	.	.	.	.	8fJ	.
-4.E	ste-	.	.	.	.	4r	.	8gL	.
+.	.	.	.	.	.	.	.	8f	.
+4.E	ste-	.	.	.	.	4r	.	8g	.
 .	.	8c	.	.	.	.	.	8fJ	.
 .	.	[4c	.	.	.	4g	ad	4e	.
 8F	.	.	.	.	.	.	.	.	.
@@ -512,8 +512,8 @@
 .	.	4A	-bo	.	.	4cc	-bo	.	.
 =70	=70	=70	=70	=70	=70	=70	=70	=70	=70
 4r	.	2e	me-	4r	.	4b	me-	4r	.
-4A	il	.	.	4c#X	il	8aL	-sce,	4ee	il
-.	.	.	.	.	.	8aJ	<il	.	.
+4A	il	.	.	4c#X	il	8a	-sce,	4ee	il
+.	.	.	.	.	.	8a	<il	.	.
 4A	tur-	2A	-sce,	4c#i	tur-	4a	tur-	4ee	tur-
 4D	-bo	.	.	4d	-bo	4a	-bo	4ff	-bo
 2E	me-	2r	.	2B	me-	2g#X	me-	2ee	me-

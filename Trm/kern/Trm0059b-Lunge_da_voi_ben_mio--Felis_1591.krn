@@ -27,25 +27,25 @@
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 0r	.	1r	.	1r	.	4ee	Lun-	4cc#X	Lun-
-.	.	.	.	.	.	8eeL	-ge	8cc#L	-ge
-.	.	.	.	.	.	8ffJ	da	8ddJ	da
+.	.	.	.	.	.	8ee	-ge	8cc#	-ge
+.	.	.	.	.	.	8ff	da	8dd	da
 .	.	.	.	.	.	4gg	voi,	4b	voi,
 .	.	.	.	.	.	4ee	ben	4cc#X	ben
 .	.	4d	Lun-	4a	Lun-	2ff	mi-	2dd	mi-
-.	.	8dL	-ge	8aL	-ge	.	.	.	.
-.	.	8dJ	da	8bJ	da	.	.	.	.
+.	.	8d	-ge	8a	-ge	.	.	.	.
+.	.	8d	da	8b	da	.	.	.	.
 .	.	4a	voi,	4cc	voi,	2ee	-o,	2ee	-o,
 .	.	4g#X	ben	4b	ben	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 0r	.	2a	mi-	2cc	mi-	4.ee	Non	2r	.
 .	.	.	.	.	.	8ff	ho	.	.
 .	.	4e	-o,	4b	-o,	4gg	vi-	4.ee	Non
-.	.	8cL	Non	8ccL	non	8ggL	-ta	.	.
-.	.	8dJ	ho	8aJ	ho	8ffJ	né	8ff	ho
+.	.	8c	Non	8cc	non	8gg	-ta	.	.
+.	.	8d	ho	8a	ho	8ff	né	8ff	ho
 .	.	4e	vi-	4cc	vi-	8eeL	co-	4gg	vi-
 .	.	.	.	.	.	8dd	.	.	.
-.	.	8eL	-ta	8cL	-ta	8ee	.	8ggL	-ta
-.	.	8dJ	né	8dJ	né	8ffJ	.	8ffJ	né
+.	.	8e	-ta	8c	-ta	8ee	.	8gg	-ta
+.	.	8d	né	8d	né	8ffJ	.	8ff	né
 .	.	4c	co-	4.e	co-	4gg	.	4ee	co-
 .	.	4A	-re e	.	.	4aa	-re e	4cc	-re e
 .	.	.	.	8f	-re e	.	.	.	.
@@ -172,11 +172,11 @@
 .	.	.	.	.	.	.	.	8ccJ	.
 .	.	.	.	4b-X	-ce	.	.	[4dd	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-0r	.	0r	.	2a	do-	4.ee	-len-	8ddL]	.
+0r	.	0r	.	2a	do-	4.ee	-len-	8dd]L	.
 .	.	.	.	.	.	.	.	8ccJ	.
 .	.	.	.	.	.	.	.	2cc	.
-.	.	.	.	.	.	16ddLL	.	.	.
-.	.	.	.	.	.	16ccJJ	.	.	.
+.	.	.	.	.	.	16ddL	.	.	.
+.	.	.	.	.	.	16ccJ	.	.	.
 .	.	.	.	4.g	-len-	4dd	.	.	.
 .	.	.	.	.	.	4ee	-te; e	4b	-te; e
 .	.	.	.	8g	-te; e	.	.	.	.

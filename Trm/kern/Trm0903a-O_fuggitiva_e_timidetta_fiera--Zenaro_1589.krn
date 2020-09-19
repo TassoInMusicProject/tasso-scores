@@ -29,13 +29,13 @@
 *M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1
 0r	.	1r	.	2.dd	O
-.	.	.	.	8ccL	fu-
-.	.	.	.	8ddJ	-gi-
+.	.	.	.	8cc	fu-
+.	.	.	.	8dd	-gi-
 .	.	2r	.	4ee	-ti-
 .	.	.	.	4cc	-va e
 .	.	4g	O	4.dd	ti-
-.	.	8fL	fu-	.	.
-.	.	8gJ	-gi-	8b	-mi-
+.	.	8f	fu-	.	.
+.	.	8g	-gi-	8b	-mi-
 =2	=2	=2	=2	=2	=2
 1r	.	4a	-ti-	4cc	-det-
 .	.	4f	-va e	4a	-ta
@@ -45,19 +45,19 @@
 .	.	.	.	8ccJ	.
 .	.	4f	-ta	4a	.
 4G	O	[2d	fe-	4.b	.
-8GL	fu-	.	.	.	.
-8AJ	-gi-	.	.	8cc	.
+8G	fu-	.	.	.	.
+8A	-gi-	.	.	8cc	.
 =3	=3	=3	=3	=3	=3
 4B	-ti-	2d]	.	1dd	-ra,
 4G	-va e	.	.	.	.
 4.d	ti-	2f	-ra,	.	.
 8d	-mi-	.	.	.	.
 4c	-det-	4e	<O	2r	.
-4A	-ta	8eL	fu-	.	.
-.	.	8fJ	-gi-	.	.
+4A	-ta	8e	fu-	.	.
+.	.	8f	-gi-	.	.
 4.G	fe-	4g	-ti-	4b	<O
-.	.	4e	-va e	8bL	fu-
-8A	.	.	.	8ccJ	-gi-
+.	.	4e	-va e	8b	fu-
+8A	.	.	.	8cc	-gi-
 =4	=4	=4	=4	=4	=4
 8BL	.	4d	ti-	4dd	-ti-
 8GJ	.	.	.	.	.
@@ -66,14 +66,14 @@
 8c	.	8g	-ta	8ee	-mi-
 4.d	.	4.f	fe-	4a	-det-
 .	.	.	.	4dd	-ta
-16cLL	.	8g	.	.	.
-16BJJ	.	.	.	.	.
+16cL	.	8g	.	.	.
+16BJ	.	.	.	.	.
 2A	-ra,	8aL	.	4.cc	fe-
 .	.	8bJ	.	.	.
 .	.	[4cc	.	.	.
 .	.	.	.	8dd	.
 =5	=5	=5	=5	=5	=5
-2r	.	8ccL]	.	8eeL	.
+2r	.	8cc]L	.	8eeL	.
 .	.	8aJ	.	8ffJ	.
 .	.	4b	.	4dd	.
 4r	.	2cc	-ra,>	4.ee	.
@@ -109,8 +109,8 @@
 8cL	-dor-	4g	.	4.gg	.
 8d	.	.	.	.	.
 8e	.	4cc	-ro a-	.	.
-8fJ	.	.	.	16ffLL	.
-.	.	.	.	16eeJJ	.
+8fJ	.	.	.	16ffL	.
+.	.	.	.	16eeJ	.
 =8	=8	=8	=8	=8	=8
 2.g	.	2.b	-dor-	4dd	.
 .	.	.	.	4cc	.
@@ -130,8 +130,8 @@
 4cni	so-	4e	so-	4g	Ma-
 2A	-gior-	4.cc	-gior-	4a	-don-
 .	.	.	.	4e	-na
-.	.	16bLL	.	.	.
-.	.	16aJJ	.	.	.
+.	.	16bL	.	.	.
+.	.	16aJ	.	.	.
 =10	=10	=10	=10	=10	=10
 8GL	-no,	2b	.	4g	fa
 8A	.	.	.	.	.
@@ -163,24 +163,24 @@
 4f	.	.	.	.	.
 2g	.	2b	-cres-	.	.
 2g	-cha,	4b	-cha,	4dd	-scha,
-.	.	8gL	ch'in	8bL	ch'in
-.	.	8aJ	s&igrave;	8ccJ	s&igrave;
+.	.	8g	ch'in	8b	ch'in
+.	.	8a	s&igrave;	8cc	s&igrave;
 =14	=14	=14	=14	=14	=14
 1r	.	4b	ca-	4dd	ca-
 .	.	4g	-ro	4ee	-ro
 .	.	2a	lo-	2cc#X	lo-
 4r	.	4d	-co,	2dd	-co,
-8fL	ch'in	8dL	ch'in	.	.
-8eJ	s&igrave;	8eJ	s&igrave;	.	.
+8f	ch'in	8d	ch'in	.	.
+8e	s&igrave;	8e	s&igrave;	.	.
 4d	ca-	4f#X	ca-	4r	.
-4G	-ro	4g	-ro	8bL	<ch'in
-.	.	.	.	8bJ	s&igrave;
+4G	-ro	4g	-ro	8b	<ch'in
+.	.	.	.	8b	s&igrave;
 =15	=15	=15	=15	=15	=15
 2d	lo-	2f#X	lo-	4a	ca-
 .	.	.	.	4a	-ro
 2G	-co	2g	-co	4.b	lo-
-.	.	.	.	16aLL	.
-.	.	.	.	16gJJ	.
+.	.	.	.	16aL	.
+.	.	.	.	16gJ	.
 4r	.	1r	.	1a	.
 4d	Ha-	.	.	.	.
 4c#X	-vrei	.	.	.	.
@@ -190,8 +190,8 @@
 4g	-t'a	.	.	.	.
 4.e	gio-	4r	.	.	.
 .	.	4g	Ha-	.	.
-16dLL	.	.	.	.	.
-16cJJ	.	.	.	.	.
+16dL	.	.	.	.	.
+16cJ	.	.	.	.	.
 8dL	.	4f#X	-vrei	1r	.
 8c	.	.	.	.	.
 8B	.	4g	la	.	.
@@ -201,8 +201,8 @@
 =17	=17	=17	=17	=17	=17
 2G	-co;	4.b	gio-	4r	.
 .	.	.	.	4dd	Ha-
-.	.	16aLL	.	.	.
-.	.	16gJJ	.	.	.
+.	.	16aL	.	.	.
+.	.	16gJ	.	.	.
 4r	.	8aL	.	4cc#X	-vrei
 .	.	8gJ	.	.	.
 4d	a	4f#X	.	4dd	la
@@ -210,8 +210,8 @@
 .	.	.	.	4gg	-t'a
 8d	.	.	.	.	.
 4.c	.	.	.	4.ee	gio-
-16BLL	.	.	.	16ddLL	.
-16AJJ	.	.	.	16cc#iJJ	.
+16BL	.	.	.	16ddL	.
+16AJ	.	.	.	16cc#iJ	.
 =18	=18	=18	=18	=18	=18
 8BL	.	4g	-co;	8ddL	.
 8cJ	.	.	.	8eeJ	.
@@ -241,30 +241,30 @@
 2g	Es-	4r	.	.	.
 .	.	[4bn	Es-	[4gg	Es-
 =21	=21	=21	=21	=21	=21
-4e	-ser	8bL]	.	8ggL]	.
-.	.	8bniJ	-ser	8ggJ	-ser
+4e	-ser	8b]	.	8gg]	.
+.	.	8bni	-ser	8gg	-ser
 4f	io	4a	io	4ff	io
 2c	bra-	4.cc	bra-	4.ee	bra-
-.	.	16bLL	.	16ddLL	.
-.	.	16aJJ	.	16ccJJ	.
+.	.	16bL	.	16ddL	.
+.	.	16aJ	.	16ccJ	.
 4G	-mo,	2.b	.	1dd	.
 [4g	Es-	.	.	.	.
-8gL]	.	.	.	.	.
-8gJ	-ser	.	.	.	.
+8g]	.	.	.	.	.
+8g	-ser	.	.	.	.
 4f	io	8aL	.	.	.
 .	.	8bJ	.	.	.
 =22	=22	=22	=22	=22	=22
 4.e	bra-	2cc	.	4ee	-mo,
 .	.	.	.	4.gg	<Es-
-16dLL	.	.	.	.	.
-16cJJ	.	.	.	.	.
+16dL	.	.	.	.	.
+16cJ	.	.	.	.	.
 2d	.	2a	-mo,	.	.
 .	.	.	.	8gg	-ser
 .	.	.	.	4ff	io
 4.c	-mo o	4r	.	4.ee	bra-
 .	.	4.cc	<Es-	.	.
-16BLL	.	.	.	16ddLL	.
-16AJJ	.	.	.	16ccJJ	.
+16BL	.	.	.	16ddL	.
+16AJ	.	.	.	16ccJ	.
 2G	.	.	.	2dd	.
 .	.	8cc	-ser	.	.
 .	.	4b	io	.	.
@@ -309,8 +309,8 @@
 .	.	8b	mel	.	.
 4d	-v'el-	2a	cre-	4.ff#X	cre-
 4d	-la	.	.	.	.
-.	.	.	.	16eeLL	.
-.	.	.	.	16ff#iJJ	.
+.	.	.	.	16eeL	.
+.	.	.	.	16ff#iJ	.
 4.e	cac-	4.g	-da,	2gg	.
 8e	-cia, oh!	8cc	oh!	.	.
 =27	=27	=27	=27	=27	=27
@@ -321,8 +321,8 @@
 .	.	.	.	4dd	io
 4g	-da,	4g	-da,	2.b	bra-
 [4e	Es-	4.g	Es-	.	.
-8eL]	.	.	.	.	.
-8eJ	-ser	8g	-ser	.	.
+8e]	.	.	.	.	.
+8e	-ser	8g	-ser	.	.
 4B	io	4g	io	4dd	-mo o
 =28	=28	=28	=28	=28	=28
 2c	bra-	4.e	bra-	4.g	pre-

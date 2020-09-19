@@ -68,8 +68,8 @@
 4F	Di	.	.	4f	Di	.	.	4a	Di
 4.F	que-	2r	.	4.f	que-	.	.	4.a	que-
 8A	-sto	.	.	8c	-sto	.	.	8cc	-sto
-4G	bel	1r	.	8dL	bel	.	.	4b-X	bel
-.	.	.	.	8eJ	con-	.	.	.	.
+4G	bel	1r	.	8d	bel	.	.	4b-X	bel
+.	.	.	.	8e	con-	.	.	.	.
 4F	con-	.	.	2f	-cen-	.	.	4a	con-
 2c	-cen-	.	.	.	.	.	.	2g	-cen-
 .	.	.	.	4e	.	.	.	.	.
@@ -145,8 +145,8 @@
 1D	-no-	1d	-no-	4f#X	-qui-	.	.	.	.
 .	.	.	.	.	.	8bL	.	.	.
 .	.	.	.	2g	-nia ho-	8b	.	.	.
-.	.	.	.	.	.	16aL	.	.	.
-.	.	.	.	.	.	16gJJ	.	.	.
+.	.	.	.	.	.	16a	.	.	.
+.	.	.	.	.	.	16gJ	.	.	.
 .	.	.	.	.	.	2a	.	.	.
 .	.	.	.	4f#X	-no-	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13
@@ -175,13 +175,13 @@
 2D	-na-	4f	.	2a	-na-	4dd	-na-	2ff	-na-
 .	.	4d	-na-	.	.	[4dd	-mo-	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-4.E	-mo-	4g	-mo-	1g	-mo-	8ddL]	.	8eeL	-mo-
+4.E	-mo-	4g	-mo-	1g	-mo-	8dd]L	.	8eeL	-mo-
 .	.	.	.	.	.	8ccJ	.	8ffJ	.
 .	.	4e	.	.	.	2cc	.	4.gg	.
 8F	.	.	.	.	.	.	.	.	.
 2G	.	2d	.	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	16ffLL	.
-.	.	.	.	.	.	.	.	16eeJJ	.
+.	.	.	.	.	.	.	.	16ffL	.
+.	.	.	.	.	.	.	.	16eeJ	.
 .	.	.	.	.	.	4b	.	4dd	.
 2C	-ra?	2c	-ra?	2g	-ra?	2cc	-ra?	4ee	-ra?
 .	.	.	.	.	.	.	.	4cc	I'
@@ -221,8 +221,8 @@
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 2E	vo-	2G	vo-	2g	vo-	8eeL	vo-	4cc	o-
 .	.	.	.	.	.	8ffJ	.	.	.
-.	.	.	.	.	.	2gg	.	8bL	-do
-.	.	.	.	.	.	.	.	8ccJ	La
+.	.	.	.	.	.	2gg	.	8b	-do
+.	.	.	.	.	.	.	.	8cc	La
 2D	-ce: el-	2d	-ce: el-	2a	-ce: el-	.	.	4dd	vo-
 .	.	.	.	.	.	4ff#X	-ce: el-	4dd	-ce: el-
 4G	-la è	4d	-la è	4b	-la è	4gg	-la è	4dd	-la è
@@ -240,50 +240,50 @@
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 0r	.	1c	-sa:	2g	-sa:	2ee	-sa:	2cc	-sa:
 .	.	.	.	4cc	Ec-	2r	.	4ee	Ec-
-.	.	.	.	8ccL	-co	.	.	8eeL	-co
-.	.	.	.	8ccJ	Tar-	.	.	8eeJ	Tar-
+.	.	.	.	8cc	-co	.	.	8ee	-co
+.	.	.	.	8cc	Tar-	.	.	8ee	Tar-
 .	.	2r	.	4b-X	-qui-	1r	.	4dd	-qui-
 .	.	.	.	4b-	-nia	.	.	4dd	-nia
 .	.	4f	Ec-	2a	vien-	.	.	[2cc	vie-
-.	.	8fL	-co	.	.	.	.	.	.
-.	.	8fJ	Tar-	.	.	.	.	.	.
+.	.	8f	-co	.	.	.	.	.	.
+.	.	8f	Tar-	.	.	.	.	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 4c	Ec-	4e	-qui-	4g	-ne, A-	1r	.	2cc]	.
-8cL	-co	4e	-nia	2a	-mor	.	.	.	.
-8cJ	Tar-	.	.	.	.	.	.	.	.
+8c	-co	4e	-nia	2a	-mor	.	.	.	.
+8c	Tar-	.	.	.	.	.	.	.	.
 4B	-qui-	2d	vie-	.	.	.	.	2dd	-ne,
 4B	-nia	.	.	2g	s'ap-	.	.	.	.
 2A	vie-	2c	-ne, A-	.	.	4cc	Ec-	2r	.
-.	.	.	.	4f#Xi	-pres-	8ccL	-co	.	.
-.	.	.	.	.	.	8ccJ	Tar-	.	.
+.	.	.	.	4f#Xi	-pres-	8cc	-co	.	.
+.	.	.	.	.	.	8cc	Tar-	.	.
 2G	-ne, A-	[2d	-mor	2g	-sa,	4b	-qui-	4gg	Ec-
-.	.	.	.	.	.	4b	-nia	8ggL	-co
-.	.	.	.	.	.	.	.	8ggJ	Tar-
+.	.	.	.	.	.	4b	-nia	8gg	-co
+.	.	.	.	.	.	.	.	8gg	Tar-
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 4D	-mor	4d]	.	4dd	Ec-	2a	vie-	4ff	-qui-
-4D	s'ap-	4A	s'ap-	8ddL	-co	.	.	4ff	-nia
-.	.	.	.	8ddJ	Tar-	.	.	.	.
+4D	s'ap-	4A	s'ap-	8dd	-co	.	.	4ff	-nia
+.	.	.	.	8dd	Tar-	.	.	.	.
 4.E	-pres-	4c	-pres-	4cc	-qui-	2g	-ne,	2ee	vie-
 .	.	4G	-sa,	4cc	-nia	.	.	.	.
 8F	.	.	.	.	.	.	.	.	.
 2G	.	2r	.	2b	vie-	4gg	<Ec-	4dd	-ne, A-
-.	.	.	.	.	.	8ggL	-co	2dd	-mor
-.	.	.	.	.	.	8ggJ	Tar-	.	.
+.	.	.	.	.	.	8gg	-co	2dd	-mor
+.	.	.	.	.	.	8gg	Tar-	.	.
 4D	-sa,	4d	Ec-	2a	-ne,	4ff	-qui-	.	.
-4D	A-	8dL	-co	.	.	4ff	-nia	4a	s'ap-
-.	.	8dJ	Tar-	.	.	.	.	.	.
+4D	A-	8d	-co	.	.	4ff	-nia	4a	s'ap-
+.	.	8d	Tar-	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 4.E	-mor	4c	-qui-	2r	.	2ee	vie-	4cc	-pres-
 .	.	4c	-nia	.	.	.	.	4g	-sa,
 8F	s'ap-	.	.	.	.	.	.	.	.
 2G	-pres-	2B	vie-	4g	Ec-	4dd	-ne,>	2r	.
-.	.	.	.	8gL	-co	2dd	A-	.	.
-.	.	.	.	8gJ	Tar-	.	.	.	.
+.	.	.	.	8g	-co	2dd	A-	.	.
+.	.	.	.	8g	Tar-	.	.	.	.
 4D	-sa,	2A	-ne, A-	4f	-qui-	.	.	4dd	Ec-
-4D	A-	.	.	4f	-nia	4a	-mor	8ddL	-co
-.	.	.	.	.	.	.	.	8ddJ	Tar-
-4.E	-mor	4c	-mor	2e	vie-	8eeL	s'ap-	4cc	-qui-
-.	.	.	.	.	.	8ffJ	-pres-	.	.
+4D	A-	.	.	4f	-nia	4a	-mor	8dd	-co
+.	.	.	.	.	.	.	.	8dd	Tar-
+4.E	-mor	4c	-mor	2e	vie-	8ee	s'ap-	4cc	-qui-
+.	.	.	.	.	.	8ff	-pres-	.	.
 .	.	4G	s'ap-	.	.	[4gg	.	4cc	-nia
 8F	s'ap-	.	.	.	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26

@@ -34,8 +34,8 @@
 .	.	2dd	So-	8gL	fio-
 .	.	.	.	8a	.
 .	.	.	.	8b	.
-.	.	.	.	16aL	.
-.	.	.	.	16bJJ	.
+.	.	.	.	16a	.
+.	.	.	.	16bJ	.
 =2	=2	=2	=2	=2	=2
 0r	.	4ee	-vra	8ccL	.
 .	.	.	.	8dd	.
@@ -46,8 +46,8 @@
 .	.	8gL	fio-	4gg	-ri,
 .	.	8a	.	.	.
 .	.	8b	.	4g	e i
-.	.	16aL	.	.	.
-.	.	16bJJ	.	.	.
+.	.	16a	.	.	.
+.	.	16bJ	.	.	.
 .	.	8ccL	.	8aL	fio-
 .	.	8dd	.	8b	.
 .	.	8ee	.	8cc	.
@@ -61,10 +61,10 @@
 .	.	.	.	4cc#i	.
 .	.	4r	.	1dd	-ri
 .	.	4dd	Fu-	.	.
-.	.	8bL	-g&igrave;a	.	.
+.	.	8b	-g&igrave;a	.	.
 .	.	8a	tut-	.	.
 .	.	8g	-to	.	.
-.	.	8bJ	sma-	.	.
+.	.	8b	sma-	.	.
 =4	=4	=4	=4	=4	=4
 2r	.	4a	-ri-	2r	.
 .	.	4g	-to	.	.
@@ -95,17 +95,17 @@
 .	.	8a	-ci 'l	8ff	-ci 'l
 .	.	4b-	cor	4ee	cor
 2A	An-	2a	mio,	4.cc#X	mio,
-.	.	.	.	16bLL	.
-.	.	.	.	16cc#iJJ	.
+.	.	.	.	16bL	.
+.	.	.	.	16cc#iJ	.
 4d	-ci,	4r	.	4dd	.
 4A	An-	[4ee	An-	[4ccni	An-
 =8	=8	=8	=8	=8	=8
-4d	-ci 'l	8eeL]	.	8ccL]	.
-.	.	8ffJ	-ci 'l	8aJ	-ci 'l
+4d	-ci 'l	8ee]	.	8cc]	.
+.	.	8ff	-ci 'l	8a	-ci 'l
 4G	cor	4dd	cor	4b-	cor
 2A	mio,	4.cc#X	mio	2.a	mio
-.	.	16bLL	.	.	.
-.	.	16cc#iJJ	.	.	.
+.	.	16bL	.	.	.
+.	.	16cc#iJ	.	.	.
 2d	che	4dd	.	.	.
 .	.	4a	che	4ff	che
 2c	fu,	4.ccni	fu	4.ee	fu
@@ -116,8 +116,8 @@
 .	.	8ff	.	.	.
 4.e	fu	4.gg	.	4g	ra-
 .	.	.	.	4.b	-pi-
-8f	da	16ffLL	.	.	.
-.	.	16eeJJ	.	.	.
+8f	da	16ffL	.	.	.
+.	.	16eeJ	.	.	.
 4.g	lei	4dd	.	.	.
 .	.	.	.	8cc#i	.
 .	.	4b	ra-	2dd	.
@@ -131,16 +131,16 @@
 4G	Che	.	.	.	.
 .	.	8cc	da	.	.
 4.B	fu	4.dd	lei	1r	.
-8c	da	16ccLL	.	.	.
-.	.	16bJJ	.	.	.
+8c	da	16ccL	.	.	.
+.	.	16bJ	.	.	.
 4d	lei	2a	.	.	.
 4c	ra-	.	.	.	.
 =11	=11	=11	=11	=11	=11
 8eL	-pi-	4cc	ra-	1r	.
 8f#iJ	.	.	.	.	.
 2g	.	8bL	-pi-	.	.
-.	.	16aL	.	.	.
-.	.	16gJJ	.	.	.
+.	.	16a	.	.	.
+.	.	16gJ	.	.	.
 .	.	2a	.	.	.
 4f#X	.	.	.	.	.
 1g	-to;	4b	-to;	2gg	E
@@ -185,14 +185,14 @@
 8c	-fa	.	.	.	.
 4g	sel-	.	.	4b	-gu&igrave;a
 4f#X	-vag-	4r	.	4a	Nin-
-4g	-gia,	2g	Se-	8bL	-fa
-.	.	.	.	8ddJ	sel-
+4g	-gia,	2g	Se-	8b	-fa
+.	.	.	.	8dd	sel-
 4e	Se-	.	.	4cc#X	-vag-
 4d	-gu&igrave;a	4a	-gu&igrave;a	4dd	-gia;
 =16	=16	=16	=16	=16	=16
 4f#X	Nin-	4a	Nin-	1r	.
-8gL	-fa	8bL	-fa	.	.
-8fniJ	sel-	8ddJ	sel-	.	.
+8g	-fa	8b	-fa	.	.
+8fni	sel-	8dd	sel-	.	.
 4a	-vag-	4cc#X	-vag-	.	.
 4d	-gia;	4dd	-gia;	.	.
 1g	Quan-	2r	.	2r	.
@@ -201,13 +201,13 @@
 2g	-do	4b]	.	4dd]	.
 .	.	4b	-do	4dd	-do
 2G	m'ag-	2b	m'ag-	4.dd	m'ag-
-.	.	.	.	16ccLL	.
-.	.	.	.	16ddJJ	.
+.	.	.	.	16ccL	.
+.	.	.	.	16ddJ	.
 8cL	-giun-	4.g	-giun-	2ee	.
 8d	.	.	.	.	.
 8e	.	.	.	.	.
-16dL	.	16f#XLL	.	.	.
-16cJJ	.	16eJJ	.	.	.
+16d	.	16f#XL	.	.	.
+16cJ	.	16eJ	.	.	.
 2d	.	2f#i	.	2a	-giun-
 =18	=18	=18	=18	=18	=18
 2G	-se,	2g	-se,	2b	-se,
@@ -215,14 +215,14 @@
 2g	<Quan-	2dd	Quan-	2b	<Quan-
 4g	-do	4dd	-do	4b	-do
 2g	m'ag-	4.dd	m'ag-	2b	m'ag-
-.	.	16ccLL	.	.	.
-.	.	16ddJJ	.	.	.
+.	.	16ccL	.	.	.
+.	.	16ddJ	.	.	.
 =19	=19	=19	=19	=19	=19
 8cL	-giun-	2ee	.	4.g	-giun-
 8d	.	.	.	.	.
 8e	.	.	.	.	.
-16dL	.	.	.	16f#XLL	.
-16cJJ	.	.	.	16eJJ	.
+16d	.	.	.	16f#XL	.
+16cJ	.	.	.	16eJ	.
 2d	.	2a	.	2f#i	.
 1g	-se,>	4g	-giun-	2g	-se,>
 .	.	4dd	-se, e	.	.
@@ -263,18 +263,18 @@
 4g	Mi	4dd	Mi	2b	.
 4.e	dis-	4.gg	dis-	.	.
 .	.	.	.	4cc	-ci
-8f	.	16ffLL	.	.	.
-.	.	16eeJJ	.	.	.
+8f	.	16ffL	.	.	.
+.	.	16eeJ	.	.	.
 [2g	.	2dd	.	4r	.
 .	.	.	.	4b	Mi
 =23	=23	=23	=23	=23	=23
 2g]	.	4b	-se,	4.gg	dis-
 .	.	4dd	<Mi	.	.
-.	.	.	.	16ffLL	.
-.	.	.	.	16eeJJ	.
+.	.	.	.	16ffL	.
+.	.	.	.	16eeJ	.
 2g	-se,	4.b	dis-	2dd	.
-.	.	16aLL	.	.	.
-.	.	16bJJ	.	.	.
+.	.	16aL	.	.	.
+.	.	16bJ	.	.	.
 2c	<Mi	4cc	-se:>	2ee	-se:
 .	.	4a	"hor	.	.
 [2d	dis-	4.ff	pren-	4r	.

@@ -45,8 +45,8 @@
 .	.	.	.	.	.	.	.	8dJ	.
 .	.	4.c	col-	.	.	4r	.	4.e	.
 .	.	.	.	.	.	4e	in	.	.
-.	.	8d	-ti in	.	.	.	.	16dLL	.
-.	.	.	.	.	.	.	.	16cJJ	.
+.	.	8d	-ti in	.	.	.	.	16dL	.
+.	.	.	.	.	.	.	.	16cJ	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 0r	.	4e	do-	1r	.	4g#X	dol-	4B	.
 .	.	4f	-lce	.	.	4a	-ce	4A	-ce
@@ -69,8 +69,8 @@
 .	.	.	.	8GJ	.	.	.	.	.
 4.F	col-	.	.	4.A	.	4.a	dol-	4c	col-
 .	.	.	.	.	.	.	.	4B	-ti in
-8G	-ti in	.	.	8B	-ce	16gLL	.	.	.
-.	.	.	.	.	.	16fJJ	.	.	.
+8G	-ti in	.	.	8B	-ce	16gL	.	.	.
+.	.	.	.	.	.	16fJ	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 4A	dol-	1r	.	4c#X	spe-	4e	.	4A	dol-
 4B-X	-ce	.	.	2d	.	4d	-ce	4G	-ce
@@ -114,13 +114,13 @@
 .	.	4G	-si	.	.	.	.	4B	-si
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 1AA]	.	4F	ro-	4r	.	4r	.	4A	ro-
-.	.	8EL	-sa	2c	Qua-	2e	Qua-	8GnXiL	-sa
-.	.	8DJ	non	.	.	.	.	8FJ	non
+.	.	8E	-sa	2c	Qua-	2e	Qua-	8GnXi	-sa
+.	.	8D	non	.	.	.	.	8F	non
 .	.	2C	còl-	.	.	.	.	2.E	còl-
 .	.	.	.	4B	-si	4d	-si	.	.
 1r	.	2C	-ta,	4A	ro-	4c	ro-	.	.
-.	.	.	.	8GL	-sa	8BL	-sa	4F	-ta,
-.	.	.	.	8FJ	non	8AJ	non	.	.
+.	.	.	.	8G	-sa	8B	-sa	4F	-ta,
+.	.	.	.	8F	non	8A	non	.	.
 .	.	2r	.	4E	còl-	4G	còl-	4G	Non
 .	.	.	.	4F	-ta,	4c	-ta,	4A	in-
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10
@@ -129,15 +129,15 @@
 .	.	.	.	2E	-cól-	2e	-cól-	2E	-ta,
 4G	-si	4B	-si	.	.	.	.	.	.
 4F	ro-	4A	ro-	2A	-ta,	2d	-ta,	2r	.
-8EL	-sa	8GL	-sa	.	.	.	.	.	.
-8DJ	non	8FJ	non	.	.	.	.	.	.
+8E	-sa	8G	-sa	.	.	.	.	.	.
+8D	non	8F	non	.	.	.	.	.	.
 4C	còl-	4E	còl-	2r	.	4.g	Qua-	4.e	Qua-
 4AA	-ta,	4C	-ta,	.	.	.	.	.	.
 .	.	.	.	.	.	8f	-si	8d	-si
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 4C	Non	4E	Non	0r	.	4e	ro-	4c	ro-
-4D	in-	4F	in-	.	.	8dL	-sa	8BL	-sa
-.	.	.	.	.	.	8cJ	non	8AJ	non
+4D	in-	4F	in-	.	.	8d	-sa	8B	-sa
+.	.	.	.	.	.	8c	non	8A	non
 2E	-cól-	2G	-cól-	.	.	4.B	còl-	4.G	còl-
 .	.	.	.	.	.	8B	-ta,	8G	-ta,
 4C#X	-ta	4E	-ta	.	.	4e	Non	4A	Non
@@ -254,8 +254,8 @@
 4C	-mor	4r	.	2c	co-	4g	-mor	4e	-mor
 [4F	quan-	[4c	quan-	.	.	[4a	quan-	[4c	quan-
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-8FL]	.	8cL]	.	2A	-glie,	8aL]	.	8cL]	.
-8FJ	-do	8cJ	-do	.	.	8fJ	-do	8AJ	-do
+8F]	.	8c]	.	2A	-glie,	8a]	.	8c]	.
+8F	-do	8c	-do	.	.	8f	-do	8A	-do
 4A	le	4c	le	.	.	4e	le	4c	le
 2G	co-	2d	co-	2r	.	2g	to-	2B	co-
 1C	-glie,	2e	-glie,	2r	.	1g	-glie,	2c	-glie,

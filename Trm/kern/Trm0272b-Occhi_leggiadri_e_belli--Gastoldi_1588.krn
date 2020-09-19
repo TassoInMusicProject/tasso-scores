@@ -28,17 +28,17 @@
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 0r	.	2r	.	2r	.	1r	.	2.gg	Oc-
 .	.	2.g	Oc-	2.b	Oc-	.	.	.	.
-.	.	.	.	.	.	.	.	8ffL	-chi
-.	.	.	.	.	.	.	.	8eeJ	leg-
+.	.	.	.	.	.	.	.	8ff	-chi
+.	.	.	.	.	.	.	.	8ee	leg-
 .	.	.	.	.	.	2r	.	2dd	-gia-
-.	.	8fL	-chi	8aL	-chi	.	.	.	.
-.	.	8eJ	leg-	8gJ	leg-	.	.	.	.
+.	.	8f	-chi	8a	-chi	.	.	.	.
+.	.	8e	leg-	8g	leg-	.	.	.	.
 .	.	4d	-gia-	4a	-gia-	4r	.	4ff	-dri e
 .	.	4c	-dri e	4cc	-dri e	[4gg	Oc-	[4ee	bel-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 0r	.	1g	bel-	4b	bel-	4gg]	.	4ee]	.
-.	.	.	.	2cc	.	8ffL	-chi	8ddL	.
-.	.	.	.	.	.	8eeJ	leg-	8ccJ	.
+.	.	.	.	2cc	.	8ff	-chi	8ddL	.
+.	.	.	.	.	.	8ee	leg-	8ccJ	.
 .	.	.	.	.	.	4dd	-gia-	4dd	.
 .	.	.	.	4b	.	4dd	-dri e	4g	-li,
 .	.	1c	-li,	2cc	-li,	2ee	bel-	4r	.
@@ -106,8 +106,8 @@
 8CL	-et-	4r	.	4r	.	4.gg	-et-	4.ee	-et-
 8D	.	.	.	.	.	.	.	.	.
 8E	.	2B	E	2g	E	.	.	.	.
-8FJ	.	.	.	.	.	16ffLL	.	16ddLL	.
-.	.	.	.	.	.	16eeJJ	.	16ccJJ	.
+8FJ	.	.	.	.	.	16ffL	.	16ddL	.
+.	.	.	.	.	.	16eeJ	.	16ccJ	.
 2G	.	.	.	.	.	8ddL	.	8bL	.
 .	.	.	.	.	.	8ccJ	.	8aJ	.
 .	.	4B	sa-	4g	sa-	4dd	.	4b	.
@@ -115,8 +115,8 @@
 4A	-ta	4.e	-et-	8cL	-et-	2cc	-ta	4a	-ta
 .	.	.	.	8d	.	.	.	.	.
 4c	da	.	.	8e	.	.	.	4g	da
-.	.	16dLL	.	8fniJ	.	.	.	.	.
-.	.	16cJJ	.	.	.	.	.	.	.
+.	.	16dL	.	8fniJ	.	.	.	.	.
+.	.	16cJ	.	.	.	.	.	.	.
 2G	gio-	8BL	.	2g	.	4r	.	2dd	gio-
 .	.	8AJ	.	.	.	.	.	.	.
 .	.	4B	.	.	.	4dd	da	.	.
@@ -130,16 +130,16 @@
 8CL	-et-	4r	.	4r	.	4.ee	-et-	4.gg	-et-
 8D	.	.	.	.	.	.	.	.	.
 8E	.	2B	E	2g	E	.	.	.	.
-8FJ	.	.	.	.	.	16ddLL	.	16ffLL	.
-.	.	.	.	.	.	16ccJJ	.	16eeJJ	.
+8FJ	.	.	.	.	.	16ddL	.	16ffL	.
+.	.	.	.	.	.	16ccJ	.	16eeJ	.
 2G	.	.	.	.	.	8bL	.	8ddL	.
 .	.	.	.	.	.	8aJ	.	8ccJ	.
 .	.	4B	sa-	4g	sa-	4b	.	4dd	.
 4A	-ta	4.e	-et-	8cL	-et-	4a	-ta	2cc	-ta
 .	.	.	.	8d	.	.	.	.	.
 4c	da	.	.	8e	.	4g	da	.	.
-.	.	16dLL	.	8fniJ	.	.	.	.	.
-.	.	16cJJ	.	.	.	.	.	.	.
+.	.	16dL	.	8fniJ	.	.	.	.	.
+.	.	16cJ	.	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 2G	gio-	8BL	.	2g	.	2dd	gio-	4r	.
 .	.	8AJ	.	.	.	.	.	.	.
@@ -182,8 +182,8 @@
 .	.	.	.	4e	-sca	.	.	4g	rin-
 4G	rin-	.	.	4d	gli ar-	4b	rin-	[4dd	-fre-
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-2G	-fre-	1r	.	8gL	-do-	2b	-fre-	8ddL]	.
-.	.	.	.	8f	.	.	.	8ddJ	-sca
+2G	-fre-	1r	.	8gL	-do-	2b	-fre-	8dd]	.
+.	.	.	.	8f	.	.	.	8dd	-sca
 .	.	.	.	8e	.	.	.	4gg	gli ar-
 .	.	.	.	8dJ	.	.	.	.	.
 4A	-sca	.	.	4c	.	4a	-sca	8eeL	-do-
