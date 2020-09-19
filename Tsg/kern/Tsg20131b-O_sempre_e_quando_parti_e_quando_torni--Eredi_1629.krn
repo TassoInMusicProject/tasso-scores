@@ -68,10 +68,10 @@
 4GG	.	2G	O	4G	-ni	4r	.	4d	O	2g	-le,
 4G	.	.	.	2G	E-	2B	E-	8B	sem-	.	.
 .	.	.	.	.	.	.	.	8d	-pre e	.	.
-8E	.	8E	sem-	.	.	.	.	8c	quan-	2r	.
-8G	.	8G	-pre e	.	.	.	.	8B	-do	.	.
-8F	.	8F	quan-	4A	-gual-	4c	-gual-	8A	par-	.	.
-8E	.	8E	-do	.	.	.	.	8e	-ti e	.	.
+8EL	.	8E	sem-	.	.	.	.	8c	quan-	2r	.
+8GJ	.	8G	-pre e	.	.	.	.	8B	-do	.	.
+8FL	.	8F	quan-	4A	-gual-	4c	-gual-	8A	par-	.	.
+8EJ	.	8E	-do	.	.	.	.	8e	-ti e	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 4D	.	8F	par-	4B	-men-	8.d	-men-	4d	quan-	2r	.
 .	.	8E	-ti e	.	.	.	.	.	.	.	.
@@ -158,8 +158,8 @@
 2F	.	2F	-rir	2A	-rir	.	.	4f	-rir	4.a	-rir
 .	.	.	.	.	.	8c	mo-	.	.	.	.
 .	.	.	.	.	.	[2c	-rir	4r	.	.	.
-.	.	.	.	.	.	.	.	.	.	16g	.
-.	.	.	.	.	.	.	.	.	.	16f	.
+.	.	.	.	.	.	.	.	.	.	16gL	.
+.	.	.	.	.	.	.	.	.	.	16fJ	.
 4E	.	4E	dis-	4G	di-	.	.	4c	di-	4g	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 1D	#	1D	-tor-	4F#X	-stor-	4c]	.	1d	-stor-	4r	.
@@ -173,8 +173,8 @@
 .	.	.	.	.	.	.	.	.	.	8a	di
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 4G	.	4r	.	1r	.	1r	.	1r	.	4b	vi-
-8E	6	8E	E	.	.	.	.	.	.	2cc	-ta
-8F	.	8F	di	.	.	.	.	.	.	.	.
+8EL	6	8E	E	.	.	.	.	.	.	2cc	-ta
+8FJ	.	8F	di	.	.	.	.	.	.	.	.
 2G	.	2G	vi-	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	4b	ca-
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
@@ -186,8 +186,8 @@
 .	.	.	.	.	.	8A	di	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 4G	.	4G	sia	1r	.	4B	vi-	4d	-ta	4g]	.
-8E	.	8E	l’ho-	.	.	2c	-ta	4c	ca-	8g	l’ho-
-8F	.	8F	-mi-	.	.	.	.	.	.	8a	-mi-
+8EL	.	8E	l’ho-	.	.	2c	-ta	4c	ca-	8g	l’ho-
+8FJ	.	8F	-mi-	.	.	.	.	.	.	8a	-mi-
 2D	7:6	2D	-ci-	.	.	.	.	2d	-gion	2f	-ci-
 .	.	.	.	.	.	4B	ca-	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
@@ -195,8 +195,8 @@
 .	.	.	.	.	.	.	.	4e	sia	.	.
 4GG	.	4r	.	.	.	2r	.	8d	l’ho-	4r	.
 .	.	.	.	.	.	.	.	8e	-mi-	.	.
-8C	.	8C	E	.	.	.	.	[4c	-ci-	[4ee	<sia
-8D	.	8D	di	.	.	.	.	.	.	.	.
+8CL	.	8C	E	.	.	.	.	[4c	-ci-	[4ee	<sia
+8DJ	.	8D	di	.	.	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 4E	6	4E	vi-	1r	.	4c	sia	4c]	.	4ee]	.
 2F	.	2F	-ta	.	.	8A	l’ho-	4c	-da,	8cc	l’ho-
@@ -212,8 +212,8 @@
 .	.	.	.	8E	di	.	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
 4D	.	4D	sia	4F#X	vi-	2r	.	4d	<sia	4dd]	.
-8BB	.	8BB	l’ho-	2G	-ta	.	.	8d	l’ho-	4g	ca-
-8C	.	8C	-mi-	.	.	.	.	8e	-mi-	.	.
+8BBL	.	8BB	l’ho-	2G	-ta	.	.	8d	l’ho-	4g	ca-
+8CJ	.	8C	-mi-	.	.	.	.	8e	-mi-	.	.
 2AA	#6	2AA	-ci-	.	.	4r	.	2c	-ci-	2a	-gion
 .	.	.	.	4F#X	ca-	8A	E	.	.	.	.
 .	.	.	.	.	.	8A	di	.	.	.	.
@@ -226,8 +226,8 @@
 .	.	.	.	8A	di	.	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
 4G	.	4G	<sia	4B	vi-	2G	-gion	4g	<sia	2g	-da,
-8E	6	8E	l’ho-	2c	-ta	.	.	8g	l’ho-	.	.
-8F	.	8F	-mi-	.	.	.	.	8a	-mi-	.	.
+8EL	6	8E	l’ho-	2c	-ta	.	.	8g	l’ho-	.	.
+8FJ	.	8F	-mi-	.	.	.	.	8a	-mi-	.	.
 2D	7:6	2D	-ci-	.	.	2r	.	2f	-ci-	2r	.
 .	.	.	.	4B	ca-	.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
@@ -235,8 +235,8 @@
 .	.	.	.	.	.	.	.	.	.	8e	l’ho-
 .	.	.	.	.	.	.	.	.	.	8f	-mi-
 4C	.	.	.	4c	sia	4e	sia	.	.	[2g	-ci-
-8BB	.	.	.	8B	l’ho-	8d	l’ho-	.	.	.	.
-8C	.	.	.	8c	-mi-	8e	-mi-	.	.	.	.
+8BBL	.	.	.	8B	l’ho-	8d	l’ho-	.	.	.	.
+8CJ	.	.	.	8c	-mi-	8e	-mi-	.	.	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 1AA	7:6	1r	.	1A	-ci-	1c	-ci-	1r	.	2g]	.
 .	.	.	.	.	.	.	.	.	.	2f#X	.
@@ -331,12 +331,12 @@
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
 4D	.	8r	.	4.f	nul-	4.d	nul-	4f	chi	1r	.
 .	.	8D	Ma	.	.	.	.	.	.	.	.
-8E	.	8E	ben	.	.	.	.	4g	mo-	.	.
-8F	.	8F	può	8e	-la	8c	-la	.	.	.	.
-8G	.	8G	nul-	8d	chi	8B	chi	4g	-rir	.	.
-8F	.	8F	-la	8d	mo-	8A	mo-	.	.	.	.
-8E	.	8E	chi	[4e	-rir	4G	-rir	4g	non	.	.
-8D	.	8D	mo-	.	.	.	.	.	.	.	.
+8EL	.	8E	ben	.	.	.	.	4g	mo-	.	.
+8FJ	.	8F	può	8e	-la	8c	-la	.	.	.	.
+8GL	.	8G	nul-	8d	chi	8B	chi	4g	-rir	.	.
+8FJ	.	8F	-la	8d	mo-	8A	mo-	.	.	.	.
+8EL	.	8E	chi	[4e	-rir	4G	-rir	4g	non	.	.
+8DJ	.	8D	mo-	.	.	.	.	.	.	.	.
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
 1C	.	1C	-rir	4e]	.	4E	non	2g	puo-	8r	.
 .	.	.	.	.	.	.	.	.	.	8cc	Ma
@@ -380,10 +380,10 @@
 .	.	8AA	<Ma	.	.	8c	Ma	.	.	8g	-la
 .	.	8BB	ben	.	.	8d	ben	4d	non	8f	chi
 .	.	8C	può	.	.	8e	può	.	.	8e	mo-
-8D	.	8D	nul-	2r	.	8f	nul-	2d	puo-	8d	-rir,
-8C	.	8C	-la	.	.	8e	-la	.	.	8a	<Ma
-8BB-X	.	8BB-X	chi	.	.	8d	chi	.	.	8b-X	ben
-8AA	.	8AA	mo-	.	.	8c	mo-	.	.	8cc	può
+8DL	.	8D	nul-	2r	.	8f	nul-	2d	puo-	8d	-rir,
+8CJ	.	8C	-la	.	.	8e	-la	.	.	8a	<Ma
+8BB-XL	.	8BB-X	chi	.	.	8d	chi	.	.	8b-X	ben
+8AAJ	.	8AA	mo-	.	.	8c	mo-	.	.	8cc	può
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
 2GG	-	2GG	-rir	2r	.	2B-X	-rir	8d	-te,	4.dd	nul-
 .	.	.	.	.	.	.	.	8d	<Ma	.	.

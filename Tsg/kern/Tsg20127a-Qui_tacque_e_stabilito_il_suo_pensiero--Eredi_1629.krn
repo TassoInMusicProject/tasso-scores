@@ -80,10 +80,10 @@
 4E	.	4E	-va	4c	-glie-	8c	più	4e	-te	8r	.
 .	.	.	.	.	.	8B	pun-	.	.	8e	il
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
-8D	.	8r	.	4d	-va	4A	-gen-	4r	.	8f	più
-8E	.	8E	il	.	.	.	.	.	.	8g	pun-
-8F	.	8F	più	8r	.	4A	-te,	4f	e	2a	-gen-
-8G	.	8G	pun-	8B	il	.	.	.	.	.	.
+8DL	.	8r	.	4d	-va	4A	-gen-	4r	.	8f	più
+8EJ	.	8E	il	.	.	.	.	.	.	8g	pun-
+8FL	.	8F	più	8r	.	4A	-te,	4f	e	2a	-gen-
+8GJ	.	8G	pun-	8B	il	.	.	.	.	.	.
 2A	.	4A	-gen-	8c	più	8r	.	2e	for-	.	.
 .	.	.	.	8d	pun-	8B	<il	.	.	.	.
 .	.	4A	-te,	[4e	-gen-	8c	più	.	.	4a	-te e
@@ -94,10 +94,10 @@
 4E	6	4E	sce-	4c	for-	4G	Stra-	2r	.	4r	.
 4F	.	4F	-glie-	4A	-te,	4A	-le	.	.	4c	Stra-
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
-8D	.	8D	-va	4r	.	4B	sce-	4r	.	4d	-le
-8G	.	8G	il	.	.	.	.	.	.	.	.
-8F	.	8F	più	8r	.	4c	-glie-	4c	Stra-	4e	sce-
-8E	.	8E	pun-	8G	il	.	.	.	.	.	.
+8DL	.	8D	-va	4r	.	4B	sce-	4r	.	4d	-le
+8GJ	.	8G	il	.	.	.	.	.	.	.	.
+8FL	.	8F	più	8r	.	4c	-glie-	4c	Stra-	4e	sce-
+8EJ	.	8E	pun-	8G	il	.	.	.	.	.	.
 4D	.	4D	-gen-	8A	pù	4F	-va	4d	-le	4f	-glie-
 .	.	.	.	8B	pun-	.	.	.	.	.	.
 4C	.	4C	-te e	8c	-gen-	8r	.	4e	sce-	8e	-va
@@ -121,8 +121,8 @@
 .	.	.	.	.	.	8c	-gen-	4e	-te,	.	.
 .	.	.	.	.	.	8A	-te e	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
-4E	.	1r	.	1r	.	8B	for-	8r	.	1r	.
-.	.	.	.	.	.	8G	.	8g	<il	.	.
+4E	.	1r	.	1r	.	8BL	for-	8r	.	1r	.
+.	.	.	.	.	.	8GJ	.	8g	<il	.	.
 4F	.	.	.	.	.	2c	.	8f	più	.	.
 .	.	.	.	.	.	.	.	8e	pun-	.	.
 2G	.	.	.	.	.	.	.	8d	-gen-	.	.
@@ -198,8 +198,8 @@
 .	.	.	.	.	.	.	.	16d	-ma	.	.
 2AA	.	2A	Tan-	4A	-te,	4c	-ro	4c	sor-	4e	-te>
 .	.	.	.	2r	.	4c	Tan-	2e	-te,>	2r	.
-8BB	.	8.G	-to	.	.	8.B	-to	.	.	.	.
-8C	.	.	.	.	.	.	.	.	.	.	.
+8BBL	.	8.G	-to	.	.	8.B	-to	.	.	.	.
+8CJ	.	.	.	.	.	.	.	.	.	.	.
 .	.	16F	vi-	.	.	16A	vi-	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 4D	.	8.F	-ci-	1r	.	8.A	-ci-	1r	.	4r	.
@@ -356,8 +356,8 @@
 .	.	16BB	-ra	16D	la	.	.	.	.	.	.
 4C	.	8.C	pun-	8.E	fe-	4r	.	4e	-to	4cc	pet-
 .	.	16C	-ta> al	16E	-ra	.	.	.	.	.	.
-4D	#	8.D	pet-	8.F#X	pun-	4d	al	8d	sten-	[4b	-to
-.	.	.	.	.	.	.	.	8A	.	.	.
+4D	#	8.D	pet-	8.F#X	pun-	4d	al	8dL	sten-	[4b	-to
+.	.	.	.	.	.	.	.	8AJ	.	.	.
 .	.	16D	-to	16F#i	-ta al	.	.	.	.	.	.
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
 1E	#	1E	sten-	4G#X	pet-	4B	pet-	1e	.	4b]	.

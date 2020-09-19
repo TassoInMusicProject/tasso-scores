@@ -31,8 +31,8 @@
 .	.	.	.	8G	Que-	.	.	.	.	8b-y	Que-
 .	.	.	.	8A	-sta,	.	.	.	.	8cc	-sta,
 4G	.	4r	.	4B-y	<Que-	4r	.	4r	.	4dd	Que-
-8G	.	8G	Que-	[4d	-sta>	8B-y	Que-	8g	Que-	[4b-y	-sta
-8A	.	8A	-sta	.	.	8c	-sta,	8f	-sta,	.	.
+8GL	.	8G	Que-	[4d	-sta>	8B-y	Que-	8g	Que-	[4b-y	-sta
+8AJ	.	8A	-sta	.	.	8c	-sta,	8f	-sta,	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 4B-y	.	4B-y	que-	4d]	.	4d	<Que-	4f	Que-	4b-]	.
 4B-y	.	8B-y	-sta	4B-y	bel-	8d	-sta>	8f	-sta	4b-y	bel-
@@ -95,18 +95,18 @@
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 4r	.	4r	.	4r	.	4r	.	4r	.	4r	.
 4BB-y	.	4BB-y	O	4B-y	O	4d	O	4f	O	4b-y	O
-8BB-y	.	8BB-y	miei	8B-y	miei	8d	miei	8f	miei	8b-y	miei
-8BB-y	.	8BB-y	fa-	8B-y	fa-	8d	fa-	8f	fa-	8b-y	fa-
-8E-X	6	8E-X	-mo-	8B-y	-mo-	8e-X	-mo-	8g	-mo-	8cc	-mo-
-8F	.	8F	-si A-	8A	-si A-	8c	-si A-	8f	-si A-	8cc	-si A-
+8BB-yL	.	8BB-y	miei	8B-y	miei	8d	miei	8f	miei	8b-y	miei
+8BB-yJ	.	8BB-y	fa-	8B-y	fa-	8d	fa-	8f	fa-	8b-y	fa-
+8E-XL	6	8E-X	-mo-	8B-y	-mo-	8e-X	-mo-	8g	-mo-	8cc	-mo-
+8FJ	.	8F	-si A-	8A	-si A-	8c	-si A-	8f	-si A-	8cc	-si A-
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 4BB-y	.	8BB-y	-man-	8B-y	-man-	8d	-man-	8f	-man-	8b-y	-man-
 .	.	8BB-y	-ti	8B-y	-ti	8d	-ti	8f	-ti	8b-y	-ti
 4B-y	.	8B-y	ec-	8B-y	ec-	8d	ec-	8f	ec-	8b-y	ec-
 .	.	8B-y	-co	8B-y	-co,	8d	-co,	8f	-co,	8b-y	-co
 4B-y	.	4B-y	ec-	2d	ec-	4d	ec-	4f	ec-	2b-y	ec-
-8A	6	8A	-co	.	.	8c	-co	8f	-co	.	.
-8G	6	8G	si	.	.	8B-y	si	8e	si	.	.
+8AL	6	8A	-co	.	.	8c	-co	8f	-co	.	.
+8GJ	6	8G	si	.	.	8B-y	si	8e	si	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 1F	.	1F	chie-	4A	-co	4c	chie-	1f	chie-	4a	-co
 .	.	.	.	4B-y	si	4B-y	.	.	.	4dd	si
@@ -153,8 +153,8 @@
 2.D	6	2.D	Io	1r	.	4B-y	-pie	1r	.	2.dd	-rò
 .	.	.	.	.	.	4A	ri-	.	.	.	.
 .	.	.	.	.	.	2A	-chez-	.	.	.	.
-8E	.	8E	che	.	.	.	.	.	.	4cc	d’am-
-8F	.	8F	sa-	.	.	.	.	.	.	.	.
+8EL	.	8E	che	.	.	.	.	.	.	4cc	d’am-
+8FJ	.	8F	sa-	.	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 2.G	.	2.G	-rò	1r	.	1B-y	-ze	2.d	Io	4b-y	-pie
 .	.	.	.	.	.	.	.	.	.	4a	ric-
@@ -170,8 +170,8 @@
 .	.	.	.	8B-y	sa-	.	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 4C	.	4C	-ze,	2.c	-rò	1r	.	4e	-pie	4cc]	.
-8D	.	8D	che	.	.	.	.	4d	ric-	4b-y	d’am-
-8E	.	8E	sa-	.	.	.	.	.	.	.	.
+8DL	.	8D	che	.	.	.	.	4d	ric-	4b-y	d’am-
+8EJ	.	8E	sa-	.	.	.	.	.	.	.	.
 [2F	.	[2F	-rò	.	.	.	.	[2c	-chez-	4a	-pie
 .	.	.	.	4B-y	d’am-	.	.	.	.	4g	ric-
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
@@ -356,10 +356,10 @@
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
 4B-y	.	8r	.	1r	.	1r	.	8d	-tu-	4f	-tu-
 .	.	8B-y	sei	.	.	.	.	8d	-ra i-	.	.
-8A	.	8A	di	.	.	.	.	8c	-nu-	4a	-ra,
-8G	.	8G	na-	.	.	.	.	8B-y	-til	.	.
-4.F	.	8F	-tu-	.	.	.	.	8A	do-	8r	.
-.	.	8G	-ra i-	.	.	.	.	8B-y	.	8b-y	sei
+8AL	.	8A	di	.	.	.	.	8c	-nu-	4a	-ra,
+8GJ	.	8G	na-	.	.	.	.	8B-y	-til	.	.
+4.F	.	8F	-tu-	.	.	.	.	8AL	do-	8r	.
+.	.	8G	-ra i-	.	.	.	.	8B-yJ	.	8b-y	sei
 .	.	8F	-nu-	.	.	.	.	4c	.	8a	di
 8E-X	.	8E-i	-til	.	.	.	.	.	.	8g	na-
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58

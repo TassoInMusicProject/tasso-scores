@@ -32,16 +32,16 @@
 =2	=2	=2	=2	=2	=2
 1r	.	2r	.	2dd	gli al-
 .	.	2f	.	4cc	-tri un
-.	.	.	.	8aL	che
-.	.	.	.	8b-yJ	le
+.	.	.	.	8a	che
+.	.	.	.	8b-y	le
 =3	=3	=3	=3	=3	=3
 1r	.	4f	Vo-	4cc	piu-
 .	.	4f	-la	4a	-me ha
 .	.	2g	fra	2b-y	spar-
 =4	=4	=4	=4	=4	=4
 1r	.	4f	gli al-	2a	-te
-.	.	8dL	-tri un	.	.
-.	.	8eJ	che	.	.
+.	.	8d	-tri un	.	.
+.	.	8e	che	.	.
 .	.	4f	le	2a	Di
 .	.	4d	piu-	.	.
 =5	=5	=5	=5	=5	=5
@@ -51,12 +51,12 @@
 4c	fra	4e	.	.	.
 =6	=6	=6	=6	=6	=6
 2d	gli al-	2f	.	4f	-ri,
-.	.	.	.	8aL	che
-.	.	.	.	8b-yJ	le
+.	.	.	.	8a	che
+.	.	.	.	8b-y	le
 4c	-tri un	4g	-te,	4.cc	piu-
-8AL	che	4cc	Vo-	.	.
-8B-yJ	le	.	.	16b-yLL	.
-.	.	.	.	16aJJ	.
+8A	che	4cc	Vo-	.	.
+8B-y	le	.	.	16b-yL	.
+.	.	.	.	16aJ	.
 =7	=7	=7	=7	=7	=7
 4c	piu-	4cc	-la	4g	.
 4A	-me ha	4cc	fra	2a	-me ha
@@ -64,21 +64,21 @@
 .	.	.	.	4g	spar-
 =8	=8	=8	=8	=8	=8
 4A	-te,	4cc	-tri un	4a	-te,
-4F	Vo-	8aL	che	8ccL	che
-.	.	8b-yJ	le	8b-yJ	le
+4F	Vo-	8a	che	8cc	che
+.	.	8b-y	le	8b-y	le
 4F	-la	4cc	piu-	4a	piu-
 4F	fra	4a	-me ha	[4f	-me ha
 =9	=9	=9	=9	=9	=9
 2G	gli al-	2b-y	spar-	4f]	.
 .	.	.	.	4e	spar-
 4F	-tri un	4a	-te,	2f	-te,
-8DL	che	8fL	che	.	.
-8EJ	le	8gJ	le	.	.
+8D	che	8f	che	.	.
+8E	le	8g	le	.	.
 =10	=10	=10	=10	=10	=10
 4.F	piu-	4.a	piu-	4r	.
 .	.	.	.	4c	Vo-
-16ELL	.	16gLL	.	.	.
-16DJJ	.	16fJJ	.	.	.
+16EL	.	16gL	.	.	.
+16DJ	.	16fJ	.	.	.
 4E	.	4g	.	4c	-la
 4F	-me ha	4a	-me ha	4c	fra
 =11	=11	=11	=11	=11	=11
@@ -87,8 +87,8 @@
 8D	.	.	.	.	.
 8EJ	.	.	.	.	.
 4F	.	4a	-te,	4c	-tri un
-8FL	-te	4cc	Vo-	4f	che
-8GJ	Di	.	.	.	.
+8F	-te	4cc	Vo-	4f	che
+8G	Di	.	.	.	.
 =12	=12	=12	=12	=12	=12
 4A	co-	4cc	-la	4e	le
 4A	-lor	4cc	fra	2f	piu-
@@ -96,9 +96,9 @@
 .	.	.	.	4g	-me ha
 =13	=13	=13	=13	=13	=13
 4A	-ri,	4cc	-tri un	4.a	spar-
-8FL	che	8aL	che	.	.
-8GJ	le	8b-yJ	le	16gLL	.
-.	.	.	.	16fJJ	.
+8F	che	8a	che	.	.
+8G	le	8b-y	le	16gL	.
+.	.	.	.	16fJ	.
 4A	piu-	4cc	piu-	4e	.
 4F	-me ha	4a	-me ha	[4f	.
 =14	=14	=14	=14	=14	=14
@@ -137,8 +137,8 @@
 4A	sno-	4r	.	4cc	sno-
 4F	-d'in	4c	E	4a	-d'in
 4A	gui-	4f	lin-	4cc	gui-
-4B-y	-sa	4f	-gua	8b-yL	-sa
-.	.	.	.	8aJ	lar-
+4B-y	-sa	4f	-gua	8b-y	-sa
+.	.	.	.	8a	lar-
 =21	=21	=21	=21	=21	=21
 2.c	lar-	4e	sno-	2.g	-ga e
 .	.	4c	-d'in	.	.
@@ -238,8 +238,8 @@
 4r	.	4r	.	4r	.
 [4G	Tac-	[4BnX	Tac-	[4d	Tac-
 =40	=40	=40	=40	=40	=40
-8GL]	.	8BL]	.	8dL]	.
-8GJ	-que-	8BnXiJ	-que-	8dJ	-que-
+8G]	.	8B]	.	8d]	.
+8G	-que-	8BnXi	-que-	8d	-que-
 4G	-ro	4Bni	-ro	4d	-ro
 2C	gli al-	2c	gli al-	2e-X	gli al-
 =41	=41	=41	=41	=41	=41
@@ -281,8 +281,8 @@
 4.F	.	8AL	.	.	.
 .	.	8B-y	.	8gL	.
 .	.	8c	.	8a	.
-16ELL	.	8dJ	.	8b-yJ	.
-16DJJ	.	.	.	.	.
+16EL	.	8dJ	.	8b-yJ	.
+16DJ	.	.	.	.	.
 =49	=49	=49	=49	=49	=49
 1C	.	4e	.	4cc	.
 .	.	2f	.	4a	.

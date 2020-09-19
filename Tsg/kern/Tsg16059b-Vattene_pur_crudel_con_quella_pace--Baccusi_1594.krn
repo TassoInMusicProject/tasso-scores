@@ -29,11 +29,11 @@
 !!LO:TX:a:t=Sesta stanza.
 2.f	Vat-	2r	.	2r	.
 .	.	2.a	Vat-	2.cc	Vat-
-8fL	-te-	.	.	.	.
-8fJ	-ne	.	.	.	.
+8f	-te-	.	.	.	.
+8f	-ne	.	.	.	.
 4f	pur,	.	.	.	.
-4f	cru-	8aL	-te-	8ccL	-te-
-.	.	8aJ	-ne	8ccJ	-ne
+4f	cru-	8a	-te-	8cc	-te-
+.	.	8a	-ne	8cc	-ne
 2f	-del,	4a	pur,	4cc	pur,
 .	.	4a	cru-	4cc	cru-
 =2	=2	=2	=2	=2	=2
@@ -61,8 +61,8 @@
 4G	-sci a	4g	-sci a	4bnX	-sci a
 2A	me:	2e	me:	2cc	me:
 4F	vat-	4f	vat-	4a	vat-
-8FL	-te-	8fL	-te-	8aL	-te-
-8FJ	-ne i-	8fJ	-ne i-	8aJ	-ne i-
+8F	-te-	8f	-te-	8a	-te-
+8F	-ne i-	8f	-ne i-	8a	-ne i-
 =5	=5	=5	=5	=5	=5
 4c	-ni-	4e	-ni-	2.g	-ni-
 4B-y	-quo ho-	4d	-quo ho-	.	.
@@ -95,31 +95,31 @@
 4F	-ce	2f	-gua-	2a	.
 4f	In-	.	.	.	.
 =8	=8	=8	=8	=8	=8
-8eL	-dis-	2c	-ce	2g	-ce
+8e	-dis-	2c	-ce	2g	-ce
 8d	-so-	.	.	.	.
 8c	-lu-	.	.	.	.
-8B-yJ	-bil-	.	.	.	.
+8B-y	-bil-	.	.	.	.
 4A	-men-	4r	.	4r	.
 4F	-te a	4a	In-	4cc	In-
-4G	ter-	8gL	-dis-	8b-yL	-dis-
+4G	ter-	8g	-dis-	8b-y	-dis-
 .	.	8f	-so-	8a	-so-
 4G	-go ha-	8e	-lu-	8g	-lu-
-.	.	8dJ	-bil-	8fJ	-bil-
+.	.	8d	-bil-	8f	-bil-
 2A	-vra-	4c	-men-	4e	-men-
 .	.	4e	-te a	4cc	-te a
 =9	=9	=9	=9	=9	=9
 4D	-i,	4f	ter-	4a	ter-
 4d	In-	4f	-go ha-	4b-y	-go ha-
-8cL	-dis-	2e	-vrai,	2cc	-vrai,
+8c	-dis-	2e	-vrai,	2cc	-vrai,
 8B-y	-so-	.	.	.	.
 8A	-lu-	.	.	.	.
-8GJ	-bil-	.	.	.	.
+8G	-bil-	.	.	.	.
 4F	-men-	4f	In-	4a	In-
 4G	-te a	4b-y	-dis-	4dd	-dis-
-4A	ter-	8aL	-so-	8ccL	-so-
+4A	ter-	8a	-so-	8cc	-so-
 .	.	8g	-lu-	8b-y	-lu-
 4A	-go ha-	8f	-bil-	8a	-bil-
-.	.	8eJ	-men-	8gJ	-men-
+.	.	8e	-men-	8g	-men-
 =10	=10	=10	=10	=10	=10
 2B-y	-vra-	4d	-te a	4f	-te a
 .	.	4e	ter-	4g	ter-
@@ -153,21 +153,21 @@
 .	.	.	.	4g	.
 4A	-ce	4e	-ce	4a	-ce
 4d	Tan-	4f	Tan-	4a	Tan-
-8cL	-to	8eL	-to	8ccL	-to
+8c	-to	8e	-to	8cc	-to
 8A	t'ag-	8c	t'ag-	8cc	t'ag-
 8B-y	-gi-	8d	-gi-	8b-y	-gi-
-8cJ	-te-	8eJ	-te-	8gJ	-te-
+8c	-te-	8e	-te-	8g	-te-
 4F	-rò,	4f	-rò,	4a	-rò,
 4B-y	Tan-	4f	Tan-	4dd	Tan-
 =14	=14	=14	=14	=14	=14
-8AL	-to	8aL	-to	8ccL	-to
+8A	-to	8a	-to	8cc	-to
 8F	t'ag-	8a	t'ag-	8a	t'ag-
 8G	-gi-	8g	-gi-	8b-y	-gi-
-8AJ	-te-	8eJ	-te-	8ccJ	-te-
+8A	-te-	8e	-te-	8cc	-te-
 4D	-rò	4f	-rò	4dd	-rò
 4d	quan-	4f	quan-	4a	quan-
-4B-y	-to	8gL	-to	4b-y	-to
-.	.	8dJ	t'a-	.	.
+4B-y	-to	8g	-to	4b-y	-to
+.	.	8d	t'a-	.	.
 4B-y	t'a-	2f	-ma-	4a	t'a-
 2c	-ma-	.	.	2g	-ma-
 .	.	4e	.	.	.
@@ -201,7 +201,7 @@
 .	.	.	.	[4a	.
 8d	.	8f	.	.	.
 =18	=18	=18	=18	=18	=18
-4.B-y	.	4.d	.	8aL]	.
+4.B-y	.	4.d	.	8a]L	.
 .	.	.	.	8gJ	.
 .	.	.	.	4.g	.
 8c	.	8e	.	.	.

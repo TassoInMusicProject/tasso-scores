@@ -29,10 +29,10 @@
 !!LO:TX:a:t=Prima parte
 1GG	.	1r	.	1r	.	4r	.	1r	.	1r	.
 .	.	.	.	.	.	4G	Ri-	.	.	.	.
-.	.	.	.	.	.	16B-yLL	-man-	.	.	.	.
+.	.	.	.	.	.	16B-yL	-man-	.	.	.	.
 .	.	.	.	.	.	16A	.	.	.	.	.
 .	.	.	.	.	.	16B-y	.	.	.	.	.
-.	.	.	.	.	.	16cJJ	.	.	.	.	.
+.	.	.	.	.	.	16cJ	.	.	.	.	.
 .	.	.	.	.	.	[4d	.	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 2E-X	.	1r	.	1r	.	4d]	.	1r	.	1r	.
@@ -58,8 +58,8 @@
 4C	.	.	.	.	.	4c	-do>	.	.	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 8DL	.	1r	.	1r	.	8r	.	1r	.	1r	.
-8E	.	.	.	.	.	8G	a	.	.	.	.
-8F	.	.	.	.	.	8A	te	.	.	.	.
+8EJ	.	.	.	.	.	8G	a	.	.	.	.
+8FL	.	.	.	.	.	8A	te	.	.	.	.
 8DJ	.	.	.	.	.	8B-y	non	.	.	.	.
 8EL	.	.	.	.	.	8c	li-	.	.	.	.
 8FJ	.	.	.	.	.	8A	-ce	.	.	.	.
@@ -69,8 +69,8 @@
 4F	.	.	.	.	.	8.c	-co	.	.	.	.
 .	.	.	.	.	.	16B-y	ve-	.	.	.	.
 8BB-yL	.	.	.	.	.	2B-y	-nir	.	.	.	.
-8GG	.	.	.	.	.	.	.	.	.	.	.
-8AA	.	.	.	.	.	.	.	.	.	.	.
+8GGJ	.	.	.	.	.	.	.	.	.	.	.
+8AAL	.	.	.	.	.	.	.	.	.	.	.
 8BB-yJ	.	.	.	.	.	.	.	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 2C	.	1r	.	1r	.	8r	.	1r	.	1r	.
@@ -101,8 +101,8 @@
 4B-y	.	4B-y	o	.	.	.	.	.	.	8a	al-
 .	.	.	.	.	.	.	.	.	.	8g	-tra
 8B-yL	.	8B-y	va	8d	va	4r	.	4r	.	4.f	via
-8B-y	.	8B-y	per	8d	per	.	.	.	.	.	.
-8A	.	8A	al-	8c	al-	4A	o	4f	o	.	.
+8B-yJ	.	8B-y	per	8d	per	.	.	.	.	.	.
+8AL	.	8A	al-	8c	al-	4A	o	4f	o	.	.
 8GJ	.	8G	-tra	8B-y	-tra	.	.	.	.	8g	fe-
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 2.F	.	2.F	via	2A	via	8d	va	8f	va	2.a	-li-
@@ -158,8 +158,8 @@
 8FJ	.	8F	guer-	8A	guer-	8c	guer-	8f	guer-	8a	guer-
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 8B-yL	.	8B-y	-rier	8d	-rier	8B-y	-rier	8f	-rier	8b-y	-rier
-8B-y	.	8B-y	co-	8B-y	co-	8d	co-	8f	co-	8b-y	co-
-8E-X	.	8E-X	-sì	8B-y	-sì	8e-X	-sì	8g	-sì	8b-y	-sì
+8B-yJ	.	8B-y	co-	8B-y	co-	8d	co-	8f	co-	8b-y	co-
+8E-XL	.	8E-X	-sì	8B-y	-sì	8e-X	-sì	8g	-sì	8b-y	-sì
 8E-iJ	.	8E-i	le	8G	le	8d	le	8g	le	8b-y	le
 2F	.	2F	di-	2c	di-	2c	di-	2f	di-	2a	di-
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
@@ -247,12 +247,12 @@
 2D	.	2D	-ta	.	.	2d	-ta>	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
 8r	.	8r	.	8r	.	8r	.	8r	.	8r	.
-8BB-yL	.	8BB-y	Già	8B-y	Già	8d	Già	8f	Già	8b-y	Già
-8BB-y	.	8BB-y	buo-	8B-y	buo-	8d	buo-	8f	buo-	8b-y	buo-
+8BB-y	.	8BB-y	Già	8B-y	Già	8d	Già	8f	Già	8b-y	Già
+8BB-yL	.	8BB-y	buo-	8B-y	buo-	8d	buo-	8f	buo-	8b-y	buo-
 8BB-yJ	.	8BB-y	-na	8B-y	-na	8d	-na	8f	-na	8b-y	-na
 8B-yL	.	8B-y	pez-	8B-y	pez-	8d	pez-	8f	pez-	8b-y	pez-
-8B-y	.	8B-y	-za in	8d	-za in	8d	-za in	8f	-za in	8b-y	-za in
-8B-y	6	8B-y	di-	8G	di-	8d	di-	8g	di-	8b-y	di-
+8B-yJ	.	8B-y	-za in	8d	-za in	8d	-za in	8f	-za in	8b-y	-za in
+8B-yL	6	8B-y	di-	8G	di-	8d	di-	8g	di-	8b-y	di-
 8AJ	.	8A	-spet-	8A	-spet-	8c	-spet-	8f	-spet-	8cc	-spet-
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
 4G	.	4G	-to-	4B-y	-to-	4d	-to-	4f	-to-	4b-y	-to-

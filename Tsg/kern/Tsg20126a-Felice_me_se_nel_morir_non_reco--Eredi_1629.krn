@@ -98,10 +98,10 @@
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 4C]	.	4C]	.	1r	.	2r	.	2g	-mor	4e	sol>
 4BB	.	4BB	-gno	.	.	.	.	.	.	4d	sde-
-2C	.	8C	me-	.	.	8e	ven-	8g	ven-	4c	-gno
-.	.	8D	.	.	.	8d	-go	8f	-ga	.	.
-.	.	8E	.	.	.	4c	sol	4e	sol	4g	me-
-.	.	8C	.	.	.	.	.	.	.	.	.
+2C	.	8CL	me-	.	.	8e	ven-	8g	ven-	4c	-gno
+.	.	8DJ	.	.	.	8d	-go	8f	-ga	.	.
+.	.	8EL	.	.	.	4c	sol	4e	sol	4g	me-
+.	.	8CJ	.	.	.	.	.	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 1G	.	1G	.	1r	.	4B	sde-	4d	sde-	1g	-co
 .	.	.	.	.	.	4c	-gno	4c	-gno	.	.
@@ -127,8 +127,8 @@
 .	.	4FF	com-	.	.	4c	com-	4f	com-	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 2AA	.	2AA	-pa-	4r	.	2A	-pa-	4e	-pa-	4r	.
-.	.	.	.	4E	com-	.	.	8d	.	4a	com-
-.	.	.	.	.	.	.	.	8c	.	.	.
+.	.	.	.	4E	com-	.	.	8dL	.	4a	com-
+.	.	.	.	.	.	.	.	8cJ	.	.	.
 2GG	.	2GG	-gno e-	[2G	-pa-	4D	-gno,	4.d	.	4b-X	-pa-
 .	.	.	.	.	.	4G	com-	.	.	4b-i	-gno e-
 .	.	.	.	.	.	.	.	8e	-gno e-	.	.
@@ -199,8 +199,8 @@
 .	.	.	.	[2G	.	[2d	cie-	2r	.	2b	-gno
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
 1D	#	1D	cie-	2G]	.	4d]	.	1d	cie-	1a	cie-
-.	.	.	.	.	.	8c	.	.	.	.	.
-.	.	.	.	.	.	8B	.	.	.	.	.
+.	.	.	.	.	.	8cL	.	.	.	.	.
+.	.	.	.	.	.	8BJ	.	.	.	.	.
 .	.	.	.	2F#X	.	2A	.	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
 1GG	.	1GG	-co	1G	-co	4B	-co	1d	-co	1g	-co
@@ -281,8 +281,8 @@
 .	.	.	.	.	.	.	.	.	.	4.dd	tal
 4D	.	4D	E	4F#X	E	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	8dd	che’n
-8E	.	8E	se	8G	se	.	.	.	.	8cc	fe-
-8F	.	8F	gli	8A	gli	.	.	.	.	8cc	-re
+8EL	.	8E	se	8G	se	.	.	.	.	8cc	fe-
+8FJ	.	8F	gli	8A	gli	.	.	.	.	8cc	-re
 =43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
 4G	.	8G	mos-	8B	mos-	2r	.	2r	.	4b	not-
 .	.	8G	-tri	8B	-tri	.	.	.	.	.	.
@@ -297,8 +297,8 @@
 .	.	4E	-ti,	4G	-ti,	4.e	tal	4.g	tal	.	.
 4E	.	4E	<E	2r	.	.	.	.	.	4g	<E
 .	.	.	.	.	.	8e	che’n	8g	che’n	.	.
-8F	.	8F	se	.	.	8d	fe-	8f	fe-	8a	se
-8G	.	8G	gli	.	.	8d	-re	8f	-re	8b	gli
+8FL	.	8F	se	.	.	8d	fe-	8f	fe-	8a	se
+8GJ	.	8G	gli	.	.	8d	-re	8f	-re	8b	gli
 =45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
 4A	.	8A	mos-	8r	.	4c	not-	4e	not-	8cc	mo-
 .	.	8A	-tri	8c	ch’in	.	.	.	.	8cc	-stri

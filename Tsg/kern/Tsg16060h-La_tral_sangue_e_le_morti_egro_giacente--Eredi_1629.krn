@@ -208,10 +208,10 @@
 8DJ	.	8D	-mo	.	.	.	.	8f	-se in-	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
 8CL	.	8C	suo-	1r	.	1r	.	4.g	-tie-	1r	.
-8D	.	8D	-no e-	.	.	.	.	.	.	.	.
-8E	.	8E	-spres-	.	.	.	.	.	.	.	.
-8FJ	.	8F	-se in-	.	.	.	.	8fL	.	.	.
-4.G	.	4.G	-te-	.	.	.	.	8e	.	.	.
+8DJ	.	8D	-no e-	.	.	.	.	.	.	.	.
+8EL	.	8E	-spres-	.	.	.	.	.	.	.	.
+8FJ	.	8F	-se in-	.	.	.	.	8f	.	.	.
+4.G	.	4.G	-te-	.	.	.	.	8eL	.	.	.
 .	.	.	.	.	.	.	.	8dJ	.	.	.
 .	.	.	.	.	.	.	.	[4d	.	.	.
 8F	.	8F	.	.	.	.	.	.	.	.	.
@@ -223,8 +223,8 @@
 4r	.	4r	.	4r	.	4r	.	4r	.	4r	.
 4D	#	4D	E	4F#X	E	4A	E	4d	E	4a	E
 8GGL	#	8GG	cad-	8G	cad-	8BnX	cad-	8d	cad-	8g	cad-
-8GG	.	8GG	-de	8G	-de	8BnX	-de	8d	-de	8g	-de
-8GG	.	8GG	tra-	8G	tra-	8BnXi	tra-	8d	tra-	8g	tra-
+8GGJ	.	8GG	-de	8G	-de	8BnX	-de	8d	-de	8g	-de
+8GGL	.	8GG	tra-	8G	tra-	8BnXi	tra-	8d	tra-	8g	tra-
 8CJ	.	8C	-mor-	8G	-mor-	8c	-mor-	8c	-mor-	8e	-mor-
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
 4FF	.	4FF	-ti-	4F	-ti-	4A	-ti-	4c	-ti-	4f	-ti-
@@ -310,8 +310,8 @@
 4E	#	8E	Di	.	.	8G#X	Di	8e	Di	8bnX	Di
 .	.	8E	ge-	.	.	8G#i	ge-	8e	ge-	8bnXi	ge-
 4E	#	4E	-la-	.	.	4G#X	-la-	4e	-la-	4bnXi	-la-
-8E	#	8E	-to	.	.	8G#X	-to	8e	-to	8bnXi	-to
-8E	#	8E	su-	.	.	8G#i	su-	8e	su-	8bnXi	su-
+8EL	#	8E	-to	.	.	8G#X	-to	8e	-to	8bnXi	-to
+8EJ	#	8E	su-	.	.	8G#i	su-	8e	su-	8bnXi	su-
 =48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
 1AA	.	1AA	-dor	4r	.	1A	-dor	1e	-dor	2a	-dor
 .	.	.	.	4E	e i	.	.	.	.	.	.

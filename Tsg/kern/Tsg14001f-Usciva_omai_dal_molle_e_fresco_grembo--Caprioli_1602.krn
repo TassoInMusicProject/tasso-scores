@@ -27,11 +27,11 @@
 *M2/2	*	*M2/2	*	*M2/2	*
 =1	=1	=1	=1	=1	=1
 4G	U-	4b-y	U-	2r	.
-8GL	-sci-	8b-yL	-sci-	.	.
-8AJ	-va o-	8ccJ	-va o-	.	.
+8G	-sci-	8b-y	-sci-	.	.
+8A	-va o-	8cc	-va o-	.	.
 4B-y	-mai	4dd	-mai	4dd	U-
-4G	del	4b-y	del	8ddL	-sci-
-.	.	.	.	8eeJ	-va o-
+4G	del	4b-y	del	8dd	-sci-
+.	.	.	.	8ee	-va o-
 =2	=2	=2	=2	=2	=2
 2.F	mol-	2.a	mol-	4ff	-mai
 .	.	.	.	4dd	del
@@ -47,11 +47,11 @@
 .	.	2ff#X	-bo	2a	-bo
 =5	=5	=5	=5	=5	=5
 4d	De	2r	.	4ff	De
-8dL	la	.	.	8ffL	la
-8dJ	gran	.	.	8ffJ	gran
+8d	la	.	.	8ff	la
+8d	gran	.	.	8ff	gran
 4d	ma-	4aa	De	4ff	ma-
-4d	-dre	8aaL	la	4ff	-dre
-.	.	8aaJ	gran	.	.
+4d	-dre	8aa	la	4ff	-dre
+.	.	8aa	gran	.	.
 =6	=6	=6	=6	=6	=6
 2.c	sua	4aa	ma-	1ee	su-
 .	.	4aa	-dre	.	.
@@ -59,15 +59,15 @@
 4c	la	.	.	.	.
 =7	=7	=7	=7	=7	=7
 4.B-y	not-	2gg]	.	4dd	-a,
-.	.	.	.	8ddL	De
-8c	.	.	.	8ddJ	la
+.	.	.	.	8dd	De
+8c	.	.	.	8dd	la
 4.d	.	2ff	-a,	4dd	gran
 .	.	.	.	4dd	ma-
 8e	.	.	.	.	.
 =8	=8	=8	=8	=8	=8
 2f	.	4a	De	2.cc	-dre
-.	.	8aL	la	.	.
-.	.	8aJ	gran	.	.
+.	.	8a	la	.	.
+.	.	8a	gran	.	.
 2F	-t'o-	4a	ma-	.	.
 .	.	4a	-dre	4cc	su-
 =9	=9	=9	=9	=9	=9
@@ -90,15 +90,15 @@
 .	.	.	.	4dd	-re
 =13!|:	=13!|:	=13!|:	=13!|:	=13!|:	=13!|:
 4d	Au-	2r	.	4dd	lie-
-4d	-re	.	.	8ddL	-vi,
-.	.	.	.	8eeJ	por-
+4d	-re	.	.	8dd	-vi,
+.	.	.	.	8ee	por-
 4d	lie-	4a	Au-	4ff	-tan-
-8dL	-vi	4a	-re	4dd	-do e
-8eJ	por-	.	.	.	.
+8d	-vi	4a	-re	4dd	-do e
+8e	por-	.	.	.	.
 =14	=14	=14	=14	=14	=14
 4f	-tan-	4a	lie-	4cc	lar-
-4d	-do, e	8aL	-vi	4dd	-go
-.	.	8b-yJ	por-	.	.
+4d	-do, e	8a	-vi	4dd	-go
+.	.	8b-y	por-	.	.
 4c	lar-	4cc	-tan-	4ee-X	nem-
 4d	-go	4a	-do, e	8ddL	.
 .	.	.	.	8ccJ	.
@@ -122,22 +122,22 @@
 =18	=18	=18	=18	=18	=18
 2.f	Di	2r	.	1r	.
 .	.	[2cc	Di	.	.
-8e-XL	sua	.	.	.	.
-8dJ	ru-	.	.	.	.
+8e-X	sua	.	.	.	.
+8d	ru-	.	.	.	.
 =19	=19	=19	=19	=19	=19
 2e-i	-gia-	4cc]	.	1r	.
-.	.	8b-yL	sua	.	.
-.	.	8aJ	ru-	.	.
+.	.	8b-y	sua	.	.
+.	.	8a	ru-	.	.
 4e-i	-da	2b-y	-gia-	.	.
-8B-yL	pre-	.	.	.	.
-8cJ	-ci-	.	.	.	.
+8B-y	pre-	.	.	.	.
+8c	-ci-	.	.	.	.
 =20	=20	=20	=20	=20	=20
 2d	-o-	4b-y	-da	2.ff	Di
-.	.	8fL	pre-	.	.
-.	.	8gJ	-ci-	.	.
+.	.	8f	pre-	.	.
+.	.	8g	-ci-	.	.
 2c	-sa e	2a	-o-	.	.
-.	.	.	.	8ee-XL	sua
-.	.	.	.	8ddJ	ru-
+.	.	.	.	8ee-X	sua
+.	.	.	.	8dd	ru-
 =21	=21	=21	=21	=21	=21
 8cL	pu-	2g	-sa e	2ee-i	-gia-
 8B-y	.	.	.	.	.
@@ -145,9 +145,9 @@
 8dJ	.	.	.	.	.
 4.e-X	.	8gL	pu-	4ee-i	-da
 .	.	8f	.	.	.
-.	.	8g	.	8b-yL	pre-
-16dLL	.	8aJ	.	8ccJ	-ci-
-16cJJ	.	.	.	.	.
+.	.	8g	.	8b-y	pre-
+16dL	.	8aJ	.	8cc	-ci-
+16cJ	.	.	.	.	.
 =22	=22	=22	=22	=22	=22
 8B-yL	.	8b-yL	.	4dd	-o-
 8c	.	8a	.	.	.
