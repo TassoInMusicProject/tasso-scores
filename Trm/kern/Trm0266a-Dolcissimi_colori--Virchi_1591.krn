@@ -212,6 +212,7 @@
 .	.	.	.	8fJ	.	.	.	8ddJ	.
 .	.	.	.	2g	.	2cc	-gio;	2ee	.
 1F	-gio;	.	.	1a	-gio;	1r	.	1ff	-gio;
+!!LO:TX:a:t=[whole] &rarr; [whole-dot]
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
 1B-y	Sem-	1d	Sem-	1b-y	Sem-	1dd	Sem-	1%3r	.
@@ -228,6 +229,7 @@
 2.F	so-	2.A	so-	2.a	so-	2.ff	so-	2.cc	so-
 4C	-glio	4A	-glio	4a	-glio	4ee	-glio	4cc	-glio
 2D	gio-	2d	gio-	2a	gio-	2dd	gio-	2ff	gio-
+!!LO:TX:a:t=[whole-dot] &rarr; [whole]
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 1A	-i-	2e	-i-	2a	-i-	2cc#X	-i-	2ee	-i-
@@ -316,6 +318,7 @@
 .	.	2g	-cie-	2g	.	2cc	-cie-	.	.
 .	.	.	.	.	.	.	.	4ee	.
 1F	-ro,	1f	-ro,	1a	-ro,	1cc	-ro,	1ff	-ro,
+!!LO:TX:a:t=[whole] &rarr; [whole-dot]
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
 1B-y	Sem-	1f	Sem-	1b-y	Sem-	1%3r	.	1dd	Sem-
@@ -334,6 +337,7 @@
 2D	gio-	2A	gio-	2a	gio-	2ff	gio-	2dd	gio-
 1.A	-i-	1A	-i-	1a	-i-	1ee	-i-	1cc#X	-i-
 .	.	2A	-re,	2a	-re,	2ee	-re,	2cc#i	-re,
+!!LO:TX:a:t=[whole-dot] &rarr; [whole]
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 2D	-re,	4r	.	2r	.	1r	.	0r	.

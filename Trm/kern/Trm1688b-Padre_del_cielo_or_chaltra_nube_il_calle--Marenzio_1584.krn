@@ -418,6 +418,7 @@
 .	.	.	.	.	.	.	.	4a	.
 .	.	.	.	.	.	.	.	4g	.
 .	.	.	.	.	.	.	.	1a	.
+!!LO:TX:a:t=[breve] &rarr; [breve-dot]
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *col	*	*col	*	*col	*	*col	*	*col	*
@@ -436,6 +437,7 @@
 1AA	-sco	1c	-sco	1A	-sco	1f	-sco	1a	-sco
 0BB-y	lu-	0B-y	lu-	0D	lu-	0d	lu-	0f	lu-
 *Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*
+!!LO:TX:a:t=[breve-dot] &rarr; [breve]
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 1FF	-me,	1A	-me,	1F	-me,	2c	-me,	2f	-me,

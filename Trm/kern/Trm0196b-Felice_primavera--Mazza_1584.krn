@@ -133,6 +133,7 @@
 1D	ve-	1d	ve-	4A	Po	1dd	ve-
 .	.	.	.	4B-X	si	.	.
 .	.	.	.	2A	ve-	.	.
+!!LO:TX:a:t=[whole] &rarr; [whole-dot]
 =14	=14	=14	=14	=14	=14	=14	=14
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
 1G	-ste.	1d	-ste.	1G	-ste.	1b	-ste.
@@ -148,6 +149,7 @@
 2C	-ste e i	2c	-ste e i	2c	-ste e i	2ee	-ste e i
 2F	Pa-	2A	Pa-	2c	Pa-	2ff	Pa-
 2G	-sto-	2d	-sto-	2B	-sto-	2dd	-sto-
+!!LO:TX:a:t=[whole-dot] &rarr; [whole]
 =17	=17	=17	=17	=17	=17	=17	=17
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 2D	-rel-	2d	-rel-	2A	-rel-	2dd	-rel-

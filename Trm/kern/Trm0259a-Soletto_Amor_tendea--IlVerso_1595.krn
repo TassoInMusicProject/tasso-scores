@@ -104,6 +104,7 @@
 =12	=12	=12	=12
 2d	-de-	1g	-a,
 2c	-a,	.	.
+!!LO:TX:a:t=[whole] &rarr; [whole-dot]
 =13	=13	=13	=13
 *M6/2	*	*M6/2	*
 2A	Ch'a	2a	Ch'a
@@ -127,6 +128,7 @@
 2B-X	più	2d	.
 =16	=16	=16	=16
 1.A	lie-	1.e	.
+!!LO:TX:a:t=[whole-dot] &rarr; [whole]
 =17	=17	=17	=17
 *M4/2	*	*M4/2	*
 2D	-ti	2d	-ti

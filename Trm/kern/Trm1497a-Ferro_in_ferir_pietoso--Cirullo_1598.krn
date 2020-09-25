@@ -222,6 +222,7 @@
 .	.	.	.	.	.	2e	.	.	.
 .	.	.	.	4e	.	.	.	.	.
 .	.	1F	-me,	1f	-me,	1f	-me,	.	.
+!!LO:TX:a:t=[whole] &rarr; [whole-dot]
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
 2F	Ch'a-	2A	Ch'a-	2f	Ch'a-	2a	Ch'a-	2cc	Ch'a-
@@ -234,6 +235,7 @@
 2AA	tu u-	2c	tu u-	2c	tu u-	2a	tu u-	2cc	tu u-
 2BB-y	-ni-	2F	-ni-	2d	-ni-	2f	-ni-	2b-y	-ni-
 2D	-sti	2F	-sti	2d	-sti	2f	-sti	2a	-sti
+!!LO:TX:a:t=[whole-dot] &rarr; [whole]
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 1AA	l'al-	4A	l'al-	4c#X	l'al-	1e	l'al-	1a	l'al-
@@ -263,6 +265,7 @@
 .	.	.	.	4e	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31
 1FF	-me,	1c	-me,	1f	-me,	1r	.	1a	-me,
+!!LO:TX:a:t=[whole] &rarr; [whole-dot]
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
 2F	Ch'a-	2A	Ch'a-	2f	Ch'a-	2cc	Ch'a-	2a	Ch'a-
@@ -275,6 +278,7 @@
 2AA	tu u-	2c	tu u-	2c	tu u-	2cc	tu u-	2a	tu u-
 2BB-y	-ni-	2F	-ni-	2d	-ni-	2b-y	-ni-	2f	-ni-
 2D	-sti	2F	-sti	2d	-sti	2a	-sti	2f	-sti
+!!LO:TX:a:t=[whole-dot] &rarr; [whole]
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 1AA	l'al-	4A	l'al-	4c#X	l'al-	1a	l'al-	1e	l'al-

@@ -260,6 +260,7 @@
 .	.	4G	an-	.	.	.	.	.	.	.	.
 1D	-o,	2B-y	-ch'i-	1r	.	.	.	1d	-o,	.	.
 .	.	2A	-o,	.	.	2F#X	-o,>	.	.	.	.
+!!LO:TX:a:t=[whole] &rarr; [whole-dot]
 =	=	=	=	=	=	=	=	=	=	=	=
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
 2.G	Se-	2%9r	.	2.d	Se-	1.r	.	1.r	.	2.b-y	Se-
@@ -283,6 +284,7 @@
 1D	-tar	1d	-tar	1A	-tar	2.F	Se-	1f	-tar	2.a	Se-
 .	.	.	.	.	.	4F	-co	.	.	4a	-co
 2BB-y	sem-	2D	sem-	2r	.	2G	mu-	2d	sem-	2b-y	mu-
+!!LO:TX:a:t=[whole-dot] &rarr; [whole]
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 0AA	-bian-	2E	-bian-	2r	.	2A	-tar	4c	-bian-	2cc	-tar
@@ -308,6 +310,7 @@
 .	.	.	.	8B-y	.	4B-y	-so a-	4g	-so a-	.	.
 .	.	.	.	8cJ	.	.	.	.	.	.	.
 2r	.	2D	-te,	2d	.	2A	-man-	2f#X	-man-	2r	.
+!!LO:TX:a:t=[whole] &rarr; [whole-dot]
 =31.	=31.	=31.	=31.	=31.	=31.	=31.	=31.	=31.	=31.	=31.	=31.
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
 2.G	Se-	2%9r	.	2.d	Se-	1G	-te,	1g	-te,	2.b-y	Se-
@@ -331,6 +334,7 @@
 1D	-tar	1d	-tar	1A	-tar	2.F	Se-	1f	-tar	2.a	Se-
 .	.	.	.	.	.	4F	-co	.	.	4a	-co
 2BB-y	sem-	2D	sem-	2r	.	2G	mu-	2d	sem-	2b-y	mu-
+!!LO:TX:a:t=[whole-dot] &rarr; [whole]
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 0AA	-bian-	2E	-bian-	2r	.	2A	-tar	4c	-bian-	2cc	-tar

@@ -147,9 +147,11 @@
 0r	.
 =24	=24
 1r	.
+!!LO:TX:a:t=[whole] &rarr; [whole-dot]
 =25	=25
 *M6/2	*
 1%3r	.
+!!LO:TX:a:t=[whole-dot] &rarr; [whole]
 =26	=26
 *M4/2	*
 2r	.
@@ -161,9 +163,11 @@
 8G	sen-
 4C	-te-
 4C	-i,
+!!LO:TX:a:t=[whole] &rarr; [whole-dot]
 =27	=27
 *M6/2	*
 1%3r	.
+!!LO:TX:a:t=[whole-dot] &rarr; [whole]
 =28	=28
 *M4/2	*
 4r	.
