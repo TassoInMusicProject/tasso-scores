@@ -199,6 +199,7 @@
 4B	.	1B	-ro	1dd	-ro
 4c	.	.	.	.	.
 2d	.	.	.	.	.
+*col	*	*col	*	*col	*
 3d	-so	3%2A	Sia	3%2ff	Sia
 3d	Sia	.	.	.	.
 3d	que-	3A	que-	3ff	que-
@@ -206,6 +207,7 @@
 3.e	-st'om-	3.c	-st'om-	3.ee	-st'om-
 6e	-bra a	6c	-bra a	6ee	-bra a
 3A	l'ar-	3c	l'ar-	3ff	l'ar-
+*Xcol	*	*Xcol	*	*Xcol	*
 1e	-dor	1c	-dor	2ee	-dor
 .	.	.	.	2ee	che
 =25	=25	=25	=25	=25	=25
