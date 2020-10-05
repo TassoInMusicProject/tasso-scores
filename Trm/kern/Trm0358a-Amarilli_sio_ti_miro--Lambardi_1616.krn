@@ -7,7 +7,7 @@
 !!!PUB-format:
 !!!RISM: 1616-15
 !!!rime: 358
-!!!OTL: Amarilli s'io te miro
+!!!OTL: Amarilli, s'io te miro
 !!!AGN: Madrigal
 !!!SCT: Trm0358a
 !!!SCA: Trm0358a
@@ -27,6 +27,7 @@
 *omet(C.3/2)	*	*omet(C.3/2)	*
 *M3/2	*	*M3/2	*
 =1	=1	=1	=1
+!!LO:TX:a:t=A 3. [Alto or Tenore missing.]
 2r	.	2r	.
 2r	.	2r	.
 4G	A-	4dd	A-
@@ -46,20 +47,24 @@
 .	.	2ee	Mi-
 .	.	2ee	-ro il
 =7	=7	=7	=7
+*	*	*col	*
 1.r	.	2cc#X	sol
 .	.	2a	de
 .	.	[2dd	gli oc-
 =8	=8	=8	=8
 2r	.	2dd]	.
 2A	Mi-	1cc#X	-chi
+*	*	*Xcol	*
 2A	-ro il	.	.
 =9	=9	=9	=9
+*col	*	*	*
 2F#X	sol	1.dd	mie-
 2D	de	.	.
 [2G	gli oc-	.	.
 =10	=10	=10	=10
 2G]	.	2b	-i,
 1F#X	-chi	2dd	Mi-
+*Xcol	*	*	*
 .	.	2dd	-ro il
 =11	=11	=11	=11
 1G	miei,	1b	sol
@@ -94,8 +99,10 @@
 1G	al-	1b-X	al-
 2A	-tra	2a	-tra
 =22	=22	=22	=22
+*col	*	*	*
 2B-X	non	1g	non
 1G	so-	.	.
+*Xcol	*	*	*
 .	.	2f	so-
 =23	=23	=23	=23
 1.A	-spi-	1.e	-spi-
@@ -108,12 +115,16 @@
 2D	Ch'io	.	.
 2E	per	2cc	-tra
 =26	=26	=26	=26
+*col	*	*	*
 2F	al-	1b	non
 1D	-tra	.	.
+*Xcol	*	*	*
 .	.	2a	so-
 =27	=27	=27	=27
+*	*	*col	*
 1E	non	1g#X	-spi-
 2C	so-	[2a	.
+*	*	*Xcol	*
 =28	=28	=28	=28
 1.E	-spi-	2a]	.
 .	.	1g#X	.
@@ -136,10 +147,12 @@
 2D	-tra	.	.
 [2F	non	.	.
 =34	=34	=34	=34
+*	*	*col	*
 2F]	.	2a	-tra
 1E	so-	1cc	non
 =35	=35	=35	=35
 [1.D	-spi-	1.b	so-
+*	*	*Xcol	*
 =36	=36	=36	=36
 1.D]	.	1.a	-spi-
 =37	=37	=37	=37
