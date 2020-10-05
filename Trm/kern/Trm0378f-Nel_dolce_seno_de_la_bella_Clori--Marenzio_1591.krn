@@ -27,6 +27,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=Prima parte.
 1A	Nel	0r	.	1c	Nel	0r	.	1e	Nel	1a	Nel
 2.E	dol-	.	.	2.B	dol-	.	.	2.e	dol-	2.g#X	dol-
 4E	-ce	.	.	4B	-ce	.	.	4e	-ce	4g#i	-ce
@@ -302,7 +303,7 @@
 .	.	.	.	4F#X	.	.	.	.	.	.	.
 .	.	.	.	1G#Xl	-te.	.	.	.	.	.	.
 =41||	=41||	=41||	=41||	=41||	=41||	=41||	=41||	=41||	=41||	=41||	=41||
-*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+!!LO:TX:a:t=Seconda parte.
 1E	Per-	0r	.	1G#X	Per-	0r	.	1B	Per-	1e	Per-
 1D	-ché,	.	.	1A	-ché,	.	.	1d	-ché	1f#X	-ché
 =42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
@@ -473,11 +474,13 @@
 2D	-na	2d	-na	2A	-na	2f	-na	.	.	.	.
 2D	dol-	2d	dol-	2A	dol-	2f	dol-	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61
+*col	*	*col	*	*col	*	*col	*	*	*	*	*
 6.E	-ce om-	6.B	-ce om-	6.G#X	-ce om-	6.e	-ce om-	0r	.	0r	.
 12E	-bra	12B	-bra	12G#i	-bra	12e	-bra	.	.	.	.
 6AA	Di	6c	Di	6A	Di	6e	Di	.	.	.	.
 3GG	mor-	3d	mor-	3B	mor-	3g	mor-	.	.	.	.
 6GG	-te	6d	-te	6B	-te	6g	-te	.	.	.	.
+*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*	*	*	*	*
 2C	gli oc-	2e	gli oc-	2c	gli oc-	2g	gli oc-	.	.	.	.
 4BB	-chi	4d	-chi	4d	-chi	4g	-chi	.	.	.	.
 [4C	lor	[4c	lor	[4e	lor	[4g	lor	.	.	.	.
