@@ -27,10 +27,12 @@
 *M2/1	*	*M2/1	*
 =1	=1	=1	=1
 !	!	!LO:TX:a:t=Prima stanza.	!
+*	*	*col	*
 0r	.	3%2f	E-
 .	.	3%2f	-ra
 .	.	3%2f	la
 =2	=2	=2	=2
+*col	*	*	*
 3%2F	E-	3%2.a	not-
 3%2F	-ra	.	.
 .	.	3b	-te e'l
@@ -89,6 +91,7 @@
 3%2f	e'l	3%4a	-la-
 3%2f	suo	.	.
 3%2f	stel-	3%2cc	-to
+*Xcol	*	*Xcol	*
 =15	=15	=15	=15
 2e	-la-	0cc	ve-
 2c	-to	.	.
