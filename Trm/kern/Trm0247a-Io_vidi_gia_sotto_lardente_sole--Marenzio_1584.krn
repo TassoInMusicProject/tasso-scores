@@ -71,12 +71,14 @@
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 1C	-le	1G	-le	1r	.	1c	-le	1r	.	2f]	.
 .	.	.	.	.	.	.	.	.	.	2e	-le
+*col	*	*col	*	*col	*	*col	*	*col	*	*col	*
 6FF	Di-	6F	Di-	6c	Di-	6A	Di-	6f	Di-	6a	Di-
 6C	-sco-	6G	-sco-	6c	-sco-	6E	-sco-	6e	-sco-	6g	-sco-
 6FF	-lo-	6F	-lo-	6c	-lo-	6A	-lo-	6f	-lo-	6a	-lo-
 3BB-y	-ri-	3D	-ri-	3d	-ri-	6F	-ri-	3f	-ri-	3b-y	-ri-
 .	.	.	.	.	.	3D	-ti i	.	.	.	.
 6D	-ti i	6A	-ti i	6d	-ti i	.	.	6f	-ti i	6a	-ti i
+*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 1AA	fio-	1A	fio-	1c#X	fio-	1E	fio-	2e	fio-	1a	fio-
 .	.	.	.	.	.	.	.	2e	-ri	.	.
