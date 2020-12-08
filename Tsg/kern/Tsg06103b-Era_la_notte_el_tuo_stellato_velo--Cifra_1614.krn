@@ -17,13 +17,13 @@
 *I"[Basso continuo]	*	*I"[Basso]	*	*I"[Tenore]	*	*I"[Canto II]	*	*I"[Canto I]	*
 *I'Bc	*	*I'B	*	*I'T	*	*I'C II	*	*I'C I	*
 *oclefF4	*	*oclefF4	*	*oclefC4	*	*oclefC1	*	*oclefC1	*
-*clefF4	*	*clefF4	*	*clefC4	*	*clefC1	*	*clefC1	*
+*clefF4	*	*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*F:	*	*F:	*	*F:	*	*F:	*
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!	!	!	!	!	!	!	!	!LO:TX:a:t=[Aria del Gazzella. A 4.] Prima parte.	!
+!!LO:TX:a:t=[Aria del Gazzella. A 4] Prima parte.
 2G	.	1r	.	1r	.	1r	.	2.g	E-
 [2G	.	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	8g	-ra
