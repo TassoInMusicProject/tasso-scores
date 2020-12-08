@@ -33,7 +33,7 @@
 =3	=3	=3	=3
 1c	Poi	1r	.
 2A	ri-	2r	.
-2B	-mi-	2gg	O
+2B	-mi-	2gg	"O
 =4	=4	=4	=4
 2.c	-ran-	2.ee	bel-
 4c	-do il	4ee	-le a
@@ -54,7 +54,7 @@
 4.e	bel-	2r	.
 8e	-le a	.	.
 4e	gli oc-	4r	.
-4c	-chi	4ff	"O
+4c	-chi	4ff	O
 2d	miei,	4.dd	bel-
 .	.	8dd	-le a
 4r	.	4ff	gli oc-
@@ -65,8 +65,8 @@
 4a	gli oc-	4r	.
 4e	-chi	4cc	O
 2f	miei	4.a	bel-
-.	.	8a	-le a-
-2r	.	4b	-gli oc-
+.	.	8a	-le a
+2r	.	4b	gli oc-
 .	.	4b	-chi
 =8	=8	=8	=8
 4r	.	2cc	miei
@@ -241,7 +241,7 @@
 .	.	1r	.
 4f	-lo il	.	.
 4e	cer-	.	.
-4e	-co e	.	.
+4e	-co, e	.	.
 =35	=35	=35	=35
 2d	so-	1r	.
 4c#X	-lo	.	.
