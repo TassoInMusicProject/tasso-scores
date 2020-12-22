@@ -52,7 +52,7 @@
 .	.	.	.	.	.	.	.	4cc	la
 .	.	.	.	.	.	.	.	2b	ma-
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-2C	-no	1c	-no,	1g	-no,	1ee	-no	1cc	-no
+2C	-no	1c	-no	1g	-no,	1ee	-no	1cc	-no
 2c	Che	.	.	.	.	.	.	.	.
 4B	tan-	1r	.	4r	.	1r	.	1r	.
 4G	-to e	.	.	4g	Non	.	.	.	.
@@ -71,9 +71,9 @@
 2c	Che	2c]	.	2e	sì	1g	-li,	2gg	-ta-
 4B	tan-	4G	-li,	2d	mor-	.	.	2dd	-li,
 4G	-to e	4g	Che	.	.	.	.	.	.
-4A	si	4f	tan-	2a	-ta-	2r	.	2ff	Che
+4A	sì	4f	tan-	2a	-ta-	2r	.	2ff	Che
 4B	mor-	4d	-to e	.	.	.	.	.	.
-2c	-ta-	4e	si	2g	-li,	2cc	Che	2ee	tan-
+2c	-ta-	4e	sì	2g	-li,	2cc	Che	2ee	tan-
 .	.	4f	mor-	.	.	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 2G	-li,	2g	-ta-	4r	.	2b	tan-	2dd	-to,
@@ -284,7 +284,7 @@
 .	.	.	.	.	.	.	.	2dd	Né
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31
 1C	Né	2.c	fa-	[0e	tien	2r	.	2cc	tien,
-.	.	.	.	.	.	2cc	Né	2ee	Ne
+.	.	.	.	.	.	2cc	Né	2ee	Né
 .	.	8BL	.	.	.	.	.	.	.
 .	.	8AJ	.	.	.	.	.	.	.
 [1E	tien	2G	-ce o	.	.	2b	tien	[1ee	tien
@@ -294,7 +294,7 @@
 .	.	.	.	.	.	8g#XL	.	.	.
 .	.	.	.	.	.	8f#iJ	.	.	.
 .	.	.	.	.	.	2g#X	.	.	.
-2AA	fa-	4A	-ta	2e	fa-	2.a	-ce o	2cc	fa-
+2AA	fa-	4A	-ta,	2e	fa-	2.a	-ce o	2cc	fa-
 .	.	4A	fa-	.	.	.	.	.	.
 4A	-ce o	4c	-ce o	4e	-ce o	.	.	4cc	-ce o
 4c	sa-	4c	sa-	4e	sa-	4gnXi	sa-	4cc	sa-
