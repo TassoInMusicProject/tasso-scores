@@ -23,7 +23,7 @@
 *omet(C)	*omet(C)	*	*omet(C)	*
 *M4/4	*M4/4	*	*M4/4	*
 =1	=1	=1	=1	=1
-!!LO:TX:a:t=Aria di Romanesca a 2. Soprani. [Prima stanza.]
+!!LO:TX:a:t=Aria di Romanesca a 2. Soprani. [Prima stanza]
 1BB-y	2r	.	2r	.
 .	[2dd	Fa	[2ff	Fa
 =2	=2	=2	=2	=2
@@ -93,7 +93,7 @@
 2C	8a	.	4.cc	.
 .	8g	-spa in	.	.
 .	2g	on-	.	.
-.	.	.	8b-y	-pa in
+.	.	.	8b-y	-spa in
 2D	.	.	2a	on-
 .	4f#X	.	.	.
 =12	=12	=12	=12	=12
@@ -228,7 +228,7 @@
 .	.	.	4f	-re,
 =32	=32	=32	=32	=32
 4B-]	4r	.	1r	.
-4A	8ff	e i	.	.
+4A	8ff	E i	.	.
 .	8cc	te-	.	.
 2G	4dd	-so-	.	.
 .	8cc	-ri	.	.
@@ -263,7 +263,7 @@
 =36	=36	=36	=36	=36
 1GG	1g	-de.	1g	-de.
 =37||	=37||	=37||	=37||	=37||
-!	!	!	!LO:TX:a:t=Stanza terza.	!
+!	!	!	!LO:TX:a:t=Terza stanza.	!
 1BB-y	2r	.	1r	.
 .	[2b-y	Dol-	.	.
 =38	=38	=38	=38	=38
@@ -438,7 +438,7 @@
 .	8a	-pli-	.	.
 =65	=65	=65	=65	=65
 2C	8g	-ce	8ee-X	sem-
-.	8f	la	8dd	-li-
+.	8f	la	8dd	-pli-
 .	2g	ro-	8cc	-ce
 .	.	.	8b-y	la
 2D	.	.	2a	ro-
@@ -462,7 +462,7 @@
 .	4g	So-	.	.
 .	.	.	8b-y	-seg-
 =69	=69	=69	=69	=69
-[1F	8aL	-le	2cc	-gia
+[1F	8aL	-la	2cc	-gia
 .	8b-yJ	.	.	.
 .	8aL	.	.	.
 .	8b-yJ	.	.	.
@@ -472,7 +472,7 @@
 2F]	4dd	-seg-	4r	.
 .	4cc	-gia e	4a	e
 2G	4.ee-X	sem-	4.b-y	sem-
-.	8dd	-pli-	8a	-li-
+.	8dd	-pli-	8a	-pli-
 =71	=71	=71	=71	=71
 2C	4cc	-ce	8g	-ce
 .	.	.	8f	la

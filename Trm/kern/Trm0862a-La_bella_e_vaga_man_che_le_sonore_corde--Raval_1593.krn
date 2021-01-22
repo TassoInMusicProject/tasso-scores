@@ -20,7 +20,7 @@
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
 *I'B	*	*I'V	*	*I'T	*	*I'A	*	*I'C	*
-*oclefC4	*	*oclefC3	*	*oclefC3	*	*oclefC2	*	*oclefG1	*
+*oclefC4	*	*oclefC3	*	*oclefC3	*	*oclefC2	*	*oclefG2	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *C:	*	*C:	*	*C:	*	*C:	*	*C:	*
@@ -92,7 +92,7 @@
 8F	.	4A	-gha	4c	<La	4f	-la e	.	.
 8EJ	.	.	.	.	.	.	.	.	.
 4D	.	2.B	man,	4d	bel-	4f	va-	2r	.
-8EL	.	.	.	4G	-la e	4e	-ga	.	.
+8EL	.	.	.	4G	-la e	4e	-gha	.	.
 8FJ	.	.	.	.	.	.	.	.	.
 2.G	.	.	.	8GL	va-	2d	man,>	2r	.
 .	.	.	.	8A	.	.	.	.	.
@@ -106,7 +106,7 @@
 8A	-la e	.	.	.	.	8a	-la e	.	.
 4A	va-	.	.	2r	.	4a	va-	4cc	va-
 4G	-gha	4g	-gha	.	.	4b	-gha	4dd	-gha
-2.C	man,>	2g	man,>	2G	<Le	2.cc	man,	4ee	man,>
+2.C	man,>	2g	man,>	2G	<La	2.cc	man,	4ee	man,>
 .	.	.	.	.	.	.	.	4gg	<La
 .	.	2e	La	2c	bel-	.	.	2ee	bel-
 4C	<La	.	.	.	.	4g	<La	.	.
@@ -224,7 +224,7 @@
 .	.	8B	.	8d	.	.	.	.	.
 4.F	pre-	4.A	.	4c	.	4a	<e	.	.
 .	.	.	.	.	.	.	.	8b	.
-.	.	.	.	4f	-ta,	4.cc	pre-	4.a	.
+.	.	.	.	4f	-sta,	4.cc	pre-	4.a	.
 8G	.	8B	.	.	.	.	.	.	.
 4.A	.	4.c	.	[2e	pre-	.	.	.	.
 .	.	.	.	.	.	8b	.	8b	.
@@ -255,7 +255,7 @@
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 1.F	tar-	1f]	.	1A]	.	2a]	.	2cc]	.
 .	.	.	.	.	.	2b	.	2b	.
-.	.	[1f	-da e	1A	-de e	1cc	.	1a	.
+.	.	[1f	-da e	1A	-da e	1cc	.	1a	.
 2E	.	.	.	.	.	.	.	.	.
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 *	*	*	*	*	*	*lig	*	*	*
@@ -272,7 +272,7 @@
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 1E	.	1g	gra-	1.e	tar-	1b	-ve,	2gg]	.
 .	.	.	.	.	.	.	.	2ff	.
-[1A	gra-	1a	-ve,	.	.	[1cc	tard-	1ee	.
+[1A	gra-	1a	-ve,	.	.	[1cc	tar-	1ee	.
 .	.	.	.	2d	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 2A]	.	1e	tar-	1c	.	2cc]	.	1.gg	.
@@ -546,7 +546,7 @@
 .	.	.	.	.	.	8dL	can-	2.ff	can-
 .	.	.	.	.	.	8e	.	.	.
 .	.	.	.	.	.	8fnXi	.	.	.
-.	.	.	.	.	.	8gnXJ	.	.	.
+.	.	.	.	.	.	8gnXiJ	.	.	.
 .	.	.	.	.	.	8aL	.	.	.
 .	.	.	.	.	.	8bJ	.	.	.
 .	.	.	.	.	.	2cc	.	4ee	-to

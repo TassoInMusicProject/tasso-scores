@@ -45,7 +45,7 @@
 2C	la	.	.	.	.	2e	que-
 2D	ma-	1Fni	-no,	1a	Non	4f	-sta
 .	.	.	.	.	.	4d	la
-2D	-no	.	.	.	.	[2dd	ma-
+2D	-no,	.	.	.	.	[2dd	ma-
 =5	=5	=5	=5	=5	=5	=5	=5
 2r	.	1r	.	2d	&egrave;	4dd]	.
 .	.	.	.	.	.	8cc#iL	.
@@ -91,7 +91,7 @@
 4G	-li e	4B	-li e	.	.	4g	fa-
 2F	stra-	2c	stra-	2A	-li,	4a	-cel-
 .	.	.	.	.	.	4b	-li e
-2F	-li?	2A	-li,	4r	.	2cc	stra-
+2F	-li,	2A	-li,	4r	.	2cc	stra-
 .	.	.	.	4F	fa-	.	.
 =11	=11	=11	=11	=11	=11	=11	=11
 2r	.	4r	.	4.A	-cel-	4cc	-li,
@@ -114,7 +114,7 @@
 .	.	[2B-	Ec-	.	.	[2g	Ec-
 =13	=13	=13	=13	=13	=13	=13	=13
 1D	-co	2B-]	.	1d]	.	2g]	.
-.	.	2A	-co,	.	.	2f#X	-co,
+.	.	2A	-co	.	.	2f#X	-co,
 1r	.	1G	che	1d	-co,	2r	.
 .	.	.	.	.	.	[2b-	<Ec-
 =14	=14	=14	=14	=14	=14	=14	=14
@@ -135,7 +135,7 @@
 2E	-le	1c	-le	1r	.	1r	.
 2F#X	mie	.	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17
-1G	man	1B	mie	2r	.	1dd	Nel-
+1G	man,	1B	mie	2r	.	1dd	Nel-
 .	.	.	.	2d	Nel-	.	.
 1r	.	1A	man,	2e	-le	1cc	-le
 .	.	.	.	2f#X	mie	.	.
@@ -158,7 +158,7 @@
 .	.	.	.	4d	for-	4fni	for-
 .	.	.	.	4c	-z'od	4g	-z'od
 .	.	2r	.	2f	ar-	2a	ar-
-.	.	4r	.	4e	-te	4b	-te
+.	.	4r	.	4e	-te,	4b	-te
 .	.	4E	N&eacute;	4e	<N&eacute;	[4cc	per
 =21	=21	=21	=21	=21	=21	=21	=21
 1r	.	4F	for-	4A	for-	4cc]	.
@@ -175,7 +175,7 @@
 2E	ar-	4c	-gir	4e	-gir	2g	-va,
 .	.	4B	le	4e	le	.	.
 4F#X	-te	4A	gio-	2d	gio-	4r	.
-2G	per	4G	-va.	.	.	2b	per
+2G	per	4G	-va,	.	.	2b	per
 .	.	4g	per	4d	-va,	.	.
 4A	fug-	4e	fug-	4a	fug-	4cc#X	fug-
 4D	-gir	4f	-gir	4a	-gir	4dd	-gir
@@ -247,7 +247,7 @@
 4B	le	4d	le	4g	le	4dd	le
 2A	ren-	2e	ren-	2a	ren-	2cc#X	ren-
 =33	=33	=33	=33	=33	=33	=33	=33
-2D	-da.	2f	-da.	2a	-da,	2dd	-da,
+2D	-da,	2f	-da,	2a	-da,	2dd	-da,
 2D	bac-	2f	bac-	4r	.	2a	bac-
 .	.	.	.	4d	bac-	.	.
 4C#X	-ci	4e	-ci	4e	-ci	4a	-ci
