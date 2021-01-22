@@ -389,7 +389,7 @@
 1GG;l	.	1GG;l	-no.	1G;l	-no.	1BnX;l	-no.	1d;l	-no.	1g;l	-no.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [*]s6
+!!!system-decoration: [s1,s2,s3,s4,s5]s6
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

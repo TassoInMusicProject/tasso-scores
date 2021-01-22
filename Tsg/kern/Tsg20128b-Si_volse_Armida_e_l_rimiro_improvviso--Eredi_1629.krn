@@ -360,7 +360,7 @@
 1GGl	.	1GGl	-na.	1Gl	-na.	1Bl	-na.	1dl	-na.	1gl	-na.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [*]s6
+!!!system-decoration: [s1,s2,s3,s4,s5]s6
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

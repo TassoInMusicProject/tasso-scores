@@ -402,7 +402,7 @@
 1Dl	.	1Dl	-te>.	1Dl	-te.	1Al	-te.	1dl	-te>.	1f#Xl	-te.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [*]s6
+!!!system-decoration: [s1,s2,s3,s4,s5]s6
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

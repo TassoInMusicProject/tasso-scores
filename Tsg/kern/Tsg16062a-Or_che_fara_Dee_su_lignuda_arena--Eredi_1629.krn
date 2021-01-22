@@ -443,7 +443,7 @@
 1GG;l	.	1GG;l	-la.	1G;l	-la.	1G;l	-la.	1d;l	-la.	1g;l	-la.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [*]s6
+!!!system-decoration: [s1,s2,s3,s4,s5]s6
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**kern: i = editorial accidental

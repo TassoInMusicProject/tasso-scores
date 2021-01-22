@@ -504,7 +504,7 @@
 1GGl	.	1GGl	-mi.	1Bl	-mi.	1Gl	-mi.	1dl	-mi.	1gl	-mi.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [*]s6
+!!!system-decoration: [s1,s2,s3,s4,s5]s6
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi

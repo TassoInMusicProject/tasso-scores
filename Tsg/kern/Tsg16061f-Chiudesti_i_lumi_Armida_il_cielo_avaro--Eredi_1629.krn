@@ -349,7 +349,7 @@
 1GG;l	.	1GG;l	-di.	1G;l	-di.	1G;l	-di.	1d;l	-di.	1bnX;l	-di.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [*]s6
+!!!system-decoration: [s1,s2,s3,s4,s5]s6
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long
 !!!ENC: Emiliano Ricciardi
