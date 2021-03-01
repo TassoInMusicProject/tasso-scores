@@ -277,9 +277,9 @@
 .	.	4f	mi	4d	mi
 .	.	2e	diè	2c#X	diè
 =27	=27	=27	=27	=27	=27
-1D	ba-	2f	ba	4r	.
+1D	ba-	2f	ba-	4r	.
 .	.	.	.	4.a	ba-
-.	.	4d	ci,	.	.
+.	.	4d	-ci,	.	.
 .	.	.	.	8g	-ci
 .	.	4.a	ba-	4f	le
 1D	-ci	.	.	4d	ren-
@@ -316,8 +316,8 @@
 .	.	4d	-da,	4.dd	ba-
 2G	le	4r	.	.	.
 .	.	.	.	8cc	-ci
-.	.	4.d	ba-	4b	le-
-1D	ren-	.	.	4a	-ren
+.	.	4.d	ba-	4b	le
+1D	ren-	.	.	4a	ren-
 .	.	8c	-ci	.	.
 .	.	4B	le	4.g	.
 .	.	2A	ren-	.	.
@@ -325,7 +325,7 @@
 .	.	.	.	16eJ	.
 .	.	.	.	4f#i	.
 =31	=31	=31	=31	=31	=31
-0Gl	-da.	0Bl	-da.	0gl	da.
+0Gl	-da.	0Bl	-da.	0gl	-da.
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]
