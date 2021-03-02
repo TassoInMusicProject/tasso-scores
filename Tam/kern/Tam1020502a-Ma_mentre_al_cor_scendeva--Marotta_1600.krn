@@ -128,7 +128,7 @@
 4c	-to	.	.	.	.
 .	.	8dd	-to	8ff	-to
 4c	n'a-	4cc	n'a-	4ee	n'a-
-2c	-vea	1g	-vea,	1cc	-vea,
+2c	-vea,	1g	-vea,	1cc	-vea,
 4C	<Tal	.	.	.	.
 4C	di-	.	.	.	.
 =13	=13	=13	=13	=13	=13
@@ -152,7 +152,7 @@
 4E-X	fin-	4ee-X	fin-	.	.
 2B-X	-gen-	2dd	-gen-	.	.
 4B-X	-do	4dd	-do	.	.
-4c	ch'an-	4cc	Ch'an-	.	.
+4c	Ch'an-	4cc	Ch'an-	.	.
 =16	=16	=16	=16	=16	=16
 2G	-cor	2.b	-cor	0r	.
 2G	non	.	.	.	.
@@ -228,7 +228,7 @@
 8A	-la	.	.	.	.
 8G	più	.	.	.	.
 4A	vol-	2dd	-te	2r	.
-4G	-te,>	.	.	.	.
+4G	-te>	.	.	.	.
 2r	.	8r	.	8r	.
 .	.	8b	Vi	8dd	Vi
 .	.	8g	re-	8b	re-
@@ -273,8 +273,8 @@
 8r	.	8cc	-to,	8cc	-to,
 8C	<Vi	8ee	<Vi	8cc	<Vi
 8C	re-	8ee	re-	8cc	re-
-8C	-pli-	8ee	-pli-	8cc	-pli
-4F	-cò	4cc	-cò	4a	coò
+8C	-pli-	8ee	-pli-	8cc	-pli-
+4F	-cò	4cc	-cò	4a	-cò
 4D	l'in-	4ff	l'in-	4dd	l'in-
 =34	=34	=34	=34	=34	=34
 2A	-can-	2ee	-can-	2cc#X	-can-
