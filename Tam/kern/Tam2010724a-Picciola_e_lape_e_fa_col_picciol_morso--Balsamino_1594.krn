@@ -68,11 +68,11 @@
 8	.	.	8G	-ve	8d	-ve	8g	-ve	.	.	8b	-ve
 =4-	=4-	=4-	=4-	=4-	=4-	=4-	=4-	=4-	=4-	=4-	=4-	=4-
 4	1r	.	4G	spa-	4d	spa-	4g	spa-	1r	.	4b	spa-
-2	.	.	2c	-zio en-	2e	-zio en-	2g	-zio en-	.	.	2cc	-zio en-
+2	.	.	2c	-zio en-	2e	-zio en-	2g	-zio en-	.	.	2ccny	-zio en-
 4	.	.	4c	-tra,	4e	-tra,	4g	-tra,	.	.	4cc	-tra,
 4	1r	.	4r	.	4r	.	4r	.	1r	.	4r	.
 8	.	.	8G	e	8d	e	8g	e	.	.	8b	e
-8	.	.	8A	s'a-	8c	s'a-	8e	s'a-	.	.	8cc	s'a-
+8	.	.	8A	s'a-	8cny	s'a-	8e	s'a-	.	.	8cc	s'a-
 4	.	.	4G	-scon-	4B	-scon-	4g	-scon-	.	.	4dd	-scon-
 4	.	.	4G	-de In	4d	-de In	4g	-de In	.	.	4b	-de In
 4	1r	.	4c	o-	4e	o-	4g	o-	1r	.	4cc	o-
@@ -97,7 +97,7 @@
 4	1r	.	4A	tra'	1r	.	4e	tra'	1r	.	4cc	tra'
 4	.	.	4A	mi-	.	.	4f	mi-	.	.	4cc	mi-
 4	.	.	4B	-nu-	.	.	4f#X	-nu-	.	.	4dd	-nu-
-4	.	.	4B	-ti	.	.	4g	-ti	.	.	4dd	-ti
+4	.	.	4B	-ti	.	.	4gny	-ti	.	.	4dd	-ti
 4	1r	.	4c	ri-	1r	.	4g	ri-	1r	.	4ee	ri-
 8	.	.	8c	-vi	.	.	8g	-vi	.	.	8ee	-vi
 8	.	.	8c	D'un	.	.	8a	D'un	.	.	8ee	D'un
@@ -295,11 +295,11 @@
 2	2G	or-	2d	or-	2g	or-	2b	or-	2dd	or-	2gg	or-
 2	2C	-si	2e	-si	2g	-si	2cc	-si	2cc	-si	2ee	-si
 =26-	=26-	=26-	=26-	=26-	=26-	=26-	=26-	=26-	=26-	=26-	=26-	=26-
-1.	1.E	Ché	1r	.	1.e	Ché	1r	.	1.g#X	Ché	1.b	Ché
-.	.	.	1r	.	.	.	1r	.	.	.	.	.
+1	1.E	Ché	1r	.	1.e	Ché	1r	.	1.g#X	Ché	1.b	Ché
+2	.	.	1r	.	.	.	1r	.	.	.	.	.
 2	2F	si	.	.	2c	si	.	.	2a	si	2a	si
-1.	1.G	pla-	.	.	1.g	pla-	.	.	1.b	pla-	1.dd	pla-
-.	.	.	1r	.	.	.	1r	.	.	.	.	.
+1	1.G	pla-	1r	.	1.g	pla-	1r	.	1.b	pla-	1.dd	pla-
+2	.	.	1r	.	.	.	1r	.	.	.	.	.
 4	4D	-ca-	.	.	4f#X	-ca-	.	.	4a	-ca-	4dd	-ca-
 4	4D	-no	.	.	4f#X	-no	.	.	4a	-no	4dd	-no
 =27-	=27-	=27-	=27-	=27-	=27-	=27-	=27-	=27-	=27-	=27-	=27-	=27-
