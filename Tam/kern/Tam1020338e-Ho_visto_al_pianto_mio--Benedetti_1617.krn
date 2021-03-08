@@ -17,8 +17,8 @@
 **kern	**kern	**text
 *part2	*part1	*part1
 *staff2	*staff1	*staff1
-*I"B.c.	*I"Canto	*
-*I'B	*I'C	*
+*I"Basso continuo	*I"Canto	*
+*I'B.c.	*I'C	*
 *oclefF4	*oclefC1	*
 *clefF4	*clefG2	*
 *k[b-]	*k[b-]	*
@@ -148,7 +148,7 @@
 .	[4cc	-der
 =20	=20	=20
 2F	8cc]	.
-.	8ee-X	com-
+.	8ee-X	Com-
 .	8ee-X	-pas-
 .	8ee-X	-si-
 2C	[2ee-X	-on
@@ -165,13 +165,13 @@
 .	8b-]	.
 .	8cc	-le e
 =23	=23	=23
-1D	2f#X	bel
-.	2f#X	la,
+1D	2f#X	bel-
+.	2f#X	-la,
 =24	=24	=24
 1D	4r	.
 .	8d	Ch'io
 .	8e	non
-.	4f#X	sò
+.	4f#X	so
 .	8f#X	s'io
 .	8g	mi
 =25	=25	=25
