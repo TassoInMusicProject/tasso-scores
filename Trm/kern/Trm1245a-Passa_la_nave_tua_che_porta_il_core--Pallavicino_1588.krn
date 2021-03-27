@@ -203,8 +203,8 @@
 1r	.	2r	.	4A	-an-	8eL	ven-	4cc	ven-
 .	.	.	.	.	.	8f	.	.	.
 .	.	.	.	4B	-do i	8g	.	8bL	.
-.	.	.	.	.	.	8f	.	8a	.
-.	.	4r	.	8cL	ven-	8e	.	8g	.
+.	.	.	.	.	.	8fJ	.	8aJ	.
+.	.	4r	.	8cL	ven-	8eL	.	8gL	.
 .	.	.	.	8d	.	8dJ	.	8f	.
 .	.	4C	Spi-	8e	.	[4cnXi	.	8e	.
 .	.	.	.	8fnXiJ	.	.	.	8dJ	.
@@ -227,8 +227,8 @@
 8AL	.	1r	.	8cL	.	2a	-ver-	4cc	-an-
 8GJ	.	.	.	8B	.	.	.	.	.
 4F	.	.	.	8A	.	.	.	4dd	-do i
-.	.	.	.	8G	.	.	.	.	.
-2C	-ti,	.	.	8E	.	4g	-no a-	8eeL	ven-
+.	.	.	.	8GJ	.	.	.	.	.
+2C	-ti,	.	.	8EL	.	4g	-no a-	8eeL	ven-
 .	.	.	.	8FJ	.	.	.	8dd	.
 .	.	.	.	4G	.	2g	-mo-	8cc	.
 .	.	.	.	.	.	.	.	8bJ	.
@@ -246,8 +246,8 @@
 8EL	.	2c	-mo-	4.G	.	2r	.	2ee	-ver-
 8DJ	.	.	.	.	.	.	.	.	.
 4C	-ti>	.	.	.	.	.	.	.	.
-.	.	.	.	8AL	.	.	.	.	.
-2G	al	4B	-re,	8B	.	4r	.	2dd	-no,
+.	.	.	.	8A	.	.	.	.	.
+2G	al	4B	-re,	8BL	.	4r	.	2dd	-no,
 .	.	.	.	8c	.	.	.	.	.
 .	.	4B	Spi-	8d	.	4G	Spi-	.	.
 .	.	.	.	8eJ	.	.	.	.	.
@@ -396,8 +396,8 @@
 1r	.	8AL	.	1r	.	8cL	.	2cc	ve-
 .	.	8B	.	.	.	8d	.	.	.
 .	.	8c	.	.	.	8e	.	.	.
-.	.	8d	.	.	.	8fJ	.	.	.
-.	.	8e	.	.	.	2g	.	2b	-la,
+.	.	8dJ	.	.	.	8fJ	.	.	.
+.	.	8eL	.	.	.	2g	.	2b	-la,
 .	.	8fJ	.	.	.	.	.	.	.
 .	.	[4g	.	.	.	.	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47	=47	=47
@@ -407,8 +407,8 @@
 .	.	.	.	.	.	.	.	4g	la
 1G	Em-	2d	Em-	2G	Em-	4B	-pie	4.b	ve-
 .	.	.	.	.	.	4d	la	.	.
-.	.	.	.	.	.	.	.	8ccL	.
-.	.	4B	-pie	4B	-pie	8GL	ve-	8dd	.
+.	.	.	.	.	.	.	.	8cc	.
+.	.	4B	-pie	4B	-pie	8GL	ve-	8ddL	.
 .	.	.	.	.	.	8A	.	8cc	.
 .	.	4d	la	4G	la	8B	.	8b	.
 .	.	.	.	.	.	8cJ	.	8aJ	.
@@ -416,16 +416,16 @@
 2G	-pie	8dL	ve-	4.B	ve-	4d	.	4.g	.
 .	.	8c	.	.	.	.	.	.	.
 .	.	8B	.	.	.	4d	-la,	.	.
-.	.	8AJ	.	8c	.	.	.	8aL	.
-2G	la	2G	.	4d	.	4r	.	8b	.
+.	.	8AJ	.	8c	.	.	.	8a	.
+2G	la	2G	.	4d	.	4r	.	8bL	.
 .	.	.	.	.	.	.	.	8ccJ	.
 .	.	.	.	8cL	.	4d	la	4.dd	.
 .	.	.	.	8BJ	.	.	.	.	.
 2F	ve-	2A	-la,	8AL	.	8fL	ve-	.	.
 .	.	.	.	8B	.	8g	.	8ccL	.
 .	.	.	.	8c	.	8a	.	8a	.
-.	.	.	.	8d	.	8fJ	.	8b	.
-2E	-la,	2r	.	8e	.	4g	.	8cc	.
+.	.	.	.	8dJ	.	8fJ	.	8bJ	.
+2E	-la,	2r	.	8eL	.	4g	.	8ccL	.
 .	.	.	.	8fJ	.	.	.	8b	.
 .	.	.	.	[4g	.	4e	-la,	8b	.
 .	.	.	.	.	.	.	.	16a	.
@@ -437,24 +437,24 @@
 4C	la	.	.	.	.	.	.	.	.
 4.E	ve-	2C	Em-	4r	.	1g	Em-	4r	.
 .	.	.	.	4G	la	.	.	2e	Em-
-8FL	.	.	.	.	.	.	.	.	.
-8G	.	4E	-pie	8CL	ve-	.	.	.	.
+8F	.	.	.	.	.	.	.	.	.
+8GL	.	4E	-pie	8CL	ve-	.	.	.	.
 8F	.	.	.	8D	.	.	.	.	.
 8E	.	4C	la	8E	.	.	.	4g	-pie
 8DJ	.	.	.	8FnXiJ	.	.	.	.	.
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50
 4C	.	4.E	ve-	4.G	.	2g	-pie	4e	la
 8BBL	.	.	.	.	.	.	.	4.g	ve-
-8AA	.	8F	.	8AL	.	.	.	.	.
-8GG	.	4G	.	8B	.	2g	la	.	.
+8AAJ	.	8F	.	8A	.	.	.	.	.
+8GGL	.	4G	.	8BL	.	2g	la	.	.
 8AA	.	.	.	8cJ	.	.	.	8fL	.
 8BB	.	8FL	.	2d	.	.	.	8d	.
 8CJ	.	8EJ	.	.	.	.	.	8eJ	.
 2D	.	8DL	.	.	.	2f	ve-	8fL	.
 .	.	8E	.	.	.	.	.	8g	.
 .	.	8F	.	4A	-la	.	.	8a	.
-.	.	8G	.	.	.	.	.	8bJ	.
-2AA	-la	8A	.	4r	.	2e	-la	4cc	.
+.	.	8GJ	.	.	.	.	.	8bJ	.
+2AA	-la	8AL	.	4r	.	2e	-la	4cc	.
 .	.	8BJ	.	.	.	.	.	.	.
 .	.	[4c	.	4c	e	.	.	4ee	-la e
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51
@@ -480,8 +480,8 @@
 1G	.	8BL	-tor-	8dL	-tor-	4r	.	4.g	ras-
 .	.	8A	.	8c	.	.	.	.	.
 .	.	8B	.	8d	.	4G	<e	.	.
-.	.	8c	.	8e	.	.	.	8a	-se-
-.	.	8B	.	8d	.	4.d	ras-	8bL	-re-
+.	.	8cJ	.	8eJ	.	.	.	8a	-se-
+.	.	8BL	.	8dL	.	4.d	ras-	8bL	-re-
 .	.	8c	.	8c	.	.	.	8a	.
 .	.	8d	.	8B	.	.	.	8b	.
 .	.	8eJ	.	8AJ	.	8c	-se-	8ccJ	.
@@ -514,8 +514,8 @@
 .	.	4f#X	-ce ar-	.	.	.	.	4a	-ce ar-
 2GG	-ia,	4g	-do-	2G	-ia	4d	-rp'il	4b	-do-
 .	.	8fnXiL	.	.	.	2d	dol-	8aL	.
-.	.	8eJ	.	.	.	.	.	8g	.
-2r	.	4d	.	2r	.	.	.	8a	.
+.	.	8eJ	.	.	.	.	.	8gJ	.
+2r	.	4d	.	2r	.	.	.	8aL	.
 .	.	.	.	.	.	.	.	8bJ	.
 .	.	4c	.	.	.	4e	-ce ar-	[4cc	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57
@@ -562,8 +562,8 @@
 4D	.	2r	.	8f#XL	.	8AL	.	1r	.
 .	.	.	.	8dJ	.	8B	.	.	.
 4C	.	.	.	4.g	.	8c	.	.	.
-.	.	.	.	.	.	8B	.	.	.
-2D	.	[2d	e	.	.	8A	.	.	.
+.	.	.	.	.	.	8BJ	.	.	.
+2D	.	[2d	e	.	.	8AL	.	.	.
 .	.	.	.	8f#XL	.	8GJ	.	.	.
 .	.	.	.	8f#i	.	4A	.	.	.
 .	.	.	.	16e	.	.	.	.	.
@@ -571,8 +571,8 @@
 =61	=61	=61	=61	=61	=61	=61	=61	=61	=61
 2G	-re,	4d]	.	4.g	.	2G	-re,	2b	e
 .	.	2G	tem-	.	.	.	.	.	.
-.	.	.	.	8fnXiL	.	.	.	.	.
-2C	e	.	.	8e	.	2r	.	2.ee	tem-
+.	.	.	.	8fnXi	.	.	.	.	.
+2C	e	.	.	8eL	.	2r	.	2.ee	tem-
 .	.	.	.	8dJ	.	.	.	.	.
 .	.	4A	-pr'il	4c	.	.	.	.	.
 2GG	tem-	2B	dol-	4B	-re,	2d	il	.	.
@@ -600,7 +600,7 @@
 *	*	*col	*	*	*	*	*	*col	*
 !!*rscale:3/2	*	*rscale:3/2	*	*	*	*	*	*	*
 *Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*
-!!LO:TX:a:t=Seconda parte. [breve-dot] = [breve]
+!!LO:TX:a:t=Seconda parte.
 0r	.	3%4G	Neb-	0r	.	0r	.	3%2.dd	Neb-
 .	.	.	.	.	.	.	.	3cc	.
 .	.	3%2G	-bia	.	.	.	.	3b	.
@@ -717,8 +717,8 @@
 .	.	.	.	.	.	4d	Le	2dd	Le
 1r	.	1r	.	1r	.	4.e	sar-	.	.
 .	.	.	.	.	.	.	.	4.ccnXi	sar-
-.	.	.	.	.	.	8dL	.	.	.
-.	.	.	.	.	.	8e	.	.	.
+.	.	.	.	.	.	8d	.	.	.
+.	.	.	.	.	.	8eL	.	.	.
 .	.	.	.	.	.	8fJ	.	8bL	.
 .	.	.	.	.	.	[4g	.	8b	.
 .	.	.	.	.	.	.	.	16a	.
@@ -877,16 +877,16 @@
 =96	=96	=96	=96	=96	=96	=96	=96	=96	=96
 0r	.	0r	.	0r	.	4f	-mi-	4a	.
 .	.	.	.	.	.	4e	-ci	8gL	.
-.	.	.	.	.	.	.	.	8f	.
-.	.	.	.	.	.	8gL	se-	8e	.
+.	.	.	.	.	.	.	.	8fJ	.
+.	.	.	.	.	.	8gL	se-	8eL	.
 .	.	.	.	.	.	8f	.	8d	.
 .	.	.	.	.	.	8e	.	8c	.
 .	.	.	.	.	.	8dJ	.	8dJ	.
 .	.	.	.	.	.	8cL	.	8eL	.
 .	.	.	.	.	.	8d	.	8f	.
 .	.	.	.	.	.	8e	.	8g	.
-.	.	.	.	.	.	8f	.	8a	.
-.	.	.	.	.	.	8g	.	8b	.
+.	.	.	.	.	.	8fJ	.	8aJ	.
+.	.	.	.	.	.	8gL	.	8bL	.
 .	.	.	.	.	.	8aJ	.	8cc	.
 .	.	.	.	.	.	[4g	.	8dd	.
 .	.	.	.	.	.	.	.	8bJ	.
