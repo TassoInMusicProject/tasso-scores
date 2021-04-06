@@ -32,28 +32,28 @@
 8GL	.	8G	che	.	.	8B-y	che	8d	che	.	.
 8FJ	.	8F	fa-	.	.	8c	fa-	8f	fa-	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-2BB-y	.	2BB-y	-rà	2B-y	Hor	2d	-rà,	2f	-rà,	1r	.
+2BB-y	.	2BB-y	-rà,	2B-y	Hor	2d	-rà,	2f	-rà,	1r	.
 4r	.	2r	.	4r	.	4r	.	4r	.	.	.
 8B-yL	.	.	.	8B-y	che	8d	<che	8d	che	.	.
 8AJ	.	.	.	8A	fa-	8c	fa-	8e	fa-	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-2G	.	2G	Hor	2d	-rà	2B-y	-rà,>	4g	-rà,	2r	.
-.	.	.	.	.	.	.	.	4d	hor	.	.
+2G	.	2G	Hor	2d	-rà?	2B-y	-rà,>	4g	-rà,	2r	.
+.	.	.	.	.	.	.	.	4d	Hor	.	.
 4r	.	4r	.	2r	.	4r	.	4r	.	4r	.
 8DL	.	8D	che	.	.	8A	<che	8d	che	8f	Che
 8CJ	.	8C	fa-	.	.	8c	fa-	8e	fa-	8g	fa-
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
-2F	.	2F	-rà	4r	.	2c	-rà>	2f	-rà	2a	-rà
-.	.	.	.	4A	dée in	.	.	.	.	.	.
-2BB-y	.	2r	.	8B-y	sù	2r	.	2r	.	2r	.
+2F	.	2F	-rà?	4r	.	2c	-rà?>	2f	-rà?	2a	-rà?
+.	.	.	.	4A	Dée in	.	.	.	.	.	.
+2BB-y	.	2r	.	8B-y	su	2r	.	2r	.	2r	.
 .	.	.	.	8c	l’i-	.	.	.	.	.	.
 .	.	.	.	8d	-gnu-	.	.	.	.	.	.
 .	.	.	.	8B-y	-da a-	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 2F	.	1r	.	4c	-re-	4r	.	1r	.	1r	.
-.	.	.	.	8c	-na,	4A	dée in	.	.	.	.
+.	.	.	.	8c	-na,	4A	Dée in	.	.	.	.
 .	.	.	.	8F	<dée in	.	.	.	.	.	.
-2G	.	.	.	8G	sù	8B-y	su	.	.	.	.
+2G	.	.	.	8G	su	8B-y	su	.	.	.	.
 .	.	.	.	8A	l’i-	8c	l’i-	.	.	.	.
 .	.	.	.	8B-y	-gnu-	8d	-gnu-	.	.	.	.
 .	.	.	.	8G	-da a-	8B-y	-da a-	.	.	.	.
@@ -109,7 +109,7 @@
 .	.	.	.	.	.	8B-y	lo	2g	-fre-	8b-y	-tà
 .	.	.	.	.	.	8c	ri-	.	.	8a	l’af-
 2D	.	4r	.	4r	.	4.d	-tien	.	.	[2a	-fre-
-.	.	8D	Cor-	8F	Cor-	.	.	4f	-na	.	.
+.	.	8D	Cor-	8F	Cor-	.	.	4f	-na,	.	.
 .	.	8D	-te-	8F	-te-	8A	pie-	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 4D	.	4D	-sia	4F	-sia	4A	-tà	2r	.	4a]	.
@@ -125,7 +125,7 @@
 8EL	.	8E	-tà	8G	-tà	.	.	8e	lo	2cc	-fre-
 8DJ	.	8D	l’af-	8A	l’af-	.	.	8f	ri-	.	.
 2C	.	4E	-fre-	4.c	-fre-	4r	.	[2g	-tien	.	.
-.	.	4C	-na	.	.	8G	Cor-	.	.	4g	-na
+.	.	4C	-na	.	.	8G	Cor-	.	.	4g	-na,
 .	.	.	.	8G	.	8G	-te-	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 4G	.	1r	.	4B-y	.	4G	-sia	8g]	.	2r	.
@@ -180,7 +180,7 @@
 8DJ	.	8D	-si-	.	.	.	.	.	.	.	.
 2F	.	2F	-tà	.	.	8A	-ra	8c	-ra	.	.
 .	.	.	.	.	.	8G	ne-	8B-y	ne-	.	.
-.	.	.	.	[2A	<du-	8A	-ces-	8c	-ces-	.	.
+.	.	.	.	[2A	<Du-	8A	-ces-	8c	-ces-	.	.
 .	.	.	.	.	.	8F	-si-	8A	-si-	.	.
 4D	.	4D	se-	.	.	4A	-tà,	[4d	-tà	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
@@ -195,7 +195,7 @@
 4FF	.	4F	-co	4A	se-	8c	-ces-	4f	por-	8a	-ces-
 .	.	.	.	.	.	8A	-si-	.	.	8f	-si-
 4C	.	4C	ne’l	8G	-co	2c	-tà>	4e	.	2g	-tà>
-.	.	.	.	8G	nel	.	.	.	.	.	.
+.	.	.	.	8G	ne'l	.	.	.	.	.	.
 2GG	.	2G	por-	2G	por-	.	.	2d	-ta>	.	.
 .	.	.	.	.	.	4B-y	se-	.	.	4g	se-
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
@@ -388,7 +388,7 @@
 .	.	2AA	.	.	.	4r	.	2e	ce-	4e	ce-
 .	.	.	.	4c#X	.	4E	Ei	.	.	4a	.
 =57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
-2.D	#	1D	-la	1d	-la,	4F#X	guar-	1d	-la	2a	-la
+2.D	#	1D	-la,	1d	-la,	4F#X	guar-	1d	-la,	2a	-la,
 .	.	.	.	.	.	4G	-da il	.	.	.	.
 .	.	.	.	.	.	4A	li-	.	.	4r	.
 4D	.	.	.	.	.	8A	-do,	.	.	4a	Ei
@@ -399,7 +399,7 @@
 4BB-y	.	4r	.	4r	.	2B-y	li-	.	.	2dd	li-
 4D	6	4D	Ei	4F	Ei	.	.	.	.	.	.
 =59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
-4E	.	4E	guar-	4G	guar-	2c	-do,> e’l	2r	.	2cc	-do,
+4E	.	4E	guar-	4G	guar-	2c	-do,> e'l	2r	.	2cc	-do,
 4F	.	4F	-da il	4A	-da il	.	.	.	.	.	.
 2G	.	2G	li-	8B-yL	li-	4.B-y	li-	4r	.	2r	.
 .	.	.	.	8GJ	.	.	.	.	.	.	.
@@ -407,7 +407,7 @@
 .	.	.	.	.	.	8B-y	-do ec-	.	.	.	.
 =60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
 2GG	.	2GG	.	4d]	.	4B-y	-co	4d	guar-	4r	.
-.	.	.	.	4G	-do e’l	4B-y	si	4e	-da il	4g	<Ei
+.	.	.	.	4G	-do e'l	4B-y	si	4e	-da il	4g	<Ei
 2D	.	2D	-do,	4F	li-	4A	ce-	2f	li-	4a	guar-
 .	.	.	.	4G	-do ec-	4D	-la,	.	.	4b-y	-da il
 =61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61
@@ -421,16 +421,16 @@
 .	.	.	.	4A	Ei	4F	-do	4c	<Ei	4a	si
 8F	.	8F	-do> e’l	.	.	.	.	.	.	.	.
 4F	6	4F	li-	4B-y	guar-	2r	.	4d	guar-	4g	ce-
-4E	.	4E	-do ec-	4c	-da il	.	.	4e	-da il	8g	-la
+4E	.	4E	-do ec-	4c	-da il	.	.	4e	-da il	8g	-la,
 .	.	.	.	.	.	.	.	.	.	8g	Ei
 =63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
 1D	.	1D	-co	2.d	li-	4r	.	2.f	li-	4f	guar-
 .	.	.	.	.	.	4D	<Ei	.	.	4g	-da il
 .	.	.	.	.	.	4F	guar-	.	.	4a	li-
-.	.	.	.	4D	-do	4G	-da il	4f	-do> e‘l	4b-y	-do e‘l
+.	.	.	.	4D	-do	4G	-da il	4f	-do> e'l	4b-y	-do e'l
 =64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
 1C	6	1C	si	4r	.	4A	li-	4e	li-	4cc	li-
-.	.	.	.	4G	e’l	4G	-do> e’l	[4e	-do ec-	4b-y	-do ec-
+.	.	.	.	4G	e'l	4G	-do> e'l	[4e	-do ec-	4b-y	-do ec-
 .	.	.	.	4C	li-	4c	li-	8e]	.	4a	-co
 .	.	.	.	.	.	.	.	8e	-co	.	.
 .	.	.	.	4G	-do ec-	4B-y	-do ec-	4e	si	4g	si
