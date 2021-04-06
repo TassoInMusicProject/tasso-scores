@@ -53,7 +53,7 @@
 16FJ	.	16F	do-	16A	do-	16c	do-	16fnX	do-	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 2BB-y	.	4BB-y	-ve-	4F	-ve-	4d	-ve-	4f	-ve-	4r	.
-.	.	4BB-y	-vi	4F	-vi,	4d	-vi	4f	-vi,	4dd	e
+.	.	4BB-y	-vi,	4F	-vi,	4d	-vi,	4f	-vi,	4dd	e
 4E-X	.	2r	.	2r	.	2r	.	2r	.	4g	de-
 4D	#	.	.	.	.	.	.	.	.	8.g	-gno
 .	.	.	.	.	.	.	.	.	.	16f#X	Ben
@@ -81,11 +81,11 @@
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
 4B-y	.	4B-y	de-	4d	de-	1r	.	4f	de-	4b-y	de-
 4G	.	8.G	-gno	8.d	-gno	.	.	8.g	-gno	8.b-y	-gno
-.	.	16F#X	Ben’	16d	Ben’	.	.	16a	Ben’	16a	Ben
+.	.	16F#X	Ben	16d	Ben	.	.	16a	Ben	16a	Ben
 2A	.	2A	e-	4d	e-	.	.	2e	e-	2a	e-
 .	.	.	.	4c#X	.	.	.	.	.	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-4D	.	2D	-ra,	4d	-ra,	4r	.	2d	-ra,	4a	-ra
+4D	.	2D	-ra,	4d	-ra,	4r	.	2d	-ra,	4a	-ra,
 4BB-y	.	.	.	2d	in	4f	in	.	.	4r	.
 2C	9:8	2r	.	.	.	4.e-X	quel	2r	.	2r	.
 .	.	.	.	[4c	quel	.	.	.	.	.	.
@@ -110,8 +110,8 @@
 8GJ	.	8G	pri-	8B-y	pri-	8B-y	pri-	8d	pri-	8g	pri-
 8DL	.	8D	-gion	8d	-gion	8A	-gion	8d	-gion	8a	-gion
 8GJ	.	8G	l’ha-	8B-y	l’ha-	8B-y	l’ha-	8d	l’ha-	8g	l’ha-
-4F	.	4F	-ve-	4A	-ves-	4c	-ves-	4f	-ve-	4a	-ve-
-4F	.	4F	-sti	4A	-ti	4c	-ti	4f	-sti;	4a	-sti;
+4F	.	4F	-ve-	4A	-ve-	4c	-ve-	4f	-ve-	4a	-ve-
+4F	.	4F	-sti;	4A	-sti;	4c	-sti;	4f	-sti;	4a	-sti;
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 2D	.	4r	.	2r	.	1r	.	1r	.	1r	.
 .	.	4D	hor	.	.	.	.	.	.	.	.
@@ -214,7 +214,7 @@
 4D]	.	1r	.	1r	.	1r	.	1r	.	4f#]	.
 4D	#	.	.	.	.	.	.	.	.	8f#X	se
 .	.	.	.	.	.	.	.	.	.	8f#i	bel-
-4D	.	.	.	.	.	.	.	.	.	4f#X	-tà
+4D	#	.	.	.	.	.	.	.	.	4f#X	-tà
 4GG	.	.	.	.	.	.	.	.	.	4g	può
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
 2.D	#	1r	.	4r	.	4r	.	1r	.	4a	nul-
@@ -223,7 +223,7 @@
 4D	#	.	.	8F#X	se	8A	se	.	.	.	.
 .	.	.	.	8F#i	bel-	8A	bel-	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
-4D	.	1r	.	4F#X	-tà	4A	-tà	1r	.	2r	.
+4D	#	1r	.	4F#X	-tà	4A	-tà	1r	.	2r	.
 4G	.	.	.	4G	può	4B-y	può	.	.	.	.
 2F	.	.	.	4A	nul-	4c	nul-	.	.	4r	.
 .	.	.	.	4A	-la	4c	-la	.	.	4a	o
