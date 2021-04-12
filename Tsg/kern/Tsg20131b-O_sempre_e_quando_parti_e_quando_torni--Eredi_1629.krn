@@ -29,7 +29,7 @@
 !	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Nona parte	!
 1GG	.	1r	.	1r	.	1r	.	1r	.	2dd	O
 .	.	.	.	.	.	.	.	.	.	8b	sem-
-.	.	.	.	.	.	.	.	.	.	8dd	-pre e
+.	.	.	.	.	.	.	.	.	.	8dd	-pre, e
 .	.	.	.	.	.	.	.	.	.	8cc	quan-
 .	.	.	.	.	.	.	.	.	.	8b	-do
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
@@ -41,7 +41,7 @@
 .	.	.	.	.	.	.	.	[4d	E-	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 4GG	.	1r	.	1r	.	8B	sem-	4d]	.	2g	-ni
-.	.	.	.	.	.	8d	-pre e	.	.	.	.
+.	.	.	.	.	.	8d	-pre, e	.	.	.	.
 4C	.	.	.	.	.	8c	quan-	4e	-gual-	.	.
 .	.	.	.	.	.	8B	-do	.	.	.	.
 4AA	#6	.	.	.	.	8c	par-	8.f#i	-men-	2r	.
@@ -52,24 +52,24 @@
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 2D	#	1r	.	2d	O	2A	tor-	4g	-de-	4r	.
 .	.	.	.	.	.	.	.	4f#X	.	2d	E-
-4GG	.	.	.	8B	sem-	2G	-ni	2g	-le	.	.
-.	.	.	.	8d	-pre e	.	.	.	.	.	.
+4GG	.	.	.	8B	sem-	2G	-ni	2g	-le,	.	.
+.	.	.	.	8d	-pre, e	.	.	.	.	.	.
 4C	.	.	.	8c	quan-	.	.	.	.	4e	-gual-
 .	.	.	.	8B	-do	.	.	.	.	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
 4AA	#6	1r	.	8c	par-	1r	.	1r	.	8.f#X	-men-
 .	.	.	.	8B	-ti e	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	16f#i	-te
-4E	.	.	.	8A	quand-	.	.	.	.	4g	cru-
+4E	.	.	.	8A	quan-	.	.	.	.	4g	cru-
 .	.	.	.	8G	-do	.	.	.	.	.	.
 2D	#	.	.	2A	tor-	.	.	.	.	4g	-de-
 .	.	.	.	.	.	.	.	.	.	4f#X	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 4GG	.	2G	O	4G	-ni	4r	.	4d	O	2g	-le,
 4G	.	.	.	2G	E-	2B	E-	8B	sem-	.	.
-.	.	.	.	.	.	.	.	8d	-pre e	.	.
+.	.	.	.	.	.	.	.	8d	-pre, e	.	.
 8EL	.	8E	sem-	.	.	.	.	8c	quan-	2r	.
-8GJ	.	8G	-pre e	.	.	.	.	8B	-do	.	.
+8GJ	.	8G	-pre, e	.	.	.	.	8B	-do	.	.
 8FL	.	8F	quan-	4A	-gual-	4c	-gual-	8A	par-	.	.
 8EJ	.	8E	-do	.	.	.	.	8e	-ti e	.	.
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
@@ -82,7 +82,7 @@
 .	.	.	.	4B	cru-	.	.	4d	-ni	4dd	O
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 2C	.	2C	-ni	4c	-de-	2e	-le,	4r	.	8ee	sem-
-.	.	.	.	.	.	.	.	.	.	8dd	-pre e
+.	.	.	.	.	.	.	.	.	.	8dd	-pre, e
 .	.	.	.	4G	-le	.	.	4d	E-	8cc	quan-
 .	.	.	.	.	.	.	.	.	.	8b	-do
 4C	.	2r	.	2r	.	2r	.	4e	-gual-	8cc	par-
@@ -93,7 +93,7 @@
 2D	#	4D	E-	1r	.	4r	.	4g]	.	2a	tor-
 .	.	4D	-gual-	.	.	4d	O	4f#X	.	.	.
 2E	.	4.E	-men-	.	.	8B	sem-	2g	-te	2g	-ni
-.	.	.	.	.	.	8d	-pre e	.	.	.	.
+.	.	.	.	.	.	8d	-pre, e	.	.	.	.
 .	.	.	.	.	.	8c	quan-	.	.	.	.
 .	.	8E	-te	.	.	8B	-do	.	.	.	.
 =10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
@@ -297,7 +297,7 @@
 .	.	8G	-sco	8B	-sco	8d	-sco	8g	-sco	.	.
 =45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
 4G	.	8G	l’ar-	8B	l’ar-	8d	l’ar-	8g	l’ar-	4r	.
-.	.	8G	-te	8B	-ti	8d	-ti	8g	-ti	.	.
+.	.	8G	-ti	8B	-ti	8d	-ti	8g	-ti	.	.
 4G	.	8G	del	8B	del	8d	del	8g	del	8dd	del
 .	.	8G	fel-	8B	fel-	8d	fel-	8g	fel-	8dd	fel-
 4G	.	4G	-lo-	4B	-lo-	4d	-lo-	4g	-lo-	4dd	-lo-
@@ -361,7 +361,7 @@
 .	.	.	.	4A	puo-	2B	puo-	.	.	2b	puo-
 .	.	.	.	4G#X	.	.	.	.	.	.	.
 =54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
-1AA	.	1AA	-te,	1A	-te>,	2c	-te,	2e	-te	1a	-te,
+1AA	.	1AA	-te,	1A	-te>,	2c	-te,	2e	-te,	1a	-te,
 .	.	.	.	.	.	8r	.	8r	.	.	.
 .	.	.	.	.	.	8E	Ma	8A	Ma	.	.
 .	.	.	.	.	.	8A	ben	8c	ben	.	.
