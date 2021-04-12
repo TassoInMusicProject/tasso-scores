@@ -32,7 +32,7 @@
 [2C	.	[2C	ta-	[2G	ta-	[2c	ta-	[2e	ta-	[2g	ta-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 4C]	.	4C]	.	4G]	.	4c]	.	4e]	.	4g]	.
-4C	.	4C	-que	4E	-que	4c	-que	4e	-que	4g	-que
+4C	.	4C	-que:	4E	-que:	4c	-que:	4e	-que:	4g	-que:
 2F	.	8r	.	8r	.	8r	.	8r	.	8r	.
 .	.	8F	e	8A	e	8c	e	8f	e	8a	e
 .	.	8F	sta-	8A	sta-	8c	sta-	8f	sta-	8a	sta-
@@ -98,7 +98,7 @@
 8GJ	.	8G	il	.	.	.	.	.	.	.	.
 8FL	.	8F	più	8r	.	4c	-glie-	4c	Stra-	4e	sce-
 8EJ	.	8E	pun-	8G	il	.	.	.	.	.	.
-4D	.	4D	-gen-	8A	pù	4F	-va	4d	-le	4f	-glie-
+4D	.	4D	-gen-	8A	più	4F	-va	4d	-le	4f	-glie-
 .	.	.	.	8B	pun-	.	.	.	.	.	.
 4C	.	4C	-te e	8c	-gen-	8r	.	4e	sce-	8e	-va
 .	.	.	.	8e	-te e	8G	il	.	.	8cc	il
@@ -151,18 +151,18 @@
 4C	.	.	.	8C	e	.	.	.	.	2ee	Tan-
 .	.	.	.	8C	mi-	.	.	.	.	.	.
 2D	.	.	.	2D	-rol-	2A	-va-	4f	Ca-	.	.
-.	.	.	.	.	.	.	.	4f	-val-	8.dd	-to
+.	.	.	.	.	.	.	.	4f	-va-	8.dd	-to
 .	.	.	.	.	.	.	.	.	.	16cc	vi-
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 2E	.	1r	.	2E	-la il	2G	-lie-	2g	-lie-	8.cc	-ci-
 .	.	.	.	.	.	.	.	.	.	16b	-na a
 .	.	.	.	.	.	.	.	.	.	8.b	la
-.	.	.	.	.	.	.	.	.	.	16a	sua es-
-[2F	.	.	.	[2F	Ca-	2c	-ro	2f	-ro	4.a	-tre-
+.	.	.	.	.	.	.	.	.	.	16a	sua e-
+[2F	.	.	.	[2F	Ca-	2c	-ro	2f	-ro	4.a	-stre-
 .	.	.	.	.	.	.	.	.	.	8b	-ma
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 4F]	.	1r	.	4F]	.	4r	.	4r	.	4cc	sor-
-4F	.	.	.	4F	-val-	2f	Tan-	2a	Tan-	4a	-te,
+4F	.	.	.	4F	-va-	2f	Tan-	2a	Tan-	4a	-te,
 2G	.	.	.	2G	-lie-	.	.	.	.	2r	.
 .	.	.	.	.	.	8.e	-to	8.g	-to	.	.
 .	.	.	.	.	.	16d	vi-	16f	vi-	.	.
@@ -171,8 +171,8 @@
 .	.	.	.	.	.	16c	-na a	16e	-na a	.	.
 4C	.	8C	e	4r	.	8.c	la	8.e	la	.	.
 .	.	8C	mi-	.	.	.	.	.	.	.	.
-.	.	.	.	.	.	16B	sua es-	16d	sua es-	.	.
-2D	.	2D	-rol-	2r	.	8.B	-tre-	4d	-tre-	.	.
+.	.	.	.	.	.	16B	sua e-	16d	sua e-	.	.
+2D	.	2D	-rol-	2r	.	8.B	-stre-	4d	-stre-	.	.
 .	.	.	.	.	.	16A	-ma	.	.	.	.
 .	.	.	.	.	.	4A	sor-	4c	-ma	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
@@ -180,21 +180,21 @@
 .	.	.	.	2e	Tan-	8G	e	.	.	2g	<Tan-
 .	.	.	.	.	.	8G	mi-	.	.	.	.
 2F	.	4F	Ca-	.	.	2A	-rol-	4A	-te,	.	.
-.	.	4F	-val-	8.d	-to	.	.	[4a	<Tan-	8.f	-to
+.	.	4F	-va-	8.d	-to	.	.	[4a	<Tan-	8.f	-to
 .	.	.	.	16c	vi-	.	.	.	.	16e	vi-
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 2G	.	2G	-lie-	8.c	-ci-	2B	-la il	4a]	.	8.e	-ci-
 .	.	.	.	16B	-na a	.	.	.	.	16d	-na a
 .	.	.	.	8.B	la	.	.	8.g	-to	8.d	la
 .	.	.	.	16A	sua e-	.	.	16f	vi-	16c	sua
-4A	.	2A	-ro	4.A	-stre-	4c	Ca-	8.f	-ci-	8c	es-
-.	.	.	.	.	.	.	.	.	.	8A	-tre-
+4A	.	2A	-ro	4.A	-stre-	4c	Ca-	8.f	-ci-	8c	e-
+.	.	.	.	.	.	.	.	.	.	8A	-stre-
 .	.	.	.	.	.	.	.	16e	-na a	.	.
 4F	6	.	.	.	.	4A	-va-	8.e	la	4a	-ma
 .	.	.	.	8F	-ma	.	.	.	.	.	.
-.	.	.	.	.	.	.	.	16d	sua es-	.	.
+.	.	.	.	.	.	.	.	16d	sua e-	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
-4E	.	4r	.	4E	sor-	4B	-lie-	8.e	-tre-	4g	sor-
+4E	.	4r	.	4E	sor-	4B	-lie-	8.e	-stre-	4g	sor-
 .	.	.	.	.	.	.	.	16d	-ma	.	.
 2AA	.	2A	Tan-	4A	-te,	4c	-ro	4c	sor-	4e	-te>
 .	.	.	.	2r	.	4c	Tan-	2e	-te,>	2r	.
@@ -206,21 +206,21 @@
 .	.	16E	-na a	.	.	16G	-na a	.	.	.	.
 4E	.	8.E	la	.	.	8.G	la	.	.	8g	e
 .	.	.	.	.	.	.	.	.	.	8g	mi-
-.	.	16D	sua es-	.	.	16F	sua es-	.	.	.	.
-4D	.	4D	-tre-	.	.	4F	-tre-	.	.	2a	-rol-
+.	.	16D	sua e-	.	.	16F	sua e-	.	.	.	.
+4D	.	4D	-stre-	.	.	4F	-stre-	.	.	2a	-rol-
 4C	.	4C	-ma	.	.	4E	-ma	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
 2BB	.	2BB	sor-	4r	.	2D	sor-	4r	.	2b	-la il
 .	.	.	.	2d	<Tan-	.	.	2f	<Tan-	.	.
-2AA	.	2AA	-te	.	.	2A	-te	.	.	2cc	Ca-
+2AA	.	2AA	-te	.	.	2A	-te,	.	.	2cc	Ca-
 .	.	.	.	8.c	-to	.	.	8.e	-to	.	.
 .	.	.	.	16B	vi-	.	.	16d	vi-	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-4BB	.	1r	.	8.B	-ci-	1r	.	8.d	-ci-	4dd	-val-
+4BB	.	1r	.	8.B	-ci-	1r	.	8.d	-ci-	4dd	-va-
 .	.	.	.	16A	-na a	.	.	16c	-na a	.	.
 4C	6	.	.	8.A	la	.	.	8.c	la	2ee	-lie-
-.	.	.	.	16G	sua e-	.	.	16B	sua es-	.	.
-2E	.	.	.	4G	-stre-	.	.	4.B	-tre-	.	.
+.	.	.	.	16G	sua e-	.	.	16B	sua e-	.	.
+2E	.	.	.	4G	-stre-	.	.	4.B	-stre-	.	.
 .	.	.	.	4E	-ma	.	.	.	.	4ee	-ro
 .	.	.	.	.	.	.	.	8c	-ma	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
@@ -233,8 +233,8 @@
 4D	.	1r	.	1r	.	8.d	-ci-	1r	.	8.f	-ci-
 .	.	.	.	.	.	16c	-na a	.	.	16e	-na a
 4E	6	.	.	.	.	8.c	la	.	.	8.e	la
-.	.	.	.	.	.	16B	sua es-	.	.	16d	sua es-
-4G	.	.	.	.	.	4B	-tre-	.	.	4d	-tre-
+.	.	.	.	.	.	16B	sua e-	.	.	16d	sua e-
+4G	.	.	.	.	.	4B	-stre-	.	.	4d	-stre-
 4A	.	.	.	.	.	4A	-ma	.	.	4c	-ma
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
 2E	#	1r	.	1r	.	4A	sor-	1r	.	2B	sor-
@@ -245,8 +245,8 @@
 2F	.	2F	Già	2A	Già	2c	Già	2f	Già	2a	Già
 4C#X	.	4C#X	com-	4A	com-	4e	com-	4e	com-	4a	com-
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
-2D	.	4D	-pos-	4F#X	-po-	4A	-pos-	4d	-po-	4a	-po-
-.	.	8D	-ta-	8F#X	-sta-	8A	-ta-	8d	-sta-	8a	-sta-
+2D	.	4D	-po-	4F#X	-po-	4A	-po-	4d	-po-	4a	-po-
+.	.	8D	-sta-	8F#X	-sta-	8A	-sta-	8d	-sta-	8a	-sta-
 .	.	8D	-si in	8F#i	-si in	8F#X	-si in	8d	-si in	8a	-si in
 2BB	#	2BB	at-	2B	at-	2F#X	at-	2d#X	at-	2b	at-
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
