@@ -29,10 +29,10 @@
 !!LO:TX:a:t=Seconda parte
 2G	.	1r	.	1r	.	4r	.	4r	.	2r	.
 .	.	.	.	.	.	4G	Ah,	4d	Ah,	.	.
-[2C	.	.	.	.	.	[2c	Ah	[2e	Ah	4r	.
+[2C	.	.	.	.	.	[2c	Ah,	[2e	Ah,	4r	.
 .	.	.	.	.	.	.	.	.	.	4g	Ah,
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-4C]	.	1r	.	1r	.	4c]	.	4e]	.	4cc	Ah
+4C]	.	1r	.	1r	.	4c]	.	4e]	.	4cc	Ah,
 2D	.	.	.	.	.	2d	ma	2f	ma	2a	ma
 4BB-X	6	.	.	.	.	4B-X	non	4d	non	4g	non
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
@@ -90,7 +90,7 @@
 2D	#	4.G	-na	4r	.	2A	-me-	4.d	-t’ ar-	2a	tan-
 .	.	.	.	4d	hog-	.	.	.	.	.	.
 .	.	8F#X	di	.	.	.	.	8A	-me e	.	.
-2G	.	4G	san-	4B	-gi	2G	-no	4B	tan-	2d	-te,
+2G	.	4G	san-	4B	-gi	2G	-no,	4B	tan-	2d	-te
 .	.	4G	-gue	4d	si	.	.	4B	-te	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 4G	.	4r	.	2.G	ba-	2B	che	1r	.	2r	.
@@ -107,7 +107,7 @@
 .	.	.	.	.	.	.	.	.	.	4cc	-gue
 .	.	.	.	.	.	.	.	8e	di	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-2D	.	4r	.	1r	.	2d	-te,	4f	san-	4r	.
+2D	.	4r	.	1r	.	2d	-te	4f	san-	4r	.
 .	.	4D	che	.	.	.	.	4f	-gue	4a	hog-
 4F	.	4F	fra	.	.	4r	.	2r	.	8f	-gi
 .	.	.	.	.	.	.	.	.	.	8a	si
@@ -171,8 +171,8 @@
 .	.	.	.	8B	pia-	.	.	8d	pia-	.	.
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
 4.c	.	1r	.	4c	-gar	2r	.	2e	-gar	4r	.
-.	.	.	.	8c	fe-	.	.	.	.	8g	O
-8B	.	.	.	8B	-mi-	.	.	.	.	8g	sa-
+.	.	.	.	8c	fe-	.	.	.	.	8g	O-
+8B	.	.	.	8B	-mi-	.	.	.	.	8g	-sa-
 2A	7:6	.	.	2A	-nil	4r	.	2r	.	4g	-re-
 .	.	.	.	.	.	8c	O-	.	.	8f#X	-te
 .	.	.	.	.	.	8c	-sa-	.	.	8f#i	pia-
@@ -215,8 +215,8 @@
 .	.	.	.	.	.	.	.	.	.	8g	-to
 4C	.	8r	.	8r	.	8r	.	8r	.	2g	mio
 .	.	8C	In	8G	In	8c	In	8e	In	.	.
-4C	.	8C	quel-	8G	ques-	8c	ques-	8e	ques-	.	.
-.	.	8C	-lo	8G	-to	8c	-to	8e	-to	.	.
+4C	.	8C	que-	8G	ques-	8c	ques-	8e	ques-	.	.
+.	.	8C	-sto	8G	-to	8c	-to	8e	-to	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
 2C	.	2C	mio	2G	mio	2c	mio	2e	mio	8r	.
 .	.	.	.	.	.	.	.	.	.	8e	che

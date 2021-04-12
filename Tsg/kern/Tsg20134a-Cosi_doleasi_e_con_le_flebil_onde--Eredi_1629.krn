@@ -37,13 +37,13 @@
 2BB-i	.	.	.	.	.	2B-i	-lea-	[2d	-lea-	.	.
 .	.	.	.	.	.	.	.	.	.	4f	do-
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
-1AA	#	1r	.	1r	.	1A	-si	2d]	.	2f	-lea-
-.	.	.	.	.	.	.	.	2c#X	-si	2e	-si
+1AA	#	1r	.	1r	.	1A	-si;	2d]	.	2f	-lea-
+.	.	.	.	.	.	.	.	2c#X	-si;	2e	-si;
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 2A	#	8r	.	4r	.	8r	.	8r	.	8r	.
-.	.	8A	E	.	.	8c#i	E	8e	E	8a	E
+.	.	8A	e	.	.	8c#i	e	8e	e	8a	e
 .	.	8A	con	8r	.	8c#X	con	8e	con	8a	con
-.	.	8A	le	8A	E	8c#X	le	8e	le	8a	le
+.	.	8A	le	8A	e	8c#X	le	8e	le	8a	le
 4F#X	.	4F#X	fle-	8A	con	4d	fle-	4d	fle-	4a	fle-
 .	.	.	.	8A	le	.	.	.	.	.	.
 4G	.	4G	-bil	8G	fle-	4B	-bil	4d	-bil	4b	-bil
@@ -330,7 +330,7 @@
 .	.	.	.	.	.	.	.	4d	ser-	2e	ser-
 .	.	.	.	.	.	.	.	4c#X	.	.	.
 =47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
-4D	.	8r	.	1D	-vo>,	1r	.	8d	-vo,	2d	-vo>
+4D	.	8r	.	1D	-vo>,	1r	.	8d	-vo,	2d	-vo,>
 .	.	8D	Ne-	.	.	.	.	8f	<Ne-	.	.
 8BBL	.	8BB	-mi-	.	.	.	.	8d	-mi-	.	.
 8CJ	.	8C	-co	.	.	.	.	8e	-co	.	.
@@ -360,7 +360,7 @@
 2C	.	2C	-pio-	8r	.	8r	.	4g	no	2ee	tuo
 .	.	.	.	8c	Ne-	8e	<Ne-	.	.	.	.
 .	.	.	.	8A	-mi-	8c	-mi-	4a	ma	.	.
-.	.	.	.	8B	-co	8d	-so	.	.	.	.
+.	.	.	.	8B	-co	8d	-co	.	.	.	.
 2C	.	2C	-ne e	8c	no	8e	no	4e	tuo	4g	cam-
 .	.	.	.	8B	ma	8d	ma	.	.	.	.
 .	.	.	.	8A	tuo	8c	tuo	4e	cam-	[4a	-pio-
