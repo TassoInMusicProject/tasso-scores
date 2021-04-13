@@ -210,7 +210,7 @@
 .	.	.	.	.	.	16c	tur-	.	.	.	.
 4AA	.	.	.	.	.	4c	-ba-	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
-!!LO:TX:a:t=[whole]&rarr;[whole-dot]
+!!LO:TX:a:t=[half]&rarr;[half-dot]
 *M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*
 2E	.	1.r	.	1.r	.	4B	-to	1.r	.	1.r	.
 .	.	.	.	.	.	4e	ho-	.	.	.	.
@@ -224,7 +224,7 @@
 4C	.	.	.	.	.	4c	tran-	.	.	.	.
 2D	.	.	.	.	.	2A	-quil-	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
-!!LO:TX:a:t=[whole-dot]&rarr;[whole]
+!!LO:TX:a:t=[half-dot]&rarr;[half]
 *M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
 1GG	.	1r	.	2r	.	1G	-la	1r	.	1r	.
 .	.	.	.	4r	.	.	.	.	.	.	.
