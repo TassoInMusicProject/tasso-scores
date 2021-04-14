@@ -18,7 +18,7 @@
 *part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
-*	*	*I'T.	*	*I'A.	*	*I'Tr.	*
+*I'V	*	*I'T	*	*I'A	*	*I'C	*
 *oclefC4	*	*oclefC4	*	*oclefC3	*	*oclefC1	*
 *clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*
@@ -126,14 +126,14 @@
 .	.	4d#X	-pas-	4f#X	-pas-	.	.
 .	.	4d#X	-si-	4f#X	-si-	.	.
 =14	=14	=14	=14	=14	=14	=14	=14
-2B]	.	2.d#X	-on,>	2.f#X	-on>	2b]	.
+2B]	.	2.d#X	-on>	2.f#X	-on>	2b]	.
 4F#X	-pas-	.	.	.	.	4r	.
 4F#X	-si-	4d#i	nel-	4f#X	nel-	4b	nel-
 4F#X	-on	4d#i	-la	4f#X	-la	4b	-la
 4G#X	nel-	4e	cru-	2e	cru-	4b	cru-
 4.A	-la	4c	-de-	.	.	[2cc	-de-
 .	.	4c	-le e	[4a	-de-	.	.
-8G#i	cru-	.	.	.	.	.	.
+8Gni	cru-	.	.	.	.	.	.
 =15	=15	=15	=15	=15	=15	=15	=15
 4F#X	-de-	1d	bel-	4a]	.	4cc]	.
 4G	-le e	.	.	4g	-le e	4b	-le e
@@ -173,12 +173,12 @@
 .	.	2B	fe-	2e	fe-	.	.
 4G#X	.	.	.	.	.	.	.
 =19	=19	=19	=19	=19	=19	=19	=19
-2A	-re.	2c#X	-ra.	1e	-ra.	4r	.
+2A	-ra.	2c#X	-ra.	1e	-ra.	4r	.
 .	.	.	.	.	.	4a	Ma
 4r	.	4r	.	.	.	4.cc	ne-
 4c	Ma	4A	Ma	.	.	.	.
 .	.	.	.	.	.	8b	-ga
-4.e	ne-	4.c#i	ne-	4r	.	4a	d'es-
+4.e	ne-	4.cni	ne-	4r	.	4a	d'es-
 .	.	.	.	4e	Ma	4g	-ser
 8d	-ga	8B	-ga	.	.	.	.
 4c	d'es-	4A	d'es-	4.f	ne-	2a	don-
@@ -209,7 +209,7 @@
 4.B	ne-	4d	-ché	.	.	4dd	Poi-
 .	.	4.d	ne-	.	.	4dd	-ché
 8A	-ga	.	.	.	.	.	.
-4F#X	pia-	.	.	.	.	4.dd	ne-
+4F#X	pie-	.	.	.	.	4.dd	ne-
 .	.	8A	-ga	.	.	.	.
 4G#X	-ta-	2e	pie-	2r	.	.	.
 .	.	.	.	.	.	8cc	-ga
