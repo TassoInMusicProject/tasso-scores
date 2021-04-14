@@ -28,6 +28,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Prima parte]
 2G	A	0r	.	1r	.
 4G	l'om-	.	.	.	.
 4G	-bra	.	.	.	.
@@ -70,13 +71,13 @@
 .	.	1r	.	.	.
 .	.	.	.	8cc	.
 4E	-via e	.	.	2cc	.
-2G	Fil	.	.	.	.
+2G	Fil-	.	.	.	.
 .	.	.	.	4b	.
 =6	=6	=6	=6	=6	=6
-1C	li,>	2r	.	2cc	-li
+1C	-li>	2r	.	2cc	-li
 .	.	2ee	Se-	2cc	Se-
-1r	.	4ee	-dea-	4cc	-dea-
-.	.	4ee	-n'un	4cc	-n'un
+1r	.	4ee	-de-	4cc	-de-
+.	.	4ee	-an'un	4cc	-an'un
 .	.	2ff	gior-	2dd	gior-
 =7	=7	=7	=7	=7	=7
 0r	.	4ee	-no et	4cc	-no et
@@ -91,10 +92,10 @@
 .	.	.	.	4gg	et
 2c	Se-	.	.	4gg	io
 .	.	.	.	4ff	con
-4c	-dea-	2cc	<Se-	4ee	lo-
-4c	-n'un	.	.	2cc	-ro in-
-2d	gior-	4ff	-dea-	.	.
-.	.	4dd	-n'un	4b	-sie-
+4c	-de-	2cc	<Se-	4ee	lo-
+4c	-an'un	.	.	2cc	-ro in-
+2d	gior-	4ff	-de-	.	.
+.	.	4dd	-an'un	4b	-sie-
 =9	=9	=9	=9	=9	=9
 4c	-no et	4.ee	gior-	4cc	-me,
 2c	io	.	.	4cc	<et
@@ -253,7 +254,7 @@
 .	.	.	.	8ff	ri-
 4C	<Le	4cc	Le	2gg	-mor-
 4.c	mor-	4.ee	mor-	.	.
-.	.	.	.	4ee	-se,>
+.	.	.	.	4ee	-se>
 8A	-se e	8cc#X	-se e	.	.
 8d	le	8dd	le	4r	.
 8c	ri-	8ee	ri-	.	.
@@ -265,7 +266,7 @@
 4B-i	-vi-	4dd	-vi-	.	.
 2d	-da-	2ff	-da-	2a	-te:
 2A	-men-	2ee	-men-	1r	.
-2D	-te:>	2dd	-te:	.	.
+2D	-te:>	2dd	-te,	.	.
 =25	=25	=25	=25	=25	=25
 8r	.	0r	.	0r	.
 8F	e	.	.	.	.
@@ -278,7 +279,7 @@
 4F	-men-	.	.	.	.
 4G	.	.	.	.	.
 =26	=26	=26	=26	=26	=26
-1C	-te,	1r	.	1r	.
+1C	-te:	1r	.	1r	.
 2E	Ch'al-	2b	Ch'al-	2g#X	Ch'al-
 4E	-la	4b	-la	4g#X	-la
 4E	si-	4b	si-	4g#X	si-
@@ -291,7 +292,7 @@
 4A	-gan-	4cc	-gan-	4a	-gan-
 =28	=28	=28	=28	=28	=28
 2G	-na-	2dd	-na-	2b	-na-
-2G	-ta,	4dd	-ta	4b	-ta
+2G	-ta	4dd	-ta	4b	-ta
 .	.	2dd	For-	2b	For-
 1r	.	.	.	.	.
 .	.	4dd	-se un	4b	-se un
@@ -320,7 +321,7 @@
 .	.	4gg	-zi-	.	.
 .	.	2ee	-en-	.	.
 =32	=32	=32	=32	=32	=32
-4G	Co-	2dd	-te	2r	.
+4G	Co-	2dd	-te,	2r	.
 4G	-min-	.	.	.	.
 2G	-ciò a	4g	Co-	4b	Co-
 .	.	4a	-min-	4cc	-min-
@@ -364,7 +365,7 @@
 .	.	8b	-ta	8g#i	.
 .	.	8a	pun-	8aJ	.
 2E	-ra,	2g#X	-tu-	2b	.
-4e	de	2a	-ra,	2cc	-ra,
+4e	De	2a	-ra,	2cc	-ra,
 4d	l'a-	.	.	.	.
 4c	-cu-	2cc	De	[2gnXi	<De
 8B	-ta	.	.	.	.
