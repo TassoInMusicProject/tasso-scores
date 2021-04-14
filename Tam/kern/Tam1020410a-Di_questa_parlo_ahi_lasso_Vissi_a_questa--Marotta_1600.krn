@@ -23,16 +23,17 @@
 *I"Basso	*	*I"Quinto	*	*I"Canto	*
 *I'B	*	*I'V	*	*I'C	*
 *oclefC4	*	*oclefC3	*	*oclefG2	*
-*clefGv2	*	*clefG2	*	*clefG2	*
+*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*
 *omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Seconda parte]
 0r	.	1r	.	0r	.
 .	.	[1A	Di	.	.
 =2	=2	=2	=2	=2	=2
 0r	.	2A]	.	0r	.
-.	.	4A	qu-	.	.
+.	.	4A	que-	.	.
 .	.	4B	-sta	.	.
 .	.	2c	par-	.	.
 .	.	2c	-lo, ahi	.	.
@@ -66,7 +67,7 @@
 .	.	.	.	4cc#X	-sta
 =8	=8	=8	=8	=8	=8
 2B	par-	0r	.	2dd	par-
-2c	-lo, ahi	.	.	2ee	-lo ahi
+2c	-lo, ahi	.	.	2ee	-lo, ahi
 [1A	las-	.	.	1ff	las-
 =9	=9	=9	=9	=9	=9
 1A]	.	4r	.	1ee	-so!>
@@ -92,7 +93,7 @@
 4G	que-	.	.	2ee	-ni-
 4E	-sta	4g	-si a	.	.
 4F	co-	4f	que-	4dd	-ta al-
-4G	-ì u-	4e	-sta	4b	-cun
+4G	-sì u-	4e	-sta	4b	-cun
 =12	=12	=12	=12	=12	=12
 2A	-ni-	4c	co-	2cc	tem-
 .	.	4c	-sì u-	.	.
@@ -131,14 +132,14 @@
 .	.	.	.	[2ee	Con-
 =17	=17	=17	=17	=17	=17
 0r	.	0r	.	2ee]	.
-.	.	.	.	2cc	-guin-
+.	.	.	.	2cc	-giun-
 .	.	.	.	2dd	-ti e-
 .	.	.	.	4g	-ran
 .	.	.	.	4cc	gl'al-
 =18	=18	=18	=18	=18	=18
 1r	.	1r	.	2b	-ber-
 .	.	.	.	2b	-ghi,
-2E	ma	4B	ma	1r	.
+2E	Ma	4B	Ma	1r	.
 .	.	2e	più	.	.
 2A	più	.	.	.	.
 .	.	4A	con-	.	.
@@ -225,16 +226,16 @@
 .	.	2e	-gel-	2cc#X	-gel-
 .	.	1d	-li,	1dd	-li,>
 =29	=29	=29	=29	=29	=29
-2G	E	1r	.	1r	.
+2G	e	1r	.	1r	.
 4c	se-	.	.	.	.
 4B	-gui-	.	.	.	.
-4A	-ta-	4r	.	2ee	E
-4G	-va i	4e	E	.	.
+4A	-ta-	4r	.	2ee	e
+4G	-va I	4e	e	.	.
 4F	cer-	4f	se-	4aa	se-
 4E	-vi	4g	-gui-	4gg	-gui-
 =30	=30	=30	=30	=30	=30
 2E	se-	4a	-ta-	4ff	-ta-
-.	.	4g	-va i	4ee	-va i
+.	.	4g	-va I	4ee	-va I
 2E	-co	4f	cer-	4dd	cer-
 .	.	4e	-vi	4cc	-vi
 8r	.	2d	se-	2b	se-
@@ -261,7 +262,7 @@
 =32	=32	=32	=32	=32	=32
 4.c#X	-lo-	2A	dam-	1r	.
 8d	-ci	.	.	.	.
-2e	dam-	2A	-ma	.	.
+2e	dam-	2A	-me,	.	.
 [1A	-me,>	1r	.	8r	.
 .	.	.	.	8a	<e
 .	.	.	.	8cc	le
