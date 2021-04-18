@@ -23,11 +23,12 @@
 *I"Basso	*	*I"Quinto	*	*I"Canto	*
 *I'B	*	*I'V	*	*I'C	*
 *oclefC4	*	*oclefC3	*	*oclefG2	*
-*clefGv2	*	*clefG2	*	*clefG2	*
+*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*
 *omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Quarta parte]
 0r	.	2.c	E	2.a	E
 .	.	4c	be-	4a	be-
 .	.	2c	-vea	2a	-vea
@@ -63,7 +64,7 @@
 .	.	4f	nel	.	.
 4B	-va	2g	fi-	4dd	-va
 4c	nel	.	.	4ee	nel
-4d	fi-	2f	-ne	2ff	fi-
+4d	fi-	2f	-ne,	2ff	fi-
 4d	-ne,	.	.	.	.
 =9	=9	=9	=9	=9	=9
 4A	<Che	1r	.	1ee	-ne Un
@@ -263,7 +264,7 @@
 2E	-si al	2G	-si al	.	.
 =34	=34	=34	=34	=34	=34
 4F	fi-	4.A	fi-	0r	.
-4F	-ne et	.	.	.	.
+4F	-ne; ed	.	.	.	.
 .	.	8G	-ne; ed	.	.
 4F	in	8A	in	.	.
 .	.	8B	qual	.	.
@@ -293,7 +294,7 @@
 4d	-ta e	4f	-ta e	4dd	-ta e
 2A	no-	2e	no-	2cc#X	no-
 =38	=38	=38	=38	=38	=38
-2A	-ta	2e	-ta,>	1cc#X	-ta,>
+2A	-ta,	2e	-ta,>	1cc#X	-ta,>
 2A	e	2e	e	.	.
 4d	da	4f	da	1r	.
 4d	no-	4f	no-	.	.

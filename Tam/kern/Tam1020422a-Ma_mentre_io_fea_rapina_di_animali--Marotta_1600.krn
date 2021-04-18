@@ -23,11 +23,12 @@
 *I"Basso	*	*I"Quinto	*	*I"Canto	*
 *I'B	*	*I'V	*	*I'C	*
 *oclefC4	*	*oclefC3	*	*oclefG2	*
-*clefGv2	*	*clefG2	*	*clefG2	*
+*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*
 *omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Terza parte.]
 0r	.	1A	Ma	0r	.
 .	.	2.c	men-	.	.
 .	.	4d	-tr'io	.	.
@@ -74,8 +75,8 @@
 .	.	4e	-tr'io	.	.
 2B-X	.	4f	fea	2dd	so
 .	.	4g	ra-	.	.
-[1A	.	4a	-pi-	2dd	com-
-.	.	4a	-ta>	.	.
+[1A	.	4a	-pi-	2dd	co-
+.	.	4a	-na>	.	.
 .	.	[2a	d'a-	4cc#X	-me a
 .	.	.	.	4b	me
 =8	=8	=8	=8	=8	=8
@@ -158,7 +159,7 @@
 2D	Non	4A]	.	2dd	-to,
 .	.	2B	so,	.	.
 2E	so	.	.	2r	.
-.	.	4c#X	non	.	.
+.	.	4c#X	Non	.	.
 4F#X	da	4.d	so	1r	.
 2G	qual	.	.	.	.
 .	.	8d	da	.	.
@@ -228,7 +229,7 @@
 4c#X	-si-	.	.	.	.
 2d	-a-	2d	-re,>	2r	.
 =31	=31	=31	=31	=31	=31
-2A	-re	1r	.	1r	.
+2A	-re,	1r	.	1r	.
 4r	.	.	.	.	.
 4A	Un	.	.	.	.
 2F#X	in-	2r	.	2.dd	<Un
@@ -241,10 +242,10 @@
 .	.	.	.	4dd	-gni-
 2A	-fet-	.	.	2cc#X	-to af-
 .	.	4A	-gni-	.	.
-2D	-to,	2A	-to af-	2dd	-fet-
+2D	-to	2A	-to af-	2dd	-fet-
 =33	=33	=33	=33	=33	=33
 1r	.	2E	-fet-	1ee	-to
-.	.	2E	-to,	.	.
+.	.	2E	-to	.	.
 2r	.	2e	Che	1r	.
 2D	Che	4d	mi	.	.
 .	.	4c	fea	.	.
