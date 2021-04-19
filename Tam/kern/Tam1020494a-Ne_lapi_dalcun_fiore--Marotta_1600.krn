@@ -28,6 +28,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Settima parte]
 1E	Né	0r	.	0r	.
 2G	l'a-	.	.	.	.
 4F#X	-pi	.	.	.	.
@@ -35,7 +36,7 @@
 =2	=2	=2	=2	=2	=2
 4G]	.	1r	.	0r	.
 4E	-cun	.	.	.	.
-8FL	fio-	.	.	.	.
+8FLni	fio-	.	.	.	.
 8G	.	.	.	.	.
 8A	.	.	.	.	.
 8BJ	.	.	.	.	.
@@ -121,7 +122,7 @@
 4G	-si,>	4g	mel	.	.
 4E	ch'al-	4gg	ch'al-	4ee	ch'al-
 =11	=11	=11	=11	=11	=11
-4F	-lo-	4ff	-lo-	4cc#X	-lo-
+4F	-lo-	4ff	-lo-	4ccni	-lo-
 4D	-ra io	4ff	-ra io	2dd	-ra io
 2A	col-	2ee	col-	.	.
 .	.	.	.	4cc#X	col-
@@ -144,7 +145,7 @@
 0r	.	2ee	ba-	4r	.
 .	.	.	.	4g	Se
 .	.	4cc	-ci,	4g	ben
-.	.	4cc	<Se	4g	gli'ar-
+.	.	4cc	<Se	4g	gl'ar-
 .	.	4dd	ben	4a	-den-
 .	.	4ee	gl'ar-	4b	-ti
 .	.	[2ff	-den-	4.cc	ba-
@@ -159,7 +160,7 @@
 4d	-ti	.	.	.	.
 2e	ba-	.	.	2gg	Se
 =16	=16	=16	=16	=16	=16
-2d	-ci	1r	.	4ff	ben
+2d	-ci,	1r	.	4ff	ben
 .	.	.	.	4ff	gl'ar-
 2.c	Che	.	.	8eeL	-den-
 .	.	.	.	8dd	.
@@ -174,7 +175,7 @@
 =17	=17	=17	=17	=17	=17
 2E	-va il	4ee]	.	2gg	.
 .	.	4dd	spin-	.	.
-2F	de-	2cc	-ge-	4ff	-ci
+2F	de-	2cc	-ge-	4ff	-ci,
 .	.	.	.	2ff	Che
 2C	-si-	4cc	-va il	.	.
 .	.	4cc	de-	4ee	spin-
@@ -279,12 +280,12 @@
 .	.	.	.	8ee	più
 2G	-da-	2g	-ti,	4dd	len-
 .	.	.	.	4cc	-ti e
-2G	-ci e	4r	.	4b	me-
+2G	-ci, e	4r	.	4b	me-
 .	.	4ee	più	4g	-no au-
 =32	=32	=32	=32	=32	=32
 2G	me-	4dd	len-	2g	-da-
 .	.	4cc	-ti e	.	.
-2G	-no au-	4b	me-	4g	-ci e
+2G	-no au-	4b	me-	4g	-ci, e
 .	.	4cc	-no au-	2gg	me-
 1G	-da-	4dd	-da-	.	.
 .	.	2cc	.	4gg	-no au-
