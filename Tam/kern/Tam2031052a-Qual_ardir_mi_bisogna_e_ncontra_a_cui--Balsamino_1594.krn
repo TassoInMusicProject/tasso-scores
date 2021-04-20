@@ -25,6 +25,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Terza parte]
 1r	.	0r	.	1r	.	0r	.	0r	.	2a	Qual
 .	.	.	.	.	.	.	.	.	.	4g	ar-
 .	.	.	.	.	.	.	.	.	.	2a	-dir
@@ -79,15 +80,15 @@
 .	.	4G	-pi,	.	.	4d	-pi,	4g	-pi,	.	.
 .	.	4B-y	Des-	.	.	4d	Des-	4f	Des-	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-0r	.	4B-y	.	0r	.	4d	-se al-	4f	-se al-	0r	.
-.	.	4B-y	-se al-	.	.	4d	-ber-	4f	-ber-	.	.
-.	.	4B-y	-ber-	.	.	4d	-go a	4f	-go a	.	.
-.	.	4B-y	-go a	.	.	4d	le	4f	le	.	.
-.	.	2.B-y	le	.	.	2.d	ti-	2f	ti-	.	.
+0r	.	4B-y	-se al-	0r	.	4d	-se al-	4f	-se al-	0r	.
+.	.	4B-y	-ber-	.	.	4d	-ber-	4f	-ber-	.	.
+.	.	4B-y	-go a	.	.	4d	-go a	4f	-go a	.	.
+.	.	4B-y	le	.	.	4d	le	4f	le	.	.
+.	.	2.B-y	ti-	.	.	2.d	ti-	2f	ti-	.	.
 .	.	.	.	.	.	.	.	2b-y	-gri e	.	.
-.	.	4B-y	ti-	.	.	4d	-gri e	.	.	.	.
+.	.	4B-y	-gri e	.	.	4d	-gri e	.	.	.	.
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
-0r	.	4c	-gri e	0r	.	4e	a	4g	a	0r	.
+0r	.	4c	a 	0r	.	4e	a	4g	a	0r	.
 .	.	4c	le-	.	.	4e	le-	4g	le-	.	.
 .	.	1G	-o-	.	.	1d	-o-	1b-y	-o-	.	.
 .	.	4G	-ni,	.	.	4d	-ni,	4b-y	-ni,	.	.
@@ -223,7 +224,7 @@
 8CL	-ta-	2r	.	8EL	-ta-	2r	.	2r	.	8gL	-ta-
 8DJ	.	.	.	8DJ	.	.	.	.	.	8fJ	.
 4C	.	.	.	4E	.	.	.	.	.	4g	.
-2FF	-na.	2F	V'an-	2F	-na.	2c	V'an-	2a	V'an-	2f	-na.
+2FF	-na,	2F	V'an-	2F	-na,	2c	V'an-	2a	V'an-	2f	-na,
 2r	.	4.F	-drei	2r	.	4.c	-drei	4.a	-drei	1r	.
 .	.	8A	più	.	.	8c	più	8cc	più	.	.
 4r	.	4G	lie-	4r	.	4d	lie-	4b-y	lie-	.	.
@@ -242,7 +243,7 @@
 8AA	.	.	.	8c	.	.	.	.	.	.	.
 8BB-J	.	.	.	8dJ	.	.	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-4C	.	4E	-to,	4e	.	4c	-to,	8gL	-to	4r	.
+4C	.	4E	-to,	4e	.	4c	-to,	8gL	-to,	4r	.
 .	.	.	.	.	.	.	.	8a	.	.	.
 4BB-y	-to,	4F	più	4d	-to,	4d	più	8b-y	.	4f	più
 .	.	.	.	.	.	.	.	8ccJ	.	.	.
@@ -265,7 +266,7 @@
 .	.	.	.	.	.	.	.	8fJ	.	.	.
 8CL	lie-	.	.	.	.	2G	-to,	4g	.	2g	più
 8D	.	.	.	.	.	.	.	.	.	.	.
-8E	.	.	.	.	.	.	.	4c	-to	.	.
+8E	.	.	.	.	.	.	.	4c	-to,	.	.
 8FJ	.	.	.	.	.	.	.	.	.	.	.
 2G	.	2d	-to,	4G	lie-	2B-y	più	2g	più	8gL	lie-
 .	.	.	.	.	.	.	.	.	.	8a	.
