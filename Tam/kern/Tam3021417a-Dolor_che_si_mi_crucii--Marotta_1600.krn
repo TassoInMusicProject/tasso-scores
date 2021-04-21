@@ -28,6 +28,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Prima parte]
 0E	Do-	0r	.	0r	.
 =2	=2	=2	=2	=2	=2
 2.G	-lor,	0r	.	0r	.
@@ -53,7 +54,7 @@
 =7	=7	=7	=7	=7	=7
 2D]	.	1A	cru-	2f	-cii,
 2D	che	.	.	2d	<Do-
-2D	sì	1A	-cii,	2.dd	-lor
+2D	sì	1A	-cii,	2.dd	-lor,
 2D	mi	.	.	.	.
 .	.	.	.	4cc	che
 =8	=8	=8	=8	=8	=8
@@ -133,8 +134,8 @@
 2.C	son,	4r	.	4r	.
 .	.	4e	Io	4cc	Io
 .	.	4.e	son,	4.cc	son,
-4C	Io	.	.	.	.
-.	.	8e	Io	8cc	Io
+4C	io	.	.	.	.
+.	.	8e	io	8cc	io
 4F	son	4c	son	4a	son
 4E	con-	4e	con-	4cc	con-
 2G	-ten-	2d	-ten-	2b	-ten-
@@ -170,7 +171,7 @@
 .	.	.	.	4b	non
 .	.	.	.	2b	puo-
 =24	=24	=24	=24	=24	=24
-1C	-i.	2c	-si,	1cc	-i.
+1C	-i.	2c	-si,	1cc	-i,
 .	.	1c	<Poi	.	.
 1r	.	.	.	2r	.
 .	.	2A	che	[2a	Poi
@@ -230,8 +231,8 @@
 .	.	4e	A	4g	cer-
 =33	=33	=33	=33	=33	=33
 1r	.	4d	la	4g	-tez-
-.	.	4B	cer-	4e	-za o
-.	.	4c	-tez-	2.a	ma-
+.	.	4B	cer-	4e	-za o-
+.	.	4c	-tez-	2.a	-ma-
 .	.	4d	-za o-	.	.
 2r	.	2e	-ma-	.	.
 .	.	.	.	8g#XL	.
@@ -272,7 +273,7 @@
 .	.	4d	-se-	2a	.
 .	.	4d	-ria	.	.
 .	.	1B	mi-	4b	.
-.	.	.	.	4cc	.
+.	.	.	.	4cc#i	.
 .	.	.	.	[2dd	.
 =39	=39	=39	=39	=39	=39
 2r	.	0A	-a,	2dd]	.
@@ -321,7 +322,7 @@
 .	.	2A	.	.	.
 .	.	.	.	2b	A
 .	.	4G#X	.	.	.
-1AA	-sti,	2A	-sti,	2.ee	que-
+1AA	-sti?	2A	-sti?	2.ee	que-
 .	.	2E	A	.	.
 .	.	.	.	4dd	-sto
 =47	=47	=47	=47	=47	=47
@@ -347,10 +348,10 @@
 .	.	2B	.	2b	-ne a-
 .	.	1c	.	[1a	-ma-
 =51	=51	=51	=51	=51	=51
-0El	-ro.	0Bl	-ro.	2a]	.
+0El	-ro?	0Bl	-ro?	2a]	.
 .	.	.	.	4g#X	.
 .	.	.	.	4f#X	.
-.	.	.	.	1g#Xl	-ro.
+.	.	.	.	1g#Xl	-ro?
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
 !!!system-decoration: [*]
