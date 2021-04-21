@@ -28,6 +28,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=Seconda parte.
 2.C	Ma	2r	.	4g	Ma	1r	.	2.ee	Ma
 .	.	.	.	8a	co-	.	.	.	.
 .	.	.	.	8b	-me	.	.	.	.
@@ -47,8 +48,8 @@
 .	.	2.d	<Ma	2.f	<Ma	2ff	-via,	2dd	Sil-
 8G	co-	.	.	.	.	.	.	.	.
 8A	-me	.	.	.	.	.	.	.	.
-1B-X	Sil-	.	.	.	.	2.dd	<ma	4dd	-via,
-.	.	8e	co-	8g	co-	.	.	2ff	ma
+1B-X	Sil-	.	.	.	.	2.dd	<Ma	4dd	-via,
+.	.	8e	co-	8g	co-	.	.	2ff	Ma
 .	.	8f	-me	8a	-me	.	.	.	.
 .	.	2g	Sil-	2b-X	Sil-	.	.	.	.
 .	.	.	.	.	.	8ee	co-	8gg	co-
@@ -169,8 +170,8 @@
 8G	leg-	.	.	.	.	.	.	8b	leg-
 4A	-gia-	.	.	2c	-dri	.	.	4cc	-gia-
 4E	-dri	.	.	.	.	4ee	-dri	4cc	-dri
-2G	mo-	.	.	2d	mo	2dd	mo-	2b	mo-
-2G	-di,>	.	.	2d	di	2dd	-di,>	2b	-di,>
+2G	mo-	.	.	2d	mo-	2dd	mo-	2b	mo-
+2G	-di,>	.	.	2d	-di	2dd	-di,>	2b	-di,>
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 0r	.	4r	.	4r	.	4r	.	0r	.
 .	.	8c	Che	8e	Che	8gg	Che	.	.
@@ -188,8 +189,8 @@
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 1r	.	4A	dol-	4.a	dol-	4.ee	dol-	1r	.
 .	.	4F	-ce-	.	.	.	.	.	.
-.	.	.	.	8a	-ce	8ff	-ce-	.	.
-.	.	2c	-men-	2g	men-	2ee	-men-	.	.
+.	.	.	.	8a	-ce-	8ff	-ce-	.	.
+.	.	2c	-men-	2g	-men-	2ee	-men-	.	.
 4r	.	2c	-te,	4g	-te,	4ee	-te,	4r	.
 8c	Che	.	.	8cc	<Che	8ee	Che	8gg	Che
 8c	vi-	.	.	8cc	vi-	8ee	vi-	8gg	vi-
@@ -210,7 +211,7 @@
 2c	-men-	4r	.	2g	-men-	4ee	-men-	2gg	-men-
 .	.	4e	e	.	.	4ee	-te,	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16
-8c	-te	8e	lui	8g	-te	1r	.	[2ee	-te
+8c	-te,	8e	lui	8g	-te,	1r	.	[2ee	-te,
 8A	e	8e	lan-	8a	e	.	.	.	.
 8A	lui	2c#X	-guir	8a	lui	.	.	.	.
 8A	lan-	.	.	8a	lan-	.	.	.	.
@@ -225,7 +226,7 @@
 .	.	4e	-to,	.	.	8ee	lui	.	.
 .	.	.	.	.	.	8ee	lan-	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17
-2A	-to	8r	.	2e]	.	2cc#X	-guir	2ee	fat-
+2A	-to,	8r	.	2e]	.	2cc#X	-guir	2ee	fat-
 .	.	8a	<e	.	.	.	.	.	.
 .	.	8a	lui	.	.	.	.	.	.
 .	.	8a	lan-	.	.	.	.	.	.
@@ -312,7 +313,7 @@
 4C	Gri-	2g	-dan-	.	.	.	.	.	.
 2c	-dan-	.	.	4c	Gri-	2ee	-do,	4r	.
 .	.	4e	-do,	2cc	-dan-	.	.	4g	Gri-
-1C	-do	4r	.	.	.	4g	<Gri-	2gg	-dan-
+1C	-do,	4r	.	.	.	4g	<Gri-	2gg	-dan-
 .	.	4G	<Gri-	4f	-do,	2gg	-dan-	.	.
 .	.	2g	-dan-	4r	.	.	.	2ee	-do,
 .	.	.	.	4c	<Gri-	4ee	-do,>	.	.
@@ -356,7 +357,7 @@
 .	.	.	.	.	.	4e	-te	4cc	-te
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 1r	.	2G	cor-	2r	.	2d	cor-	2b	cor-
-.	.	2G	-po,	4r	.	2d	-po,	2b	-po
+.	.	2G	-po,	4r	.	2d	-po,	2b	-po,
 .	.	.	.	4g	E	.	.	.	.
 4r	.	4r	.	4.g	gion-	4r	.	1r	.
 4c	E	4e	E	.	.	4gg	E	.	.
@@ -376,7 +377,7 @@
 8c	-ca a	8e	-c'a	.	.	8gg	-c'a	8ee	-se
 4F	boc-	4c	boc-	4r	.	4aa	boc-	8ff	vi-
 .	.	.	.	.	.	.	.	8ff	-so a
-4F	-ca	4c	-ca,	4f	<E	4aa	-ca,	4.ff	vi-
+4F	-ca,	4c	-ca,	4f	<E	4aa	-ca,	4.ff	vi-
 4r	.	4r	.	4.f	gion-	2r	.	.	.
 .	.	.	.	.	.	.	.	8ee	-so, e
 4B-X	<E	4d	<E	.	.	.	.	8dd	boc-
