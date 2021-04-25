@@ -92,7 +92,7 @@
 8	8F	de	.	.	8d	de	.	.	8a	de	.	.
 4	4G	le	1r	.	4e	le	.	.	4b	le	.	.
 4	4G	pal-	.	.	4e	pal-	.	.	4b	pal-	.	.
-2	2A	-pe-	.	.	2e	-pe-	2r	.	2cc	-pe-	2r	.
+2	2A	-pe-	.	.	2e	-pe-	2r	.	2cci	-pe-	2r	.
 =6-	=6-	=6-	=6-	=6-	=6-	=6-	=6-	=6-	=6-	=6-	=6-	=6-
 2	2A	-bre,	2r	.	2e	-bre,	2r	.	2cc	-bre,	2r	.
 2	2r	.	2A	Or	2r	.	2e	Or	2r	.	2cc	Or
@@ -116,7 +116,7 @@
 2	2A	-zet-	.	.	2e	-zet-	.	.	2cc#X	-zet-	.	.
 =8-	=8-	=8-	=8-	=8-	=8-	=8-	=8-	=8-	=8-	=8-	=8-	=8-
 4.	4.A	-te	1r	.	4.e	-te	1r	.	4.cc#X	-te	1r	.
-8	8A	Che	.	.	8f	Che	.	.	8cc#i	Che	.	.
+8	8A	Che	.	.	8f#i	Che	.	.	8cc#i	Che	.	.
 4	4B	for-	.	.	4f#X	for-	.	.	4dd	for-	.	.
 4	4B	-ma un	.	.	4g	-ma un	.	.	4dd	-ma un	.	.
 4	4c	dol-	1r	.	4g	dol-	1r	.	4ee	dol-	1r	.
@@ -154,14 +154,14 @@
 4	4G	-di-	4d	-di-	4g	-di-	4b	-di-	4dd	-di-	4gg	-di-
 2.	2.G	-ca-	2.d	-ca-	2.g	-ca-	2.b	-ca-	2.dd	-ca-	2.gg	-ca-
 4	4G	-bi-	4d	-bi-	4d	-bi-	4b	-bi-	4b	-bi-	4gg	-bi-
-4	4F	-li	4A	-li	4f	-li	4a	-li	4cc	-li	4aa	-li
+4	4F	-li	4A	-li	4f	-li	4a	-li	4cci	-li	4aa	-li
 4	4D	le	4A	le	4f	le	4a	le	4dd	le	4ff	le
 1	1A	pia-	1A	pia-	1e	pia-	1a	pia-	1cc#X	pia-	1ee	pia-
 =12-	=12-	=12-	=12-	=12-	=12-	=12-	=12-	=12-	=12-	=12-	=12-	=12-
 2	2D	-ghe.	2A	-ghe.	1f	-ghe.	1a	-ghe.	1dd	-ghe.	1dd	-ghe.
 2	2r	.	2r	.	.	.	.	.	.	.	.	.
-1	1r	.	1c	Ohi-	1r	.	1g	Ohi-	1ee	Ohi-	1gg	Ohi-
-4	1r	.	4A	-mè,	1r	.	4a	-mè,	4cc	-mè,	4ff	-mè,
+1	1r	.	1c	Ohi-	1r	.	1gi	Ohi-	1ee	Ohi-	1gg	Ohi-
+4	1r	.	4A	-mè,	1r	.	4a	-mè,	4cci	-mè,	4ff	-mè,
 4	.	.	4A	che	.	.	4a	che	4cc	che	4ee	che
 4	.	.	4A	tut-	.	.	4a	tut-	4cc	tut-	4ee	tut-
 4	.	.	4A	-te	.	.	4a	-te	4cc	-te	4ee	-te
@@ -200,7 +200,7 @@
 2	2B	-mo-	.	.	2f#X	-mo-	.	.	2dd#X	-mo-	.	.
 2	2B	-re.	2r	.	2f#X	-re.	2r	.	2dd#i	-re.	2r	.
 2	2r	.	2d	Cru-	2r	.	2a	Cru-	2r	.	2ff	Cru-
-4	1r	.	4c	-de-	1r	.	4a	-de-	1r	.	4ee	-de-
+4	1r	.	4ci	-de-	1r	.	4a	-de-	1r	.	4ee	-de-
 4	.	.	4c	-le A-	.	.	4e	-le A-	.	.	4ee	-le A-
 2	.	.	2B	-mo-	.	.	2f#X	-mo-	.	.	2dd	-mo-
 =17-	=17-	=17-	=17-	=17-	=17-	=17-	=17-	=17-	=17-	=17-	=17-	=17-
@@ -208,7 +208,7 @@
 2	2d	Sil-	2r	.	2a	Sil-	2r	.	2ff	Sil-	2r	.
 4	4c	-via	1r	.	4a	-via	1r	.	4ee	-via	1r	.
 4	4c	cru-	.	.	4e	cru-	.	.	4ee	cru-	.	.
-2	2.B	-de-	.	.	2.f#X	-de-	.	.	2.dd	-de-	.	.
+2	2.B	-de-	.	.	2.f#X	-de-	.	.	2.ddi	-de-	.	.
 4	.	.	1r	.	.	.	1r	.	.	.	1r	.
 4	4A	-le ed	.	.	4f#i	-le ed	.	.	4cc#X	-le ed	.	.
 2	2B	em-	.	.	2f#i	em-	.	.	2dd	em-	.	.
@@ -216,12 +216,12 @@
 4	4A	-pia	1r	.	4f#i	-pia	1r	.	4cc#i	-pia	1r	.
 4	4G	Più	.	.	4g	Più	.	.	4dd	Più	.	.
 4	4G	che	.	.	4d	che	.	.	4b	che	.	.
-4	4D	le	.	.	4f#i	le	.	.	4dd	le	.	.
+4	4D	le	.	.	4fni	le	.	.	4dd	le	.	.
 2	2A	sel-	1r	.	2e	sel-	1r	.	2cc#i	sel-	1r	.
 2	2D	-ve!	.	.	2d	-ve!	.	.	2dd	-ve!	.	.
 1	1c	Oh	1c	Oh	1e	Oh	1cc	Oh	1ee	Oh	1gg	Oh
 =19-	=19-	=19-	=19-	=19-	=19-	=19-	=19-	=19-	=19-	=19-	=19-	=19-
-4	4F	co-	4c	co-	4f	co-	4a	co-	4cc	co-	4ff	co-
+4	4F	co-	4c	co-	4f	co-	4a	co-	4cci	co-	4ff	co-
 4	4F	-me a	4c	-me a	4f	-me a	4a	-me a	4cc	-me a	4ff	-me a
 4	4F	te	4c	te	4f	te	4a	te	4cc	te	4ff	te
 4	4F	con-	4c	con-	4f	con-	4a	con-	4cc	con-	4ff	con-
@@ -244,7 +244,7 @@
 2	2A	-se!	2A	-se!	.	.	2a	-se!	2cc	-se!	2ee	-se!
 =21-	=21-	=21-	=21-	=21-	=21-	=21-	=21-	=21-	=21-	=21-	=21-	=21-
 1	1r	.	1c	Ce-	1r	.	1g	Ce-	1r	.	1ee	Ce-
-4	1r	.	4A	-lan	1r	.	4f	-lan	1r	.	4cc	-lan
+4	1r	.	4A	-lan	1r	.	4f	-lan	1r	.	4cci	-lan
 4	.	.	4A	le	.	.	4e	le	.	.	4cc	le
 2	.	.	2A	sel-	.	.	2e	sel-	.	.	2cc	sel-
 4	1r	.	4A	-ve an-	1r	.	4e	-ve an-	1r	.	4cc	-ve an-
@@ -290,16 +290,16 @@
 =25-	=25-	=25-	=25-	=25-	=25-	=25-	=25-	=25-	=25-	=25-	=25-	=25-
 2	2G	-gior	2d	-gior	2g	-gior	2b	-gior	2dd	-gior	2gg	-gior
 2	2C	ch'an-	2c	ch'an-	2g	ch'an-	2cc	ch'an-	2ee	ch'an-	2gg	ch'an-
-4	4F	-gui,	4c	-gui,	4f	-gui,	4cc	-gui,	4ff	-gui,	4aa	-gui,
+4	4Fi	-gui,	4c	-gui,	4f	-gui,	4cc	-gui,	4ff	-gui,	4aa	-gui,
 4	4F	le-	4c	le-	4f	le-	4cc	le-	4ff	le-	4aa	le-
 4	4C	-o-	4c	-o-	4g	-o-	4cc	-o-	4ee	-o-	4gg	-o-
 4	4C	-ni ed	4c	-ni ed	4g	-ni ed	4cc	-ni ed	4ee	-ni ed	4gg	-ni ed
 2	2G	or-	2d	or-	2g	or-	2b	or-	2dd	or-	2gg	or-
-2	2C	-si	2e	-si	2g	-si	2cc	-si	2cc	-si	2ee	-si
+2	2C	-si	2e	-si	2g	-si	2cc	-si	2cci	-si	2ee	-si
 =26-	=26-	=26-	=26-	=26-	=26-	=26-	=26-	=26-	=26-	=26-	=26-	=26-
 1	1.E	Ché	1r	.	1.e	Ché	1r	.	1.g#X	Ché	1.b	Ché
 2	.	.	1r	.	.	.	1r	.	.	.	.	.
-2	2F	si	.	.	2c	si	.	.	2a	si	2a	si
+2	2F	si	.	.	2ci	si	.	.	2a	si	2a	si
 1	1.G	pla-	1r	.	1.g	pla-	1r	.	1.b	pla-	1.dd	pla-
 2	.	.	1r	.	.	.	1r	.	.	.	.	.
 4	4D	-ca-	.	.	4f#X	-ca-	.	.	4a	-ca-	4dd	-ca-
@@ -312,7 +312,7 @@
 4	4B-i	pla-	4f	pla-	4d	pla-	4b-i	pla-	4ff	pla-	4dd	pla-
 2	2B-i	-car-	2f	-car-	2d	-car-	2b-i	-car-	2ff	-car-	2dd	-car-
 4	4B-i	-si	4f	-si	4d	-si	4b-i	-si	4ff	-si	4dd	-si
-4	4F	Non	4f	Non	4fnXi	Non	4a	Non	4ff	Non	4cc	Non
+4	4F	Non	4f	Non	4fnXi	Non	4a	Non	4ff	Non	4cci	Non
 4.	4.B-i	pos-	4.f	pos-	4.d	pos-	4.b-i	pos-	4.ff	pos-	4.dd	pos-
 8	8B-i	-so-	8f	-so-	8d	-so-	8b-i	-so-	8ff	-so-	8dd	-so-
 =28-	=28-	=28-	=28-	=28-	=28-	=28-	=28-	=28-	=28-	=28-	=28-	=28-
@@ -341,7 +341,7 @@
 4	4r	.	.	.	4r	.	4r	.	4r	.	.	.
 =30-	=30-	=30-	=30-	=30-	=30-	=30-	=30-	=30-	=30-	=30-	=30-	=30-
 4	4A	Tu	1r	.	4c	Tu	1r	.	4ee	Tu	1r	.
-4	4B	li	.	.	4g	li	.	.	4dd	li	.	.
+4	4Bi	li	.	.	4g	li	.	.	4dd	li	.	.
 4	4c	ri-	.	.	4g	ri-	.	.	4ee	ri-	.	.
 2	2d	-cu-	.	.	2a	-cu-	.	.	2ff	-cu-	.	.
 .	.	.	1r	.	.	.	1r	.	.	.	1r	.
@@ -362,8 +362,8 @@
 4	4G	più	.	.	4d	più	.	.	4b	più	.	.
 2	2G	bel-	.	.	2d	bel-	.	.	2b	bel-	.	.
 4	4G	-li hai	1r	.	4d	-li hai	1r	.	4b	-li hai	1r	.
-4	4F	nel	.	.	4A	nel	.	.	4cc	nel	.	.
-4	4D	bel	.	.	4f	bel	.	.	4dd	bel	.	.
+4	4Fi	nel	.	.	4A	nel	.	.	4cci	nel	.	.
+4	4D	bel	.	.	4fi	bel	.	.	4dd	bel	.	.
 4	2A	vol-	.	.	2e	vol-	.	.	2cc#X	vol-	.	.
 4	.	.	2.r	.	.	.	2.r	.	.	.	2.r	.
 2	2D	-to.	.	.	2d	-to.	.	.	2dd	-to.	.	.
@@ -384,7 +384,7 @@
 2	.	.	2A	-mi,	.	.	2e	-mi,	.	.	2cc#X	-mi,
 4	.	.	4r	.	.	.	4r	.	.	.	4r	.
 4	1r	.	4A	Tu	1r	.	4c	Tu	1r	.	4ee	Tu
-4	.	.	4B	li	.	.	4g	li	.	.	4dd	li
+4	.	.	4Bi	li	.	.	4g	li	.	.	4dd	li
 4	.	.	4c	ri-	.	.	4g	ri-	.	.	4ee	ri-
 2	.	.	2d	-giu-	.	.	2a	-giu-	.	.	2ff	-giu-
 .	1r	.	.	.	1r	.	.	.	1r	.	.	.
@@ -406,7 +406,7 @@
 2	.	.	2G	va-	.	.	2d	va-	.	.	2b	va-
 =34-	=34-	=34-	=34-	=34-	=34-	=34-	=34-	=34-	=34-	=34-	=34-	=34-
 4	1r	.	4d	-ghi hai	1r	.	4f	-ghi hai	1r	.	4a	-ghi hai
-4	.	.	4c	nel	.	.	4g	nel	.	.	4cc	nel
+4	.	.	4c	nel	.	.	4g	nel	.	.	4cci	nel
 4	.	.	4A	bel	.	.	4a	bel	.	.	4cc	bel
 4	.	.	2e	se-	.	.	2g#X	se-	.	.	2b	se-
 4	2.r	.	.	.	2.r	.	.	.	2.r	.	.	.
@@ -464,7 +464,7 @@
 4	4.F	-tà	4.c	-tà	4.f	-tà	4a	-tà	4.cc	-tà	4.ff	-tà
 8	.	.	.	.	.	.	4a	non	.	.	.	.
 8	8F	non	8c	non	8f	non	.	.	8cc	non	8ff	non
-4	4.c	può	4c	può	4.g	può	4.g	può	4.cc	può	4ee	può
+4	4.c	può	4c	può	4.g	può	4.gi	può	4.cc	può	4ee	può
 8	.	.	4c	do-	.	.	.	.	.	.	4ee	do-
 8	8c	do-	.	.	8e	do-	8g	do-	8cc	do-	.	.
 2	2c	-nar-	2c	-nar-	2e	-nar-	2g	-nar-	2cc	-nar-	2ee	-nar-
@@ -527,7 +527,7 @@
 4	.	.	4A	Per-	.	.	4e	Per-	.	.	4cc	Per-
 4	.	.	4A	-ché	.	.	4e	-ché	.	.	4cc	-ché
 =40-	=40-	=40-	=40-	=40-	=40-	=40-	=40-	=40-	=40-	=40-	=40-	=40-
-4	1r	.	4A	si	1r	.	4e	si	1r	.	4cc	si
+4	1r	.	4Ai	si	1r	.	4e	si	1r	.	4cc	si
 4	.	.	4F	fat-	.	.	4d	fat-	.	.	4a	fat-
 4	.	.	4G	-to io	.	.	4B	-to io	.	.	4b	-to io
 2	.	.	2A	si-	.	.	2e	si-	.	.	2cc	si-
@@ -550,7 +550,7 @@
 4	2.r	.	.	.	2.r	.	.	.	2.r	.	.	.
 2	.	.	2d	-no:	.	.	2a	-no:	.	.	2ff	-no:
 2.	2.c	Ahi,	2.c	Ahi,	2.e	Ahi,	2.gnXi	Ahi,	2.ee	Ahi,	2.gg	Ahi,
-8	8F	ché	8c	ché	8f	ché	8a	ché	8cc	ché	8ff	ché
+8	8F	ché	8c	ché	8fi	ché	8a	ché	8cc	ché	8ff	ché
 8	8F	le	8c	le	8f	le	8a	le	8cc	le	8ff	le
 2	2F	vil-	2c	vil-	2f	vil-	2a	vil-	2cc	vil-	2ff	vil-
 2	2F	-le	2c	-le	2f	-le	2a	-le	2cc	-le	2ff	-le
@@ -570,7 +570,7 @@
 2	2G	-di;	2G	-di;	2d	-di;	2g	-di;	2b	-di;	2dd	-di;
 4	4r	.	4r	.	4r	.	4r	.	4r	.	4r	.
 =44-	=44-	=44-	=44-	=44-	=44-	=44-	=44-	=44-	=44-	=44-	=44-	=44-
-4	4B-X	E	4d	E	4d	E	4f	E	4dd	E	4ff	E
+4	4B-X	E	4d	E	4d	E	4fi	E	4dd	E	4ff	E
 4	4B-i	ve-	4d	ve-	4f	ve-	4b-X	ve-	4dd	ve-	4ff	ve-
 4	4B-i	-ra-	4d	-ra-	4f	-ra-	4b-X	-ra-	4dd	-ra-	4ff	-ra-
 4.	4.B-i	-men-	4.d	-men-	4.f	-men-	4.b-X	-men-	4.dd	-men-	4.ff	-men-
@@ -584,7 +584,7 @@
 8	8B-i	-sto	8d	-sto	8f	-sto	8b-X	-sto	8dd	-sto	8ff	-sto
 2	2r	.	2r	.	2r	.	2r	.	2r	.	2r	.
 1	1c	Poi-	1c	Poi-	1e	Poi-	1g	Poi-	1cc	Poi-	1ee	Poi
-4	4G	-ché	4B	-ché	4d	-ché	4bnX	-ché	4dd	-ché	4gg	ché
+4	4G	-ché	4B	-ché	4d	-ché	4bnXi	-ché	4dd	-ché	4gg	ché
 4	4G	sol	4d	sol	4g	sol	4b	sol	4dd	sol	4gg	sol
 4	4G	vin-	4d	vin-	4g	vin-	4b	vin-	4dd	vin-	4gg	vin-
 =45-	=45-	=45-	=45-	=45-	=45-	=45-	=45-	=45-	=45-	=45-	=45-	=45-
@@ -605,8 +605,8 @@
 8	8c	tu	.	.	8g	tu	.	.	8ee	tu	.	.
 4	4c	fo-	.	.	4g	fo-	.	.	4ee	fo-	.	.
 4	4c	-sti,	.	.	4g	-sti,	.	.	4ee	-sti,	.	.
-4	4A	che in-	.	.	4f	che in-	.	.	4cc	che in-	.	.
-4	4B	-se-	1r	.	4d	-se-	1r	.	4dd	-se-	1r	.
+4	4A	che in-	.	.	4f	che in-	.	.	4cci	che in-	.	.
+4	4Bi	-se-	1r	.	4d	-se-	1r	.	4dd	-se-	1r	.
 4	4c	-gna-	.	.	4g	-gna-	.	.	4ee	-gna-	.	.
 4	4c	-sti	.	.	4g	-sti	.	.	4ee	-sti	.	.
 2	2c	pri-	.	.	2g	pri-	.	.	2ee	pri-	.	.
@@ -666,7 +666,7 @@
 4	.	.	4c	-mor	.	.	4g	-mor	.	.	4ee	-mor
 4	.	.	4c	ser-	.	.	4g	ser-	.	.	4ee	ser-
 4	.	.	4A	-vo	.	.	4a	-vo	.	.	4cc	-vo
-4	1r	.	4B	de	1r	.	4g	de	1r	.	4dd	de
+4	1r	.	4Bi	de	1r	.	4g	de	1r	.	4dd	de
 4	.	.	4c	l'o-	.	.	4g	l'o-	.	.	4ee	l'o-
 4	.	.	4c	-ro è'l	.	.	4a	-ro è'l	.	.	4ee	-ro è'l
 4	.	.	4d	mag-	.	.	4a	mag-	.	.	4ff	mag-
@@ -717,7 +717,7 @@
 2	.	.	2c	-mi	.	.	2g	-mi	.	.	2ee	-mi
 =52-	=52-	=52-	=52-	=52-	=52-	=52-	=52-	=52-	=52-	=52-	=52-	=52-
 4	1r	.	4A	che	1r	.	4a	che	1r	.	4ee	che
-4	.	.	4d	gli ha	.	.	4f	gli ha	.	.	4ff	gli ha
+4	.	.	4d	gli ha	.	.	4fi	gli ha	.	.	4ff	gli ha
 4.	.	.	4.c	da-	.	.	4.g	da-	.	.	4.ee	da-
 8	.	.	8c	-te	.	.	8g	-te	.	.	8ee	-te
 4	1r	.	4c	la	1r	.	4g	la	1r	.	4ee	la
@@ -734,14 +734,14 @@
 4	4c	cer-	.	.	4g	cer-	.	.	4ee	cer-	.	.
 4	4c	-vo a-	.	.	4g	-vo a-	.	.	4ee	-vo a-	.	.
 =53-	=53-	=53-	=53-	=53-	=53-	=53-	=53-	=53-	=53-	=53-	=53-	=53-
-4	4A	-do-	1r	.	4a	-do-	1r	.	4cc	-do-	1r	.
+4	4A	-do-	1r	.	4a	-do-	1r	.	4cci	-do-	1r	.
 4	4c#X	-pra il	.	.	4a	-pra il	.	.	4ee	-pra il	.	.
 2	2d	cor-	.	.	2.a	cor-	.	.	2ff	cor-	.	.
 4	2cnXi	-so,	2r	.	.	.	2r	.	2ee	-so,	2r	.
 4	.	.	.	.	4g	-so,	.	.	.	.	.	.
 4	2r	.	4c	Il	2r	.	4g	Il	2r	.	4ee	Il
 4	.	.	4c	le-	.	.	4g	le-	.	.	4ee	le-
-4	1r	.	4A	-on	1r	.	4f#X	-on	1r	.	4cc	-on
+4	1r	.	4A	-on	1r	.	4f#X	-on	1r	.	4cci	-on
 4	.	.	4c	gli ar-	.	.	4a	gli ar-	.	.	4ee	gli ar-
 2	.	.	2d	-ti-	.	.	2.a	-ti-	.	.	2ff	-ti-
 4	2r	.	2c	-gli,	2r	.	.	.	2r	.	2ee	-gli,
@@ -804,10 +804,10 @@
 2	.	.	2r	.	.	.	2r	.	.	.	2r	.
 =57-	=57-	=57-	=57-	=57-	=57-	=57-	=57-	=57-	=57-	=57-	=57-	=57-
 4.	1r	.	4.c	At-	1r	.	4.g	At-	1r	.	4.ee	At-
-8	.	.	8A	-to a	.	.	8f	-to a	.	.	8cc	-to a
+8	.	.	8A	-to a	.	.	8fi	-to a	.	.	8cc	-to a
 4	.	.	4c	far	.	.	4g	far	.	.	4ee	far
 8	.	.	8A	vi-	.	.	8a	vi-	.	.	8cc	vi-
-8	.	.	8B	-o-	.	.	8g	-o-	.	.	8dd	-o-
+8	.	.	8B	-o-	.	.	8g	-o-	.	.	8ddi	-o-
 2	1r	.	2c	-len-	1r	.	2g	-len-	1r	.	2ee	-len-
 4	.	.	4c	-za ed	.	.	4g	-za ed	.	.	4ee	-za ed
 8	.	.	8A	a	.	.	8f	a	.	.	8cc	a
@@ -815,10 +815,10 @@
 4	2r	.	4B	-pi-	2r	.	4g	-pi-	2r	.	4dd#X	-pi-
 4	.	.	4c	-re?	.	.	4g	-re?	.	.	4ee	-re?
 4.	4.c	Sfor-	2r	.	4.g	Sfor-	2r	.	4.ee	Sfor-	2r	.
-8	8A	-ze-	.	.	8f	-ze-	.	.	8cc	-ze-	.	.
+8	8A	-ze-	.	.	8f	-ze-	.	.	8cci	-ze-	.	.
 4	4c	-rò,	1r	.	4g	-rò,	1r	.	4ee	-rò,	1r	.
 8	8c	ra-	.	.	8g	ra-	.	.	8ee	ra-	.	.
-8	8B	-pi-	.	.	8g	-pi-	.	.	8dd	-pi-	.	.
+8	8Bi	-pi-	.	.	8g	-pi-	.	.	8dd	-pi-	.	.
 4	4c	-rò	.	.	4g	-rò	.	.	4ee	-rò	.	.
 4	4d	quel	.	.	4f	quel	.	.	4ff	quel	.	.
 4	4c	che	1r	.	4g	che	1r	.	4ee	che	1r	.
@@ -848,10 +848,10 @@
 2	2c	-spi-	2e	-spi-	.	.	2g	-spi-	2cc	-spi-	2gg	-spi-
 4	4r	.	4r	.	.	.	4r	.	4r	.	4r	.
 4	4c	-ri	4c	-ri	1r	.	4g	-ri	4cc	-ri	4ee	-ri
-2	2.G	pur,	2.d	pur,	.	.	2.g	pur,	2.b	pur,	2dd	pur,
+2	2.G	pur,	2.d	pur,	.	.	2.g	pur,	2.b	pur,	2ddi	pur,
 4	.	.	.	.	.	.	.	.	.	.	4r	.
 4	4G	u-	4d	u-	4g	u-	4g	u-	4b	u-	4dd	u-
-4	4G	-si o-	4g	-si o-	4g	-si o-	4b	-si o-	4dd	-si o-	4gg	-si o-
+4	4G	-si o-	4g	-si o-	4g	-si o-	4bi	-si o-	4dd	-si o-	4gg	-si o-
 4	4G	-gni	4g	-gni	4b	-gni	4dd	-gni	4dd	-gni	4gg	-gni
 =60-	=60-	=60-	=60-	=60-	=60-	=60-	=60-	=60-	=60-	=60-	=60-	=60-
 1	1d	sfor-	1f	sfor-	1a	sfor-	1dd	sfor-	1ff	sfor-	1aa	sfor-
@@ -876,7 +876,7 @@
 8	8d	-sta	.	.	8a	-sta	.	.	8ff	-sta	.	.
 4	4c	ma-	1r	.	4g	ma-	1r	.	4ee	ma-	1r	.
 8	8c	-no	.	.	8g	-no	.	.	8ee	-no	.	.
-8	8A	rav-	.	.	8f#X	rav-	.	.	8cc	rav-	.	.
+8	8A	rav-	.	.	8fnXi	rav-	.	.	8cci	rav-	.	.
 8	8c	-vo-	.	.	8g	-vo-	.	.	8ee	-vo-	.	.
 8	8c	-glie-	.	.	8g	-glie-	.	.	8ee	-glie-	.	.
 8	8A	-re	.	.	8a	-re	.	.	8cc	-re	.	.
@@ -904,7 +904,7 @@
 =63-	=63-	=63-	=63-	=63-	=63-	=63-	=63-	=63-	=63-	=63-	=63-	=63-
 2	2c	tin-	2c	tin-	2g	tin-	2cc	tin-	2ee	tin-	2gg	tin-
 2	2c	-ga	2c	-ga	2e	-ga	2g	-ga	2cc	-ga	2gg	-ga
-4.	4.F	L'ar-	4.c	L'ar-	4.f	L'ar-	4.a	L'ar-	4.cc	L'ar-	4.ff	L'ar-
+4.	4.F	L'ar-	4.c	L'ar-	4.fi	L'ar-	4.a	L'ar-	4.cc	L'ar-	4.ffi	L'ar-
 8	8F	-mi	8c	-mi	8f	-mi	8a	-mi	8cc	-mi	8ff	-mi
 2	2F	mie	2c	mie	2f	mie	2a	mie	2cc	mie	2ff	mie
 4	4F	per	4c	per	4f	per	4a	per	4cc	per	4ff	per
