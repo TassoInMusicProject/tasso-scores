@@ -23,7 +23,7 @@
 *	*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 !!!ONB: no meter (mensuration)
-!!LO:TX:a:t=[Canto da cantarsi senza battuta e pause]
+!!LO:TX:a:t=Canto da cantarsi senza battuta e pause
 2	2G	Pic-	1r	.	2d	Pic-	2g	Pic-	2b	Pic-	1r	.
 4	4G	-cio-	.	.	4d	-cio-	4g	-cio-	4b	-cio-	.	.
 4	4G	-la è	.	.	4d	-la è	4g	-la è	4b	-la è	.	.
@@ -144,7 +144,7 @@
 4	4F	sì	4A	sì	4f	sì	4a	sì	4cc	sì	4ff	sì
 4	4D	mor-	4A	mor-	4a	mor-	4a	mor-	4dd	mor-	4ff	mor-
 2	2A	-ta-	2A	-ta-	2e	-ta-	2a	-ta-	2cc#X	-ta-	2ee	-ta-
-2	2A	-li	2r	-li	2e	-li	2a	-li	2cc#i	-li	2ee	-li
+2	2A	-li	2A	-li	2e	-li	2a	-li	2cc#i	-li	2ee	-li
 4	4r	.	4r	.	4r	.	4r	.	4r	.	4r	.
 4	4G	E	4d	E	4g	E	4b	E	4dd	E	4gg	E
 4	4G	co-	4d	co-	4g	co-	4b	co-	4dd	co-	4gg	co-
@@ -198,13 +198,13 @@
 4	4c	cru-	1r	.	4g	cru-	1r	.	4ee	cru-	1r	.
 4	4c	-do A-	.	.	4e	-do A-	.	.	4ee	-do A-	.	.
 2	2B	-mo-	.	.	2f#X	-mo-	.	.	2dd#X	-mo-	.	.
-2	2B	-re.	2r	.	2f#X	-re.	2r	.	2dd#i	-re.	2r	.
+2	2B	-re,	2r	.	2f#X	-re,	2r	.	2dd#i	-re,	2r	.
 2	2r	.	2d	Cru-	2r	.	2a	Cru-	2r	.	2ff	Cru-
 4	1r	.	4ci	-de-	1r	.	4a	-de-	1r	.	4ee	-de-
 4	.	.	4c	-le A-	.	.	4e	-le A-	.	.	4ee	-le A-
 2	.	.	2B	-mo-	.	.	2f#X	-mo-	.	.	2dd	-mo-
 =17-	=17-	=17-	=17-	=17-	=17-	=17-	=17-	=17-	=17-	=17-	=17-	=17-
-2	2r	.	2B	-re.	2r	.	2f#i	-re.	2r	.	2dd	-re.
+2	2r	.	2B	-re,	2r	.	2f#i	-re,	2r	.	2dd	-re,
 2	2d	Sil-	2r	.	2a	Sil-	2r	.	2ff	Sil-	2r	.
 4	4c	-via	1r	.	4a	-via	1r	.	4ee	-via	1r	.
 4	4c	cru-	.	.	4e	cru-	.	.	4ee	cru-	.	.
@@ -369,7 +369,7 @@
 2	2D	-to.	.	.	2d	-to.	.	.	2dd	-to.	.	.
 4	4r	.	1c	Ohi-	4r	.	1g	Ohi-	4r	.	1ee	Ohi-
 2.	1r	.	.	.	1r	.	.	.	1r	.	.	.
-4	.	.	4A	-mé,	.	.	4f	-mé,	.	.	4cc#X	-mé,
+4	.	.	4A	-mè,	.	.	4f	-mè,	.	.	4cc#X	-mè,
 =32-	=32-	=32-	=32-	=32-	=32-	=32-	=32-	=32-	=32-	=32-	=32-	=32-
 4	1r	.	4A	quan-	1r	.	4e	quan-	1r	.	4cc#i	quan-
 4	.	.	4A	-do io	.	.	4e	-do io	.	.	4cc#i	-do io
@@ -449,11 +449,11 @@
 4	4G	più	.	.	4d	più	.	.	4b	più	.	.
 2	2G	dol-	.	.	2d	dol-	.	.	2b	dol-	.	.
 4	4G	-ce hai	1r	.	4d	-ce hai	1r	.	4b	-ce hai	1r	.
-4	4F	ne	.	.	4A	ne	.	.	4cc	ne	.	.
+4	4F	ne	.	.	4A	ne	.	.	4cci	ne	.	.
 4	4D	le	.	.	4f	le	.	.	4dd	le	.	.
 4	2A	lab-	.	.	2e	lab-	.	.	2cc#X	lab-	.	.
 4	.	.	2.r	.	.	.	2.r	.	.	.	2.r	.
-2	2D	-bra.	.	.	2d	-ra.	.	.	2dd	-bra.	.	.
+2	2D	-bra.	.	.	2d	-bra.	.	.	2dd	-bra.	.	.
 4	4r	.	4r	.	4r	.	4r	.	4r	.	4r	.
 4	4F	Ma	4c	Ma	4f	Ma	4a	Ma	4ccnXi	Ma	4ff	Ma
 4.	4.F	se	4.c	se	4.f	se	4.a	se	4.cc	se	4.ff	se
@@ -583,8 +583,8 @@
 4.	4.B-i	que-	4.d	que-	4.f	que-	4.b-X	que-	4.dd	que-	4.ff	que-
 8	8B-i	-sto	8d	-sto	8f	-sto	8b-X	-sto	8dd	-sto	8ff	-sto
 2	2r	.	2r	.	2r	.	2r	.	2r	.	2r	.
-1	1c	Poi-	1c	Poi-	1e	Poi-	1g	Poi-	1cc	Poi-	1ee	Poi
-4	4G	-ché	4B	-ché	4d	-ché	4bnXi	-ché	4dd	-ché	4gg	ché
+1	1c	Poi-	1c	Poi-	1e	Poi-	1g	Poi-	1cc	Poi-	1ee	Poi-
+4	4G	-ché	4B	-ché	4d	-ché	4bnXi	-ché	4dd	-ché	4gg	-ché
 4	4G	sol	4d	sol	4g	sol	4b	sol	4dd	sol	4gg	sol
 4	4G	vin-	4d	vin-	4g	vin-	4b	vin-	4dd	vin-	4gg	vin-
 =45-	=45-	=45-	=45-	=45-	=45-	=45-	=45-	=45-	=45-	=45-	=45-	=45-
@@ -859,7 +859,7 @@
 2	1.A	Di	1.e	Di	2r	.	1.cc	Di	1.ee	Di	1.a	Di
 1	.	.	.	.	1r	.	.	.	.	.	.	.
 2	2E	pie-	2e	pie-	1r	.	2b	pie-	2b	pie-	2g	pie-
-2	1A	-tà	1e	-tà,	.	.	1a	-tà,	1cc#X	-tà,	1a	-tà,
+2	1A	-tà,	1e	-tà,	.	.	1a	-tà,	1cc#X	-tà,	1a	-tà,
 2	.	.	.	.	2r	.	.	.	.	.	.	.
 2	2A	di	2r	.	2e	di	2a	di	2cc#i	di	2r	.
 =61-	=61-	=61-	=61-	=61-	=61-	=61-	=61-	=61-	=61-	=61-	=61-	=61-
