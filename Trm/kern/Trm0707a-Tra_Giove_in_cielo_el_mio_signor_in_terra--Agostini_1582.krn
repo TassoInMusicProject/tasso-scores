@@ -27,7 +27,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Al Serenissimo, ed Invittiss. S. Duca di Ferrara	!
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=[Prima parte.] Al Serenissimo, ed Invittiss. S. Duca di Ferrara	! 
 0r	.	0r	.	0r	.	0r	.	1r	.	2f	Tra
 .	.	.	.	.	.	.	.	.	.	4f	Gio-
 .	.	.	.	.	.	.	.	.	.	4f	-ve in
@@ -148,16 +148,16 @@
 2GG	-ta	4B-y	-ta	.	.	4d	l'al-	2b-y	De	2r	.
 .	.	4B-y	De	.	.	4d	-tra	.	.	.	.
 2E-i	De	4B-y	l'al-	.	.	2e-i	por-	4b-y	l'al-	1r	.
-.	.	4B-y	-tre	.	.	.	.	4b-y	-te	.	.
+.	.	4B-y	-te	.	.	.	.	4b-y	-te	.	.
 4E-i	l'al-	4.e-i	reg-	2G	-SO in	4B-y	-ta	4.b-y	reg-	.	.
-4E-i	-tre	.	.	.	.	4B-y	De	.	.	.	.
+4E-i	-te	.	.	.	.	4B-y	De	.	.	.	.
 .	.	8e-i	-gie o-	.	.	.	.	8cc	-gie o-	.	.
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 4.BB-y	reg-	4d	-gn'hor	0F	guer-	8B-yL	l'al-	4dd	-gn'hor	2f	De
 .	.	.	.	.	.	8c	.	.	.	.	.
 .	.	4d	le	.	.	8d	.	4b-y	le	.	.
 8C	-gie o-	.	.	.	.	8enXiJ	.	.	.	.	.
-4D	-gn'hor	4d	si	.	.	4f	.	4a	si	4f	l'a-
+4D	-gn'hor	4d	si	.	.	4f	.	4a	si	4f	l'al-
 4AA	le	4c	dis-	.	.	4c	-te	4a	dis-	4f	-te
 4BB-y	si	2B-y	-ser-	.	.	4.d	reg-	2dd	-ser-	4.f	reg-
 4BB-y	dis-	.	.	.	.	.	.	.	.	.	.
@@ -166,7 +166,7 @@
 .	.	.	.	.	.	4f	le	.	.	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 2C	-ra.	1r	.	0G	-ra,	4e-X	si	2r	.	4g	le
-.	.	.	.	.	.	4e-X	dise-	.	.	2cc	si
+.	.	.	.	.	.	4e-X	di-	.	.	2cc	si
 2r	.	.	.	.	.	2d	-ser-	2g	Pren-	.	.
 .	.	.	.	.	.	.	.	.	.	4bnX	dis-
 2C	Pren-	2e	Pren-	.	.	1c	-ra.	4g	-de,	2cc	-ser-
@@ -302,7 +302,7 @@
 .	.	.	.	.	.	.	.	.	.	8e	.
 .	.	.	.	.	.	4d	e	4dd	-SO in	8f	.
 .	.	.	.	.	.	.	.	.	.	8gJ	.
-4FF	-ram	4c	-ra,	.	.	4.f	tuo-	2cc	guer-	2a	.
+4FF	-ra	4c	-ra,	.	.	4.f	tuo-	2cc	guer-	2a	.
 8r	.	4c	e	.	.	.	.	.	.	.	.
 8FF	e	.	.	.	.	8f	-na,	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
@@ -406,12 +406,12 @@
 .	.	4enXi	Ci-	.	.	.	.	.	.	.	.
 2F	di	2.f	-pres-	.	.	2c	il	2r	.	2cc	il
 .	.	.	.	4A	.	.	.	.	.	.	.
-1C	Pal-	.	.	1G	.	4g	diè	2r	.	4cc	dìe
+1C	Pal-	.	.	1G	.	4g	diè	2r	.	4cc	diè
 .	.	8eL	.	.	.	4c	di	.	.	4g	di
 .	.	8dJ	.	.	.	.	.	.	.	.	.
 .	.	2e	.	.	.	2c	Pal-	2g	il	2cc	Pal-
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
-2FF	-na,	2f	-so,	1F	-ra,	4c	-ma,	2a	diè	4cc	-ma,
+2FF	-ma,	2f	-so,	1F	-ra,	4c	-ma,	2a	diè	4cc	-ma,
 .	.	.	.	.	.	4c	<il	.	.	4f	il
 2BB-y	<il	2r	.	.	.	4.d	diè	4b-y	di	4.f	diè
 .	.	.	.	.	.	.	.	4.dd	Pal-	.	.
@@ -431,9 +431,9 @@
 2FF	vit-	.	.	2F	-na,	2a	-to-	.	.	2cc	-ces-
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
 2BB-y	-to-	2r	.	2.F	Tuo-	2f	-ria	4r	.	4dd	-se in
-.	.	.	.	.	.	.	.	2dd	La-	2b-y	ve-
+.	.	.	.	.	.	.	.	2dd	La	2b-y	ve-
 4BB-y	-ria	2.d	La	.	.	4d	suc-	.	.	.	.
-4GG	suc-	.	.	4G	-na	2g	-ces-	4dd	-vit-	4b-y	-ce
+4GG	suc-	.	.	4G	-na	2g	-ces-	4dd	vit-	4b-y	-ce
 2D	-ces-	.	.	2A	.	.	.	2dd	-to-	2a	d'al-
 .	.	4d	vit-	.	.	4f#X	-se in	.	.	.	.
 2GG	-se in-	2d	-to-	2B-y	in	2g	ve-	4dd	-ria	2g	-ma
@@ -486,7 +486,7 @@
 .	.	.	.	.	.	.	.	4dd	.	2.f	fe'l
 2D	fe'l	2F	-to:	2A	-na AL-	2d	-to;	4.dd	vin-	.	.
 .	.	.	.	.	.	.	.	8cc	-ci-	.	.
-1E-X	vin-	1r	.	4G	-FON-	1r	.	4b-y	-to	2g	vin-
+1E-X	vin-	1r	.	4G	-FON-	1r	.	4b-y	-tor	2g	vin-
 .	.	.	.	4A	-SO	.	.	4a	fe'l	.	.
 .	.	.	.	4B-y	.	.	.	2g	vin-	2g	-to:
 .	.	.	.	4c	.	.	.	.	.	.	.
