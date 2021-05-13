@@ -46,7 +46,7 @@ sub processFile {
 	return if $line !~ /system-decoration/;
 	if ($line !~ /[[]/) {
 		if ($line =~ /^(!!!system-decoration\s*:\s*)(.*)(\s*)$/) {
-			$line = "$1\[($2)\]$3";
+			$line = "$1\[\($2\)\]$3";
 		}
 	}
 	return if $line !~ /\[([^\[\]]+)\]/;
