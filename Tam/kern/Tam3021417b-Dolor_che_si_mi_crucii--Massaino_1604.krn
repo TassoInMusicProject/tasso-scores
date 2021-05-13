@@ -26,6 +26,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=Prima parte.
 0r	.	2e	Do-	0r	.	0r	.	0r	.	1r	.
 .	.	1e	-lor,	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	.	.	2dd	Do-
@@ -133,7 +134,7 @@
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 2G]	.	2d	cu-	4c]	.	2r	.	1r	.	2r	.
 .	.	.	.	4B	.	.	.	.	.	.	.
-2C	-ra.	2e	-ra.	2c	-ra.	2.g	Poi	.	.	2.ee	Poi
+2C	-ra,	2e	-ra,	2c	-ra,	2.g	Poi	.	.	2.ee	Poi
 2.E	Poi	1r	.	4r	.	.	.	4r	.	.	.
 .	.	.	.	2G#X	Poi	4e	che	2ee	Poi	4b	che
 .	.	.	.	.	.	4e	tu	.	.	2b	tu
@@ -141,11 +142,11 @@
 .	.	.	.	.	.	8f#X	ri-	.	.	.	.
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 4BB	tu	1r	.	4B	tu	4g	-cu-	4dd	tu	4r	.
-8AA	la	.	.	8E	la	4e	-si o	8cc	la	8a	la
+8AA	la	.	.	8E	la	4e	-si, o	8cc	la	8a	la
 8GG	ri-	.	.	8G	ri-	.	.	8b	ri-	8b	ri-
 2C	-cu-	.	.	4G	-cu-	2e	che	2a	-cu-	4cc	-cu-
-.	.	.	.	4E	-si,	.	.	.	.	4a	-si o
-2BB	-si o	4r	.	1r	.	2d	non	2b	-si o	4a	che,
+.	.	.	.	4E	-si,	.	.	.	.	4a	-si, o
+2BB	-si, o	4r	.	1r	.	2d	non	2b	-si, o	4a	che,
 .	.	4D	o	.	.	.	.	.	.	4g#X	o
 2AA	che	2A	che	.	.	2e	puo-	4cc	che	4a	che
 .	.	.	.	.	.	.	.	4cc	non	4a	non
@@ -155,16 +156,16 @@
 .	.	1E	-i.	1B	puo-	.	.	1b	Ohi-	2r	.
 2G#X	-i.	.	.	.	.	2e	o	.	.	[2ee	Ohi-
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-0r	.	1c	Ohi-	1A	-i.	2.e	che	2e	-mé,	2ee]	.
-.	.	.	.	.	.	.	.	1ee	<Ohi-	2a	-mé,
+0r	.	1c	Ohi-	1A	-i.	2.e	che	2e	-mè,	2ee]	.
+.	.	.	.	.	.	.	.	1ee	<Ohi-	2a	-mè,
 .	.	.	.	.	.	4a	non	.	.	.	.
-.	.	1B	-mé,	1r	.	2g	puo-	.	.	1b	<Ohi-
-.	.	.	.	.	.	2d	-i.	2g#X	-mé,	.	.
+.	.	1B	-mè,	1r	.	2g	puo-	.	.	1b	<Ohi-
+.	.	.	.	.	.	2d	-i.	2g#X	-mè,	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-1A	Ohi-	0r	.	1.c	Ohi-	2r	.	2a	Ohi-	0e	-mé,>
-.	.	.	.	.	.	1a	Ohi-	2e	-mé,>	.	.
-1E	-mé,	.	.	.	.	.	.	1r	.	.	.
-.	.	.	.	2G	-mé,	2c#X	-mé,	.	.	.	.
+1A	Ohi-	0r	.	1.c	Ohi-	2r	.	2a	Ohi-	0e	-mè,>
+.	.	.	.	.	.	1a	Ohi-	2e	-mè,>	.	.
+1E	-mè,	.	.	.	.	.	.	1r	.	.	.
+.	.	.	.	2G	-mé,	2c#X	-mè,	.	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 4D	se	0r	.	4F#X	se	4d	se	4a	se	0r	.
 4D	nul-	.	.	4F#i	nul-	4d	nul-	4a	nul-	.	.
@@ -213,8 +214,8 @@
 1r	.	0r	.	1r	.	1r	.	1r	.	0r	.
 2A	che	.	.	4r	.	2c	che	2e	che	.	.
 .	.	.	.	2A	che	.	.	.	.	.	.
-2E	piú a-	.	.	.	.	2B	più a-	2e	piú a-	.	.
-.	.	.	.	4G	piú a-	.	.	.	.	.	.
+2E	più a-	.	.	.	.	2B	più a-	2e	più a-	.	.
+.	.	.	.	4G	più a-	.	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
 4BB	-spet-	1r	.	4F#X	-spet-	4B	-spet-	4d#X	-spet-	1r	.
 4BB	-to?	.	.	4F#i	-to?	4B	-to?	4d#i	-to?	.	.
@@ -239,13 +240,13 @@
 .	.	8c	sal-	.	.	.	.	8a	sal-	8e	sal-
 .	.	2B	-va-	.	.	.	.	2g#X	-va-	2d	-va-
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
-2r	.	1A	-sti,	2e	A	1r	.	1a	-ti,	2c#X	-sti,
+2r	.	1A	-sti,	2e	A	1r	.	1a	-sti,	2c#X	-sti,
 2AA	A	.	.	4d	que-	.	.	.	.	4r	.
 .	.	.	.	4c	-sto	.	.	.	.	4ee	A
 4BB	que-	2r	.	4B	fin	2r	.	1r	.	4dd	que-
 4C	-sto	.	.	4A	a-	.	.	.	.	4cc	-sto
-4D	fin	4r	.	4B	-ma-	4r	.	.	.	4b	fi-
-4C	a-	4e	A	4E	-ro,	4A	A	.	.	4a	-ne a-
+4D	fin	4r	.	4B	-ma-	4r	.	.	.	4b	fin
+4C	a-	4e	A	4E	-ro,	4A	A	.	.	4a	a
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
 [0BB	-ma-	4d	que-	2r	.	4B	que-	4r	.	4g#X	-ma-
 .	.	4c	-sto	.	.	4c	-sto	4ee	A	4a	.

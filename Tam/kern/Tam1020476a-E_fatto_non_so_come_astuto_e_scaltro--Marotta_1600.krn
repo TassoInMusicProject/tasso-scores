@@ -28,6 +28,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Quinta parte]
 1r	.	2dd	E	0r	.
 .	.	4ee	fat-	.	.
 .	.	4ee	-to,	.	.
@@ -64,7 +65,7 @@
 =5	=5	=5	=5	=5	=5
 2D	scal-	0r	.	4a]	.
 .	.	.	.	4b	-to e
-4C	-tro,>	.	.	4cc	scal-
+4C	-tro>	.	.	4cc	scal-
 4C	Più	.	.	8cc	-tro
 .	.	.	.	8cc	Più
 4G	de	.	.	4b	de
@@ -73,14 +74,14 @@
 =6	=6	=6	=6	=6	=6
 1E	-to	2r	.	2g#X	-to
 .	.	4r	.	4r	.
-.	.	2g#X	(Guar-	2b	(Guar-
+.	.	2g#X	(guar-	2b	(guar-
 1r	.	.	.	.	.
 .	.	4g#X	-da	4b	-da
 .	.	4a	quan-	4cc	quan-
-.	.	4b	-to a-	4dd	-to a-
+.	.	4b	-to A-	4dd	-to A-
 =7	=7	=7	=7	=7	=7
 0r	.	4cc	-mo-	4ee	-mo-
-.	.	4cc	-r' a-	4ee	-r' a-
+.	.	4cc	-r'A-	4ee	-r'A-
 .	.	4a	-guz-	4ff	-guz-
 .	.	4cc	-za	4ee	-za
 .	.	4cc	l'in-	4ff	l'in-
@@ -88,13 +89,13 @@
 .	.	2ee	-let-	2cc	-let-
 =8	=8	=8	=8	=8	=8
 2r	.	0ff	-to)	1cc	-to)
-4F	Mi	.	.	.	.
+4F	mi	.	.	.	.
 4F	so-	.	.	.	.
 2F	-ven-	.	.	1r	.
 2F	-ne	.	.	.	.
 =9	=9	=9	=9	=9	=9
 4r	.	1r	.	4ff	mi
-4f	d'u-	.	.	4ff	so-
+4f	D'u-	.	.	4ff	so-
 4d	-n'in-	.	.	2ff	-ven-
 4.B-X	-gan-	.	.	.	.
 .	.	2r	.	1ff	-ne
@@ -123,7 +124,7 @@
 .	.	.	.	4cc	so-
 =12	=12	=12	=12	=12	=12
 2r	.	1.ee	-ne,	2cc	-ven-
-4c	Mi	.	.	2cc	-ne
+4c	mi	.	.	2cc	-ne
 4c	so-	.	.	.	.
 2c	-ven-	.	.	4r	.
 .	.	.	.	4gg	D'u-
@@ -132,7 +133,7 @@
 =13	=13	=13	=13	=13	=13
 4r	.	2ee	-ven-	8cc]	.
 .	.	.	.	8cc	-no
-4g	d'u-	.	.	4cc	gen-
+4g	D'u-	.	.	4cc	gen-
 4e	-n'in-	4ee	-ne	2g	-ti-
 4.c	-gan-	4gg	D'u-	.	.
 .	.	4ee	-n'in-	4cc	-le,
@@ -232,7 +233,7 @@
 .	.	2b	-nie-	.	.
 .	.	.	.	4g#X	.
 2r	.	1a	-ra,	1a	-ra,
-2A	In-	.	.	.	.
+2A	in-	.	.	.	.
 =27	=27	=27	=27	=27	=27
 4B	-co-	0r	.	0r	.
 4c#X	-min-	.	.	.	.
@@ -265,7 +266,7 @@
 4f	-ci-	8a	che	8cc	che
 .	.	8b	la	8dd	la
 =31	=31	=31	=31	=31	=31
-2c	-na,	4cc	lin-	4ee	lin-
+2c	-na	4cc	lin-	4ee	lin-
 .	.	8cc	-gua	8ee	-gua
 .	.	8dd	Non	8ff	Non
 2r	.	4ee	ri-	4gg	ri-
@@ -322,7 +323,7 @@
 .	.	4ee	-chie-	2cc	.
 .	.	2dd	-de-	.	.
 .	.	.	.	4b	.
-4r	.	2cc	-va	[1cc	-va
+4r	.	2cc	-va,	[1cc	-va
 4c	il	.	.	.	.
 4A	vol-	2r	.	.	.
 4E	-to	.	.	.	.

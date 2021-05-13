@@ -26,6 +26,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Nona parte]
 0r	.	1r	.	0r	.	1r	.	1g	Dun-	0r	.
 .	.	1c	Dun-	.	.	1e	Dun-	2.g	-que	.	.
 .	.	.	.	.	.	.	.	4cc	tu	.	.
@@ -149,7 +150,7 @@
 .	.	8A	di-	.	.	.	.	.	.	.	.
 4GG	suo	2G	-spet-	2B-y	-spet-	1d	-sti,	2r	.	4b-y	suo
 4AA	di-	.	.	.	.	.	.	.	.	4cc	di-
-4BB-y	-spet-	4F	-to,	2B-y	-to.	.	.	2d	tu	4dd	-spet-
+4BB-y	-spet-	4F	-to,	2B-y	-to,	.	.	2d	tu	4dd	-spet-
 8GG	-to,	4G	tu	.	.	.	.	.	.	[8b-y	-to,
 8GG	al	.	.	.	.	.	.	.	.	8b-]	al
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
@@ -224,7 +225,7 @@
 4GG	suo	4D	suo	4G	suo	2G	-la.	.	.	4b-y	-spet-
 4C	di-	4E	di-	4A	di-	.	.	.	.	4cc	-to
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-4BB-y	-spet-	4F	-pet-	4B-y	-spet-	0r	.	2r	.	4dd	no,
+4BB-y	-spet-	4F	-spet-	4B-y	-spet-	0r	.	2r	.	4dd	no,
 4E-X	-to	4G	-to	4c	-to	.	.	.	.	4r	.
 2D	no,	2A	no,	4d	no,	.	.	2f	Al	2r	.
 .	.	.	.	4d	ma	.	.	.	.	.	.
@@ -234,7 +235,7 @@
 .	.	4G	di-	.	.	.	.	4cc	-to	.	.
 8E-i	di-	.	.	.	.	.	.	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
-4F	-spet-	4A	-spet-	2D	-sti,	2r	.	2dd	no,	4a	l'a-
+4F	-spet-	4A	-spet-	2D	-i,	2r	.	2dd	no,	4a	l'a-
 4G	-to	4B-y	-to	.	.	.	.	.	.	4g	-me-
 2A	no,	2c	no,	2r	.	2F	Al	2dd	ma	2f	-re-
 4r	.	2r	.	2r	.	4G	suo	4dd	l'a-	4d	-i,
@@ -247,7 +248,7 @@
 4D	no,	4d	l'a-	2.A	l'a-	2f	ma	2a	-i.	4f	-i,
 4D	ma	4d	-me-	.	.	.	.	.	.	4a	ma
 4F	l'a-	1c	-re-	.	.	4f	l'a-	1r	.	4a	l'a-
-4F	-me-	.	.	4F	-me-	4f	-ma-	.	.	4a	-me-
+4F	-me-	.	.	4F	-me-	4f	-me-	.	.	4a	-me-
 2C	-re-	.	.	2G	-re-	2e	-re-	.	.	2g	-re-
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 2FF	-i.	2c	-i.	2A	-i.	2f	-i.	2r	.	1f	-i.

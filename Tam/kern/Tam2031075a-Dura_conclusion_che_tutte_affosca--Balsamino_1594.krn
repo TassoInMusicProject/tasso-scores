@@ -25,6 +25,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Sesta parte]
 0r	.	1r	.	1.B-y	Du-	0r	.	1r	.	1.dd	Du-
 .	.	[1B-y	Du-	.	.	.	.	[1dd	Du-	.	.
 .	.	.	.	4A	-ra	.	.	.	.	4cc	-ra
@@ -84,7 +85,7 @@
 4D	-sca,	4D	-sca,	4d	-sca,	4f#i	-sca,	4a	-sca,	4dd	-sca,
 4GG	che	4D	che	4d	che	4d	che	4g	che	4b-y	che
 4D	tut-	4D	tut-	4d	tut-	4f#i	tut-	4a	tut-	4a	tut-
-4D	-te at-	4A	-te at-	4d	-te at-	4f#i	-te at-	4dd	-ta at-	4a	-te at-
+4D	-te at-	4A	-te at-	4d	-te at-	4f#i	-te at-	4dd	-te at-	4a	-te at-
 [1GG	-to-	1G	-to-	[1d	-to-	4g	-to-	[1dd	-to-	1bnX	-to-
 .	.	.	.	.	.	4g	-sca	.	.	.	.
 .	.	.	.	.	.	4g	Le	.	.	.	.
@@ -135,7 +136,7 @@
 .	.	.	.	.	.	.	.	.	.	8cc	-ze
 .	.	.	.	.	.	.	.	.	.	8b-y	pas-
 .	.	[1D	-te.	.	.	.	.	.	.	1a	-sa-
-.	.	.	.	.	.	8c	-ze	8fnXiL	.	.	.
+.	.	.	.	.	.	8c	-ze	8f#XiL	.	.	.
 .	.	.	.	.	.	8B-y	pas-	8eJ	.	.	.
 .	.	.	.	2A	-te.	2A	-sa-	2f#X	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
@@ -174,7 +175,7 @@
 .	.	2A	tor-	.	.	.	.	.	.	.	.
 4D]	tor-	.	.	.	.	.	.	4b-y	tu	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
-2E	-men-	2G	-men-	0r	.	2g	-del	1cc	mi	0r	.
+2E	-men-	2G	-men-	0r	.	2g	-del,	1cc	mi	0r	.
 1F	.	1A	.	.	.	2f	tu	.	.	.	.
 .	.	.	.	.	.	[1c	mi	1cc	tor-	.	.
 4E	.	4G	.	.	.	.	.	.	.	.	.
@@ -200,7 +201,7 @@
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 4D	pa-	4d	Po-	2.F	Po-	0r	.	4dd	dun-	4b-y	dun-
 4D	-re,	4d	-co	.	.	.	.	8cc	-que	8a	-que
-.	.	.	.	.	.	.	.	8b-y	mi	8g	ti
+.	.	.	.	.	.	.	.	8b-y	ti	8g	ti
 4D	Po-	4d	dun-	.	.	.	.	4a	pa-	4f	pa-
 4D	-co	8c	-que	4F	-co	.	.	4a	-re,	4f	-re,
 .	.	8B-y	mi	.	.	.	.	.	.	.	.
@@ -418,8 +419,8 @@
 .	.	2A	cre-	[1f	vie-	.	.	1cc	vie-	1c	-ni
 .	.	2A	-scer	.	.	.	.	.	.	.	.
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
-[0G	mi-	2d	mi-	2f]	.	[0g	mi-	2b-y	-ni>	1r	.
-.	.	2BnX	-a,	2e	.	.	.	4g	la	.	.
+[0G	mi-	2d	vie-	2f]	.	[0g	mi-	2b-y	-ni>	1r	.
+.	.	2BnX	-ni	2e	.	.	.	4g	la	.	.
 .	.	.	.	.	.	.	.	4a	mi-	.	.
 .	.	2r	.	2d	.	.	.	4bnX	-se-	4g	la
 .	.	.	.	.	.	.	.	4cc	-ria	4a	mi-

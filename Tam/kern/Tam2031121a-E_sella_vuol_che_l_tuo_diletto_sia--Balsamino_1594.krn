@@ -26,6 +26,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Quattordicesima parte]
 0r	.	1r	.	0r	.	2c	E	2cc	E	0r	.
 .	.	.	.	.	.	4d	s'el-	4b-y	s'el-	.	.
 .	.	.	.	.	.	4f	-la	4a	-la	.	.
@@ -215,7 +216,7 @@
 1FF	-cat-	2F	-cat-	2c	-cat-	2f	-cat-	2cc	-cat-	2a	-cat-
 .	.	4F	-to!	2.c	-to!	2.f	-to!	4cc	-to!	2.a	-to!
 .	.	4F	A	.	.	.	.	4a	A	.	.
-1FF	-to?	2A	te,	.	.	.	.	2cc	te,	.	.
+1FF	-to!	2A	te,	.	.	.	.	2cc	te,	.	.
 .	.	.	.	4F	A	4c	A	.	.	4a	A
 .	.	4r	.	2A	te,	4f	te,	4r	.	2cc	te,
 .	.	4F	a	.	.	4f	a	4a	a	.	.
@@ -305,7 +306,7 @@
 .	.	8e	.	.	.	.	.	.	.	.	.
 .	.	8d	.	.	.	.	.	.	.	.	.
 .	.	8cJ	.	.	.	.	.	.	.	.	.
-2GG	-do	8B-yL	.	2G	-to,	.	.	2dd	che	2g	che
+2GG	-do	8B-yL	.	2G	-tro,	.	.	2dd	che	2g	che
 .	.	8c	.	.	.	.	.	.	.	.	.
 .	.	8B-y	.	.	.	.	.	.	.	.	.
 .	.	8AJ	.	.	.	.	.	.	.	.	.
@@ -322,7 +323,7 @@
 8F	.	.	.	.	.	.	.	.	.	.	.
 8E	.	.	.	.	.	.	.	.	.	.	.
 8DJ	.	.	.	.	.	.	.	.	.	.	.
-2C	.	.	.	2G	al-	.	.	.	.	.	.
+2C	.	.	.	2G	l'al-	.	.	.	.	.	.
 1FF	-tro?	2c	-tro?	2F	-tro?	2f	-tro?	1a	-tro?	2r	.
 .	.	2F	E	2c	E	2f	E	.	.	2a	E
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
@@ -337,7 +338,7 @@
 0r	.	4F	-sir	4A	-sir	4f	-sir	0r	.	4cc	-sir
 .	.	4F	sia	4c	sia	4f	sia	.	.	4a	sia
 .	.	2c	ta-	1c	ta-	2e	ta-	.	.	2g	ta-
-.	.	1F	-lte?	.	.	1f	-te?	.	.	1a	-le?
+.	.	1F	-le?	.	.	1f	-le?	.	.	1a	-le?
 .	.	.	.	2c	-le?	.	.	.	.	.	.
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
 1.BB-y	Oh	1.F	Oh	1.B-y	Oh	1.f	Oh	1.dd	Oh	1.b-y	Oh

@@ -26,6 +26,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Sedicesima parte]
 0r	.	1F	Tu	1c	Tu	0r	.	1f	Tu	1a	Tu
 .	.	[1B-y	ta-	[1d	ta-	.	.	[1f	ta-	[1b-y	ta-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
@@ -47,7 +48,7 @@
 4FF	con-	4F	con-	4c	con-	4c	con-	4f	con-	4a	con-
 2C	-fes-	2E	-fes-	2c	-fes-	2e	-fes-	2g	-fes-	2cc	-fes-
 4FF	-sa	4F	-sa	4c	-sa	4c	-sa	4f	-sa	4a	-sa
-2BB-y	que-	2F	que-	2B-y	que-	2d	que-	2f	que-	2b-y	que-
+2BB-y	Que-	2F	Que-	2B-y	Que-	2d	Que-	2f	Que-	2b-y	Que-
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 4BB-y	-sta	4D	-sta	4B-y	-sta	4d	-sta	4f	-sta	4b-y	-sta
 4.E-X	per-	4.G	per-	4.B-y	per-	4.e-X	per-	4.g	per-	4.b-y	per-
@@ -86,8 +87,8 @@
 .	.	4.A	Che	.	.	4.A	Che	.	.	4.cc	Che
 .	.	8G	"A-	.	.	8B-y	"A-	.	.	8b-	"A-
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
-0r	.	2F	-spet-	0r	.	2c	-spet	0r	.	2a	-spet-
-.	.	2F	-ta"?	.	.	2c	ta"?	.	.	2a	-ta"?
+0r	.	2F	-spet-	0r	.	2c	-spet-	0r	.	2a	-spet-
+.	.	2F	-ta"?	.	.	2c	-ta"?	.	.	2a	-ta"?
 .	.	4c	Non	.	.	4e	Non	.	.	4cc	Non
 .	.	4d	sai	.	.	4f	sai	.	.	4a	sai
 .	.	[2G	ben	.	.	[2d	ben	.	.	4.b-y	ben
@@ -103,7 +104,7 @@
 .	.	8GL	fug-	.	.	8B-yL	fug-	.	.	4dd	.
 .	.	8A	.	.	.	8c	.	.	.	.	.
 .	.	8B-y	.	.	.	8d	.	.	.	4dd	-ge,
-.	.	8cJ	.	.	.	8e-iJ	.	.	.	.	.
+.	.	8cJ	.	.	.	8eniJ	.	.	.	.	.
 .	.	2d	.	.	.	2f	.	.	.	8dL	fug-
 .	.	.	.	.	.	.	.	.	.	8e	.
 .	.	.	.	.	.	.	.	.	.	8f	.
@@ -124,9 +125,9 @@
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 4F]	.	0r	.	4c]	.	0r	.	4a]	.	1r	.
 4F	-si, e	.	.	4A	-si, e	.	.	4a	-si, e	.	.
-1E-X	co-	.	.	1G	co	.	.	1b-y	co-	.	.
+1E-X	co-	.	.	1G	co-	.	.	1b-y	co-	.	.
 .	.	.	.	.	.	.	.	.	.	2r	.
-2F	-me.	.	.	2c	me.	.	.	2a	-me.	4r	.
+2F	-me.	.	.	2c	-me.	.	.	2a	-me.	4r	.
 .	.	.	.	.	.	.	.	.	.	4f	Per
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 0r	.	2F	Per	0r	.	2c	Per	0r	.	4.f	stra-
@@ -161,7 +162,7 @@
 .	.	4F	-sa.	.	.	4f	-sa.	.	.	4f	-sa.
 .	.	4F	An-	.	.	4f	An-	.	.	4a	An-
 2r	.	2c	-dian-	2r	.	2e	-dian-	2r	.	2g	-dian-
-4r	.	4F	-ne,	4r	.	4f	-ne,	4r	.	4g	-ne,
+4r	.	4F	-ne,	4r	.	4f	-ne,	4r	.	4a	-ne,
 4FF	An-	4F	An-	4c	An-	4f	An-	4cc	An-	4a	An-
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 2BB-y	-dian-	2F	-dian-	2B-y	-dian-	2f	-dian-	2dd	-dian-	2b-y	-dian-

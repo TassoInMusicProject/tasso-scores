@@ -28,6 +28,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Quarta parte]
 1c	Io	0r	.	0r	.
 2B	che	.	.	.	.
 2c	fin	.	.	.	.
@@ -43,7 +44,7 @@
 1G	vol-	.	.	.	.
 =4	=4	=4	=4	=4	=4
 1G	-si	2r	.	1r	.
-.	.	2g	O	.	.
+.	.	2g	Io	.	.
 1r	.	2a	che	1dd	Io
 .	.	2b	fin	.	.
 =5	=5	=5	=5	=5	=5
@@ -68,7 +69,7 @@
 4D	-ve	.	.	.	.
 4D	splen-	4ff	so-	.	.
 =8	=8	=8	=8	=8	=8
-1C	-dor	2.ee	-a-	1r	.
+1C	-dor,	2.ee	-a-	1r	.
 .	.	8dd	-ve	.	.
 .	.	8cc	splen-	.	.
 1r	.	1b	-dor	2.gg	Che'l
@@ -117,7 +118,7 @@
 .	.	4ee	splen-	4g	splen-
 1r	.	4ff	-dor	2f	-dor
 .	.	4f	de	.	.
-.	.	4a	gl'oc-	2f	de
+.	.	4a	gli oc-	2f	de
 .	.	4b	-chi	.	.
 =15	=15	=15	=15	=15	=15
 1r	.	4cc	bel-	4a	gli oc-
@@ -197,7 +198,7 @@
 =25	=25	=25	=25	=25	=25
 2c	-cel-	4r	.	2ee	-cel-
 .	.	4cc	Che	.	.
-2G	-lo	8b	rom-	2dd	-lo,>
+2G	-lo	8b	rom-	2dd	-lo>
 .	.	8cc	-pa il	.	.
 .	.	8dd	cor-	.	.
 .	.	8b	-so	.	.

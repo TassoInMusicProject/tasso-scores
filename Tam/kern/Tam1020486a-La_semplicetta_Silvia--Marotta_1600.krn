@@ -28,6 +28,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Sesta parte]
 0r	.	2b	La	0r	.
 .	.	4b	sem-	.	.
 .	.	4cc	-pli-	.	.
@@ -102,7 +103,7 @@
 .	.	8gL	.	.	.
 .	.	8a	.	4ff	a-
 .	.	8bJ	.	.	.
-2c	-ta,	2cc	.	2ee	-i-
+2c	-ta	2cc	.	2ee	-i-
 4F	A	2cc	-ta,	2ff	-ta
 4G	la	.	.	.	.
 =11	=11	=11	=11	=11	=11
@@ -235,9 +236,9 @@
 .	.	8b	.	.	.
 .	.	8cc	.	4gg	-bra
 .	.	8ddJ	.	.	.
-2c	-e,>	4ee	.	2cc	mi-
+2c	-e>	4ee	.	2cc	mi-
 .	.	4cc	-e,	.	.
-4F	Giu-	2r	.	2cc	-e,
+4F	Giun-	2r	.	2cc	-e,
 8F	-se a	.	.	.	.
 8G	le	.	.	.	.
 4A	la-	4r	.	4a	Giun-
@@ -252,7 +253,7 @@
 4G	<Giun-	2dd	su-	2b	-e,
 8G	-se a	.	.	.	.
 8F	le	.	.	.	.
-4E	la-	2ee	-e,>	4r	.
+4E	la-	2ee	-e>	4r	.
 4C	-bra	.	.	[4cc	Quan-
 =31	=31	=31	=31	=31	=31
 2G	mi-	2r	.	4cc]	.
@@ -304,7 +305,7 @@
 2A	-e,	4ee	la-	4cc	la-
 .	.	4cc	-bra	4a	-bra
 4G	Giun-	4dd	su-	4b	su-
-8G	-se a	4b	-e,	4g	-e,>
+8G	-se a	4b	-e,	4g	-e>
 8F	le	.	.	.	.
 2E	la-	4cc	Quan-	2r	.
 .	.	8b	-do	.	.
@@ -315,7 +316,7 @@
 =36	=36	=36	=36	=36	=36
 [0C	mi-	2cc	su-	4ee	la-
 .	.	.	.	4gg	-bra
-.	.	2g	-e,>	4cc	mi-
+.	.	2g	-e>	4cc	mi-
 .	.	.	.	4cc	-e,
 .	.	4cc	Giun-	4ee	Giun-
 .	.	8cc	-se a	8ee	-se a

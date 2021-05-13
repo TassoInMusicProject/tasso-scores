@@ -25,12 +25,13 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Quarta parte]
 0r	.	4r	.	0r	.	4r	.	4r	.	0r	.
 .	.	4c	Bi-	.	.	4e	Bi-	4g	Bi-	.	.
 .	.	2.c	-so-	.	.	2.e	-so-	2.g	-so-	.	.
 .	.	4c	-gna a	.	.	4e	-gna a	4g	-gna a	.	.
 .	.	4c	mag-	.	.	4e	mag-	4g	mag-	.	.
-.	.	4G	-gior	.	.	4d	-gior	4g	-gio	.	.
+.	.	4G	-gior	.	.	4d	-gior	4g	-gior	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 0r	.	2.d	pro-	0r	.	2.f	pro-	2.a	pro-	0r	.
 .	.	4G	-va ar-	.	.	4d	-va ar-	4g	-va ar-	.	.
@@ -120,7 +121,7 @@
 1r	.	4.c	-drò	1r	.	4.e	-drò	4.g	-drò	1r	.
 .	.	8d	per	.	.	8d	per	8f	per	.	.
 .	.	[2c	mez-	.	.	[2e	mez-	4.g	mez-	.	.
-.	.	.	.	.	.	.	.	8g	-zo, i	.	.
+.	.	.	.	.	.	.	.	8g	-zo i	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 0r	.	4c]	.	0r	.	4e]	.	4.g	ra-	0r	.
 .	.	4c	-zo i	.	.	4e	-zo, An-	.	.	.	.
@@ -141,10 +142,10 @@
 .	.	4G	.	.	.	2.B-y	-ren-	2d	.	.	.
 .	.	8FL	.	.	.	.	.	.	.	.	.
 .	.	8EJ	.	.	.	.	.	.	.	.	.
-2r	.	2D	.	2F	Quan-	.	.	2f	-ti,	2r	.
+2r	.	2D	.	2F	Quan-	.	.	2f	-ti	2r	.
 .	.	.	.	.	.	8AL	.	.	.	.	.
 .	.	.	.	.	.	8GJ	.	.	.	.	.
-2FF	Quan-	4C	-ti,	4c	-do	2A	.	2f	Quan-	2cc	Quan-
+2FF	Quan-	4C	-ti	4c	-do	2A	.	2f	Quan-	2cc	Quan-
 .	.	4F	Quan-	4c	la	.	.	.	.	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 4BB-y	-do	4F	-do	4d	ne-	4B-y	-ti,	4f	-do	4b-y	-do
@@ -263,7 +264,7 @@
 4BB-y	può in-	4B-y	può in-	.	.	4f	può in-	.	.	4dd	può in-
 2F	-fer-	2A	-fer-	.	.	2f	-fer-	.	.	2cc	-fer-
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-2BB-y	-no,	2B-y	-no o-	2d	o-	2f	-no o-	0r	.	2dd	-no o-
+2BB-y	-no	2B-y	-no o-	2d	o-	2f	-no o-	0r	.	2dd	-no o-
 2r	.	4F	-ve è	4f	-ve è	4a	-ve è	.	.	4cc	-ve è
 .	.	4.G	co-	4.d	co-	4.g	co-	.	.	4.b-y	co-
 1r	.	.	.	.	.	.	.	.	.	.	.
@@ -283,7 +284,7 @@
 4r	.	4G	-la,	4d	-la,	1r	.	4b-y	-la,	4g	-la,
 4GG	sì	4G	sì	4G	sì	.	.	4b-y	sì	4d	sì
 2D	bel-	2F#X	bel-	2A	bel-	.	.	2a	bel-	2d	bel-
-2GG	-la	1G	-la,	2G	-la	2r	.	2b-y	-la,	2d	-la,
+2GG	-la,	1G	-la,	2G	-la,	2r	.	2b-y	-la,	2d	-la,
 2G	o-	.	.	2B-y	o-	2d	o-	2g	o-	2dd	o-
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
 4C	-ve è	0r	.	4G	-ve è	4e-X	-ve è	4g	-ve è	4cc	-ve è
@@ -291,7 +292,7 @@
 8E-i	-sa	.	.	8G	-sa	8e-i	-sa	8g	-sa	8b-y	-sa
 4E-i	sì	.	.	4G	sì	4e-i	sì	4g	sì	4b-y	sì
 2F	bel-	.	.	2A	bel-	2c	bel-	2f	bel-	2a	bel-
-2BB-y	-la	.	.	2F	-la,	2d	-la,	2f	-la,	2b-y	-la,
+2BB-y	-la,	.	.	2F	-la,	2d	-la,	2f	-la,	2b-y	-la,
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
 2F	S'es-	2F	S'es-	2F	S'es-	2f	S'es-	2a	S'es-	2cc	S'es-
 4F	-ser	4F	-ser	4c	-ser	4f	-ser	4a	-ser	4cc	-ser

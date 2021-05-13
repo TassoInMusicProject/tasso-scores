@@ -26,6 +26,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Decima parte]
 0r	.	2A	Per-	0r	.	2e	Per-	2cc	Per-	0r	.
 .	.	4.c	-ché,	.	.	4.e	-ché,	4.g	-ché,	.	.
 .	.	8c	Per-	.	.	8e	Per-	8g	Per-	.	.
@@ -112,7 +113,7 @@
 .	.	.	.	8B-y	so	.	.	.	.	8g	so
 .	.	.	.	8A	ri-	.	.	.	.	8f	ri-
 .	.	4r	.	2G	-dir.	4r	.	4r	.	2e	-dir.
-.	.	4c	Pre-	.	.	4e	Per-	4cc	Per-	.	.
+.	.	4c	Per-	.	.	4e	Per-	4cc	Per-	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 4r	.	4G	-ché,	4r	.	4d	-ché,	4b-y	-ché,	4r	.
 4GG	Per-	4d	Per-	4B-y	Per-	4g	Per-	4dd	Per-	4g	Per-
@@ -161,7 +162,7 @@
 .	.	4G	Al	8c	-der-	4e	ben	.	.	.	.
 .	.	.	.	8c	-ne	.	.	.	.	.	.
 2GG	-ma,	4G	fin,	4B-y	quel	4d	gra-	.	.	.	.
-.	.	4G	al	4B-y	che,	4d	-va in	.	.	.	.
+.	.	4G	Al	4B-y	che,	4d	-va in	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
 2FF	Al	4A	fin	4A	se	2f	pri-	2r	.	4cc	Pren-
 .	.	4A	le	4c	ben	.	.	.	.	8cc	-der-
@@ -175,12 +176,12 @@
 4BB-y	-rà	.	.	4D	Al	.	.	4b-y	ben	4f	-va in
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 4C	ca-	2G	-ce,	4E	fin,	2r	.	4g	gra-	2e	pri-
-4C	-ro e	.	.	4E	al	.	.	4g	-va in	.	.
+4C	-ro e	.	.	4E	Al	.	.	4g	-va in	.	.
 2D	dol-	2r	.	4F	fin	2A	Al	4f	pri-	4d	-ma,
 .	.	.	.	4F	le	.	.	8f	-ma,	4d	Al
 .	.	.	.	.	.	.	.	8f	Al	.	.
 2GG	-ce,	2r	.	2G	sa-	4B-y	fin,	4d	fin,	4d	fin,
-.	.	.	.	.	.	4B-y	al	4g	al	4d	al
+.	.	.	.	.	.	4B-y	Al	4g	Al	4d	Al
 2r	.	2C	e	2G	-rà	4c	fin	4g	fin	4e	fin
 .	.	.	.	.	.	4c	le	4g	le	4e	le
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
@@ -198,17 +199,17 @@
 .	.	.	.	.	.	2f#X	.	2dd	-ce?	.	.
 4GG	-ce	4d	-ce	4B-y	-ce	4g	-ce	1r	.	4g	-ce
 4C	Che	4c	Che	4G	Che	4e	Che	.	.	4g	Che
-4FF	l'ab-	4c	l'ab-	4F	l'ab-	4f#i	l'ab-	.	.	4a	l'ab-
-4FF	-bi	4c	-bi	4F	-bi	4f#i	-bi	.	.	4a	-bi
+4FF	l'ab-	4c	l'ab-	4F	l'ab-	4fi	l'ab-	.	.	4a	l'ab-
+4FF	-bi	4c	-bi	4F	-bi	4f	-bi	.	.	4a	-bi
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 4.C	pre-	4.c	pre-	4.G	pre-	4.e	pre-	2r	.	2g	pre-
-8C	-so?	8c	-so?	8F	-so?	8e	-so?	.	.	.	.
+8C	-so?	8c	-so?	8G	-so?	8e	-so?	.	.	.	.
 2G	Ahi,	2d	Ahi,	2G	Ahi,	2d	Ahi,	2b-y	Ahi,	2g	-so?
 4D	Tir-	4d	Tir-	4A	Tir-	4f#X	Tir-	4a	Tir-	1r	.
 8D	-si,	8d	-si,	8A	-si,	8f#i	-si,	8a	-si,	.	.
 8G	Ahi	8d	Ahi,	8G	Ahi,	8g	Ahi,	8b-y	Ahi,	.	.
-[4D	Tir-	[4d	Tir-	4A	Tir-	4f#X	Tir-	4a	Tir-	.	.
-4D]	-si,	4d]	-si,	4A	-si,	4f#i	-si,	4a	-si,	.	.
+4D	Tir-	4d	Tir-	4A	Tir-	4f#X	Tir-	4a	Tir-	.	.
+4D	-si,	4d	-si,	4A	-si,	4f#i	-si,	4a	-si,	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 4r	.	4r	.	4r	.	4r	.	4r	.	2r	.
 4G	A-	4B-y	A-	4d	A-	4g	A-	4b-y	A-	.	.
@@ -227,11 +228,11 @@
 4E	-to a	4c	-to a	4c	-to a	4g	-to a	4g	-to a	4cc	-to a
 4F	mez-	4A	mez-	4c	mez-	4f	mez-	4a	mez-	4cc	mez-
 4D	-z'il	4A	-z'il	4F	-z'il	4f	-z'il	4f	-z'il	4dd	-z'il
-4E-X	cor	4G	cor,	4B-y	cor,	4e-X	cor	4g	cor	4b-y	cor
+4E-X	cor	4G	cor	4B-y	cor,	4e-X	cor	4g	cor	4b-y	cor
 4D	mi	4B-y	mi	4B-y	il	4f	mi	4f	mi	4b-y	mi
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 4E-X	par-	4G	par-	4B-y	cor	4e-X	par-	4g	par-	4b-y	par-
-4E-i	-la,	4G	-la,	4B-y	mi	4g	-la,	4g	-la,	4b-y	-la
+4E-i	-la,	4G	-la,	4B-y	mi	4g	-la,	4g	-la,	4b-y	-la,
 4F	Non	2.c	Non	4F	par-	2.f	Non	4a	Non	2.a	Non
 8E-i	so	.	.	4c	-la,	.	.	8g	so	.	.
 8D	ri-	.	.	.	.	.	.	8f	ri-	.	.
@@ -250,7 +251,7 @@
 4G	-tro	.	.	4B-y	-tro	4d	-tro	.	.	4g	-tro
 2F	se-	.	.	2c	se-	2f	se-	.	.	2a	se-
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
-2BB-y	-i,	0r	.	2B-y	-i.	2d	-i.	2r	.	2b-y	-i,
+2BB-y	-i,	0r	.	2B-y	-i,	2d	-i,	2r	.	2b-y	-i,
 2r	.	.	.	2r	.	2r	.	2f	Tu,	2r	.
 2F	Tu,	.	.	1r	.	1r	.	1r	.	2r	.
 2r	.	.	.	.	.	.	.	.	.	2f	Tu,

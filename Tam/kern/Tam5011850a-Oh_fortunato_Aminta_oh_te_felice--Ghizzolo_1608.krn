@@ -23,7 +23,7 @@
 *I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Alto	*	*I"Canto	*
 *I'B	*	*I'V	*	*I'T	*	*I'A	*	*I'C	*
 *oclefF4	*	*oclefC4	*	*oclefC4	*	*oclefC3	*	*oclefC1	*
-*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
@@ -127,7 +127,7 @@
 .	.	.	.	8B-yJ	.	.	.	.	.
 .	.	.	.	2c	-pi-	.	.	.	.
 .	.	.	.	.	.	4e	-pi-	.	.
-2r	.	2r	.	2F	-a	2f	-a	2a	-a,
+2r	.	2r	.	2F	-a,	2f	-a,	2a	-a,
 4r	.	4r	.	4r	.	4r	.	4r	.
 [4F	Hor	[4c	Hor	[4A	Hor	[4f	Hor	[4cc	Hor
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
@@ -169,7 +169,7 @@
 2G	-pi-	[2d	sia	2B-y	-a,	4.a	bel-	2b-y	-pi-
 .	.	.	.	.	.	8g	-la e em-	.	.
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
-1F	-a	8d]	.	4F	<Quan-	2a	-pi-	2a	-a,
+1F	-a,	8d]	.	4F	<Quan-	2a	-pi-	2a	-a,
 .	.	8d	che	.	.	.	.	.	.
 .	.	8d	quel-	8F	-do	.	.	.	.
 .	.	8d	-la	8F	che	.	.	.	.
@@ -209,13 +209,13 @@
 .	.	16e	.	.	.	.	.	.	.
 .	.	16d	.	.	.	.	.	.	.
 .	.	16cJ	.	.	.	.	.	.	.
-4G	sot-	4d	.	4G	Che	2r	.	2g	-so
+4G	sot-	4d	.	4G	Che	2r	.	2g	-so,
 4E	-to il	4c	-so,	4c	sot-	.	.	.	.
 16FL	ri-	4r	.	4A	-to il	4r	.	2r	.
 16E	.	.	.	.	.	.	.	.	.
 16D	.	.	.	.	.	.	.	.	.
 16CJ	.	.	.	.	.	.	.	.	.
-4D	.	4F	<che	16B-yL	ri-	4d	Che	.	.
+4D	.	4F	<Che	16B-yL	ri-	4d	Che	.	.
 .	.	.	.	16A	.	.	.	.	.
 .	.	.	.	16G	.	.	.	.	.
 .	.	.	.	16FJ	.	.	.	.	.
@@ -239,7 +239,7 @@
 16CJ	.	.	.	.	.	.	.	.	.
 4D	.	.	.	4f	sot-	4A	-to il	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18
-2GG	-so,>	4r	.	4d	-to il	16B-yL	ri-	2r	.
+2GG	-so>	4r	.	4d	-to il	16B-yL	ri-	2r	.
 .	.	.	.	.	.	16A	.	.	.
 .	.	.	.	.	.	16G	.	.	.
 .	.	.	.	.	.	16FJ	.	.	.
@@ -247,9 +247,9 @@
 .	.	.	.	16d	.	.	.	.	.
 .	.	.	.	16c	.	.	.	.	.
 .	.	.	.	16B-yJ	.	.	.	.	.
-2r	.	4c	sot-	2c	.	2F	-so,>	4cc	Che
+2r	.	4c	sot-	2c	.	2F	-so>	4cc	Che
 .	.	4A	-to il	.	.	.	.	4ff	sot-
-2r	.	16B-yL	ri-	2B-y	-so,>	2r	.	4dd	-to il
+2r	.	16B-yL	ri-	2B-y	-so>	2r	.	4dd	-to il
 .	.	16A	.	.	.	.	.	.	.
 .	.	16G	.	.	.	.	.	.	.
 .	.	16FJ	.	.	.	.	.	.	.
@@ -257,7 +257,7 @@
 .	.	.	.	.	.	.	.	16dd	.
 .	.	.	.	.	.	.	.	16cc	.
 .	.	.	.	.	.	.	.	16b-yJ	.
-2FF	di	2F	-so,>	[2A	di	4r	.	2cc	.
+2FF	di	2F	-so>	[2A	di	4r	.	2cc	.
 .	.	.	.	.	.	[4f	di	.	.
 =19	=19	=19	=19	=19	=19	=19	=19	=19	=19
 2GG	pie-	4D	di	4A]	.	4f]	.	2b-y	-so
@@ -294,7 +294,7 @@
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 4G	fe-	4B-y	fe-	4d]	.	8f]	.	8dd]	.
 .	.	.	.	.	.	8d	sua	8b-y	-ri-
-4E-X	-ri-	4G	-re-	4c	-ri-	4.g	fe-	4cc	-ta-
+4E-X	-ri-	4G	-ri-	4c	-ri-	4.g	fe-	4cc	-ta-
 2F	-ta-	2A	-ta-	2c	-ta-	.	.	2a	-te,
 .	.	.	.	.	.	8f	-ri-	.	.
 .	.	.	.	.	.	4f	-ta-	.	.
@@ -344,7 +344,7 @@
 .	.	8BnX	mi	.	.	.	.	8g	mi
 .	.	2c	fe-	.	.	2e	.	2g	fe-
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
-1r	.	2F	-ce.	2r	.	2f	-ce.	2a	-ce.
+1r	.	2F	-ce,	2r	.	2f	-ce,	2a	-ce,
 .	.	2r	.	4r	.	2r	.	2r	.
 .	.	.	.	2d	Sa-	.	.	.	.
 2r	.	2r	.	.	.	2r	.	1r	.
@@ -370,7 +370,7 @@
 2AA]	.	2A]	.	2c]	.	2e]	.	2g	pie-
 2BBnX	-tà	2D	-tà	2A	-tà	2d	-tà	2f	-tà
 2C	ve-	2E	ve-	2G	ve-	2c	ve-	2e	ve-
-2C	-ra	2E	-ra	2G	-ra	2c	-ra	2e	-ra
+2C	-ra,	2E	-ra,	2G	-ra,	2c	-ra,	2e	-ra,
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30
 0r	.	4r	.	4r	.	4r	.	0r	.
 .	.	8e	Che	8c	Che	8e	Che	.	.

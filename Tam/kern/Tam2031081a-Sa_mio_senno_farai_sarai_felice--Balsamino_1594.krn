@@ -25,6 +25,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Settima parte]
 0r	.	1r	.	0r	.	1r	.	4g	S'a	0r	.
 .	.	.	.	.	.	.	.	4g	mio	.	.
 .	.	.	.	.	.	.	.	4g	sen-	.	.
@@ -36,7 +37,7 @@
 .	.	8A	-no	.	.	8c	-no	4a	sa-	.	.
 .	.	8B-y	fa-	.	.	8d	fa-	.	.	.	.
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
-1r	.	4c	-ra,	1r	.	4e	-rai,	4g	-rai	1r	.
+1r	.	4c	-rai,	1r	.	4e	-rai,	4g	-rai	1r	.
 .	.	4c	sa-	.	.	4e	sa-	4a	fe-	.	.
 .	.	4B-y	-rai	.	.	4d	-rai	2b-y	-li-	.	.
 .	.	4c	fe-	.	.	4e	fe-	.	.	.	.
@@ -107,11 +108,11 @@
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
 1C	-mar-	2r	.	1E	-mar-	2c	E	1r	.	2g	-mar-
 .	.	2G	E	.	.	4g	que-	.	.	2c	-la;
-.	.	.	.	.	.	4f	-sta a	.	.	.	.
+.	.	.	.	.	.	4f	-sto a	.	.	.	.
 2C	-la;	4c	que-	2E	-la;	4e	me	2g	E	2r	.
-.	.	4B-y	-sta a	.	.	4d	fu	.	.	.	.
+.	.	4B-y	-sto a	.	.	4d	fu	.	.	.	.
 2r	.	4A	me	[2F	e	2c	for-	4cc	que-	2f	e
-.	.	4G	fu	.	.	.	.	4b-y	-sta a	.	.
+.	.	4G	fu	.	.	.	.	4b-y	-sto a	.	.
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 0r	.	1F	for-	2F]	.	2c	-za,	4a	me	4cc	que-
 .	.	.	.	.	.	.	.	4g	fu	4b-y	-sto a
@@ -143,7 +144,7 @@
 8E	fa-	.	.	.	.	.	.	.	.	8g	fa-
 4F	-rai,	.	.	4c	-rai	.	.	.	.	4a	-rai,
 4F	sa-	.	.	4d	fe-	.	.	.	.	4a	sa-
-4E-X	-rai,	.	.	2e-X	-li-	.	.	.	.	4g	-rai
+4E-X	-rai	.	.	2e-X	-li-	.	.	.	.	4g	-rai
 4F	fe-	.	.	.	.	.	.	.	.	4a	fe-
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 2G	-li-	2r	.	2d	-ce,	4r	.	0r	.	2b-y	-li-
@@ -212,7 +213,7 @@
 4D	t'ap-	0r	.	2D	-ca	2.d	t'ap-	2f	-ta.	1.f	-sen-
 4C	-pre-	.	.	.	.	.	.	.	.	.	.
 1BB-y	-sen-	.	.	4F	t'ap-	.	.	2r	.	.	.
-.	.	.	.	4E	-pre-	4c	-re-	.	.	.	.
+.	.	.	.	4E	-pre-	4c	-pre-	.	.	.	.
 .	.	.	.	2D	-sen-	2B-y	-sen-	1r	.	.	.
 2FF	-ta.	.	.	2C	-ta.	2A	-ta.	.	.	2f	-ta.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
@@ -273,10 +274,10 @@
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
 4D	le	4A	le	4F	le	4f	le	2dd	ch'a-	2a]	.
 4E	spia-	4G	spia-	4G	spia-	4g	spia-	.	.	.	.
-4F	-ces-	4.c	-ces-	4A	-ces-	4.f	-ces-	2a	-mar-	2a	-la;
+4F	-ces-	4.c	-ces-	4A	-ces-	4.f	-ces-	2a	-mar-	2a	-la,
 4F	-se,	.	.	4A	-se,	.	.	.	.	.	.
 .	.	8c	-se,	.	.	8f	-se,	.	.	.	.
-2BB-y	Fuor	2B-y	Fuor	2D	Fuor	2f	Fuor	2dd	-la;	2r	.
+2BB-y	Fuor	2B-y	Fuor	2D	Fuor	2f	Fuor	2dd	-la,	2r	.
 2C	ch'a-	2e-X	ch'a-	2G	ch'a-	2e-X	ch'a-	2cc	Co-	2g	Co-
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
 1GG	-mar-	1B-y	-mar-	1G	-mar-	0d	-mar-	4dd	-sa	4b-y	-sa
@@ -290,7 +291,7 @@
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
 1GG]	.	1G]	.	1D]	.	1d	-la,	2dd	-ces-	2b-y	-ces-
 .	.	.	.	.	.	.	.	2dd	-se,	2b-y	-se,
-1r	.	4c	Fuor	4F	Fuor	4f	<Four	4cc	Fuor	4a	Fuor
+1r	.	4c	Fuor	4F	Fuor	4f	<Fuor	4cc	Fuor	4a	Fuor
 .	.	4G	ch'a-	4G	ch'a-	4d	ch'a-	4b-y	ch'a-	4g	ch'a-
 .	.	2A	-mar-	2D	-mar-	2d	-mar-	2a	-mar-	2f#X	-mar-
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
@@ -305,7 +306,7 @@
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
 2GG]	.	2G	e	4B-y	me	2r	.	1g	for-	4dd	que-
 .	.	.	.	4A	fu	.	.	.	.	4cc	-sto a
-2GG	-za	4d	que-	2G	for-	2B-y	e	.	.	4b-y	me
+2GG	-za,	4d	que-	2G	for-	2B-y	e	.	.	4b-y	me
 .	.	4c	-sto a	.	.	.	.	.	.	4a	fu
 1GG	fu	4B-y	me	2D	-za,	4d	que-	2dd	-za,	2g	for-
 .	.	4A	fu	.	.	4c	-sto a	.	.	.	.

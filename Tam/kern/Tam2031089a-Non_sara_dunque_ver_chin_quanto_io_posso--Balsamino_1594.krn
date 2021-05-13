@@ -26,6 +26,7 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Ottava parte]
 1r	.	0r	.	1r	.	0r	.	0r	.	2.a	Non
 .	.	.	.	.	.	.	.	.	.	8g	sa-
 .	.	.	.	.	.	.	.	.	.	8f	-rà
@@ -46,8 +47,8 @@
 4C	Non	.	.	4c	Non	.	.	.	.	4g	Non
 4.F	cer-	.	.	4.c	cer-	.	.	.	.	4.a	cer-
 8E	-chi	.	.	8c	-chi	.	.	.	.	8g	-chi
-4E	com-	.	.	4c	com-	.	.	.	.	4a	com-
-4F	-pia-	.	.	4B-y	-pia-	.	.	.	.	4g	-pia-
+4F	com-	.	.	4c	com-	.	.	.	.	4a	com-
+4G	-pia-	.	.	4B-y	-pia-	.	.	.	.	4g	-pia-
 2D	-cer-	.	.	2A	-cer-	.	.	.	.	2f#X	-cer-
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 4GG	-la,	0r	.	4B-y	-la,	0r	.	0r	.	4g	-la,
@@ -159,7 +160,7 @@
 2D	pos-	2F	ch'in	.	.	2f	pos-	2d	pos-	.	.
 .	.	.	.	.	.	.	.	.	.	8a	sa-
 .	.	.	.	.	.	.	.	.	.	8a	-rà
-4C	-so,	4.c	quan-	.	.	2e	-so,	2e	-so,	4a	dun-
+4C	-so,	4.c	quan-	.	.	2e	-so,	2e	-so	4a	dun-
 4C	ch'in	.	.	.	.	.	.	.	.	4g	-que
 .	.	8B-y	-to io	.	.	.	.	.	.	.	.
 4D	quan-	[2A	pos-	.	.	2d	ch'in	2r	.	4f	ver
@@ -167,7 +168,7 @@
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 2F	pos-	2A]	.	1r	.	4c	quan-	1r	.	4a	quan-
 .	.	.	.	.	.	4d	-to io	.	.	4b-y	-to io
-2C	-so	2G	-so,	.	.	2e	pos-	.	.	2cc	pos-
+2C	-so	2G	-so	.	.	2e	pos-	.	.	2cc	pos-
 2F	Non	1r	.	2F	Non	4f	-so	2a	Non	4cc	-so
 .	.	.	.	.	.	4f	Non	.	.	4cc	Non
 4.BB-y	cer-	.	.	4.F	cer-	4.f	cer-	4.b-y	cer-	4.dd	cer-
@@ -207,7 +208,7 @@
 .	.	4d	Se	.	.	.	.	4g	a-	.	.
 .	.	4d	fos-	1r	.	.	.	2f	-mar-	.	.
 8E	La-	4c	-se in	.	.	.	.	.	.	8g	La-
-8F	-scie-	.	.	.	.	.	.	.	.	8a	-scie-
+8F	-scia-	.	.	.	.	.	.	.	.	8a	-scia-
 4G	-re-	4B-y	tuo	.	.	.	.	2d	-la,	4b-y	-re-
 8F	-sti	4c	po-	.	.	.	.	.	.	8a	-sti
 8E	d'a-	.	.	.	.	.	.	.	.	8g	d'a-
@@ -220,7 +221,7 @@
 .	.	.	.	4A	po-	.	.	.	.	4f#X	.
 2GG	-le,	4D	-la,	4B-y	-ter	[2d	non	4dd	fos-	2g	-le,
 .	.	8E	La-	4A	di	.	.	4cc	-se in	.	.
-.	.	8F	-scie-	.	.	.	.	.	.	.	.
+.	.	8F	-scia-	.	.	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 0r	.	4G	-re-	4G	non	4d]	.	4b-y	tuo	0r	.
 .	.	8F	-sti	4A	a-	4d	a-	4a	po-	.	.
@@ -229,14 +230,14 @@
 .	.	.	.	.	.	.	.	4a	di	.	.
 .	.	2D	-la,	4F	-la,	.	.	4a	non	.	.
 .	.	.	.	8G	La-	.	.	4g	a-	.	.
-.	.	.	.	8A	-scie-	.	.	.	.	.	.
+.	.	.	.	8A	-scia-	.	.	.	.	.	.
 .	.	2r	.	4B-y	-re-	[2d	-la,	2f	-mar-	.	.
 .	.	.	.	8A	-sti	.	.	.	.	.	.
 .	.	.	.	8G	d'a-	.	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 1r	.	1r	.	4F	-mar-	4d]	.	4f	-la,	1r	.
 .	.	.	.	4C	-la,	8e	La-	8g	La-	.	.
-.	.	.	.	.	.	8f	-scie-	8a	-scie-	.	.
+.	.	.	.	.	.	8f	-scia-	8a	-scia-	.	.
 .	.	.	.	4G	La-	4g	-re-	4b-y	-re-	.	.
 .	.	.	.	4A	-scia-	8f	-sti	8a	-sti	.	.
 .	.	.	.	.	.	8e	d'a-	8g	d'a-	.	.

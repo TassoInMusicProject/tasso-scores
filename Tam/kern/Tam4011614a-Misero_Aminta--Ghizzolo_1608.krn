@@ -24,11 +24,12 @@
 *I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Quinto	*	*I"Canto	*
 *I'B	*	*I'T	*	*I'A	*	*I'V	*	*I'C	*
 *oclefC4	*	*oclefC3	*	*oclefC2	*	*oclefG2	*	*oclefG2	*
-*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=Prima parte.
 [1C	O	2r	.	2.g	O	2r	.	2.ee	O
 .	.	2.e	O	.	.	[1cc	O	.	.
 .	.	.	.	8a	sfor-	.	.	8ff	sfor-
@@ -55,7 +56,7 @@
 .	.	4f	-na-	2dd	-to,	2.ff	<O	.	.
 8G	sfor-	4d	-t'A-	.	.	.	.	.	.
 8A	-tu-	.	.	.	.	.	.	.	.
-2.B	-na-	[1d	-min-	4d	<O	.	.	4ff]	.
+2.B-i	-na-	[1d	-min-	4d	<O	.	.	4ff]	.
 .	.	.	.	8e	sfor-	8gg	sfor-	4ee	-t'A-
 .	.	.	.	8f	-tu-	8aa	-tu-	.	.
 .	.	.	.	[2g	-na-	[2bb-X	-na-	[2dd	-min-
@@ -72,10 +73,10 @@
 .	.	.	.	.	.	.	.	4ee	in
 .	.	4r	.	.	.	.	.	4ff	gui-
 .	.	4e	in	.	.	.	.	4gg	-sa
-.	.	4f	gui-	.	.	.	.	4.aa	d'A-
+.	.	4f	gui-	.	.	.	.	4.aa	d'a-
 .	.	4g	-sa	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	8gg	.
-.	.	4.a	d'A-	.	.	.	.	8ffL	.
+.	.	4.a	d'a-	.	.	.	.	8ffL	.
 .	.	.	.	.	.	.	.	8ee	.
 .	.	.	.	.	.	.	.	8ff	.
 .	.	8g	.	.	.	.	.	8eeJ	.
@@ -104,14 +105,14 @@
 .	.	.	.	.	.	.	.	4dd	E
 .	.	4r	.	4r	.	.	.	8dd	nel-
 .	.	.	.	.	.	.	.	8dd	-le
-.	.	4g	E	4b	E	.	.	[8dd	pia-
-.	.	.	.	.	.	.	.	8dd]	-ghe al-
+.	.	4g	E	4b	E	.	.	8dd	pia-
+.	.	.	.	.	.	.	.	8dd	-ghe al-
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 0r	.	8g	nel-	8b	nel-	0r	.	4dd	-trui
 .	.	8g	-le	8b	-le	.	.	.	.
 .	.	8g	pia-	8b	pia-	.	.	2ee	la-
-.	.	8g	-ghe al-	8b	-ghe al	.	.	.	.
-.	.	4g	-trui	4b	trui	.	.	.	.
+.	.	8g	-ghe al-	8b	-ghe al-	.	.	.	.
+.	.	4g	-trui	4b	-trui	.	.	.	.
 .	.	2a	la-	2a	la-	.	.	8dd	-scia
 .	.	.	.	.	.	.	.	8cc	la
 .	.	.	.	.	.	.	.	1dd	vi-
@@ -130,9 +131,9 @@
 8d	pur	8f	pur	8a	pur	8ff	pur	8dd	pur
 8c	tra-	8g	tra-	8cc	tra-	8ee	tra-	8ee	tra-
 4B-X	-fit-	4d	-fit-	4dd	-fit-	4dd	-fit-	4.ff	-fit-
-4A	-to al	4c	-to al-	4a	-to al	4ff	-to al	.	.
+4A	-to al	4c	-to al	4a	-to al	4ff	-to al	.	.
 .	.	.	.	.	.	.	.	8cc	-t'al
-2c	fi-	1e	-fi-	2g	fi-	2ee	fi-	2gg	fi-
+2c	fi-	1e	fi-	2g	fi-	2ee	fi-	2gg	fi-
 4c	-ne	.	.	[2cc	-ne	[2ee	-ne	4gg	-ne
 4A	Quel	.	.	.	.	.	.	4aa	Quel
 =11	=11	=11	=11	=11	=11	=11	=11	=11	=11
@@ -236,12 +237,12 @@
 8D	de	8d	de	8a	de	8ff	de	8dd	de
 8E	le	8G	le	8g	le	8ee	le	8cc	le
 8G	mem-	8B	mem-	8g	mem-	8dd	mem-	8b	mem-
-8A	-bra i	8c	-bra i-	8e	-bra i	8cc	-bra i-	8a	-bra i-
-4G	gnu-	4B	-gnu-	4g	gnu-	4dd	-gnu-	4b	-gnu-
-8G	-de,	8B	-de,	[8g	-de,	8dd	-de,	8b	-de,
-8E	Qui in-	8G	Qui in-	8g]	Qui in-	8ee	Qui in-	8cc	Qui in-
+8A	-bra i	8c	-bra i-	8e	-bra i-	8cc	-bra i-	8a	-bra i-
+4G	gnu-	4B	-gnu-	4g	-gnu-	4dd	-gnu-	4b	-gnu-
+8G	-de,	8B	-de,	8g	-de,	8dd	-de,	8b	-de,
+8E	Qui in-	8G	Qui in-	8g	Qui in-	8ee	Qui in-	8cc	Qui in-
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20
-4D	-tor-	4d	-to-	4a	-tor-	4ff	-tor-	4dd	-tor-
+4D	-tor-	4d	-tor-	4a	-tor-	4ff	-tor-	4dd	-tor-
 4D	-no	4d	-no	4a	-no	4ff	-no	4dd	-no
 1A	sei,	[2e	sei,	[2a	sei,	1ee	sei,	[2cc	sei,
 .	.	1e]	.	1a]	.	.	.	1cc]	.
@@ -274,13 +275,13 @@
 .	.	.	.	.	.	.	.	4ee	.
 2r	.	2F	-te;	2a	-te;	2r	.	2ff	-te;
 4r	.	4r	.	4r	.	4r	.	4r	.
-4D	e	4A	s	4a	e	4dd	e	4ff#X	e
+4D	e	4A	e	4a	e	4dd	e	4ff#X	e
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 4.D	s'e-	4.d	s'e-	4.a	s'e-	4.dd	s'e-	4.ff#i	s'e-
 8D	-ra	8d	-ra	8a	-ra	8dd	-ra	8ff#i	-ra
-4D	tuo	4d	tuo	4a	tuo	4dd	tuo	4ff#i	tuo
-4D	des-	4d	des-	4a	des-	4dd	des-	4ff#i	des-
-4D	-tin	4d	-tin	4a	-tin	4dd	-tin	4ff#i	-tin
+4D	Tuo	4d	Tuo	4a	Tuo	4dd	Tuo	4ff#i	Tuo
+4D	de-	4d	de-	4a	de-	4dd	de-	4ff#i	de-
+4D	-stin	4d	-stin	4a	-stin	4dd	-stin	4ff#i	-stin
 8D	che	8d	che	8a	che	8dd	che	8ff#i	che
 8G	tu	8B	tu	8b	tu	8dd	tu	8gg	tu
 [4.F	fo-	4.A	fo-	4.cc	fo-	4.ff	fo-	4.aa	fo-
@@ -291,8 +292,8 @@
 2.c	-ma-	2.e	-ma-	2.cc	-ma-	2.gg	-ma-	2.ee	-ma-
 4c	-to,	4e	-to,	4cc	-to,	4gg	-to,	4ee	-to,
 4r	.	4r	.	4r	.	4r	.	4r	.
-[8c	E	[8e	E	8g	E	[8ee	E	8cc	E
-8c]	se	8e]	se	8g	se	8ee]	se	8cc	se
+[8c	E	[8e	E	8g	E	8ee	E	8cc	E
+8c]	se	8e]	se	8g	se	8ee	se	8cc	se
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 4c	que-	4e	que-	4g	que-	4ee	que-	4cc	que-
 8c	-sto	8e	-sto	8g	-sto	8ee	-sto	8cc	-sto
@@ -301,7 +302,7 @@
 8e]	.	8e]	.	8g]	.	8ee]	.	8b]	.
 8B	vo-	8g	vo-	8g	vo-	8dd	vo-	8dd	vo-
 8c	-lea	8g	-lea	8e	-lea	8cc	-lea	8ee	-lea
-8d	l'a-	8d	l'a-	8f	l'a-	8a	la-	8dd	l'a-
+8d	l'a-	8d	l'a-	8f	l'a-	8a	l'a-	8dd	l'a-
 4G	-mo-	4d	-mo-	2g	-mo-	4b	-mo-	4dd	-mo-
 4G	-re	4d	-re	.	.	4b	-re	[4dd	-re
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
@@ -394,7 +395,7 @@
 .	.	8d	-mor	.	.	.	.	.	.
 .	.	[4d	suo	.	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33
-8G	l'a-	8d]	.	4g	-sti	4r	.	2dd	-sti,
+8G	l'a-	8d]	.	4g	-sti,	4r	.	2dd	-sti,
 8G	-mor	8B	col	.	.	.	.	.	.
 4.G	suo	8B	tuo	4bnX	E	4gg	E	.	.
 .	.	8B	mo-	.	.	.	.	.	.
