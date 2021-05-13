@@ -480,7 +480,7 @@
 1Dl	.	1Dl	vi.	1Dl	-vi.	1Al	-vi.	1dl	-vi.	1f#Xl	-vi>.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [s1,s2,s3,s4,s5]s6
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]s6
 !!!RDF**kern: > = above
 !!!RDF**kern: i = editorial accidental
 !!!RDF**kern: l = terminal long

@@ -1,7 +1,7 @@
 !!!CDT:
 !!!PTL: L'Armida del Tasso posta in musica a cinque voci, col suo basso per suonare
 !!!PPP: Venice
-!!!PPR: Alessandro Vincenzi
+!!!PPR: Alessandro Vincenti
 !!!PDT: 1629
 !!!PUB-format:
 !!!RISM: E 741
@@ -445,7 +445,7 @@
 1GG;l	.	1GG;l	-la.	1G;l	-la.	1G;l	-la.	1d;l	-la.	1g;l	-la.
 ==	==	==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
-!!!system-decoration: [s1,s2,s3,s4,s5]s6
+!!!system-decoration: [(s1)(s2)(s3)(s4)(s5)]s6
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
 !!!RDF**kern: i = editorial accidental

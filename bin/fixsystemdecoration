@@ -53,10 +53,21 @@ sub processFile {
 	my $string = $1;
 	my $newstring = $string;
 	$newstring =~ s/(?<!\)),(?!\()/)(/g;
+
 	return if $string eq $newstring;
+
+
+	if ($newstring !~ /^\\\(/) {
+		$newstring = "($newstring";
+	}
+	if ($newstring !~ /\\\)$/) {
+		$newstring .= ")";
+	}
 	$line =~ s/$string/$newstring/;
+
 	$line =~ s/\(+/(/g;
 	$line =~ s/\)+/)/g;
+
 	$contents[$sdindex] = $line;
 
 	open(FILE, ">$file") or die "Cannot write to file $file\n";
