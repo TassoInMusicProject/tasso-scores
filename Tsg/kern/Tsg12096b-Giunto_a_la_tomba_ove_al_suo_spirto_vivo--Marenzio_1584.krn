@@ -101,10 +101,12 @@
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 1D	-se,	1r	.	1A	-se,	2d	.	1r	.
 .	.	.	.	.	.	2A	-se,	.	.
+*col	*	*col	*	*col	*	*col	*	*col	*
 3%2C	Di	3%2G	Di	3%2c	Di	3%2e	Di	3%2cc	Di
 3GG	co-	3G	co-	3d	co-	3g	co-	3b	co-
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 1D	-lor,	1A	-lor,	1d	-lor,	1f	-lor,	1a	-lor,
+*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*
 2E	di	2G	di	2B	di	1r	.	2e	di
 2BB	ca-	2F#X	ca-	2B	ca-	.	.	2d#X	ca-
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
