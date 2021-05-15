@@ -21,7 +21,7 @@
 *I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Sesto	*	*I"Quinto	*	*I"Canto	*
 *I'B	*	*I'T	*	*I'A	*	*I'VI	*	*I'V	*	*I'C	*
 *oclefF3	*	*oclefC3	*	*oclefC2	*	*oclefC1	*	*oclefG2	*	*oclefG2	*
-*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
@@ -237,7 +237,7 @@
 =16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
 0r	.	0r	.	4.e-X	sem-	0r	.	4.g	sem-	4.b-y	sem-
 .	.	.	.	8e-i	-pli-	.	.	8g	-pli-	8b-y	-pli-
-.	.	.	.	4e-i	-ci e	.	.	4g	-ci e-	4b-y	-ce e
+.	.	.	.	4e-i	-ci e	.	.	4g	-ci e-	4b-y	-ci e
 .	.	.	.	4e-i	la-	.	.	4g	-la-	4cc	la-
 .	.	.	.	2d	-sci-	.	.	2f#X	-sci-	2a	-sci-
 .	.	.	.	2d	-vi,	.	.	2f#i	-vi,	2a	-vi,
@@ -263,7 +263,7 @@
 4F	mio	4.d	mio	.	.	.	.	.	.	.	.
 .	.	.	.	.	.	8a	-di al	.	.	.	.
 4G	la-	.	.	.	.	2g	mio	4b-y	la-	.	.
-.	.	8enX	la-	.	.	.	.	.	.	.	.
+.	.	8enXi	la-	.	.	.	.	.	.	.	.
 1A	-men-	4c#X	-men-	.	.	.	.	1a	-men-	.	.
 .	.	2d	.	.	.	4f	la-	.	.	.	.
 .	.	.	.	.	.	2e	-men-	.	.	.	.
@@ -310,7 +310,7 @@
 4c	sol	4c	sol	4g	sol	4cc	sol	4ee	sol	.	.
 2B-y	u-	2f	u-	2b-y	u-	2dd	u-	2ff	u-	.	.
 4F	-na,	4f	-na,	4a	-na,	4cc	-na,	4aa	-na,	.	.
-4A	E	4e	E	4a	E	4cc#X	E	4ee	E	.	.
+4A	È	4e	È	4a	È	4cc#X	È	4ee	È	.	.
 8A	la	8e	la	8a	la	8cc#i	la	8ee	la	.	.
 8A	ca-	8e	ca-	8a	ca-	8cc#i	ca-	8ee	ca-	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
@@ -500,7 +500,7 @@
 2r	.	1G	-to,	1g	-to,	2b-y	-mor	4r	.	2dd	av-
 .	.	.	.	.	.	.	.	2dd	Per	.	.
 2G	nel	.	.	.	.	2b-y	nel	.	.	2gg	-rà
-.	.	.	.	.	.	.	.	[4eenX	i-	.	.
+.	.	.	.	.	.	.	.	[4eenXi	i-	.	.
 =43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
 2A	no-	1r	.	4r	.	2cc	no-	8ee]	.	2ee	fi-
 .	.	.	.	.	.	.	.	8dd	-ra	.	.
