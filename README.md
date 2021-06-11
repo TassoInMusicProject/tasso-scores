@@ -158,12 +158,12 @@ of the downloaded repository:
 
 # Alternate data access #
 
-### TMP website ###
+### TiMP website ###
 
 The website http://www.tassomusic.org is a high-level interface
 to these scores, but also includes lower-level access to the data,
 data conversions, and analytic tools using URL parameters in the
-web address.  On the TMP website, each score has a "work info" page
+web address.  On the TiMP website, each score has a "work info" page
 generated with this format:
 
 ```
@@ -171,25 +171,15 @@ http://www.tassomusic.org/work?id=Trm0047m
 ```
 
 Where ```Trm0047m``` is the TMP catalog for the 13th musical setting
-of rime 47.  
+of rime 47 (sorted chronologically).  
 
-
-### kernScores website ###
-
-The [kernScores](http://kern.humdrum.org) library of musical scores
-for analysis in the Humdrum Toolkit has a page dedicated to the TMP
-scores:
-
-```
-http://kern.humdrum.org/browse?l=tmp
-```
 
 ### VHV website ###
 
 The TMP scores can also be viewed with the Verovio Humdrum Viewer by
-going to this URL:
+going to this URL (rime):
 
 ```
-http://verovio.humdrum.org/?file=tmp
+https://verovio.humdrum.org/?file=tasso/Trm
 ```
 
