@@ -54,9 +54,9 @@
 .	.	1g	vo-	.	.	4ee	-ma-
 .	.	.	.	.	.	4ee	-gin
 2G	-str'al-	.	.	.	.	4gg	vo-
-.	.	.	.	.	.	4dd	-str'al
+.	.	.	.	.	.	4dd	-str'al-
 =4	=4	=4	=4	=4	=4	=4	=4
-2A	-men	4e	-str'al-	0r	.	2cc	men
+2A	-men	4e	-str'al-	0r	.	2cc	-men
 .	.	2e	-men	.	.	.	.
 2E	mi	.	.	.	.	2b	mi
 .	.	4e	mi	.	.	.	.
@@ -132,7 +132,7 @@
 2A	L'a-	.	.	2cc	.	.	.
 .	.	8B	.	.	.	.	.
 .	.	4A	.	.	.	[2ee	<L'a-
-4G	.	4B	.	4b	-mi	.	.
+4G	.	4B	.	4b	-mi,	.	.
 =12	=12	=12	=12	=12	=12	=12	=12
 1F	.	2c	.	1.a	L'a-	2ee]	.
 .	.	2d	.	.	.	2dd	.
@@ -292,7 +292,7 @@
 2.d	Dun-	1r	.	1a	-te,	4a	-te,
 .	.	.	.	.	.	2ff	Dun-
 4d	-qu'il	.	.	.	.	4ff	-qu'il
-8cL	cor,	2.g	Dun-	1r	.	2ee	cor
+8cL	cor,	2.g	Dun-	1r	.	2ee	cor,
 8dJ	.	.	.	.	.	.	.
 8eL	.	.	.	.	.	.	.
 8fJ	.	.	.	.	.	.	.
@@ -310,9 +310,9 @@
 8EL	.	.	.	.	.	.	.
 8FJ	.	.	.	.	.	.	.
 4G	.	2d	-te,	.	.	.	.
-4D	ren-	.	.	4f	il-	4a	-te,
+4D	ren-	.	.	4f	il	4a	-te,
 =29	=29	=29	=29	=29	=29	=29	=29
-2F	-de-	4r	.	4f	-cor	1r	.
+2F	-de-	4r	.	4f	cor	1r	.
 .	.	4A	il	8e	mi	.	.
 .	.	.	.	8d	ren-	.	.
 2E	-te,	4c	cor	2e	-de-	.	.
@@ -325,10 +325,10 @@
 =30	=30	=30	=30	=30	=30	=30	=30
 2r	.	4A	-te,	2.cc	cor	4aa]	.
 .	.	4A	<il	.	.	4aa	-qu'il
-4r	.	2c	cor	.	.	2.gg	cor
+4r	.	2c	cor	.	.	2.gg	cor,
 4C	il	.	.	8b	mi	.	.
 .	.	.	.	8a	ren-	.	.
-2G	cor,	4d	m	2b	-de-	.	.
+2G	cor,	4d	mi	2b	-de-	.	.
 .	.	4d	ren-	.	.	4gg	il
 2D	il	2f	-de-	2a	-te,	4ff	cor
 .	.	.	.	.	.	8ee	mi
@@ -386,7 +386,7 @@
 .	.	8dJ	.	.	.	.	.
 .	.	8eL	.	4cc	men	4ee	men
 .	.	8fJ	.	.	.	.	.
-2G	-ri	4g	.	2b	vo-	[2dd	vo-
+2G	-ri,	4g	.	2b	vo-	[2dd	vo-
 .	.	4d	-ri,	.	.	.	.
 =37	=37	=37	=37	=37	=37	=37	=37
 0r	.	1r	.	4a	-str'in-	4dd]	.
@@ -447,7 +447,7 @@
 .	.	.	.	4b	-tr'in	.	.
 4r	.	4A	-ri,	2a	fat-	2cc	Non
 4A	<Non	2e	Non	.	.	.	.
-4A	fia	.	.	2a	-ti,	4cc	fia
+4A	fia	.	.	2a	-ti	4cc	fia
 4A	men	4e	fia	.	.	4cc	men
 =43	=43	=43	=43	=43	=43	=43	=43
 2G	vo-	4e	men	2r	.	2b	vo-
