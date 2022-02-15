@@ -50,7 +50,7 @@
 .	.	.	4D	.	.	.	.	.	4dd	più a
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 1AA	1AA	-tro	2A	.	1a	-tro	2dd]	.	2ff	den-
-.	.	.	2E	-ro,	.	.	2cc#X	-tro,	2ee	-tro>
+.	.	.	2E	-tro,	.	.	2cc#X	-tro,	2ee	-tro>
 1D	1r	.	1r	.	1r	.	4r	.	1r	.
 .	.	.	.	.	.	.	4dd	<quan-	.	.
 .	.	.	.	.	.	.	4dd	-to	.	.
@@ -80,7 +80,7 @@
 2D	2D	-re,	.	.	4r	.	.	.	2dd	-re,
 .	.	.	.	.	4d	Co-	.	.	.	.
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
-2.D	4r	.	1A	-tro,	2.c	-nob-	4f#X	-re,	1r	.
+2.D	4r	.	1A	-tro	2.c	-nob-	4f#X	-re,	1r	.
 .	4D	quan-	.	.	.	.	4f#X	quan-	.	.
 .	4D	-to	.	.	.	.	4f#X	-to	.	.
 4D	4D	più a	.	.	4B-	-bi il	4f#X	più a	.	.
@@ -91,7 +91,7 @@
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 2F]	2F]	.	4d	vo-	2F	co-	2a]	.	4ff	vo-
 .	.	.	4A	-stro	.	.	.	.	4cc	-stro
-2E	2E	-to	1c	co-	2G	-re,	2g	-tro,	2ee	co-
+2E	2E	-tro	1c	co-	2G	-re,	2g	-tro,	2ee	co-
 2c	1r	.	.	.	1r	.	4r	.	4ee	-re,>
 .	.	.	.	.	.	.	4a	quan-	4cc	quan-
 2F	.	.	2F	-re,	.	.	4a	-to	4cc	-to
@@ -121,7 +121,7 @@
 .	.	.	.	.	.	.	4a	-stro	4f	-stro
 1C	1C	-re,	1c	-re,	2G	-re,	2g	co-	2e	co-
 .	.	.	.	.	4g	Tan-	2g	-re,	2e	-re,
-.	.	.	.	.	4g	-to	.	.	.	.
+.	.	.	.	.	4g	-to a	.	.	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
 2.g	0r	.	0r	.	2.g	dar-	1r	.	1r	.
 8fL	.	.	.	.	8f	-vi	.	.	.	.
@@ -216,7 +216,7 @@
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 1G	1G	-spir,	1g	-spir,	4e]	.	4r	.	4r	.
 .	.	.	.	.	4g	so-	4ee-X	so-	4cc	so-
-.	.	.	.	.	4r	.	4dd	-spir,	4bnX	-spir
+.	.	.	.	.	4r	.	4dd	-spir,	4bnX	-spir,
 .	.	.	.	.	4d	-spir,	8dd	Un	8b	Un
 .	.	.	.	.	.	.	8cc	do-	8a	do-
 4G	4r	.	2r	.	4r	.	4b-	-len-	4g	-len-
@@ -304,7 +304,7 @@
 8DL	8D	Un	8A	Un	8d	Un	8f#X	Un	8a	Un
 8D	8D	sco-	8A	sco-	8d	sco-	8f#X	sco-	8a	sco-
 8DJ	8D	-lo-	8A	-lo-	8d	-lo-	8f#X	-lo-	8a	-lo-
-2.D	2.D	-rir	2.A	-rir	2.d	-rir	2f#X	-rir	2.a	-ri
+2.D	2.D	-rir	2.A	-rir	2.d	-rir	2f#X	-rir	2.a	-rir
 .	.	.	.	.	.	.	4f#X	di	.	.
 4C	4C	di	4E	di	4G	di	2g	vi-	4b-	di
 2D	2D	vi-	2A	vi-	2d	vi-	.	.	2a	vi-
