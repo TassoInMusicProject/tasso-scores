@@ -128,7 +128,7 @@
 4F	-mai	4f	-mai	4a	-mai	0r	.	4cc	-mai
 4F	sog-	4f	sog-	4a	sog-	.	.	4cc	sog-
 4G	-gior-	4d	-gior-	4g	-gior-	.	.	4b	-gior-
-4F	-ni al-	4f	-no al-	4a	-ni al-	.	.	4cc	-ni al-
+4F	-ni al-	4f	-ni al-	4a	-ni al-	.	.	4cc	-ni al-
 4.c	-cun	4.e	-cun	4.g	-cun	.	.	4.cc	-cun
 8d	fe-	8d	fe-	8f	fe-	.	.	8a	fe-
 4A	-de-	4c#X	-de-	4e	-de-	.	.	4a	-de-
@@ -160,7 +160,7 @@
 .	.	4e	-de-	.	.	4b	-de-	4g#X	-de-
 .	.	4f	-le a-	.	.	4a	-le a-	4a	-le a-
 .	.	2e	-man-	.	.	2b	-man-	2g#X	-man-
-.	.	2e	-te,	.	.	2b	-te	2g#i	-te,
+.	.	2e	-te,	.	.	2b	-te,	2g#i	-te,
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 4A	Sen-	4e	Sen-	4a	Sen-	4cc	Sen-	0r	.
 8AL	-ta	8eL	-ta	8aL	-ta	8ccL	-ta	.	.
@@ -244,7 +244,7 @@
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32
 2A	Ahi,	4c	trop-	2r	.	2r	.	1ee	-giu-
 .	.	4c	-p'in-	.	.	.	.	.	.
-4A	trop-	1c	-giu-	2a	Ahi,	2cc	Ahi!	.	.
+4A	trop-	1c	-giu-	2a	Ahi,	2cc	Ahi,	.	.
 4G	-p'in-	.	.	.	.	.	.	.	.
 2F	-giu-	.	.	4r	.	4r	.	2ff	-st'em-
 .	.	.	.	2a	trop-	2cc	trop-	.	.
@@ -290,10 +290,10 @@
 1.C	sì	2e]	.	2a]	.	2cc]	.	1ee]	.
 .	.	2e	For-	1gnXi	sì	2cc	For-	.	.
 .	.	2e	-tu-	.	.	2cc	-tu-	1a	-de,
-2D	gran-	4d	-na ed	2f	gran	4b	-na ed	.	.
+2D	gran	4d	-na ed	2f	gran	4b	-na ed	.	.
 .	.	4c	A-	.	.	4a	A-	.	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40
-[0E	-de-	1.B	-mo-	4e	fe-	2g#X	-mo-	2r	.
+[0E	fe-	1.B	-mo-	4e	fe-	2g#X	-mo-	2r	.
 .	.	.	.	4f	.	.	.	.	.
 .	.	.	.	4g	.	2b	-re a	1ee	Diè
 .	.	.	.	4f	.	.	.	.	.
