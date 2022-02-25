@@ -186,8 +186,8 @@
 =15-	=15-	=15-	=15-	=15-	=15-	=15-	=15-	=15-	=15-	=15-	=15-	=15-
 2	2G	spie-	2B	spie-	2g	spie-	1r	.	2dd	spie-	1r	.
 4	4G	-di	4B	-di	4d	-di	.	.	4ee	-di	.	.
-4.	4.A	Ha	4.e	Ha	4.a	Ha	.	.	4.cc	Ha	.	.
-.	.	.	.	.	.	.	1r	.	.	.	1r	.
+4	4.A	Ha	4.e	Ha	4.a	Ha	.	.	4.cc	Ha	.	.
+8	.	.	.	.	.	.	1r	.	.	.	1r	.
 8	8A	ne-	8e	ne	8a	ne-	.	.	8cc	ne-	.	.
 4	4A	-gli oc-	4e	gli oc-	4a	-gli oc-	.	.	4cc	-gli oc-	.	.
 4	4G	-chi	4B	-chi	4d	-chi	.	.	4b	-chi	.	.
@@ -271,8 +271,8 @@
 4	4A	-to	1r	.	4e	-to	1r	.	4cc	-to	1r	.
 4	4B	Na-	.	.	4g	Na-	.	.	4dd	Na-	.	.
 4	4c	-scon-	.	.	4g	-scon-	.	.	4ee	-scon-	.	.
-2	2G	-di o-	.	.	2g	-di o-	.	.	2dd	-di o-	.	.
-.	.	.	1r	.	.	.	1r	.	.	.	1r	.
+4	2G	-di o-	.	.	2g	-di o-	.	.	2dd	-di o-	.	.
+4	.	.	1r	.	.	.	1r	.	.	.	1r	.
 4	4G	-dio,	.	.	4g	-dio,	.	.	4dd	-dio,	.	.
 4	4r	.	.	.	4r	.	.	.	4r	.	.	.
 4	4A	di-	.	.	4e	di-	.	.	4cc#X	di-	.	.
@@ -343,15 +343,15 @@
 4	4A	Tu	1r	.	4c	Tu	1r	.	4ee	Tu	1r	.
 4	4Bi	li	.	.	4g	li	.	.	4dd	li	.	.
 4	4c	ri-	.	.	4g	ri-	.	.	4ee	ri-	.	.
-2	2d	-cu-	.	.	2a	-cu-	.	.	2ff	-cu-	.	.
-.	.	.	1r	.	.	.	1r	.	.	.	1r	.
+4	2d	-cu-	.	.	2a	-cu-	.	.	2ff	-cu-	.	.
+4	.	.	1r	.	.	.	1r	.	.	.	1r	.
 4	4c	-si,	.	.	4g	-si,	.	.	4ee	-si,	.	.
 2	2c	ri-	.	.	2g	ri-	.	.	2ee	ri-	.	.
 4	4c	-tro-	1r	.	4g	-tro-	1r	.	4ee	-tro-	1r	.
 4	4A	-set-	.	.	4f#X	-set-	.	.	4cc#X	-set-	.	.
 4	4c	-ta,	.	.	4g	-ta,	.	.	4ee	-ta,	.	.
-2	2r	.	.	.	2r	.	.	.	2r	.	.	.
-.	.	.	1r	.	.	.	1r	.	.	.	1r	.
+4	2r	.	.	.	2r	.	.	.	2r	.	.	.
+4	.	.	1r	.	.	.	1r	.	.	.	1r	.
 2	2d	for-	.	.	2f#i	for-	.	.	2dd	for-	.	.
 4	4G	-se	.	.	4d	-se	.	.	4b	-se	.	.
 4	4G	Per-	1r	.	4d	Per-	1r	.	4b	Per-	1r	.
@@ -374,28 +374,28 @@
 4	1r	.	4A	quan-	1r	.	4e	quan-	1r	.	4cc#i	quan-
 4	.	.	4A	-do io	.	.	4e	-do io	.	.	4cc#i	-do io
 4	.	.	4A	ti	.	.	4e	ti	.	.	4cc#i	ti
-4.	.	.	4.A	por-	.	.	4.e	por-	.	.	4.cc#i	por-
-.	1r	.	.	.	1r	.	.	.	1r	.	.	.
+4	.	.	4.A	por-	.	.	4.e	por-	.	.	4.cc#i	por-
+8	1r	.	.	.	1r	.	.	.	1r	.	.	.
 8	.	.	8A	-go i	.	.	8e	-go i	.	.	8cc#i	-go i
 4	.	.	4F#X	va-	.	.	4d	va-	.	.	4a	va-
 4	.	.	4G	-ghi	.	.	4B	-ghi	.	.	4b	-ghi
-2	.	.	2A	po-	.	.	2e	po-	.	.	2cc#X	po-
-.	1r	.	.	.	1r	.	.	.	1r	.	.	.
+4	.	.	2A	po-	.	.	2e	po-	.	.	2cc#X	po-
+4	1r	.	.	.	1r	.	.	.	1r	.	.	.
 2	.	.	2A	-mi,	.	.	2e	-mi,	.	.	2cc#X	-mi,
 4	.	.	4r	.	.	.	4r	.	.	.	4r	.
 4	1r	.	4A	Tu	1r	.	4c	Tu	1r	.	4ee	Tu
 4	.	.	4Bi	li	.	.	4g	li	.	.	4dd	li
 4	.	.	4c	ri-	.	.	4g	ri-	.	.	4ee	ri-
-2	.	.	2d	-giu-	.	.	2a	-giu-	.	.	2ff	-giu-
-.	1r	.	.	.	1r	.	.	.	1r	.	.	.
+4	.	.	2d	-giu-	.	.	2a	-giu-	.	.	2ff	-giu-
+4	1r	.	.	.	1r	.	.	.	1r	.	.	.
 4	.	.	4c	-ti,	.	.	4a	-ti,	.	.	4ee	-ti,
 2	.	.	2c	di-	.	.	2g	di-	.	.	2ee	di-
 =33-	=33-	=33-	=33-	=33-	=33-	=33-	=33-	=33-	=33-	=33-	=33-	=33-
 4	1r	.	4c	-sde-	1r	.	4g	-sde-	1r	.	4ee	-sde-
 4	.	.	4A	-gno-	.	.	4f#X	-gno-	.	.	4cc#X	-gno-
 4	.	.	4c	-sa,	.	.	4g	-sa,	.	.	4ee	-sa,
-2	.	.	2r	.	.	.	2r	.	.	.	2r	.
-.	1r	.	.	.	1r	.	.	.	1r	.	.	.
+4	.	.	2r	.	.	.	2r	.	.	.	2r	.
+4	1r	.	.	.	1r	.	.	.	1r	.	.	.
 2	.	.	2d	for-	.	.	2fnXi	for-	.	.	2dd	for-
 4	.	.	4G	-se,	.	.	4d	-se,	.	.	4b	-se,
 4	1r	.	4G	Per-	1r	.	4d	Per-	1r	.	4b	Per-
@@ -430,15 +430,15 @@
 4	4A	Tu	1r	.	4c	Tu	1r	.	4ee	Tu	1r	.
 4	4B	lo	.	.	4g	lo	.	.	4dd	lo	.	.
 4	4c	di-	.	.	4g	di-	.	.	4ee	di-	.	.
-2	2d	-sprez-	.	.	2a	-sprez-	.	.	2ff	-sprez-	.	.
-.	.	.	1r	.	.	.	1r	.	.	.	1r	.
+4	2d	-sprez-	.	.	2a	-sprez-	.	.	2ff	-sprez-	.	.
+4	.	.	1r	.	.	.	1r	.	.	.	1r	.
 4	4c	-zi,	.	.	4g	-zi,	.	.	4ee	-zi,	.	.
 2	2c	di-	.	.	2g	di-	.	.	2ee	di-	.	.
 4	4c	-spet-	1r	.	4g	-spet-	1r	.	4ee	-spet-	1r	.
 4	4A	-to-	.	.	4f#X	-to-	.	.	4cc#X	-to-	.	.
 4	4c	-sa,	.	.	4g	-sa,	.	.	4ee	-sa,	.	.
-2	2r	.	.	.	2r	.	.	.	2r	.	.	.
-.	.	.	1r	.	.	.	1r	.	.	.	1r	.
+4	2r	.	.	.	2r	.	.	.	2r	.	.	.
+4	.	.	1r	.	.	.	1r	.	.	.	1r	.
 2	2d	for-	.	.	2fnXi	for-	.	.	2dd	for-	.	.
 4	4G	-se	.	.	4d	-se	.	.	4b	-se	.	.
 4	4G	Per-	1r	.	4d	Per-	1r	.	4b	Per-	1r	.
@@ -507,8 +507,8 @@
 4	1r	.	4c	-ni e ab-	1r	.	4a	-ni e ab-	1r	.	4ee	-ni e ab-
 4	.	.	4d	-bor-	.	.	4a	-bor-	.	.	4ff	-bor-
 4	.	.	4d	-ri il	.	.	4a	-ri il	.	.	4ff	-ri il
-2	.	.	2B	do-	.	.	2g	do-	.	.	2dd	do-
-.	1r	.	.	.	1r	.	.	.	1r	.	.	.
+4	.	.	2B	do-	.	.	2g	do-	.	.	2dd	do-
+4	1r	.	.	.	1r	.	.	.	1r	.	.	.
 2	.	.	2d	-no?	.	.	2a	-no?	.	.	2ff	-no?
 4	.	.	4r	.	.	.	4r	.	.	.	4r	.
 4	1r	.	4c	Non	1r	.	4e	Non	1r	.	4ee	Non
@@ -521,8 +521,8 @@
 4	1r	.	4d	né	1r	.	4f	né	1r	.	4dd	né
 4	.	.	4A	tu	.	.	4e	tu	.	.	4cc	tu
 4	.	.	4A	mi	.	.	4e	mi	.	.	4cc	mi
-2	.	.	2A	sprez-	.	.	2e	sprez-	.	.	2cc	sprez-
-.	1r	.	.	.	1r	.	.	.	1r	.	.	.
+4	.	.	2A	sprez-	.	.	2e	sprez-	.	.	2cc	sprez-
+4	1r	.	.	.	1r	.	.	.	1r	.	.	.
 4	.	.	4A	-zi	.	.	4e	-zi	.	.	4cc	-zi
 4	.	.	4A	Per-	.	.	4e	Per-	.	.	4cc	Per-
 4	.	.	4A	-ché	.	.	4e	-ché	.	.	4cc	-ché
@@ -530,15 +530,15 @@
 4	1r	.	4Ai	si	1r	.	4e	si	1r	.	4cc	si
 4	.	.	4F	fat-	.	.	4d	fat-	.	.	4a	fat-
 4	.	.	4G	-to io	.	.	4B	-to io	.	.	4b	-to io
-2	.	.	2A	si-	.	.	2e	si-	.	.	2cc	si-
-.	1r	.	.	.	1r	.	.	.	1r	.	.	.
+4	.	.	2A	si-	.	.	2e	si-	.	.	2cc	si-
+4	1r	.	.	.	1r	.	.	.	1r	.	.	.
 2	.	.	2A	-a,	.	.	2e	-a,	.	.	2cc	-a,
 4	.	.	4r	.	.	.	4r	.	.	.	4r	.
 4	1r	.	4c	ma	1r	.	4e	ma	1r	.	4cc	ma
 4	.	.	4c	so-	.	.	4g	so-	.	.	4ee	so-
 4	.	.	4c	-la-	.	.	4g	-la-	.	.	4ee	-la-
-2	.	.	2c	-men-	.	.	2g	-men-	.	.	2ee	-men-
-.	1r	.	.	.	1r	.	.	.	1r	.	.	.
+4	.	.	2c	-men-	.	.	2g	-men-	.	.	2ee	-men-
+4	1r	.	.	.	1r	.	.	.	1r	.	.	.
 4	.	.	4c	-te	.	.	4g	-te	.	.	4ee	-te
 4	.	.	4A	Per-	.	.	4a	Per-	.	.	4ee	Per-
 4	.	.	4d	-ché	.	.	4a	-ché	.	.	4ff	-ché
@@ -609,11 +609,11 @@
 4	4Bi	-se-	1r	.	4d	-se-	1r	.	4dd	-se-	1r	.
 4	4c	-gna-	.	.	4g	-gna-	.	.	4ee	-gna-	.	.
 4	4c	-sti	.	.	4g	-sti	.	.	4ee	-sti	.	.
-2	2c	pri-	.	.	2g	pri-	.	.	2ee	pri-	.	.
-.	.	.	1r	.	.	.	1r	.	.	.	1r	.
+4	2c	pri-	.	.	2g	pri-	.	.	2ee	pri-	.	.
+4	.	.	1r	.	.	.	1r	.	.	.	1r	.
 2	2A	-mo a	.	.	2a	-mo a	.	.	2cc	-mo a	.	.
-2	2c	ven-	.	.	2g	ven-	.	.	2ee	ven-	.	.
-.	.	.	1r	.	.	.	1r	.	.	.	1r	.
+4	2c	ven-	.	.	2g	ven-	.	.	2ee	ven-	.	.
+4	.	.	1r	.	.	.	1r	.	.	.	1r	.
 4	4c	-der	.	.	4g	-der	.	.	4ee	-der	.	.
 4	4d	l'a-	.	.	4f	l'a-	.	.	4ff	l'a-	.	.
 4	4A	-mor,	.	.	4a	-mor,	.	.	4ee	-mor,	.	.
@@ -864,10 +864,10 @@
 2	2A	di	2r	.	2e	di	2a	di	2cc#i	di	2r	.
 =61-	=61-	=61-	=61-	=61-	=61-	=61-	=61-	=61-	=61-	=61-	=61-	=61-
 2	2G	bel-	1r	.	2g	bel-	2b	bel-	2dd	bel-	1r	.
-1	1c	-lez-	.	.	1g	-lez-	1cc	-lez-	1ee	-lez-	.	.
-.	.	.	1r	.	.	.	.	.	.	.	1r	.
-1	1c	-za:	.	.	1g	-za:	1cc	-za:	1ee	-za:	.	.
-.	.	.	1r	.	.	.	.	.	.	.	1r	.
+2	1c	-lez-	.	.	1g	-lez-	1cc	-lez-	1ee	-lez-	.	.
+2	.	.	1r	.	.	.	.	.	.	.	1r	.
+2	1c	-za:	.	.	1g	-za:	1cc	-za:	1ee	-za:	.	.
+2	.	.	1r	.	.	.	.	.	.	.	1r	.
 4	4c	che,	.	.	4g	che,	2r	.	4ee	che,	.	.
 4	4c	s'io	.	.	4g	s'io	.	.	4ee	s'io	.	.
 4	4c	pos-	1r	.	4g	pos-	1r	.	4ee	pos-	1r	.
@@ -936,6 +936,6 @@
 !!!ENC: Emiliano Ricciardi
 !!!END: 2019/01/01
 !!!EED: Coluzzi, Seth
-!!!EEV: 2019/01/21
+!!!EEV: 2022/02/23
 !!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
 !!!ONB: Translated from MusicXML on 2019/01/21
