@@ -125,7 +125,7 @@
 8G	-ra	8g	-ra	8d	-ra	8b	-ra
 4A	quan-	4e	quan-	4c	quan-	4a	quan-
 4E	-to	4e	-to	4B	-to	4g#X	-to
-4A	bel-	2e	bel-	4c	be-	4a	bel-
+4A	bel-	2e	bel-	4c	bel-	4a	bel-
 4AA	-la	.	.	4c	-la	4ee	-la
 =12	=12	=12	=12	=12	=12	=12	=12
 0E	se-	2e	-la	4.B	se-	0ee	se-
@@ -149,8 +149,8 @@
 4r	.	4g	-ma	4G	-ma	4dd	-ma
 4G	e'l	4G	e'l	4d	e'l	4dd	e'l
 4F#X	suo	4A	suo	4d	suo	4dd	suo
-4G	de-	4G	de	4d	de-	4dd	de-
-4C	-sio-	4G	si-	4g	-si-	4ee	-si-
+4G	de-	4G	de-	4d	de-	4dd	de-
+4C	-si-	4G	-si-	4g	-si-	4ee	-si-
 4C	-o	4cnX	-o	4e	-o	4cc	-o
 4G	Già	4B	Già	4d	Già	4dd	Già
 8G	non	8B	non	8d	non	8dd	non
@@ -188,7 +188,7 @@
 2D	Bra-	2A	Bra-	2d	Bra-	2dd	Bra-
 4D	-mo	4A	-mo	4d	-mo	4dd	-mo
 =19	=19	=19	=19	=19	=19	=19	=19
-1G	sì,	4B	sì.	2d	sì,	4dd	sì,
+1G	sì,	4B	sì,	2d	sì,	4dd	sì,
 .	.	8B	ma	.	.	4.b	ma
 .	.	8c	ven-	.	.	.	.
 .	.	4d	-det-	4.B	ma	.	.
@@ -197,7 +197,7 @@
 .	.	.	.	8B	ven-	.	.
 4r	.	2r	.	2cnXi	-det-	1g	-ta,
 4.c	ma	.	.	.	.	.	.
-.	.	4r	.	4G	ma	.	.
+.	.	4r	.	4G	ta,	.	.
 8B	ven-	.	.	.	.	.	.
 4c	-det-	[4gnX	ma	[4c	.	.	.
 =20	=20	=20	=20	=20	=20	=20	=20
@@ -206,11 +206,11 @@
 4r	.	4e	-det-	4c	-ta,	4.cc	ma
 4r	.	4d	-ta,	4G	ma	.	.
 .	.	.	.	.	.	8b	ven-
-2c	ma	8cL	ma	4.g	.	4cc	-de-
+2c	ma	8cL	ma	4.g	.	4cc	-det-
 .	.	8dJ	.	.	.	.	.
-.	.	8eL	.	.	.	4g	-ta
+.	.	8eL	.	.	.	4g	-ta,
 .	.	8d	.	8fL	.	.	.
-4C	ven-	8e	.	8e	.	2gg	ma,
+4C	ven-	8e	.	8e	.	2gg	ma
 .	.	8fJ	.	8dJ	.	.	.
 8CL	-det-	4g	.	4c	ven-	.	.
 8D	.	.	.	.	.	.	.
@@ -278,17 +278,17 @@
 4G	per	4d	per	2r	.	4.gg	-sde-
 4G	di-	4d	di-	.	.	.	.
 .	.	.	.	.	.	8ff	-gn'o-
-4.c	-sde	4.e	-sde	4r	.	[2ee	-mai
+4.c	-sde-	4.e	-sde-	4r	.	[2ee	-mai
 .	.	.	.	[4c	Ma	.	.
-8B	gn'o-	8d	gn'o-	.	.	.	.
+8B	-gn'o-	8d	-gn'o-	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30
 2A	-mai	4.c	-mai	4c]	.	2ee]	.
 .	.	.	.	2A	per	.	.
 .	.	8d	.	.	.	.	.
 2E	gio-	2e	.	.	.	2ee	gio-
 .	.	.	.	4G#X	di-	.	.
-2F	-i-	1r	.	2A	-sde	2cc	-i-
-2F	-sca il	.	.	2A	gn'o-	2dd	-sca il
+2F	-i-	1r	.	2A	-sde-	2cc	-i-
+2F	-sca il	.	.	2A	-gn'o-	2dd	-sca il
 =31	=31	=31	=31	=31	=31	=31	=31
 0E	cuo-	4r	.	4B	-mai	4.ee	cuo-
 .	.	4E	gio-	4e	gio-	.	.
