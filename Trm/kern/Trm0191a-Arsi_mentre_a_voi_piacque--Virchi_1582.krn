@@ -146,7 +146,7 @@
 .	.	.	.	8d	.	.	.	8b	.
 .	.	.	.	8e	.	.	.	8cc	.
 .	.	.	.	8fJ	.	.	.	8ddJ	.
-4c	-ste in	4g	-te in	4e	.	.	.	4ee	.
+4c	-ste in	4g	-ste in	4e	.	.	.	4ee	.
 2F	al-	2a	al-	4f	-ste in	.	.	4cc	-ste in
 .	.	.	.	8d	al-	.	.	4.ff	al-
 .	.	.	.	8c	-tra	.	.	.	.
@@ -292,7 +292,7 @@
 2G	-ste in-	2d	sti-	4g	.	2b	-de-	[2gg	-ma-
 .	.	.	.	4fnXi	.	.	.	.	.
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
-1A	-de-	2c#X	-ma-	2e	-ma-	1.a	-gno;	2gg]	.
+1A	-de-	2c#X	-ma-	2e	.	1.a	-gno;	2gg]	.
 .	.	2d	-ste in-	4f	-ste in-	.	.	2ff	-ste in-
 .	.	.	.	2d	-de-	.	.	.	.
 1A	-gno;	1e	-de-	.	.	.	.	1ee	-de-
@@ -300,7 +300,7 @@
 .	.	.	.	8BJ	.	.	.	.	.
 .	.	.	.	2c#X	.	2r	.	.	.
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29
-4r	.	2f#X	-gno;	4d	-gno.	2a	Que-	2dd	-gno;
+4r	.	2f#X	-gno;	4d	-gno;	2a	Que-	2dd	-gno;
 4d	Que-	.	.	4d	Que-	.	.	.	.
 4c#X	-sto	2r	.	4e	-sto	4a	-sto	2r	.
 4d	sec-	.	.	4f	sec-	4a	sec-	.	.
@@ -356,9 +356,9 @@
 2c	-va il	4e	vo-	2c	no-	.	.	2ee	-va il
 .	.	4e	-stro	.	.	2a	vo-	.	.
 4F	vo-	2f	no-	2d	-me, il	.	.	2dd	vo-
-4G	-stro	.	.	.	.	4b-X	-stro-	.	.
+4G	-stro	.	.	.	.	4b-X	-stro	.	.
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
-1A	no-	4e	-me,	4a	vo-	1a	-no-	4cc#X	-stro
+1A	no-	4e	-me,	4a	vo-	1a	no-	4cc#X	-stro
 .	.	4A	Del	4f	-stro	.	.	2dd	no-
 .	.	2e	lau-	2e	no-	.	.	.	.
 .	.	.	.	.	.	.	.	4cc#X	.
@@ -368,8 +368,8 @@
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35
 1r	.	4c#X	-ra-	0r	.	2e	vo-	1r	.
 .	.	4c#X	-va il	.	.	.	.	.	.
-.	.	2.d	vo-	.	.	2f	-stro-	.	.
-2AA	Del	.	.	.	.	1e	-no-	2ee	il
+.	.	2.d	vo-	.	.	2f	-stro	.	.
+2AA	Del	.	.	.	.	1e	no-	2ee	il
 .	.	4cnXi	-stro	.	.	.	.	.	.
 2A	lau-	2c	no-	.	.	.	.	2a	vo-
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36
@@ -395,12 +395,12 @@
 .	.	.	.	.	.	.	.	8b	-no-
 2A	vo-	2e	vo-	1r	.	.	.	4cc#X	-ra-
 .	.	.	.	.	.	.	.	4cc#i	-va il
-2B-X	-stro	2d	-stro-	.	.	2g	-stro	[2dd	vo-
+2B-X	-stro	2d	-stro	.	.	2g	-stro	[2dd	vo-
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39
-[0A	no-	2.e	-no-	2r	.	[0a	no-	2dd]	.
-.	.	.	.	2a	il	.	.	2cc#X	-stro-
+[0A	no-	2.e	no-	2r	.	[0a	no-	2dd]	.
+.	.	.	.	2a	il	.	.	2cc#X	-stro
 .	.	4d	.	.	.	.	.	.	.
-.	.	2c#X	.	2e	vo-	.	.	2ee	-no-
+.	.	2c#X	.	2e	vo-	.	.	2ee	no-
 .	.	2d	.	2f	-stro	.	.	[2dd	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40
 1A]	.	1e	.	1e	no-	1a]	.	4dd]	.
