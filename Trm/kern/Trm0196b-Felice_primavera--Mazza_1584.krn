@@ -64,7 +64,7 @@
 =5	=5	=5	=5	=5	=5	=5	=5
 4r	.	4G	-re,	8dL	-ro	2b	-re,
 .	.	.	.	8c	.	.	.
-4.G	No-	4.g	N<o	8B	.	.	.
+4.G	No-	4.g	<No-	8B	.	.	.
 .	.	.	.	8AJ	.	.	.
 .	.	.	.	4B	.	2r	.
 8G	-vo	8g	vo	.	.	.	.
@@ -104,7 +104,7 @@
 .	.	4c	bel	4e	-to a-	4cc	-no,
 =9	=9	=9	=9	=9	=9	=9	=9
 4r	.	4d	man-	4d	-dor-	4r	.
-4C	E	4e	-to a-	4c	-no	4cc	E
+4C	E	4e	-to a-	4c	-no,	4cc	E
 4G	di	4d	-dor-	4r	.	4b	di
 4A	bel	4c	-no	4c	E	4cc	bel
 4B	man-	1r	.	4G	di	4dd	man-
@@ -126,7 +126,7 @@
 =12	=12	=12	=12	=12	=12	=12	=12
 1E	il	2a]	.	1e	-o-	1ee	il
 .	.	2g#X	il	.	.	.	.
-2F#X	Po	2a	Pò	2A	-le	2dd	Po
+2F#X	Po	2a	Po	2A	-le	2dd	Po
 2G	si	2d	si	4r	.	2dd	si
 .	.	.	.	4G	il	.	.
 =13	=13	=13	=13	=13	=13	=13	=13
@@ -156,7 +156,7 @@
 2D	-li	4d	-li	2A	-li	2dd	-li
 .	.	4d	E	.	.	.	.
 1r	.	4e	su-	2r	.	1r	.
-.	.	4f	-sur-	.	.	.	.
+.	.	4f	-su-	.	.	.	.
 .	.	4g	-ran-	2c	E	.	.
 .	.	4e	-ti au-	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18
@@ -209,7 +209,7 @@
 4C	<Al	4c	Al	4c	Al	4ee	<Al
 4.F	mor-	4.c	mor-	4.A	mor-	4.ff	mor-
 8F	-mo-	8c	-mo-	8A	-mo-	8ff	-mo-
-4F	-ra>	4c	-rar	4A	-rar	4ff	-rar>
+4F	-rar>	4c	-rar	4A	-rar	4ff	-rar>
 4C	de	4c	de	4c	de	4ee	de
 2G	l'on-	2d	l'on-	2B	l'on-	2dd	l'on-
 =24	=24	=24	=24	=24	=24	=24	=24
