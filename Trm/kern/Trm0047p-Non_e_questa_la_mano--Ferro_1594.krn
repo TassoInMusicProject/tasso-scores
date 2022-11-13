@@ -20,7 +20,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*F:	*	*F:	*	*F:	*	*F:	*
-*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 0r	.	0r	.	2.F	Non	0r	.	1r	.
@@ -301,13 +301,12 @@
 4BBnX	-ghe	.	.	4G	-ghe	2G	-ghe	.	.
 2BBnXi	mi	.	.	2d	mi	.	.	.	.
 .	.	.	.	.	.	4F	mi	.	.
-!!LO:TX:a:c:t=[whole] &rarr; [whole-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *omet()	*	*omet()	*	*omet()	*	*omet()	*	*omet()	*
-*col	*	*col	*	*col	*	*col	*	*	*
+*col	*	*col	*	*col	*	*col	*	*col	*
 1C	diè	1r	.	1G	diè	1E	diè	1r	.
-*	*	*	*	*	*	*	*	*col	*
 1.F	ba-	1.c	ba-	1r	.	1.A	ba-	1.f	ba-
 .	.	.	.	1r	.	.	.	.	.
 2F	-ci	2c	-ci	.	.	2A	-ci	2f	-ci
