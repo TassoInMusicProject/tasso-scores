@@ -20,7 +20,7 @@
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefGv2	*	*clefG2	*
 *k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
 *F:	*	*F:	*	*F:	*	*F:	*	*F:	*
-*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C)	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 0r	.	0r	.	2.F	Non	0r	.	1r	.
@@ -301,9 +301,10 @@
 4BBnX	-ghe	.	.	4G	-ghe	2G	-ghe	.	.
 2BBnXi	mi	.	.	2d	mi	.	.	.	.
 .	.	.	.	.	.	4F	mi	.	.
-!!LO:TX:a:t=[breve] &rarr; [breve-dot]
+!!LO:TX:a:t=[whole] &rarr; [whole-dot]
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*met()	*	*met()	*	*met()	*	*met()	*	*met()	*
 *col	*	*col	*	*col	*	*col	*	*	*
 1C	diè	1r	.	1G	diè	1E	diè	1r	.
 *	*	*	*	*	*	*	*	*col	*
