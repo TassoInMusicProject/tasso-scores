@@ -301,10 +301,10 @@
 4BBnX	-ghe	.	.	4G	-ghe	2G	-ghe	.	.
 2BBnXi	mi	.	.	2d	mi	.	.	.	.
 .	.	.	.	.	.	4F	mi	.	.
-!!LO:TX:a:t=[whole] &rarr; [whole-dot]
+!!LO:TX:a:c:t=[whole] &rarr; [whole-dot]
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
-*met()	*	*met()	*	*met()	*	*met()	*	*met()	*
+*omet()	*	*omet()	*	*omet()	*	*omet()	*	*omet()	*
 *col	*	*col	*	*col	*	*col	*	*	*
 1C	diè	1r	.	1G	diè	1E	diè	1r	.
 *	*	*	*	*	*	*	*	*col	*
