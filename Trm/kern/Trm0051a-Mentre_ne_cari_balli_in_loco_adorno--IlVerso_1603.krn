@@ -83,7 +83,7 @@
 2d	in	1dd	bel
 2d	bel	.	.
 2B-	sog-	2dd	sog-
-!!LO:TX:a:t=[breve-dot] &rarr; [breve]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =8	=8	=8	=8
 *M4/2	*	*M4/2	*
 *omet(C)	*	*omet(C)	*
