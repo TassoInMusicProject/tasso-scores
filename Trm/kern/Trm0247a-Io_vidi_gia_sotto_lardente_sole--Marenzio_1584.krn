@@ -265,6 +265,7 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =	=	=	=	=	=	=	=	=	=	=	=
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
+*omet(O3)	*	*omet(O3)	*	*omet(O3)	*	*omet(O3)	*	*omet(O3)	*	*omet(O3)	*
 2.G	Se-	2%9r	.	2.d	Se-	1.r	.	1.r	.	2.b-y	Se-
 4G	-co	.	.	4d	-co	.	.	.	.	4b-y	-co
 2A	mu-	.	.	1f	mu-	.	.	.	.	2cc	mu-
@@ -289,6 +290,7 @@
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 0AA	-bian-	2E	-bian-	2r	.	2A	-tar	4c	-bian-	2cc	-tar
 .	.	.	.	.	.	.	.	4A	.	.	.
 .	.	2A	-te,	4r	.	2F	sem-	2.d	.	2a	sem-
@@ -315,6 +317,7 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =31.	=31.	=31.	=31.	=31.	=31.	=31.	=31.	=31.	=31.	=31.	=31.
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
+*omet(O3)	*	*omet(O3)	*	*omet(O3)	*	*omet(O3)	*	*omet(O3)	*	*omet(O3)	*
 2.G	Se-	2%9r	.	2.d	Se-	1G	-te,	1g	-te,	2.b-y	Se-
 4G	-co	.	.	4d	-co	.	.	.	.	4b-y	-co
 2A	mu-	.	.	1f	mu-	2r	.	2r	.	2cc	mu-
@@ -339,6 +342,7 @@
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 0AA	-bian-	2E	-bian-	2r	.	2A	-tar	4c	-bian-	2cc	-tar
 .	.	.	.	.	.	.	.	4A	.	.	.
 .	.	2A	-te,	4r	.	2F	sem-	2.d	.	2a	sem-

@@ -98,6 +98,7 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =13:|!|:	=13:|!|:	=13:|!|:	=13:|!|:	=13:|!|:	=13:|!|:	=13:|!|:
 *M3/2	*M3/2	*	*M3/2	*	*M3/2	*
+*omet(3)	*omet(3)	*	*omet(3)	*	*omet(3)	*
 1.A	1.A	Per	2c	Per	2e	Per
 .	.	.	4c	vo-	4e	vo-
 .	.	.	4B	-stro	4d	-stro
@@ -198,6 +199,7 @@
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =31:|!|:	=31:|!|:	=31:|!|:	=31:|!|:	=31:|!|:	=31:|!|:	=31:|!|:
 *M2/2	*M2/2	*	*M2/2	*	*M2/2	*
+*omet(C|)	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 !	!	!	!	!	!LO:TX:a:t=Seconda parte.	!
 1AA	1r	.	1r	.	4r	.
 .	.	.	.	.	4e	A
@@ -442,6 +444,7 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =72:|!|:	=72:|!|:	=72:|!|:	=72:|!|:	=72:|!|:	=72:|!|:	=72:|!|:
 *M3/2	*M3/2	*	*M3/2	*	*M3/2	*
+*omet(3)	*omet(3)	*	*omet(3)	*	*omet(3)	*
 2D	2D	Hor	2d	Hor	2f	Hor
 2A	2A	che'l	2c#X	che'l	2e	che'l
 2D	2D	bel	2d	bel	2f	bel
@@ -459,6 +462,7 @@
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =76	=76	=76	=76	=76	=76	=76
 *M2/2	*M2/2	*	*M2/2	*	*M2/2	*
+*omet(C|)	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 4.A	4.A	Pri-	1r	.	4.e	Pri-
 8G	8G	-ma-	.	.	8e	-ma-
 4F	4F	-ve-	.	.	4a	-ve-

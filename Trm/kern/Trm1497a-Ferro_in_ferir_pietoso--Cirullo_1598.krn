@@ -225,6 +225,7 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
+*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*
 2F	Ch'a-	2A	Ch'a-	2f	Ch'a-	2a	Ch'a-	2cc	Ch'a-
 2F	-mo-	2A	-mo-	2f	-mo-	2a	-mo-	2cc	-mo-
 2C	-r'i	2c	-r'i	2e	-r'i	2g	-r'i	2cc	-r'i
@@ -238,6 +239,7 @@
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 1AA	l'al-	4A	l'al-	4c#X	l'al-	1e	l'al-	1a	l'al-
 .	.	8GL	.	2d	.	.	.	.	.
 .	.	8FJ	.	.	.	.	.	.	.
@@ -268,6 +270,7 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
+*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*
 2F	Ch'a-	2A	Ch'a-	2f	Ch'a-	2cc	Ch'a-	2a	Ch'a-
 2F	-mo-	2A	-mo-	2f	-mo-	2cc	-mo-	2a	-mo-
 2C	-r'i	2c	-r'i	2e	-r'i	2cc	-r'i	2g	-r'i
@@ -281,6 +284,7 @@
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 1AA	l'al-	4A	l'al-	4c#X	l'al-	1a	l'al-	1e	l'al-
 .	.	8GL	.	2d	.	.	.	.	.
 .	.	8FJ	.	.	.	.	.	.	.

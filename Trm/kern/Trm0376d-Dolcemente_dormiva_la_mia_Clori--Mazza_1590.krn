@@ -276,6 +276,7 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =37	=37	=37	=37
 *M6/2	*	*M6/2	*
+*omet(C.3/2)	*	*omet(C.3/2)	*
 1c	E	1G	E
 2c	ba-	2c	ba-
 2.c	-cian-	2.A	-cian-
@@ -301,6 +302,7 @@
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =41	=41	=41	=41
 *M4/2	*	*M4/2	*
+*omet(C)	*	*omet(C)	*
 2c	vi-	1r	.
 4G	-so>	.	.
 4G	Pro-	.	.
@@ -365,6 +367,7 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =49	=49	=49	=49
 *M6/2	*	*M6/2	*
+*omet(C.3/2)	*	*omet(C.3/2)	*
 1G	E	1B-y	E
 2c	ba-	2c	ba-
 2.A	-cian-	2.c	-cian-
@@ -373,6 +376,7 @@
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =50	=50	=50	=50
 *M4/2	*	*M4/2	*
+*omet(C)	*	*omet(C)	*
 2B-y	vi-	2d	vi-
 4B-y	-so	4d	-so
 4F	Pro-	4B-y	Pro-

@@ -222,6 +222,7 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =22	=22	=22	=22	=22	=22	=22	=22
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
+*omet(3/2)	*	*omet(3/2)	*	*omet(3/2)	*	*omet(3/2)	*
 2c	Et	1r	.	2e	Et	2cc	Et
 2c	se	.	.	2e	se	2cc	se
 2B	pur	2r	.	2d	pur	2dd	pur
@@ -256,6 +257,7 @@
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =27	=27	=27	=27	=27	=27	=27	=27
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 2D	cuo-	2f#X	cuo-	2d	cuo-	2dd	cuo-
 2G	-re,	2g	-re,	2d	-re,	2dd	-re,
 1r	.	4r	.	1r	.	4r	.

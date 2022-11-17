@@ -504,6 +504,7 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
+*omet(3/2)	*	*omet(3/2)	*	*omet(3/2)	*	*omet(3/2)	*	*omet(3/2)	*	*omet(3/2)	*
 2.BB-y	Pro-	2.B-y	Pro-	2.d	Pro-	2.f	Pro-	2.b-y	Pro-	2.dd	Pro-
 4BB-y	-vin-	4B-y	-vin-	4d	-vin-	4f	-vin-	4b-y	-vin-	4dd	-vin-
 2BB-y	-si in	2B-y	-si in	2d	-si in	2b-y	-si in	2dd	-si in	2ff	-si in
@@ -526,6 +527,7 @@
 !!LO:TX:a:t=[whole-dot] &rarr; [whole]
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 2D	pu-	2d	pu-	2A	pu-	2f#X	pu-	2dd	pu-	2a	pu-
 2D	-gna, e	2A	-gna,	2d	-gna, e	2f#i	-gna, e	2dd	-gna,	2a	-gna, e
 4.G	non	1r	.	4.d	non	4.g	non	1r	.	4.b-y	non

@@ -251,6 +251,7 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*
 1A	E	1A	E	1e	E	1e	E	1a	E
 2G	tran-	2d	tran-	2B	tran-	2g	tran-	2b	tran-
 1c	-quil-	1c	-quil-	1e	-quil-	1g	-quil-	1cc	-quil-

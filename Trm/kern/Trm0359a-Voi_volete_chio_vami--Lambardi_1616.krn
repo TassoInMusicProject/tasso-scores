@@ -74,6 +74,7 @@
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =15	=15
 *M2/2	*
+*omet(C)	*
 2dd	-ri,
 =16!|:	=16!|:
 *>B	*>B
@@ -86,6 +87,7 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =18	=18
 *M3/2	*
+*omet(C.3/2)	*
 1.a	-te
 =19	=19
 2r	.
@@ -153,11 +155,13 @@
 =39	=39
 *>B1	*>B1
 *M2/2	*
+*omet(C)	*
 2f	-ri.
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =40:|!	=40:|!
 *>B2	*>B2
 *M3/2	*
+*omet(C.3/2)	*
 1.f/l	ri.
 ==	==
 *-	*-

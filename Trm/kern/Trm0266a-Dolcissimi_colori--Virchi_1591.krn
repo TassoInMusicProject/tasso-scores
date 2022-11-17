@@ -215,6 +215,7 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
+*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*
 1B-y	Sem-	1d	Sem-	1b-y	Sem-	1dd	Sem-	1%3r	.
 2G	-pre	2d	-pre	2b-y	-pre	2gg	-pre	.	.
 2.A	so-	2.a	so-	2.cc	so-	2.ee	so-	.	.
@@ -232,6 +233,7 @@
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 1A	-i-	2e	-i-	2a	-i-	2cc#X	-i-	2ee	-i-
 .	.	2e	-re,	2a	-re,	2cc#i	-re,	2ee	-re,
 2D	-re,	4r	.	2r	.	1r	.	1r	.
@@ -321,6 +323,7 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
+*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*	*omet(3)	*
 1B-y	Sem-	1f	Sem-	1b-y	Sem-	1%3r	.	1dd	Sem-
 2G	-pre	2g	-pre	2b-y	-pre	.	.	2gg	-pre
 2.A	so-	2.c	so-	2.cc	so-	.	.	2.ee	so-
@@ -340,6 +343,7 @@
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 2D	-re,	4r	.	2r	.	1r	.	0r	.
 .	.	4d	E	.	.	.	.	.	.
 2r	.	4d	per-	4r	.	.	.	.	.

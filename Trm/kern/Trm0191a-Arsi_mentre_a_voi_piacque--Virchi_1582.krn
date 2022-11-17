@@ -270,6 +270,7 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
+*omet(C3/2)	*	*omet(C3/2)	*	*omet(C3/2)	*	*omet(C3/2)	*	*omet(C3/2)	*
 1D	Ché'l	1A	Ché'l	1d	Ché'l	1f#X	Ché'l	1.r	.
 2G	mio	2B	mio	2d	mio	2g	mio	.	.
 2.F	do-	2.cnXi	do-	2.f	do-	2.a	do-	1.r	.
@@ -285,6 +286,7 @@
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =27	=27	=27	=27	=27	=27	=27	=27	=27	=27
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 2r	.	1r	.	2f#X	voi	2a	voi	2dd	voi
 2G	sti-	.	.	2g	sti-	2b	sti-	1dd	sti-
 2F#X	-ma-	2r	.	2a	-ma-	4dd	-ma-	.	.

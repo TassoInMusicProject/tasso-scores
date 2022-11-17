@@ -150,10 +150,12 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =25	=25
 *M6/2	*
+*omet(3)	*
 1%3r	.
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =26	=26
 *M4/2	*
+*omet(C)	*
 2r	.
 4r	.
 8G	Quan-
@@ -166,10 +168,12 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =27	=27
 *M6/2	*
+*omet(3)	*
 1%3r	.
 !!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =28	=28
 *M4/2	*
+*omet(C)	*
 4r	.
 8d	Quan-
 8d	-do
