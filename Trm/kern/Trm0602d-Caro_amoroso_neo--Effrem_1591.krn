@@ -439,7 +439,7 @@
 .	.	.	.	8BJ	.	.	.	.	.
 .	.	4A	.	2c#X	.	2g	men-	.	.
 .	.	4G	.	.	.	.	.	.	.
-!!LO:TX:a:t=[whole] &rarr; [whole-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =49	=49	=49	=49	=49	=49	=49	=49	=49	=49
 *M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
 1D	-de,	1A	-de,	1d	-de,	1f#X	-de,	1a	-de,
@@ -464,7 +464,7 @@
 =55	=55	=55	=55	=55	=55	=55	=55	=55	=55
 2%3r	.	1G	freg-	1g	freg-	1b	freg-	1dd	freg-
 .	.	2G	-gi>	2g	-gi	2b	-gi>	2dd	-gi
-!!LO:TX:a:t=[whole-dot] &rarr; [whole]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =56	=56	=56	=56	=56	=56	=56	=56	=56	=56
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 2G	on-	1r	.	2r	.	4r	.	4r	.

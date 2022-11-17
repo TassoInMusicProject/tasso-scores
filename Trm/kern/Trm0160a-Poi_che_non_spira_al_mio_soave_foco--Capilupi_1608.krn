@@ -922,7 +922,7 @@
 =106	=106	=106	=106
 0r	.	1g	rag-
 .	.	1c	-gi,
-!!LO:TX:a:t=[whole] &rarr; [whole-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =107	=107	=107	=107
 *M6/2	*	*M6/2	*
 !!LO:TX:a:t=3
@@ -970,7 +970,7 @@
 2A	-d'a	2d	-d'a
 1A	l'Au-	1c#X	l'Au-
 1.A	-ra.	1.d	-ra.
-!!LO:TX:a:t=[whole-dot] &rarr; [whole]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =113||	=113||	=113||	=113||
 *M4/2	*	*M4/2	*
 !!LO:TX:a:t=Sesta parte.

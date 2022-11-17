@@ -147,7 +147,7 @@
 4d	.	.	.
 2g	.	1ee	-ne:
 2g	-ne:	.	.
-!!LO:TX:a:t=[breve] &rarr; [breve-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =19	=19	=19	=19
 *M3/1	*	*M3/1	*
 1c	Co-	1ff	Co-
@@ -190,7 +190,7 @@
 2c	-bat-	2ee	-ta e
 2d	-tu-	1dd	re-
 2B	-ta e	.	.
-!!LO:TX:a:t=[breve-dot] &rarr; [breve]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =27	=27	=27	=27
 *M2/1	*	*M2/1	*
 2A	re-	1ff	-a

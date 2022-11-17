@@ -71,7 +71,7 @@
 =14	=14
 1dd	-spi-
 2cc#X	.
-!!LO:TX:a:t=[whole-dot] &rarr; [whole]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =15	=15
 *M2/2	*
 2dd	-ri,
@@ -83,7 +83,7 @@
 4cc	vo-
 =17	=17
 1b-y	-le-
-!!LO:TX:a:t=[whole] &rarr; [whole-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =18	=18
 *M3/2	*
 1.a	-te
@@ -149,12 +149,12 @@
 *Xcol	*
 =38	=38
 1.g	-ti-
-!!LO:TX:a:t=[whole] &rarr; [whole-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =39	=39
 *>B1	*>B1
 *M2/2	*
 2f	-ri.
-!!LO:TX:a:t=[whole-dot] &rarr; [whole]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =40:|!	=40:|!
 *>B2	*>B2
 *M3/2	*

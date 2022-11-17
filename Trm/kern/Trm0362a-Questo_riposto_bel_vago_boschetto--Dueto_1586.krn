@@ -382,7 +382,7 @@
 .	.	.	.	1g	ciel,	1cc	ciel,
 .	.	4e	-d'il	.	.	.	.
 .	.	2e	ciel,	.	.	.	.
-!!LO:TX:a:t=[breve] &rarr; [breve-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =40	=40	=40	=40	=40	=40	=40	=40
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 1F	star-	1c	star-	1f	star-	1a	star-
@@ -408,7 +408,7 @@
 0E	-let-	0G#X	-let-	0B	-let-	0e	-let-
 =47	=47	=47	=47	=47	=47	=47	=47
 0.AA	-to.	0.A	-to.	0.c#X	-to.	0.e	-to.
-!!LO:TX:a:t=[breve-dot] &rarr; [breve]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =48||	=48||	=48||	=48||	=48||	=48||	=48||	=48||
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 !!LO:TX:a:t=Terza parte.

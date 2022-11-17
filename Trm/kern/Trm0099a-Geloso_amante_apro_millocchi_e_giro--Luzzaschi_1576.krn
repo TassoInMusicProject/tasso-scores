@@ -601,8 +601,9 @@
 .	.	.	.	.	.	2f#i	.	.	.
 .	.	1r	.	.	.	1g	-le,	1b	-le,
 =83	=83	=83	=83	=83	=83	=83	=83	=83	=83
-!!LO:TX:a:t=[breve] &rarr; [breve-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*omet()	*	*omet()	*	*omet()	*	*omet()	*	*omet()	*
 *col	*	*col	*	*col	*	*col	*	*col	*
 0D	Ne	1d	Ne	0f	Ne	0a	Ne	0dd	Ne
 .	.	0A	le	.	.	.	.	.	.

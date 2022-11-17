@@ -23,8 +23,8 @@
 *oclefF3	*	*oclefC3	*	*oclefC3	*	*oclefC2	*	*oclefG2	*
 *clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*	*clefG2	*
 *k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
-*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 !!LO:TX:a:t=Prima parte.
 *	*	*col	*	*col	*	*col	*	*col	*
@@ -49,9 +49,10 @@
 0G	-tor-	0B	-tor-	.	.	0g	-tor-	0dd	-tor-
 *Xcol	*	*Xcol	*	*	*	*Xcol	*	*Xcol	*
 .	.	.	.	1r	.	.	.	.	.
-!!LO:TX:a:t=[breve-dot] &rarr; [breve]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*omet()	*	*omet()	*	*omet()	*	*omet()	*	*omet()	*
 2C	-no e	2c	-no> e	2g	e	2e	-no> e	1cc	-no> e
 1F	bian-	1A	bian-	1c	bian-	1a	bian-	.	.
 .	.	.	.	.	.	.	.	2ff	bian-

@@ -224,7 +224,7 @@
 4G	si-	.	.	.	.	4ee	si-	.	.
 4A	-cu-	.	.	2cc	-ro e	4ff	-cu-	.	.
 4B	-ro e	.	.	.	.	4dd	-ro e	.	.
-!!LO:TX:a:t=[breve] &rarr; [breve-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
 1c	bal-	1%3r	.	1cc	bal-	1ee	bal-	1%3r	.
@@ -239,7 +239,7 @@
 2B-X	-la-	.	.	2b-X	-la-	2dd	-la-	.	.
 2G	-nel-	.	.	2b-X	-nel-	2dd	-nel-	.	.
 2A	-la al	.	.	2a	-la al	2cc#X	-la al	.	.
-!!LO:TX:a:t=[breve-dot] &rarr; [breve]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 2D	bal-	1r	.	2a	bal-	2dd	bal-	1r	.

@@ -418,9 +418,10 @@
 .	.	.	.	.	.	.	.	4a	.
 .	.	.	.	.	.	.	.	4g	.
 .	.	.	.	.	.	.	.	1a	.
-!!LO:TX:a:t=[breve] &rarr; [breve-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =46	=46	=46	=46	=46	=46	=46	=46	=46	=46
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*omet()	*	*omet()	*	*omet()	*	*omet()	*	*omet()	*
 *col	*	*col	*	*col	*	*col	*	*col	*
 0BB-y	Chiu-	0B-y	Chiu-	0d	Chiu-	0f	Chiu-	1b-y	-no
 .	.	.	.	.	.	.	.	1dd	Chiu-
@@ -437,9 +438,10 @@
 1AA	-sco	1c	-sco	1A	-sco	1f	-sco	1a	-sco
 0BB-y	lu-	0B-y	lu-	0D	lu-	0d	lu-	0f	lu-
 *Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*	*Xcol	*
-!!LO:TX:a:t=[breve-dot] &rarr; [breve]
+!!LO:TX:a:t=[whole-dot] &rarr; [whole]
 =50	=50	=50	=50	=50	=50	=50	=50	=50	=50
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*omet()	*	*omet()	*	*omet()	*	*omet()	*	*omet()	*
 1FF	-me,	1A	-me,	1F	-me,	2c	-me,	2f	-me,
 .	.	.	.	.	.	1A	Dam-	1cc	Dam-
 [1F	Dam-	1c	Dam-	1A	Dam-	.	.	.	.

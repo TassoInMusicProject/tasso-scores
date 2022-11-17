@@ -215,7 +215,7 @@
 2C	-li-	2G	-li-	2c	-li-	2g	-li-	2cc	-li-
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24
 1FF	-ce>	1F	-ce>	1c	-ce	1a	-ce>	1cc	-ce>
-!!LO:TX:a:t=[whole] &rarr; [whole-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 !!LO:TX:a:t=3
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
@@ -233,7 +233,7 @@
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 0AA	ro-	0A	ro-	0c	ro-	0e	ro-	0a	ro-
 1AA	-go	1E	-go>	1c#X	-go	1e	-go>	1a	-go>
-!!LO:TX:a:t=[whole-dot] &rarr; [whole]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =29	=29	=29	=29	=29	=29	=29	=29	=29	=29
 !!LO:TX:a:t=C
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*

@@ -116,9 +116,10 @@
 .	.	.	.	.	.	4f#X	.	.	.
 .	.	.	.	.	.	4e	.	.	.
 .	.	.	.	.	.	1f#i	.	.	.
-!!LO:TX:a:t=[breve-dot] &rarr; [breve]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
+*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 1GG	-re	1G	-re	2d	-re	2g	-re	2b	-re
 .	.	.	.	2G	Sot-	2b	Sot-	2dd	Sot-
 1r	.	1r	.	4.G	-to un	4.g	-to un	4.b	-to un
@@ -593,12 +594,11 @@
 .	.	.	.	4A	.	.	.	4f#i	.
 =63	=63	=63	=63	=63	=63	=63	=63	=63	=63
 0GGl	-te.	0Gl	-re.	0Bl	-re.	0dl	-re.	0gl	-re.
-!!LO:TX:a:t=[breve] &rarr; [breve-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =64||	=64||	=64||	=64||	=64||	=64||	=64||	=64||	=64||	=64||
-*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
+*omet()	*	*omet()	*	*omet()	*	*omet()	*	*omet()	*
 *	*	*col	*	*	*	*	*	*col	*
-!!*rscale:3/2	*	*rscale:3/2	*	*	*	*	*	*	*
 *Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*
 !!LO:TX:a:t=Seconda parte.
 0r	.	3%4G	Neb-	0r	.	0r	.	3%2.dd	Neb-
@@ -687,13 +687,12 @@
 .	.	.	.	.	.	6e	.	.	.
 .	.	.	.	.	.	3%2f#i	.	.	.
 *	*	*	*	*	*	*Xcol	*	*	*
-!!LO:TX:a:t=[breve-dot] &rarr; [breve]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =78	=78	=78	=78	=78	=78	=78	=78	=78	=78
 *omet(O|3)	*	*omet(O|3)	*	*omet(O|3)	*	*omet(O|3)	*	*omet(O|3)	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 *	*	*col	*	*	*	*	*	*col	*
 *tuplet	*	*tuplet	*	*tuplet	*	*tuplet	*	*tuplet	*
-!!LO:TX:a:t=[breve] = [breve-dot]
 2GG	-ta	2d	-ta	1G	-ta	2g	-ta	2b	-ta
 2C	mai	1c	mai	.	.	2.e	mai	2g	mai
 2AA	di	.	.	2r	.	.	.	2.a	di

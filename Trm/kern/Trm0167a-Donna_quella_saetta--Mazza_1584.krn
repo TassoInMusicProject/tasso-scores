@@ -219,7 +219,7 @@
 =21	=21	=21	=21	=21	=21	=21	=21
 2G	.	2g	-det-	2B	-det-	2dd	-det-
 2E	-ta:	2e	-ta:	2c	-ta:	2cc	-ta:
-!!LO:TX:a:t=[whole] &rarr; [whole-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =22	=22	=22	=22	=22	=22	=22	=22
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
 2c	Et	1r	.	2e	Et	2cc	Et
@@ -253,7 +253,7 @@
 2C	gio-	2g	gio-	2c	gio-	2ee	gio-
 2G	-i-	2g	-i-	2d	-i-	2dd	-i-
 2G	-sca il	2g	-sca il	2d	-sca il	2dd	-sca il
-!!LO:TX:a:t=[whole-dot] &rarr; [whole]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =27	=27	=27	=27	=27	=27	=27	=27
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 2D	cuo-	2f#X	cuo-	2d	cuo-	2dd	cuo-

@@ -273,7 +273,7 @@
 =36	=36	=36	=36
 1d	pia-	0r	.
 1A	-no,	.	.
-!!LO:TX:a:t=[whole] &rarr; [whole-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =37	=37	=37	=37
 *M6/2	*	*M6/2	*
 1c	E	1G	E
@@ -298,7 +298,7 @@
 2.BnX	-cian-	.	.
 4c	-do-	.	.
 2BnX	-l'il	.	.
-!!LO:TX:a:t=[whole-dot] &rarr; [whole]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =41	=41	=41	=41
 *M4/2	*	*M4/2	*
 2c	vi-	1r	.
@@ -362,7 +362,7 @@
 4D	-ra-	.	.
 2G	-di-	1r	.
 2G	-so,	.	.
-!!LO:TX:a:t=[whole] &rarr; [whole-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =49	=49	=49	=49
 *M6/2	*	*M6/2	*
 1G	E	1B-y	E
@@ -370,7 +370,7 @@
 2.A	-cian-	2.c	-cian-
 4A	-do-	4c	-do-
 2c	-l'il	2A	-l'il
-!!LO:TX:a:t=[whole-dot] &rarr; [whole]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =50	=50	=50	=50
 *M4/2	*	*M4/2	*
 2B-y	vi-	2d	vi-

@@ -334,7 +334,7 @@
 .	.	1f	.	1c	ve-	2a	si	.	.	.	.
 .	.	.	.	.	.	2g	ve-	1cc	-ste.>	.	.
 .	.	2e	-ste.>	2c	-ste.>	2g	-ste.>	.	.	.	.
-!!LO:TX:a:t=[whole] &rarr; [whole-dot]
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 *M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
 1%3r	.	1%3r	.	2f	Dan-	2a	Dan-	2cc	Dan-	1%3r	.
@@ -360,7 +360,7 @@
 2D	-ste e i	2F	-ste e i	2f	-ste e i	2a	-ste e i	2dd	-ste e i	2ff	-ste e i
 2BB-	pa-	2F	pa-	2d	pa-	2b-	pa-	2dd	pa-	2ff	pa-
 2C	-sto-	2c	-sto-	2g	-sto-	2g	-sto-	2cc	-sto-	2ee	-sto-
-!!LO:TX:a:t=[whole-dot] &rarr; [whole]
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 2F	-rel-	2c	-rel-	1.f	-rel-	1a	-rel-	2cc	-rel-	2ff	-rel-
