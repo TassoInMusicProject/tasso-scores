@@ -1,0 +1,137 @@
+#!/usr/bin/env perl
+
+use strict;
+
+my $wget = `which wget`; 
+chomp $wget;
+if ($wget =~ /^\s*$/) {
+	die "Cannot find wget tool, install such as 'brew install wget'";
+}
+
+my $dataurl = "https://www.tassomusic.org/data/indexes/all-settings.aton";
+
+my @contents = `wget $dataurl -O -`;
+
+my %SETTINGINFO = getSettingInfo(@contents);
+
+my @files = sort glob("*/kern/*.krn");
+
+foreach my $file (@files) {
+	my $id = $file;
+	$id =~ s/.*\///;
+	$id =~ /^([A-Z][a-z][a-z]\d*[a-z]*)-/;
+	$id = $1;
+print "ID = $id\n";
+	my $entry = $SETTINGINFO{$id};
+	updateSettingDataInFile($file, $entry);
+}
+
+
+exit(0);
+
+
+##############################
+##
+## updateSettingDataInFile --
+##
+
+sub updateSettingDataInFile {
+	my ($file, $entry) = @_;
+	print "Processing $file\n";
+
+	if ($entry =~ /^\s*$/) {
+		die "Entry is empty for $file\n";
+	}
+
+	open (FILE, $file) or die "Cannot read $file\n";
+	my @contents = <FILE>;
+	close FILE;
+
+	my $settingDataStart = -1;
+	my $settingDataEnd = -1;
+
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		chomp $line;
+		if ($line =~ /^!!\@\@BEGIN:\s*SETTING\s*$/) {
+			$settingDataStart = $i;
+			next;
+		}
+		if ($line =~ /^!!\@\@END:\s*SETTING\s*$/) {
+			$settingDataEnd = $i;
+			next;
+		}
+	}
+	
+	my @elines = split(/\n/, $entry);
+	my $eout = "";
+	foreach my $line (@elines) {
+		chomp $line;
+		$eout .= "!!$line\n";
+	}
+
+	open(OFILE, ">$file") or die "Cannot write to $file\n";
+
+	for (my $i=0; $i<@contents; $i++) {
+		my $line = $contents[$i];
+		chomp $line;
+		if ($i == $settingDataStart) {
+			print OFILE $eout;
+			next;
+		}
+		if (($i > $settingDataStart) and ($i <= $settingDataEnd)) {
+			next;
+		}
+		print OFILE $line, "\n";
+	}
+
+	if (($settingDataStart < 0) && ($settingDataEnd < 0)) {
+		print OFILE $eout;
+	}
+
+	close OFILE;
+}
+
+
+
+##############################
+##
+## getSettingInfo --
+##
+
+sub getSettingInfo {
+	my @contents = @_;
+
+	my %output;
+	my $entry = "";
+	my $id = "";
+
+	foreach my $line (@contents) {
+		if ($line =~ /^\@\@BEGIN:\s*SETTING\s*$/) {
+			$entry = $line;
+			$id = "";
+			next;
+		}
+		if ($line =~ /^\@\@END:\s*SETTING\s*$/) {
+			if ($id =~ /^\s*$/) {
+				$entry = "";
+				$id = "";
+				next;
+			}
+			$entry .= $line;
+			$output{$id} = $entry;
+			$entry = "";
+			$id = "";
+			next;
+		}
+		$entry .= $line;
+		if ($line =~ /^\@CATALOGNUM:\s*([^\s]+)\s*$/) {
+			$id = $1;
+		}
+	}
+
+	return %output;
+}
+
+
+
