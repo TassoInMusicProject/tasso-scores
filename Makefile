@@ -394,6 +394,16 @@ census:
 
 
 
+##############################
+##
+## make versedata -- Add verse data to scores.
+##
+
+vd: versedata
+versedata:
+	bin/addVerseData
+
+
 ############################################################################
 ##
 ## Maintenance commands (not useable in general).  Used when new works
