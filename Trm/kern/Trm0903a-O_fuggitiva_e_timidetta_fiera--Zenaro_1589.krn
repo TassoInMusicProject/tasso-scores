@@ -404,3 +404,28 @@
 !!@DEDICATEE_INFO:	(1562-1628)
 !!@COMMENTARY:
 !!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0903a
+!!@RIMETITLE:	O fuggitiva e timidetta fiera
+!!@SOLERTI:	903
+!!@COMPOSER:	Zenaro, Giulio
+!!@PRINCEPSTITLE:	Il primo libro de madrigali a tre voci
+!!@PRINCEPSLOC:	Venetia
+!!@NORMLOC:	Venice
+!!@NORMPUB:	Vincenzi & Amadino
+!!@NORMPUBSHORT:	Vincenzi & Amadino
+!!@PRINCEPSPUB:	Vincenzi
+!!@PRINCEPSYEAR:	1589
+!!@PRINCEPSRISM:	Z 160
+!!@REPRINTS:	
+!!@OVOICES:	3
+!!@EXTANTVOICES:	3
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	G2,C2,C3
+!!@OMENSURATION:	C
+!!@OKEYSIG:	-
+!!@FINAL:	G
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@NOTE:		M19-20 and 26-27, C-T-B, we need to insert a space before the apostrophe in "me'l", Can we do that through Humdrum?
+!!@@END:		SETTING

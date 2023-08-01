@@ -404,6 +404,17 @@ versedata:
 	bin/addVerseData
 
 
+
+##############################
+##
+## make settingdata -- Add setting data to scores.
+##
+
+sd: settingdata
+settingdata:
+	bin/addSettingData
+
+
 ############################################################################
 ##
 ## Maintenance commands (not useable in general).  Used when new works

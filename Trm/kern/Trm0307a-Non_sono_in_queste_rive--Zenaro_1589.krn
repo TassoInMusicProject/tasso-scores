@@ -329,3 +329,28 @@
 !!@DEDICATEE:
 !!@COMMENTARY:
 !!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0307a
+!!@RIMETITLE:	Non sono in queste rive
+!!@SOLERTI:	307
+!!@COMPOSER:	Zenaro, Giulio
+!!@PRINCEPSTITLE:	Il primo libro de madrigali a tre voci
+!!@PRINCEPSLOC:	Venetia
+!!@NORMLOC:	Venice
+!!@NORMPUB:	Vincenzi & Amadino
+!!@NORMPUBSHORT:	Vincenzi & Amadino
+!!@PRINCEPSPUB:	Vincenzi
+!!@PRINCEPSYEAR:	1589
+!!@PRINCEPSRISM:	Z 160
+!!@REPRINTS:	
+!!@OVOICES:	3
+!!@EXTANTVOICES:	3
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	G2,C2,C3
+!!@OMENSURATION:	C
+!!@OKEYSIG:	-
+!!@FINAL:	G
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@NOTE:		M10, C-T-B, "Né'l" should read "Né 'l". We need to insert a space before the apostrophe, which I have not been able to do in Finale. Can it be done through Humdrum?
+!!@@END:		SETTING
