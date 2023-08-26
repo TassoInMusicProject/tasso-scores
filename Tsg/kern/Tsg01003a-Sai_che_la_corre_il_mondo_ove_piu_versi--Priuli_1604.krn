@@ -475,12 +475,12 @@
 !!@LAST_MODIFIED: 2020/07/12
 !!@TITLE:		Sai che là corre il mondo, ove più versi
 !!@CANTO:         I
-!!@OTTAVA:       	3
+!!@OTTAVA:	3
 !!@MANUSRC:	G-Al, G-Au, G-Bm, G-Br<sub>1</sub>, G-Br<sub>2</sub>, G-Cv, G-Es<sub>1</sub>, G-Es<sub>2</sub>, G-Es<sub>3</sub>, G-F, G-Fr, G-Fr<sub>1</sub>, G-Fr<sub>2</sub>, G-Mc, G-Mc<sub>1</sub>, G-Mg, G-Mr, G-Mt, G-N, G-Ol
 !!@PRINTSRC:	G-1580CM, G-1581B, G-1581CV, G-1581R, G-1581MR, G-1581P, G-1581V, G-1581V<sub>bis</sub>, G-1582C, G-1582M, G-1582MC, G-1582P, G-1582SC, G-1582SC<sub>bis</sub>, G-1583S, G-1584O, G-1584S, G-1585C, G-1585S, G-1588S, G-1589S, G-1590B, G-1590S, G-1592S, G-1593S, G-1594C, G-1595C, G-1597C, G-1598C, G-1599C, G-1600C, G-1600S, G-1601C, G-1601R, G-1602C, G-1604C, G-1604Cl, G-1604F, G-1604P, G-1606B, G-1606B<sub>bis</sub>, G-1606L, G-1607ZR, G-1608DP, G-1609GC, G-1610M, G-1611S, G-1611V, G-1612P, G-1613M, G-1613P, G-1613V, G-1615P, G-1616M, G-1617P, G-1619B, G-1619V, G-1620M, G-1620S, G-1621R, G-1624I, G-1624MT, G-1625C, G-1625S, G-1625SS, G-1626C, G-1626Co, G-1627M, G-1628T, G-1628Tu, G-1630L, G-1630T, G-1632FT, G-1639CF, G-1642M, G-1643I, G-1644P, G-1644S
 !!@@BEGIN:	VERSES
-!!@ABOUTIT:	
-!!@ABOUTEN:	
+!!@ABOUTIT:
+!!@ABOUTEN:
 !!@EDITOR:	Angelo Solerti
 !!@EDITION_TITLE: Gerusalemme liberata. Poema eroico di Torquato Tasso. Edizione critica sui manoscritti e le prime stampe.
 !!@EDITION_LOC:	Florence
@@ -490,29 +490,40 @@
 !!@EDITION_PAGE:  36
 !!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
 !!@VERSE:
-!!		Sai che là corre il mondo, ove più versi
-!!		Di sue dolcezze il lusinghier Parnaso;
-!!		E che ’l vero condito in molli versi,
-!!		I più schivi allettando ha persuaso:
-!!		Così a l’egro fanciul porgiamo aspersi
-!!		Di soavi licor gli orli del vaso;
-!!		Succhi amari ingannato intanto ei beve,
-!!		E dall’inganno suo vita riceve.	
+!!	Sai che là corre il mondo, ove più versi
+!!	Di sue dolcezze il lusinghier Parnaso;
+!!	E che ’l vero condito in molli versi,
+!!	I più schivi allettando ha persuaso:
+!!	Così a l’egro fanciul porgiamo aspersi
+!!	Di soavi licor gli orli del vaso;
+!!	Succhi amari ingannato intanto ei beve,
+!!	E dall’inganno suo vita riceve.
+!!@MVERSE_DATE: 20230824
+!!@MVERSE:
+!!	Sai che là cor||re_il mon||do,_o||ve più ver||si	=a++
+!!	Di sue dol|cez||ze_il lu|sin||ghier Par|na||so;		=b
+!!	E che_’l ve|ro con|di||to_in mol||li ver||si,		=a+
+!!	I più schi||vi_al|let|tan||do ha per|sua||so:		=b
+!!	Co|sì_a_l’e||gro fan|ciul|| por|gia||mo_as|per||si	=a
+!!	Di soa||vi li|cor|| gli or||li del va||so;		=b
+!!	Suc||chi_am|ar||i_in|gan|na||to_in|tan||to_ei be||ve,	=c
+!!	E dall’in|gan||no suo vi||ta rice||ve.			=c
+!!
 !!@TVERSE:
-!!You know that the world rushes there, where pours more
-!!Of his sweetnesses the flatterer Parnassus;
-!!And that truth spiced with gentle verses,
-!!Enticing the most timid folk, has persuaded:
-!!Thus for a sickly youth we place drops
-!!Of sweet liquor upon the rim of the vessel;
-!!Bitter juices, tricked for the moment, he drinks,
-!!And from the trick receives his life.
+!!	You know that the world rushes there, where pours more
+!!	Of his sweetnesses the flatterer Parnassus;
+!!	And that truth spiced with gentle verses,
+!!	Enticing the most timid folk, has persuaded:
+!!	Thus for a sickly youth we place drops
+!!	Of sweet liquor upon the rim of the vessel;
+!!	Bitter juices, tricked for the moment, he drinks,
+!!	And from the trick receives his life.
 !!@@END:		VERSES
 !!@OTHER_CRIT_ED:  Torquato Tasso, <i>Gerusalemme liberata</i>, ed. Lanfranco Caretti, 2 vols. (Bari: Laterza, 1967).
-!!@ATTRIBUTION_ABOUT:	
+!!@ATTRIBUTION_ABOUT:
 !!@DATING:	mid-1560s through 1570s
 !!@DEDICATEE:	Duke Alfonso II d'Este
-!!@COMMENTARY:    
+!!@COMMENTARY:
 !!@@END:		VERSEDATA
 !!@@BEGIN: SETTING
 !!@CATALOGNUM:	Tsg01003a

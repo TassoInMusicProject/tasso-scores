@@ -328,15 +328,15 @@
 !!@MANUSRC:	G-Al, G-Am, G-Au, G-Br<sub>1</sub>, G-Br<sub>2</sub>, G-Cv, G-Es<sub>1</sub>, G-Es<sub>2</sub>, G-Es<sub>3</sub>, G-F, G-Fr, G-Fr<sub>1</sub>, G-Fr<sub>2</sub>, G-Mc, G-Mc<sub>1</sub>, G-Mg, G-Mr, G-Mt, G-N, G-Ol
 !!@PRINTSRC:	G-1580CM, G-1581B, G-1581CV, G-1581R, G-1581MR, G-1581P, G-1581V, G-1581V<sub>bis</sub>, G-1582C, G-1582M, G-1582MC, G-1582P, G-1582SC, G-1582SC<sub>bis</sub>, G-1583S, G-1584O, G-1584S, G-1585C, G-1585S, G-1588S, G-1589S, G-1590B, G-1590S, G-1592S, G-1593S, G-1594C, G-1595C, G-1597C, G-1598C, G-1599C, G-1600C, G-1600S, G-1601C, G-1601R, G-1602C, G-1604C, G-1604Cl, G-1604F, G-1604P, G-1606B, G-1606B<sub>bis</sub>, G-1606L, G-1607ZR, G-1608DP, G-1609GC, G-1610M, G-1611S, G-1611V, G-1612P, G-1613M, G-1613P, G-1613V, G-1615P, G-1616M, G-1617P, G-1619B, G-1619V, G-1620M, G-1620S, G-1621R, G-1624I, G-1624MT, G-1625C, G-1625S, G-1625SS, G-1626C, G-1626Co, G-1627M, G-1628T, G-1628Tu, G-1630L, G-1630T, G-1632FT, G-1639CF, G-1642M, G-1643I, G-1644P, G-1644S
 !!@@BEGIN:	VERSES
-!!@ABOUTIT:	
-!!@ABOUTEN:	
+!!@ABOUTIT:
+!!@ABOUTEN:
 !!@EDITOR:	Angelo Solerti
 !!@EDITION_TITLE: Gerusalemme liberata. Poema eroico di Torquato Tasso. Edizione critica sui manoscritti e le prime stampe.
 !!@EDITION_LOC:	Florence
 !!@EDITION_PUB:	G. Barbera
 !!@EDITION_DATE:  1895
-!!@EDITION_VOL:	
-!!@EDITION_PAGE:   
+!!@EDITION_VOL:
+!!@EDITION_PAGE:
 !!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
 !!@VERSE:
 !!	D’un bel pallore ha il bianco volto asperso,
@@ -347,21 +347,31 @@
 !!	Il cavaliero, in vece di parole,
 !!	Gli dà pegno di pace: in questa forma
 !!	Passa la bella donna, e par che dorma.
+!!@MVERSE_DATE: 20230824
+!!@MVERSE:
+!!	D’un bel pal|lo||re_ha_il bian||co vol||to_a|sper||so,		=a
+!!	Co||me_a’ gi||gli sa||ri|an mi||ste vio||le:			=b
+!!	E gli_oc||chi_al Cie||lo_af|fi||sa,_e_in lei con|ver||so	=a
+!!	Sem||bra, per la pie|ta||te,_il Cie||lo_e_’l So||le:		=b
+!!	E la man nu||da_e fred||da_al|zan||do ver||so			=a*
+!!	Il ca|va|lie||ro,_in ve||ce di pa|ro||le,			=b
+!!	Gli dà pe||gno di pa||ce:_in que||sta for||ma			=c	
+!!	Pas||sa la bel||la don||na,_e par che dor||ma.			=c
 !!@TVERSE:
-!!A beautiful paleness her white face passed across,
-!!As amongst lilies might be mixed violets:
-!!And her eyes to Heaven she affixes, and to her changed
-!!Seem, out of compassion, Heaven and the Sun:
-!!And [with] her hand, naked and cold, raising towards
-!!The knight, instead of words,
-!!She gives him token of peace: in this manner
-!!Passes away the beautiful woman, and it seems that she sleeps. 
+!!	A beautiful paleness her white face passed across,
+!!	As amongst lilies might be mixed violets:
+!!	And her eyes to Heaven she affixes, and to her changed
+!!	Seem, out of compassion, Heaven and the Sun:
+!!	And [with] her hand, naked and cold, raising towards
+!!	The knight, instead of words,
+!!	She gives him token of peace: in this manner
+!!	Passes away the beautiful woman, and it seems that she sleeps.
 !!@@END:		VERSES
 !!@OTHER_CRIT_ED:  Torquato Tasso, <i>Gerusalemme liberata</i>, ed. Lanfranco Caretti, 2 vols. (Bari: Laterza, 1967).
-!!@ATTRIBUTION_ABOUT:	
+!!@ATTRIBUTION_ABOUT:
 !!@DATING:	mid-1560s through 1570s
-!!@DEDICATEE:	Duke Alfonso II d'Este	
-!!@COMMENTARY:    
+!!@DEDICATEE:	Duke Alfonso II d'Este
+!!@COMMENTARY:
 !!@@END:		VERSEDATA
 !!@@BEGIN: SETTING
 !!@CATALOGNUM:	Tsg12069a
