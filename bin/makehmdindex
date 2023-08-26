@@ -38,7 +38,7 @@ foreach my $file (@files) {
 	}
 	print "\tY\t.\t$catalog <link>$title";
 	if ($composer) {
-		print "($composer";
+		print " ($composer";
 		if ($year) {
 			print ", $year";
 		}
