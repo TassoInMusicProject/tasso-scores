@@ -309,12 +309,12 @@
 .	.	.	.	.	.	1c	-so A-	.	.
 .	.	.	.	2E-i	-so A-	.	.	.	.
 =38	=38	=38	=38	=38	=38	=38	=38	=38	=38
-0r	.	2A	-re	1D	-mo-	1.d	-mo-	2f#X	-re
+0r	.	2A	-re,	1D	-mo-	1.d	-mo-	2f#X	-re,
 *	*	*pline:9	*pline9ra	*	*	*	*	*pline:9a	*pline:9a
 .	.	2A	La	.	.	.	.	2f#i	La
-.	.	1A	lin-	2D	-re	.	.	1f#i	lin-
+.	.	1A	lin-	2D	-re,	.	.	1f#i	lin-
 *	*	*	*	*pline:9a	*pline:9a	*	*	*	*
-.	.	.	.	2D	La	[2d	-re	.	.
+.	.	.	.	2D	La	[2d	-re,	.	.
 =39	=39	=39	=39	=39	=39	=39	=39	=39	=39
 0r	.	1BnX	-gua,	1G	lin-	2d]	.	1g	-gua,
 *	*	*	*	*	*	*pline:9a	*pline:9a	*	*
@@ -332,18 +332,18 @@
 *	*	*	*	*pline:8	*pline:8	*pline:8	*pline:8	*	*
 2F	-gli,	1A	-mo-	1c	Scio-	1f	<Scio-	2a	.
 2F	pie-	.	.	.	.	.	.	2a	-so A-
-1BB-y	-to-	2F	-re	2B-y	-gli,	2d	-gli,	2.b-y	-mo-
+1BB-y	-to-	2F	-re,	2B-y	-gli,	2d	-gli,	2.b-y	-mo-
 *	*	*pline:9	*pline:9	*	*	*	*	*	*
 .	.	2D	La	2F	pie-	2d	pie-	.	.
 .	.	.	.	.	.	.	.	4a	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42	=42
 1C	-so A-	1G	lin-	2.c	-to-	2.e-X	-to-	1g	.
 .	.	.	.	4c	-so A-	4e-i	-so A-	.	.
-1D	-mo-	1D	-gua,	1A	-mo-	1d	-mo-	2f#X	-re
+1D	-mo-	1D	-gua,	1A	-mo-	1d	-mo-	2f#X	-re,
 *	*	*	*	*	*	*	*	*pline:9	*pline:9
 .	.	.	.	.	.	.	.	2f#i	La
 =43	=43	=43	=43	=43	=43	=43	=43	=43	=43
-2D	-re	1r	.	2A	-re	2d	-re	1f#i	lin-
+2D	-re,	1r	.	2A	-re,	2d	-re,	1f#i	lin-
 *pline:9	*pline:9	*	*	*pline:9ar	*pline:9ar	*pline:9	*pline:9	*	*
 2D	La	.	.	2A	La	2d	La	.	.
 1G	lin-	1d	e	1G	lin-	1BnX	lin-	1g	-gua,
