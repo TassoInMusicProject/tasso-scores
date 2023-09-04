@@ -296,13 +296,13 @@
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35
 *	*	*pline:8	*pline:8	*pline:8	*pline:8	*	*	*	*
 0r	.	1A	Scio-	0F	Scio-	0r	.	1cc]	.
-.	.	2c	-gli	.	.	.	.	2a	-gli
+.	.	2c	-gli,	.	.	.	.	2a	-gli,
 .	.	2c	pie-	.	.	.	.	2a	pie-
 =36	=36	=36	=36	=36	=36	=36	=36	=36	=36
 *	*	*	*	*	*	*pline:8	*pline:8	*	*
-0r	.	2.F	-to-	1D	-gli	1d	Scio-	1b-y	-to-
+0r	.	2.F	-to-	1D	-gli,	1d	Scio-	1b-y	-to-
 .	.	4G	.	.	.	.	.	.	.
-.	.	2A	.	1D	pie-	2f	-gli	1a	-so A-
+.	.	2A	.	1D	pie-	2f	-gli,	1a	-so A-
 .	.	2d	-so A-	.	.	2f	pie-	.	.
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37
 0r	.	0G	-mo-	1.E-X	-to-	1B-y	-to-	0g	-mo-
@@ -322,7 +322,7 @@
 *	*	*pline:8	*pline:8	*	*	*	*	*pline:8	*pline:8
 .	.	1c	Scio-	[1F	-gua,	1f	lin-	1a	Scio-
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40
-1r	.	2A	-gli	1F]	.	1f	-gua,	2cc	-gli
+1r	.	2A	-gli,	1F]	.	1f	-gua,	2cc	-gli,
 .	.	2A	pie-	.	.	.	.	2cc	pie-
 *pline:8	*pline:8	*	*	*	*	*	*	*	*
 1D	Scio-	2B-X	-to-	1r	.	1r	.	2.f	-to-
@@ -330,9 +330,9 @@
 .	.	.	.	.	.	.	.	4g	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41
 *	*	*	*	*pline:8	*pline:8	*pline:8	*pline:8	*	*
-2F	-gli	1A	-mo-	1c	Scio-	1f	<Scio-	2a	.
+2F	-gli,	1A	-mo-	1c	Scio-	1f	<Scio-	2a	.
 2F	pie-	.	.	.	.	.	.	2a	-so A-
-1BB-y	-to-	2F	-re	2B-y	-gli	2d	-gli	2.b-y	-mo-
+1BB-y	-to-	2F	-re	2B-y	-gli,	2d	-gli,	2.b-y	-mo-
 *	*	*pline:9	*pline:9	*	*	*	*	*	*
 .	.	2D	La	2F	pie-	2d	pie-	.	.
 .	.	.	.	.	.	.	.	4a	.
