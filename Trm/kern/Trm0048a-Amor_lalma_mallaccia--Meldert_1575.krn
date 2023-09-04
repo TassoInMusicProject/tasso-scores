@@ -15,6 +15,7 @@
 !!!extant-voices: 5
 !!!complete: Y
 !!!final: F
+!!!verovio: evenNoteSpacing
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -323,7 +324,7 @@
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40
 1r	.	2A	-gli	1F]	.	1f	-gua,	2cc	-gli
 .	.	2A	pie-	.	.	.	.	2cc	pie-
-*	*pline:8	*	*	*	*	*	*	*	*
+*pline:8	*pline:8	*	*	*	*	*	*	*	*
 1D	Scio-	2B-X	-to-	1r	.	1r	.	2.f	-to-
 .	.	2A	-so A-	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	4g	.
@@ -343,7 +344,7 @@
 .	.	.	.	.	.	.	.	2f#i	La
 =43	=43	=43	=43	=43	=43	=43	=43	=43	=43
 2D	-re	1r	.	2A	-re	2d	-re	1f#i	lin-
-*	*pline:9	*	*	*pline:9ar	*pline:9ar	*pline:9	*pline:9	*	*
+*pline:9	*pline:9	*	*	*pline:9ar	*pline:9ar	*pline:9	*pline:9	*	*
 2D	La	.	.	2A	La	2d	La	.	.
 1G	lin-	1d	e	1G	lin-	1BnX	lin-	1g	-gua,
 =44	=44	=44	=44	=44	=44	=44	=44	=44	=44
