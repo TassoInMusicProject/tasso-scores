@@ -1,4 +1,6 @@
+!!!COM: Bonini, Pietro Andrea
 !!!CDT:
+!!!OTL: Amor l'alma m'allaccia
 !!!PTL: Il primo libro de madrigali a cinque voci
 !!!PPP: Venice
 !!!PPR: Angelo Gardano
@@ -13,8 +15,6 @@
 !!!extant-voices: 5
 !!!complete: Y
 !!!final: D
-!!!COM: Bonini, Pietro Andrea
-!!!OTL: Amor l'alma m'allaccia
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
 *staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
@@ -27,15 +27,19 @@
 *omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
 *M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*	*	*pline:1	*pline:1
 0r	.	1r	.	0r	.	0r	.	2a	A-
 .	.	.	.	.	.	.	.	2a	-mor
 .	.	2r	.	.	.	.	.	4g	l'al-
 .	.	.	.	.	.	.	.	2f	-ma
+*	*	*pline:1	*pline:1	*	*	*	*	*	*
 .	.	2d	A-	.	.	.	.	.	.
 .	.	.	.	.	.	.	.	4d	m'al-
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*	*	*	*	*pline:1	*pline:1	*	*
 0r	.	2d	-mor	0r	.	2a	A-	2f	-lac-
 .	.	2c	l'al-	.	.	2a	-mor	4e	-cia,
+*	*	*	*	*	*	*	*	*pline:1b	*pline:1b
 .	.	.	.	.	.	.	.	4e	l'al-
 .	.	4B-X	-ma	.	.	4g	l'al-	4d	-ma
 .	.	4A	m'al-	.	.	2f	-ma	4c	m'al-
@@ -43,12 +47,15 @@
 .	.	.	.	.	.	4d	m'al-	.	.
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 1r	.	2A	-cia	0r	.	2f	-lac-	2d]	.
+*	*	*pline:2	*pline:2	*	*	*	*	*	*
 .	.	1A	Di	.	.	2e	-cia	2c#X	.
+*pline:2	*pline:2	*	*	*	*	*pline:2	*pline:2	*	*
 1D	Di	.	.	.	.	1f#X	Di	1d	-cia
 .	.	[2BnXi	dol-	.	.	.	.	.	.
 =4	=4	=4	=4	=4	=4	=4	=4	=4	=4
 1E	dol-	2B]	.	1r	.	1g#X	dol-	0r	.
 .	.	2c	-c'a-	.	.	.	.	.	.
+*	*	*	*	*pline:2	*pline:2	*	*	*	*
 2F#X	-c'a-	2A	-spre	1d	Di	2a	-c'a-	.	.
 [2G	-spre	2d	ca-	.	.	[2b	-spre	.	.
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5
@@ -61,20 +68,25 @@
 1D]	.	0A	-ne:	2g]	.	1dd]	.	1r	.
 .	.	.	.	2fnXi	ca-	.	.	.	.
 1AA	-ne:	.	.	1e	-te-	1cc#X	-ne:	2r	.
+*	*	*	*	*	*	*	*	*pline:3a	*pline:3a
 .	.	.	.	.	.	.	.	[2a	Né
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7
 0r	.	2r	.	2d	-ne:	1r	.	4a]	.
 .	.	.	.	.	.	.	.	4a	mi
+*	*	*pline:3	*pline:3	*pline:3a	*pline:3a	*	*	*	*
 .	.	2.d	Né	2.f	Né	.	.	2a	do-
 .	.	.	.	.	.	2r	.	2a	-glio io
 .	.	4d	mi	4f	mi	.	.	.	.
+*	*	*	*	*	*	*pline:3	*pline:3	*	*
 .	.	2d	do-	2d	do-	[2a	Né	2f	per
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 2r	.	2c#X	-glio io	2e	-glio io,	4a]	.	2e	ciò,
 .	.	.	.	.	.	4a	mi	.	.
+*pline:3	*pline:3	*	*	*pline:3	*pline:3	*	*	*	*
 2.D	Né	2d	per	2.f	<Né	2a	do-	2r	.
 .	.	[1A	ciò,	.	.	2a	-glio io	2r	.
 4D	mi	.	.	4f	mi	.	.	.	.
+*	*	*	*	*	*	*	*	*pline:3	*pline:3
 2D	do-	.	.	2d	do-	2f	per	[2a	<Né
 =9	=9	=9	=9	=9	=9	=9	=9	=9	=9
 2C#X	-glio io	2A]	.	2e	-glio io>	2e	ciò	4a]	.
@@ -88,7 +100,9 @@
 4C	l'ac-	4G	l'ac-	4cnXi	l'ac-	4cc	l'ac-	.	.
 2F	-cu-	2A	-cu-	2d	-cu-	2a	-cu-	2r	.
 2E	-so	2B	-so	4e	-so	2g#X	-so,	1r	.
+*	*	*	*	*pline:4	*pline:4	*	*	*	*
 .	.	.	.	4.e	Che	.	.	.	.
+*pline:4	*pline:4	*pline:4	*pline:4	*	*	*	*	*	*
 4.A	Che	4.c	Che	.	.	2r	.	.	.
 .	.	.	.	8d	mi	.	.	.	.
 .	.	.	.	4e	le-	.	.	.	.
@@ -100,18 +114,22 @@
 4.A	-fre-	4.c	-fre-	.	.	.	.	.	.
 .	.	.	.	4e	-ne	.	.	2r	.
 8A	-ne	8c	-ne	.	.	.	.	.	.
+*pline:5	*pline:5	*pline:5a	*pline:5a	*pline:5	*pline:5	*	*	*	*
 4F	La	2d	La	4f	La	.	.	.	.
 2E	lin-	.	.	2g	lin-	.	.	4r	.
 .	.	4c	lin-	.	.	.	.	4e	ma
 =12	=12	=12	=12	=12	=12	=12	=12	=12	=12
 2D	-gua	4d	-gua,	2f#X	-gua	4r	.	2.a	ben
+*	*	*pline:3b	*pline:3b	*	*	*pline:3b	*pline:3b	*	*
 .	.	4A	ma	.	.	4a	ma	.	.
 2r	.	4d	ben	2r	.	4f#X	ben	.	.
 .	.	4B	l'ac-	.	.	4g	l'ac-	4b	l'ac-
 1r	.	2A	-cu-	1r	.	2a	-cu-	2cc	-cu-
 .	.	2e	-so	.	.	4g	-so	2b	-so
+*	*	*	*	*	*	*pline:4	*pline:4	*	*
 .	.	.	.	.	.	[4b	Che	.	.
 =13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+*	*	*pline:4	*pline:4	*	*	*	*	*pline:4	*pline:4
 0r	.	4.e	Che	0r	.	8b]	.	4.g	Che
 .	.	.	.	.	.	8a	mi	.	.
 .	.	.	.	.	.	4b	le-	.	.
@@ -122,6 +140,7 @@
 .	.	4.e	-fre-	.	.	.	.	4.g	-fre-
 .	.	.	.	.	.	4b	-ne	.	.
 .	.	8e	-ne	.	.	.	.	8g	-ne
+*	*	*pline:5	*pline:5	*	*	*pline:5	*pline:5	*pline:5	*pline:5
 .	.	4c	La	.	.	4cc	La	[4a	La
 =14	=14	=14	=14	=14	=14	=14	=14	=14	=14
 1r	.	2B	lin-	2r	.	2dd	lin-	4a]	.
@@ -135,6 +154,7 @@
 =15	=15	=15	=15	=15	=15	=15	=15	=15	=15
 2E	tac-	2B	tac-	2.e	-cia	0r	.	2g#i	tac-
 4E	-cia	4B	-cia	.	.	.	.	4g#i	-cia
+*pline:6	*pline:6	*pline:6	*pline:6	*pline:6	*pline:6	*	*	*pline:6	*pline:6
 4E	An-	4B	An-	4e	An-	.	.	4g#i	An-
 4D	-zi a	4d	-zi a	4f	-zi a	.	.	4a	-zi a
 4C	Ma-	4e	Ma-	4g	Ma-	.	.	4cc	Ma-
@@ -153,12 +173,14 @@
 2E	-so	2G#i	-so,	2B	-so,	4r	.	.	.
 .	.	.	.	.	.	4e	ac-	.	.
 1r	.	4r	.	4r	.	4e	-ciò	4r	.
+*	*	*pline:5b	*pline:5b	*pline:5b	*pline:5b	*	*	*pline:5b	*pline:5n
 .	.	4A	ac-	4c#X	ac-	4e	ch'io	4a	ac-
 .	.	4A	-ciò	4c#i	-ciò	2e	tac-	4a	-ciò
 .	.	4A	ch'io	4c#i	ch'io	.	.	4a	ch'io
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18
 0r	.	2A	tac-	2c#i	tac-	2.e	-cia	2a	tac-
 .	.	4A	-cia	4c#i	-cia	.	.	4a	-cia
+*	*	*pline:6	*pline:6	*pline:6a	*pline:6a	*pline:6	*pline:6	*pline:6	*pline:6
 .	.	4A	An-	4c#i	An-	4e	An-	4a	An-
 .	.	4GnXi	-zi à	4d	-zi à	4g	-zi à	4b	-zi à
 .	.	4F	Ma-	4f	Ma-	4a	Ma-	4cc	Ma-
@@ -175,10 +197,13 @@
 =20	=20	=20	=20	=20	=20	=20	=20	=20	=20
 0r	.	2A	-fu-	2r	.	2e	-fu-	2c#X	-fu-
 .	.	2A	-so	4r	.	2e	-so	2c#i	-so
+*	*	*	*	*pline:7	*pline:7	*	*	*	*
 .	.	.	.	4a	E in	.	.	.	.
 .	.	4r	.	4g	mia	4r	.	2r	.
+*	*	*pline:7	*pline:7	*	*	*pline:7	*pline:7	*	*
 .	.	4A	E in	4f	rag-	4a	E in	.	.
 .	.	4c	mia	4e	-gion	4g	mia	4r	.
+*	*	*	*	*	*	*	*	*pline:7	*pline:7
 .	.	4d	rag-	4d	de-	4f	rag-	4a	E in
 =21	=21	=21	=21	=21	=21	=21	=21	=21	=21
 1r	.	4G	-gion	2b	-lu-	4e	-gion	4g	mia
@@ -189,12 +214,15 @@
 2r	.	4G	.	4g	.	.	.	2e	-lu-
 .	.	4A	.	4e	.	4c#X	.	.	.
 4r	.	2D	-so,	4d	-so,	2d	-so,	2f#X	-so,
+*pline:7	*pline:7	*	*	*pline:7	*pline:7	*	*	*	*
 4D	E in	.	.	4A	E in	.	.	.	.
 =22	=22	=22	=22	=22	=22	=22	=22	=22	=22
 4C	mia	4r	.	4c	mia	4r	.	2r	.
+*	*	*pline:7a	*pline:7a	*	*	*pline:7r	*pline:7r	*	*
 4BB	rag-	4D	E in	4d	rag-	4dd	E in	.	.
 4AA	-gion	4A	mia	8eL	-gion	4ccnXi	mia	4r	.
 .	.	.	.	8f	.	.	.	.	.
+*	*	*	*	*	*	*	*	*pline:7r	*pline:7r
 4GG	de-	4B	rag-	8g	.	4b	rag-	4dd	<E in
 .	.	.	.	8fJ	.	.	.	.	.
 4AA	-lu-	2c	-gion	4e	.	4a	-gion	4cc	mia
@@ -208,8 +236,10 @@
 4GG	.	.	.	.	.	4b-i	.	4g	.
 4AA	.	.	.	4c#X	.	4a	.	4e	.
 1D	-so.	.	.	1d	-so.	1a	-so.	1f#X	-so.>
-=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+=24	=24	=24	=24p	=24	=24	=24	=24	=24	=24
+*	*	*pline:8	*pline:8	*	*	*	*	*	*
 1r	.	1B	Scio-	1r	.	1r	.	1r	.
+*pline:8	*pline:8	*	*	*pline:8	*pline:8	*pline:8	*pline:8	*pline:8	*pline:8
 1E	Scio-	2.B	-gli,	1e	Scio-	1bnXi	Scio-	1g#X	Scio-
 .	.	4B	pie-	.	.	.	.	.	.
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
@@ -221,8 +251,10 @@
 .	.	[4E	-re,	.	.	.	.	.	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
 2AA	-mo-	4E]	.	2e	-mo-	2cc	-mo-	2a	-mo-
+*	*	*pline:9	*pline:9	*	*	*	*	*	*
 .	.	4E	La	.	.	.	.	.	.
 4AA	-re,	2E	lin-	4A	-re,	4cc	-re,	4a	-re,
+*pline:9	*pline:9	*	*	*pline:9	*pline:9	*pline:9a	*pline:9a	*pline:9	*pline:9
 4GG#X	La	.	.	4e	La	4b	La	4b	La
 2AA	lin-	1E	-gua	2e	lin-	2a	lin-	2cc	lin-
 2EE	-gua	.	.	2e	-gua	2g#X	-gua	2b	-gua
@@ -233,11 +265,14 @@
 4D	non	4d	non	4f#X	non	.	.	4a	non
 2GnXi	vuo-	2d	vuo-	2g	vuo-	.	.	2.b	vuo-
 4G	-i	4d	-i	2g	-i	.	.	.	.
+*pline:10	*pline:10	*pline:10	*pline:10	*	*	*	*	*	*
 [4C	Che	[4e	Che	.	.	.	.	4cc	-i
 =28	=28	=28	=28	=28	=28	=28	=28	=28	=28
 4C]	.	4e]	.	2r	.	4r	.	2r	.
+*	*	*	*	*	*	*pline:10	*pline:10	*	*
 4D	mi	4d	mi	.	.	2a	Che	.	.
 2E	strin-	2c	strin-	4r	.	.	.	4r	.
+*	*	*	*	*pline:10	*pline:10	*	*	*pline:10	*pline:10
 .	.	.	.	2c	Che	4g	mi	2ee	Che
 4F	-g'un	4A	-g'un	.	.	2f	strin-	.	.
 4D	sol	4B	sol	4d	mi	.	.	4dd	mi
@@ -250,61 +285,77 @@
 4AA	-ci	4A	-i,	.	.	4f	-ci	4cc	de'
 .	.	.	.	8a	de'	.	.	.	.
 2BB-X	tuo-	4r	.	4d	lac-	4f	tuo-	4f	lac-
+*	*	*pline:11	*pline:11	*	*	*	*	*	*
 .	.	2d	Tan-	4d	-ci	4d	-i,	4g	-ci
 4AA	-i,	.	.	4f	tuo-	2r	.	2a	tuo-
+*pline:11	*pline:11	*	*	*	*	*	*	*	*
 [4A	Tan-	[4c	-ti	4e	-i,	.	.	.	.
 =30	=30	=30	=30	=30	=30	=30	=30	=30	=30
 4A]	.	4c]	.	1r	.	2r	.	2e	-i,
 2G	-ti	4B	n'ag-	.	.	.	.	.	.
 .	.	4A	-giun-	.	.	4r	.	2r	.
+*	*	*	*	*	*	*pline:11a	*pline:11a	*	*
 4F	n'ag-	4A	-gi in	.	.	2a	Tan-	.	.
 4E	-giun-	4c	quel-	2r	.	.	.	1r	.
 4E	-gi in	4B	-la	.	.	2g	-ti	.	.
 4C	quel-	4e	ve-	4r	.	.	.	.	.
+*	*	*	*	*pline:11a	*pline:11a	*	*	*	*
 4D	-la	8dL	.	[4a	Tan-	4f	n'ag-	.	.
 .	.	8cJ	.	.	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31	=31
 4E	ve-	4B	.	4a]	.	2e	-giun-	2r	.
 4C	-ce al	4c	-ce al	2g	-ti	.	.	.	.
 2D	co-	2A	co-	.	.	2d	-gi,	4r	.
+*	*	*	*	*	*	*	*	*pline:11	*pline:11
 .	.	.	.	4f	n'ag-	.	.	2dd	Tan-
 2AA	-re,	4A	-re,	4e	-giun-	4r	.	.	.
+*	*	*pline:11b	*pline:11b	*	*	*pline:11	*pline:11	*	*
 .	.	4A	in	4e	-gi,	2a	<Tan-	2cc	-ti
 2r	.	4F	quel-	4r	.	.	.	.	.
+*	*	*	*	*pline:11a	*pline:11a	*	*	*	*
 .	.	4G	-la	[4d	<Tan-	[4g	-ti	4b	n'ag-
 =32	=32	=32	=32	=32	=32	=32	=32	=32	=32
 4r	.	4.A	ve-	4d]	.	4g]	.	4a	-giun-
+*pline:11r	*pline:11r	*	*	*	*	*	*	*	*
 2A	<Tan-	.	.	2c	-ti	4f	n'ag-	4cc	-gi in
 .	.	8B	.	.	.	.	.	.	.
 .	.	8cL	.	.	.	4e	-giun-	4a	quel-
 .	.	8AJ	.	.	.	.	.	.	.
 2G	-ti	4e	.	4B	n'ag-	4e	-gi> in	4b	-la
 .	.	4e	-ce,	4A	-giun-	4c	quel-	4cc	ve-
+*	*	*pline:11br	*pline:11br	*	*	*	*	*	*
 4F	n'ag-	4d	in	4A	-gi,>	4d	-la	2a	-ce al
 4E	-giun-	4c	quel-	2r	.	[2e	ve-	.	.
 4E	-gi in	4B	-la	.	.	.	.	4g#X	co-
 =33	=33	=33	=33	=33	=33	=33	=33	=33	=33
 4C	quel-	4e	ve-	4r	.	4e]	.	2a	-re,
+*	*	*	*	*pline:11	*pline:11	*	*	*	*
 4D	-la	8dL	.	2a	Tan-	4f	-ce al	.	.
 .	.	8cJ	.	.	.	.	.	.	.
 4E	ve-	4B	.	.	.	2e	co-	2r	.
 4C	-ce al	4c	-ce al	2g	-ti	.	.	.	.
 2D	co-	2A	co-	.	.	2d	-re,	4r	.
+*	*	*	*	*	*	*	*	*pline:11	*pline:11
 .	.	.	.	4f	n'ag-	.	.	2dd	Tan-
 4AA	-re,>	4A	-re,	4e	-giun-	2r	.	.	.
+*pline:11r	*pline:11r	*pline:11c	*pline:11c	*	*	*	*	*	*
 [4A	Tan-	4c	in	4e	-gi in	.	.	[4cc	-ti
 =34	=34	=34	=34	=34	=34	=34	=34	=34	=34
 4A]	.	4A	quel-	4c	quel-	2r	.	4cc]	.
 2G	-ti	4B	-la	4d	-la	.	.	4b	n'ag-
 .	.	4c	ve-	4e	ve-	4r	.	4a	-giun-
+*	*	*	*	*	*	*pline:11	*pline:11	*	*
 4F	n'ag-	4A	-ce,	4d	-ce al	2a	Tan-	4a	-gi in
 4E	-giun-	4r	.	2e	co-	.	.	4cc	quel-
+*	*	*pline:11c	*pline:11c	*	*	*	*	*	*
 4E	-gi in	4G	<in	.	.	2g	-ti	4b	-la
 4C	quel-	4E	quel-	4e	-re,	.	.	4cc	ve-
+*	*	*	*	*pline:11b	*pline:11b	*	*	*	*
 4D	-la	4F	-la	4d	in	4f	n'ag-	8b	-ce al
 .	.	.	.	.	.	.	.	8a	co-
 =35	=35	=35	=35	=35	=35	=35	=35	=35	=35
 4E	ve-	4G	ve-	4B	quel-	4e	-giun-	4g	-re,
+*	*	*pline:11br	*pline:11br	*	*	*	*	*pline:11b	*pline:11b
 4C	-ce al	4c	-ce,> in	4e	-la	4e	-gi in	4a	in
 4D	co-	4A	quel-	4d	ve-	4f	quel-	4f	quel-
 8CL	.	4B	-la	4d	-ce	4d	-la	4g	-la
