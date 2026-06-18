@@ -38,7 +38,7 @@
 =3	=3	=3	=3	=3	=3	=3	=3	=3	=3
 2F	-le oc-	2c	-le oc-	2f	-le oc-	1.a	-le oc-	2cc	-le oc-
 2F	-chi e	2A	-chi e	2f	-chi e	.	.	2cc	-chi e
-1D	gi-	2.A	gi-	1f	gi-	.	.	4dd	gi-
+1D	gi-	2.A	gi-	1f	gi-	.	.	4dd	muo-
 .	.	.	.	.	.	.	.	4ee	.
 .	.	.	.	.	.	2d	-chi e	4ff	.
 .	.	4B	.	.	.	.	.	4dd	.
@@ -57,7 +57,7 @@
 .	.	.	.	.	.	.	.	8ccJ	.
 .	.	4d	mil-	2f	-chi ad	2a	-chi ad	2dd	.
 .	.	4d	-le o-	.	.	.	.	.	.
-2A	E	2c	-rec-	2e	o-	2a	o-	1ee	-ro,
+2A	E	2c	-rec-	2e	o-	2a	o-	1ee	-io,
 4A	mil-	2A	-chi ad	2c	-gni	2e	-gni	.	.
 4A	-le o-	.	.	.	.	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6
@@ -202,15 +202,15 @@
 =25	=25	=25	=25	=25	=25	=25	=25	=25	=25
 2E	-so,	0r	.	4e]	.	2g#X	-pre un	2b	-pre un
 .	.	.	.	4e	-so	.	.	.	.
-2.A	S'a-	.	.	2e	co-	4.a	ri-	4.cc	ri-
+2.A	S'a-	.	.	2e	co-	4.a	ri-	4.cc#i	ri-
 .	.	.	.	.	.	8g#i	.	8b	.
-.	.	.	.	4e	-stei,	4a	.	4cc	.
-4G	-pre un	.	.	4g	un	4b	.	4dd	.
+.	.	.	.	4e	-stei,	4a	.	4cc#i	.
+4G	-pre un	.	.	4g	un	4b	.	4dd#i	.
 2c	ri-	.	.	[2g	ri-	2cc	.	2ee	.
 =26	=26	=26	=26	=26	=26	=26	=26	=26	=26
-2G	-so	1r	.	4g]	.	2b	-so	2dd	-so
+2G	-so	1r	.	4g]	.	2b	-so	2dd#i	-so
 .	.	.	.	4f	-so	.	.	.	.
-2A	co-	.	.	2e	co-	2a	co-	2cc	co-
+2A	co-	.	.	2e	co-	2a	co-	2cc#i	co-
 2.E	-stei,	2r	.	2e	-stei,	1g#X	-stei,	1b	-stei,
 .	.	2B	s'in	2r	.	.	.	.	.
 4E	s'in	.	.	.	.	.	.	.	.
@@ -392,9 +392,9 @@
 .	.	2B	-da>	2G	-mo	.	.	4r	.
 .	.	.	.	.	.	.	.	4ee	e
 =51	=51	=51	=51	=51	=51	=51	=51	=51	=51
-1F	go-	0r	.	2.A	ch'al-	2r	.	4cc	che
+1F	go-	0r	.	2.A	ch'al-	2r	.	4cc#	che
 .	.	.	.	.	.	.	.	4a	m'in-
-.	.	.	.	.	.	2a	e	1cc	-vo-
+.	.	.	.	.	.	2a	e	1cc#i	-vo-
 .	.	.	.	4A	-tri	.	.	.	.
 1E	-da	.	.	1e	ne	4g	che	.	.
 .	.	.	.	.	.	4e	m'in-	.	.
@@ -604,7 +604,6 @@
 !!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
 *M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*	*M3/1	*
 *omet()	*	*omet()	*	*omet()	*	*omet()	*	*omet()	*
-*col	*	*col	*	*col	*	*col	*	*col	*
 0D	Ne	1d	Ne	0f	Ne	0a	Ne	0dd	Ne
 .	.	0A	le	.	.	.	.	.	.
 1AA	le	.	.	1e	le	1a	le	1cc	le
