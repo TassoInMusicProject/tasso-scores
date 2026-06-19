@@ -23,7 +23,7 @@
 *omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*	*omet(C|)	*
 *M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*	*M2/1	*
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
-0r	.	0r	.	0r	.	0r	.	0r	.	1.a	Scu-
+0r	.	0r	.	0r	.	0r	.	0r	.	1.a	Chia-
 .	.	.	.	.	.	.	.	.	.	2a	-ro
 =2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
 0r	.	0r	.	0r	.	1.e	Chia-	0r	.	2ee	Sol,
@@ -43,21 +43,21 @@
 .	.	.	.	.	.	.	.	.	.	4b	-sci
 .	.	2B	ro-	2E	-ro	.	.	.	.	2g#X	del
 =5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
-1.AA	Chia-	2.c	-tan-	2A	Sol,	2e	-do	0r	.	2.a	Ni-
+1.AA	Chia-	2.c	-tan-	2A	Sol,	2e	-do	0r	.	2.a	Gan-
 .	.	.	.	1E	che	2.e	e-	.	.	.	.
 .	.	4B	.	.	.	.	.	.	.	4b	.
 .	.	1A	.	.	.	.	.	.	.	1cc	.
 .	.	.	.	.	.	4e	-sci	.	.	.	.
 2AA	-ro	.	.	2E	ro-	2c	del	.	.	.	.
 =6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
-1E	Sol,	2B	-do	2.G	-tan-	2.e	Gan-	0r	.	2b	-lo,
+1E	Sol,	2B	-do	2.G	-tan-	2.e	Gan-	0r	.	2b	-ge,
 .	.	2.B	e-	.	.	.	.	.	.	2.ee	e-
 .	.	.	.	4F	.	4f	.	.	.	.	.
 1r	.	.	.	1E	.	2g	.	.	.	.	.
 .	.	4B	-sci	.	.	.	.	.	.	4ee	-sci
 .	.	2G#X	del	.	.	[2e	-ge,	.	.	2b	del
 =7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
-1.AA	Chia-	2.A	Gan-	2E	-do	2e]	.	2r	.	2.cc	Ni-
+1.AA	Chia-	2.A	Gan-	2E	-do	2e]	.	2r	.	2.cc	Gan-
 .	.	.	.	2.e	e-	2.c	e-	2.a	e-	.	.
 .	.	4B	.	.	.	.	.	.	.	4dd	.
 .	.	2.c	.	.	.	.	.	.	.	[1ee	.
@@ -68,7 +68,7 @@
 =8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
 2E	Sol,	4G	.	2.B	Gan-	2.B	Gan-	2.g	Gan-	2ee]	.
 .	.	4A	.	.	.	.	.	.	.	.	.
-1BB	che	2.B	.	.	.	.	.	.	.	2dd	-lo,
+1BB	che	2.B	.	.	.	.	.	.	.	2dd	-ge,
 .	.	.	.	4c	.	4A	.	4a	.	.	.
 .	.	.	.	1d	.	1G	.	2.b	.	1r	.
 .	.	4c	.	.	.	.	.	.	.	.	.
@@ -138,10 +138,10 @@
 4E	-ta	.	.	.	.	4e	-ta	4b	-ta	4g#X	-ta
 2A	co-	2c	-ro-	.	.	2e	co-	2cc	co-	2a	co-
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
-2.G	-ro-	2B	-na	0r	.	2.g	-ro-	2.dd	-ro-	2.b-	-ro-
+2.G	-ro-	2B	-na	0r	.	2.g	-ro-	2.dd	-ro-	2.b	-ro-
 .	.	2r	.	.	.	.	.	.	.	.	.
 4C	-na	.	.	.	.	4g	-na	4ee	-na	4cc	-na
-2G	di	2r	.	.	.	2g	di	2dd	di	2b#	di
+2G	di	2r	.	.	.	2g	di	2dd	di	2b	di
 2A	bei	4r	.	.	.	2e	bei	2cc#X	bei	2a	bei
 .	.	[4A	di	.	.	.	.	.	.	.	.
 =18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
@@ -173,13 +173,11 @@
 1E	-te,	.	.	.	.	1e	-te	2r	.	2cc	.
 .	.	.	.	2G#X	do-	.	.	2ee	hor	2b	-te,
 =23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
-*	*	*	*	*	*	*	*	*	*	*lig	*
 1r	.	2r	.	2.A	-len-	4r	.	2.cc	con	1ee	Pian-
 .	.	.	.	.	.	4e	hor	.	.	.	.
 .	.	1A	Pian-	.	.	2.c	con	.	.	.	.
 .	.	.	.	4B	.	.	.	4dd	Ma-	.	.
 2r	.	.	.	2c	.	.	.	1ee	-ria	1e	-gi
-*	*	*	*	*	*	*	*	*	*	*Xlig	*
 .	.	.	.	.	.	4d	Ma-	.	.	.	.
 [2E	Pian-	[2G#X	-gi	2B	-te	[2e	-ria	.	.	.	.
 =24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
@@ -289,12 +287,12 @@
 .	.	4f	-ra ed	.	.	.	.	.	.	.	.
 .	.	1e	an-	.	.	.	.	4cc	-ra ed	2a	O
 .	.	.	.	4c	-ra ed	.	.	2a	an-	.	.
-1E	O	.	.	1B	an-	.	.	.	.	1ee	So-
+1E	O	.	.	1B	an-	.	.	.	.	1ee	Lu-
 .	.	.	.	.	.	.	.	8g#XL	.	.	.
 .	.	.	.	.	.	.	.	8f#XJ	.	.	.
 .	.	2e	-ge,	.	.	.	.	2g#X	.	.	.
 =40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
-1A	Lu-	2r	.	1A	-ge,	1c	O	1a	-ge,	2ee	-le,
+1A	Lu-	2r	.	1A	-ge,	1c	O	1a	-ge,	2ee	-na,
 .	.	4.c	cin-	.	.	.	.	.	.	4.ee	cin-
 .	.	8c	-ta	.	.	.	.	.	.	8ee	-ta
 1A	-na,	4c	di	1r	.	1e	Lu-	1a	O	4ee	di
